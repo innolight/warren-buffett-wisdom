@@ -10,6 +10,30 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-05-24] refactor | scope-and-focus simplification
+
+Applied the new "Scope and focus" filter from CLAUDE.md (canonical entities / shaping people / timeless concepts) to the existing wiki. Ruthless deletion of out-of-scope pages.
+
+**Deleted (12 pages):**
+- Concepts: `social-inflation` (narrow industry term; folded into `float`)
+- Entities: `interpublic`, `kaiser-aluminum` (1977 portfolio listings, no enduring lesson), `cypress-insurance` (small 1977 acquisition; folded into `national-indemnity`), `illinois-national-bank` (real history but not canonical; folded as a paragraph into `berkshire-hathaway`)
+- People: `chuck-huggins`, `gene-abegg`, `george-young`, `john-ringwalt`, `ken-chace`, `louis-vincenti`, `phil-liesche` — operational managers, not shapers of investment philosophy. Each retained as a plain-text mention on the relevant entity/source page.
+
+**Reframed for timelessness (3 pages):**
+- `bonds-and-inflation` — leads with the general principle (fixing a price in one direction while costs move in the other destroys value); 1979 insurance contradiction repositioned as the case-study illustration
+- `investor-misery-index` — leads with the general principle (real return = nominal − inflation − tax); 1979 numbers moved into a "case Buffett built it around" section
+- `institutional-imperative` — restructured from "Three forms in the 1970s letters" into a timeless definition + three failure-mode patterns + period evidence
+
+**Updated for fold-ins and link cleanup:**
+- `entities/berkshire-hathaway.md` — Illinois National Bank folded into history; operating-unit detail compressed; year-specific managers de-linked
+- `entities/national-indemnity.md` — Cypress fold-in; manager mentions converted to plain text
+- `entities/sees-candies.md`, `entities/wesco-financial.md` — manager links converted to plain text
+- `concepts/float.md` — new "What pressures the cost of float" section absorbing the social-inflation insight
+- `sources/berkshire-1977-letter.md` — deleted-page wikilinks converted to plain-text mentions (the source page remains the chronicle home for year-specific names and figures)
+- `index.md` — rebuilt to remove deleted entries and refresh summaries
+
+**Net change:** 30 → 18 substantive pages. Wiki now reads as distilled timeless reference, not a chronicle.
+
 ## [2026-05-24] ingest | berkshire-1978-letter + berkshire-1979-letter
 
 Focus: concepts only; entities and people skipped per user direction.

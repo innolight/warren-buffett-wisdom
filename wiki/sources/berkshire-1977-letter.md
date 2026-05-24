@@ -27,34 +27,21 @@ Buffett's first letter under the modern conversational format. Operating earning
 ## Entities discussed
 
 - [[berkshire-hathaway]] — the parent; ROE-as-yardstick framing originates here
-- [[national-indemnity]] — the insurance flagship; outstanding 1977 underwriting under [[phil-liesche]]
+- [[national-indemnity]] — the insurance flagship; outstanding 1977 underwriting under chief underwriter Phil Liesche
 - [[blue-chip-stamps]] — 36.5% owned; conduit for See's and Wesco
 - [[sees-candies]] — pre-tax operating earnings $4.2M (1972) → $12.6M (1977) on little additional capital
 - [[wesco-financial]] — 80%-owned subsidiary of Blue Chip
-- [[illinois-national-bank]] — earnings on assets ~3x most large banks; $20M dividends paid since 1969 purchase
-- [[cypress-insurance]] — Worker's Comp insurer acquired for cash at yearend 1977
 - [[geico]] — major holding via convertible preferred ($19.4M cost / $33M market) plus common ($4.1M / $10.5M)
 - [[capital-cities]] — $10.9M position established in 1977; eight years before the ABC deal
 - [[washington-post]] — $10.6M cost / $33.4M market — already the largest unrealized gain in the portfolio
-- [[interpublic]] — $4.5M cost / $17.2M market
-- [[kaiser-aluminum]] — $11.2M cost / $10.0M market
 
-Homestate insurance group (Cornhusker Casualty, Lakeland Fire and Casualty, Texas United, Insurance Company of Iowa, Kansas Fire and Casualty) noted but not yet separately paged.
+Other 1977 portfolio listings and operating units (Interpublic, Kaiser Aluminum, Cypress Insurance, Illinois National Bank, the five homestate insurers) noted in the letter but not given standalone pages — they didn't carry an enduring lesson beyond the period.
 
 ## People mentioned
 
 - [[warren-buffett]] — Chairman; author
-- [[phil-liesche]] — National Indemnity underwriting; credited with "extraordinary" 1977 results
-- [[ken-chace]] — textile operations; capital from textiles funded the insurance acquisition
-- [[gene-abegg]] — founded Illinois National Bank in 1931 with $250,000; still running it at 80
-- [[chuck-huggins]] — See's Candies president
-- [[louis-vincenti]] — Wesco Financial
-- [[john-ringwalt]] — homestate insurance operation
-- [[george-young]] — reinsurance department
-- John Seward — Home and Automobile Insurance ("battlefield promotion")
-- Milt Thornton — Cypress Insurance, since 1968
-- Peter Jeffrey — incoming President/CEO of Illinois National Bank
-- Roland Miller (underwriting), Bill Lyons (claims), Floyd Taylor (Kansas Fire), Jim Stodolka (Lakeland)
+
+Operational managers credited in the letter (no standalone pages — folded into the relevant entity context above): Phil Liesche (National Indemnity underwriting, "extraordinary" 1977 results), Ken Chace (textile operations; the capital bridge to insurance), Gene Abegg (founder/chairman of Illinois National Bank, still running it at 80), Chuck Huggins (See's president), Louis Vincenti (Wesco), John Ringwalt (homestate insurance), George Young (reinsurance), John Seward (Home & Automobile), Milt Thornton (Cypress), Peter Jeffrey (incoming Illinois National Bank CEO), Roland Miller, Bill Lyons, Floyd Taylor, Jim Stodolka.
 
 ## Concepts introduced or discussed
 
@@ -62,9 +49,10 @@ Homestate insurance group (Cornhusker Casualty, Lakeland Fire and Casualty, Texa
 - [[acquisition-criteria]] — the four-point test, applied to marketable equities
 - [[tailwinds-vs-headwinds]] — textiles vs. insurance, framed explicitly as a lesson learned and re-learned
 - [[float]] — premium-derived investable funds; reinsurance generates "unusually high funds for investment as a percentage of premium volume"
-- [[social-inflation]] — "a broadening definition by society and juries of what is covered by insurance policies"; named explicitly
 - [[institutional-imperative]] — in nascent form, via "accepting reduced volume … runs counter to normal institutional behavior"
 - [[look-through-earnings]] — foreshadowed via Capital Cities
+
+The letter also names "social inflation" — "a broadening definition by society and juries of what is covered by insurance policies." Folded into [[float]] as one of the forces that pressures the cost of float upward.
 
 ## Notable quotes
 

@@ -26,7 +26,16 @@ It is the engine that converts a well-run insurance underwriter into a long-dura
 - [[berkshire-1978-letter]] — float continues to compound. Insurance equity investments at cost $129.1M / market $216.5M at yearend 1978. Over three years (1975–1978), Berkshire realized and unrealized pre-tax equity gains totaled ~$112M — largely float-funded. The period is described as "a marvelous period for the value-oriented equity buyer."
 - [[berkshire-1979-letter]] — insurance equity portfolio grows to $185.4M cost / $336.7M market. Buffett notes that "retained earnings applicable to our insurance equity investments, not reported in our financial statements, continue to mount annually and, in aggregate, now come to a very substantial number." Float-funded retained earnings in investee companies are now a second layer of compounding beyond the float itself.
 
+## What pressures the cost of float
+
+Float is not free in the long run. Two forces work to raise it:
+
+- **Monetary inflation** — claims (medical, property repair, replacement) inflate with general prices, while premiums are set in advance.
+- **"Social inflation"** — Buffett's term for the broadening, by juries and society, of what an insurance policy is interpreted to cover. Independent of CPI; harder to price.
+
+Unless premium rates rise as fast as both forces combined, underwriting profitability shrinks and the float that once was free starts to carry a positive cost.
+
 ## Related
 
 - [[tailwinds-vs-headwinds]] — insurance, done well, is the canonical tailwind business
-- [[social-inflation]] — one of the forces that pressures the cost of float upward
+- [[institutional-imperative]] — the industry's collective failure to price soft markets honestly is what makes the cost of float move

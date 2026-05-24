@@ -319,16 +319,18 @@ When `/ingest <path>` is invoked, or the user otherwise asks you to process a ra
 
 1. **Read the source in full.** Don't skim. For long PDFs, read all pages.
 2. **Identify metadata:** author, year, document type, date if applicable.
-3. **Discuss takeaways with the user before writing.** A 2–3 paragraph summary covering: main themes, notable entities/people/concepts, anything surprising or contradicting earlier sources. Then wait for the user's direction — they may want to emphasize or skip certain angles.
-4. **Create the source page** at `wiki/sources/<slug>.md` using the source template.
-5. **For each entity, person, concept identified:**
-   - If a page exists: update it — add this source to the `sources:` frontmatter list, append a line under "Sources discussing this …", refine or add to the body where the new source contributes something.
-   - If no page exists: create a new page using the appropriate template. New pages start as `draft` (or `stub` if you only have a name and no real content yet).
-6. **Update `wiki/index.md`:** add entries for new pages, update summaries where the page's role has shifted.
-7. **Append a log entry** to `wiki/log.md` summarizing what was created/updated.
-8. **Report back to the user:** what was created, what was updated, what's open (e.g. "GEICO page is currently a stub — flesh out as we ingest later letters").
+3. **Filter against the scope axes** (section 1.1 above). For each candidate entity/person/concept, ask: is this a canonical entity, a shaping person, or a timeless concept? If none of the three, do not create a page — at most mention it on the source page.
+4. **Discuss takeaways with the user before writing.** A 2–3 paragraph summary covering: the timeless wisdom on offer, which canonical entities/shaping people/durable concepts this source meaningfully advances, anything surprising or contradicting earlier sources. Explicitly call out what you're choosing **not** to create pages for, and why. Then wait for the user's direction.
+5. **Create the source page** at `wiki/sources/<slug>.md` using the source template. The source page is the right home for year-specific detail, figures, and chronology.
+6. **For each in-scope entity, person, concept:**
+   - If a page exists: update it — add this source to the `sources:` frontmatter list, append a line under "Sources discussing this …", and refine the body **only where the new source adds durable insight** (a sharper articulation of the moat, a clarifying anecdote, a revised principle). Resist padding pages with year-by-year recaps; that's what the source page is for.
+   - If no page exists and the item clears the scope filter: create a new page using the appropriate template, starting as `draft`. Aim for a page that would still be useful in 20 years, not a chronicle of one letter's mentions.
+   - Prefer `stub` status sparingly — only when you're confident the item is canonical/shaping/timeless but you don't have enough material yet. Don't stub items that merely *might* matter later.
+7. **Update `wiki/index.md`:** add entries for new pages, update summaries where the page's role has shifted.
+8. **Append a log entry** to `wiki/log.md` summarizing what was created/updated — and what was deliberately skipped, so the editorial decisions are auditable.
+9. **Report back to the user:** what was created, what was updated, what was deliberately skipped, what's open (e.g. "GEICO page is currently a stub — flesh out as we ingest later letters").
 
-A single source typically touches 5–15 wiki pages. Don't be afraid to create stubs for concepts mentioned in passing — better to have a stub that later letters can flesh out than to lose the thread.
+A single source typically touches **3–8 wiki pages under this filter**, not 5–15. Discipline over completeness: the wiki's value is in what it leaves out.
 
 ### Query
 

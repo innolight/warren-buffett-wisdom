@@ -14,41 +14,29 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 
 ## Entities
 
-- [[berkshire-hathaway]] — Buffett's diversified holding company; textiles, insurance, banking, and a Blue Chip stake as of 1977
-- [[blue-chip-stamps]] — trading-stamp affiliate (36.5% Berkshire-owned in 1977); conduit for See's and Wesco
-- [[capital-cities]] — media/broadcasting holding; new 1977 position used to introduce look-through earnings
-- [[cypress-insurance]] — California Worker's Comp insurer acquired for cash at yearend 1977
-- [[geico]] — direct auto insurer; largest Berkshire equity position by combined market value in 1977
-- [[illinois-national-bank]] — Rockford bank earning ~3x peer ROA under Gene Abegg
-- [[interpublic]] — advertising holding; equity position $4.5M cost / $17.2M market in 1977
-- [[kaiser-aluminum]] — industrial materials equity holding; rare below-cost position in 1977
-- [[national-indemnity]] — Berkshire's insurance flagship; the source of the 1967–1977 600% premium-volume growth
-- [[sees-candies]] — confectioner; pre-tax earnings tripled 1972–77 with little additional capital
-- [[washington-post]] — newspaper/media holding; largest unrealized gain in the 1977 portfolio
-- [[wesco-financial]] — 80%-owned subsidiary of Blue Chip Stamps under Louis Vincenti
+- [[berkshire-hathaway]] — Buffett's diversified holding company; canonical case in capital allocation
+- [[blue-chip-stamps]] — Berkshire affiliate; structural conduit through which See's and Wesco were held
+- [[capital-cities]] — media/broadcasting holding; the case study Buffett used to introduce look-through earnings
+- [[geico]] — direct auto insurer; multi-decade Berkshire holding, eventually wholly owned
+- [[national-indemnity]] — Berkshire's insurance flagship; the empirical basis of the float framework
+- [[sees-candies]] — confectioner; the archetypal high-return-on-tangible-capital franchise
+- [[washington-post]] — long-running newspaper/media holding
+- [[wesco-financial]] — Blue Chip Stamps subsidiary; later Munger's primary vehicle
 
 ## People
 
-- [[chuck-huggins]] — president of See's Candies during its early Berkshire-era growth
-- [[gene-abegg]] — founder/chairman of Illinois National Bank; still running it at 80 in 1977
-- [[george-young]] — head of National Indemnity's reinsurance department
-- [[john-ringwalt]] — architect of Berkshire's homestate insurance group
-- [[ken-chace]] — textile-operations manager; generated the capital that funded Berkshire's insurance entry
-- [[louis-vincenti]] — Wesco Financial manager
-- [[phil-liesche]] — head of underwriting at National Indemnity; credited with the standout 1977 results
 - [[warren-buffett]] — chairman of Berkshire Hathaway; author of the annual letters
 
 ## Concepts
 
 - [[acquisition-criteria]] — four-point test (understandable, favorable prospects, honest management, attractive price) applied identically to whole and partial ownership; concentration policy as corollary
-- [[bonds-and-inflation]] — long-term fixed-rate bonds as structurally obsolete contracts in an inflationary world; the insurance industry's contradiction of 6-month policies + 30-year bonds
+- [[bonds-and-inflation]] — fixing a price in one direction while costs move in the other destroys value; long-term bonds as the canonical case
 - [[float]] — premium-derived investable funds; the engine that converts an insurer into a compounder
-- [[institutional-imperative]] — corporate herd behavior: soft-market volume discipline, reinsurance self-delusion, and writing at a loss for investment income
-- [[investor-misery-index]] — inflation rate + tax cost of converting nominal returns to cash; even 20% ROE yields ~zero real return at 14% inflation
+- [[institutional-imperative]] — corporate herd behavior; the structural force a disciplined allocator must resist
+- [[investor-misery-index]] — real return = nominal − inflation − tax on the nominal; the lens that distinguishes apparent from actual wealth creation
 - [[look-through-earnings]] — pro-rata earnings attributable to a partial stake vs. cash dividends actually received; retained earnings at good companies worth ≥ 100 cents on the dollar
 - [[passive-ownership-advantage]] — minority stakes in excellent businesses at public-market discounts can outperform control of mediocre businesses at negotiated premiums
 - [[return-on-equity-yardstick]] — ROE on beginning equity, not EPS, as the right managerial scorecard; the "stopped clock" corollary
-- [[social-inflation]] — broadening juror/societal definitions of insurance coverage that raise claims costs
 - [[tailwinds-vs-headwinds]] — industry structure dominates managerial effort; TV station vs. textile mill as the extreme cases
 - [[turnarounds-seldom-turn]] — statistically cheap bad businesses stay bad; good business at fair price dominates poor business at bargain price
 

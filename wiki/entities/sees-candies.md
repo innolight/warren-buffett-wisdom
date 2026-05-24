@@ -5,12 +5,12 @@ created: 2026-05-24
 updated: 2026-05-24
 sources: [berkshire-1977-letter]
 tags: [consumer, confectionery, blue-chip]
-related: [[blue-chip-stamps]], [[chuck-huggins]]
+related: [[blue-chip-stamps]]
 ---
 
 # See's Candies
 
-West Coast confectioner, 99%-owned subsidiary of [[blue-chip-stamps]]. Purchased by Blue Chip at the beginning of 1972. Run by [[chuck-huggins]].
+West Coast confectioner, 99%-owned subsidiary of [[blue-chip-stamps]]. Purchased by Blue Chip at the beginning of 1972. Run for decades by Chuck Huggins.
 
 ## History
 
