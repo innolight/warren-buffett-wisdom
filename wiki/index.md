@@ -9,6 +9,8 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 ## Sources
 
 - [[berkshire-1977-letter]] — Buffett's 1977 annual letter; establishes ROE-as-yardstick, the four-point acquisition test, and the tailwinds-vs-headwinds framing
+- [[berkshire-1978-letter]] — 1978 annual letter; SAFECO as the paradigm passive-ownership case; look-through earnings elevated to core framework; concentration policy stated explicitly
+- [[berkshire-1979-letter]] — 1979 annual letter; investor's misery index; bonds as obsolete in inflation; "turnarounds seldom turn" via Waumbec; long-run 20.5% compound since 1964
 
 ## Entities
 
@@ -38,13 +40,17 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 
 ## Concepts
 
-- [[acquisition-criteria]] — four-point test (understandable, favorable prospects, honest management, attractive price) applied identically to whole and partial ownership
+- [[acquisition-criteria]] — four-point test (understandable, favorable prospects, honest management, attractive price) applied identically to whole and partial ownership; concentration policy as corollary
+- [[bonds-and-inflation]] — long-term fixed-rate bonds as structurally obsolete contracts in an inflationary world; the insurance industry's contradiction of 6-month policies + 30-year bonds
 - [[float]] — premium-derived investable funds; the engine that converts an insurer into a compounder
-- [[institutional-imperative]] — corporate herd behavior and the difficulty of acting counter to peers; introduced in nascent form
-- [[look-through-earnings]] — earnings attributable to a partial stake vs. cash dividends actually received
-- [[return-on-equity-yardstick]] — ROE on beginning equity, not EPS, as the right managerial scorecard
+- [[institutional-imperative]] — corporate herd behavior: soft-market volume discipline, reinsurance self-delusion, and writing at a loss for investment income
+- [[investor-misery-index]] — inflation rate + tax cost of converting nominal returns to cash; even 20% ROE yields ~zero real return at 14% inflation
+- [[look-through-earnings]] — pro-rata earnings attributable to a partial stake vs. cash dividends actually received; retained earnings at good companies worth ≥ 100 cents on the dollar
+- [[passive-ownership-advantage]] — minority stakes in excellent businesses at public-market discounts can outperform control of mediocre businesses at negotiated premiums
+- [[return-on-equity-yardstick]] — ROE on beginning equity, not EPS, as the right managerial scorecard; the "stopped clock" corollary
 - [[social-inflation]] — broadening juror/societal definitions of insurance coverage that raise claims costs
-- [[tailwinds-vs-headwinds]] — the lesson that industry structure dominates managerial effort
+- [[tailwinds-vs-headwinds]] — industry structure dominates managerial effort; TV station vs. textile mill as the extreme cases
+- [[turnarounds-seldom-turn]] — statistically cheap bad businesses stay bad; good business at fair price dominates poor business at bargain price
 
 ## Synthesis
 

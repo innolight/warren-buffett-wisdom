@@ -19,6 +19,20 @@ The high-level concept this implements lives in [`LLM-wiki.md`](LLM-wiki.md) at 
 
 The wiki is **source-agnostic**. The initial content is Berkshire Hathaway shareholder letters (1977–2024), but the schema is designed to absorb any investment source: other shareholder letters, 10-Ks, memos (e.g. Howard Marks), articles, podcasts, books, talks. New source types extend section 10 below; they don't require schema changes elsewhere.
 
+### Scope and focus
+
+This wiki is **opinionated, not comprehensive**. The goal is to distill **timeless investment wisdom**, not to mirror the sources. When ingesting, filter aggressively for what will still matter in 20 years.
+
+Three priority axes — content earns a page (or material updates to one) by scoring high on at least one:
+
+1. **Canonical entities** — companies, industries, or instruments that are load-bearing case studies in the investor's thinking. For Berkshire: GEICO, See's Candies, Coca-Cola, American Express, Apple, BNSF, the insurance subs, the textile business as a cautionary tale. Skip entities mentioned in passing with no enduring lesson (a one-time bond purchase, a small subsidiary mentioned once).
+2. **Shaping people** — individuals who materially shaped the investor's thinking or are central to the story: Buffett, Munger, Ben Graham, Phil Fisher, key operators (Ajit Jain, Tony Nicely, Rose Blumkin), occasional foils. Skip people mentioned only as transactional counterparties or in passing.
+3. **Timeless concepts** — principles, mental models, and frameworks with durable applicability: float, owner earnings, margin of safety, circle of competence, moats, look-through earnings, the institutional imperative. Skip ephemera: accounting rule changes that no longer apply, period-specific tax quirks, market commentary tied to a particular year unless it illustrates a timeless point.
+
+**When in doubt, prefer fewer pages, deeper.** A rich GEICO page beats five thin pages on subsidiaries. A well-developed `moat` concept beats stubs for every framework Buffett name-drops once.
+
+**Year-specific detail belongs on the source page, not in concept/entity pages.** Concept and entity pages should read like distilled chapters in a timeless reference; source pages carry the raw chronology.
+
 ## 2. Directory layout
 
 ```

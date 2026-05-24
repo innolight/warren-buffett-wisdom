@@ -10,6 +10,16 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-05-24] ingest | berkshire-1978-letter + berkshire-1979-letter
+
+Focus: concepts only; entities and people skipped per user direction.
+
+- Created sources: `sources/berkshire-1978-letter.md`, `sources/berkshire-1979-letter.md`
+- Created concepts (new): `passive-ownership-advantage`, `look-through-earnings` (upgraded from stub), `investor-misery-index`, `turnarounds-seldom-turn`, `bonds-and-inflation`
+- Updated concepts: `acquisition-criteria` (concentration corollary), `float` (1978–1979 data), `institutional-imperative` (upgraded from stub; three forms documented), `return-on-equity-yardstick` (stopped-clock corollary, long-run compound, misery-index connection), `tailwinds-vs-headwinds` (TV station contrast, Waumbec case)
+- Updated `index.md`: 2 new sources, 4 new concepts, updated summaries for 5 existing concepts
+- Open threads: Entity and people pages (SAFECO, Buffalo Evening News, Associated Retail Stores, Ben Rosner, Jack Ringwalt, Phil Fisher, etc.) deferred — not prioritized per user direction. Warren Buffett and Charlie Munger pages not yet touched; Charlie Munger does not appear in 1977–1979 letters.
+
 ## [2026-05-24] ingest | berkshire-1977-letter
 
 - Created source: `sources/berkshire-1977-letter.md`
