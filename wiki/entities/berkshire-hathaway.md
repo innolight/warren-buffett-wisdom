@@ -1,0 +1,36 @@
+---
+type: entity
+status: draft
+created: 2026-05-24
+updated: 2026-05-24
+sources: [berkshire-1977-letter]
+tags: [berkshire, holding-company, insurance]
+related: [[warren-buffett]], [[national-indemnity]], [[blue-chip-stamps]], [[illinois-national-bank]]
+---
+
+# Berkshire Hathaway Inc.
+
+Diversified holding company chaired by [[warren-buffett]]. In the 1977 letter framing, the operating businesses are: textiles (legacy), insurance (the engine), the Illinois National Bank, and an equity interest in Blue Chip Stamps.
+
+## History
+
+Formed in 1955 by the merger of Berkshire Fine Spinning Associates and Hathaway Manufacturing — both New England textile mills. In 1948, the pro forma combined entity earned $18M after tax and employed 10,000 across a dozen mills; in the decade following the merger it produced an aggregate loss of $10M, and by 1964 net worth had fallen from $53M to $22M (see digression in [[berkshire-1977-letter]]).
+
+Corporate control changed in 1965. The insurance era began in **early 1967** with the purchase of [[national-indemnity]] and its sister National Fire and Marine for ~$8.6M. Capital from the textile division — under [[ken-chace]] — funded that acquisition.
+
+By 1977: insurance premium volume had grown from $22M (1967) to $151M, with **no additional Berkshire shares issued** to fund the expansion. Operating earnings of $21.9M, $22.54 per share, 19% return on beginning equity.
+
+## Why it matters
+
+Canonical case study in capital allocation: a structurally poor business (textiles) used to fund and compound a structurally great one (insurance), with the float-funded equity portfolio becoming the long-run wealth engine. The 1977 letter establishes the metrics and philosophy ([[return-on-equity-yardstick]], [[acquisition-criteria]], [[tailwinds-vs-headwinds]]) that will recur for decades.
+
+## Operating units as of 1977
+
+- **Textiles** — New Bedford and Manchester mills under [[ken-chace]]. Poor 1977 results; retained for community and capital-generation reasons.
+- **Insurance** — flagship [[national-indemnity]] under [[phil-liesche]]; reinsurance under George Young; Home & Automobile under John Seward; homestate group under [[john-ringwalt]] (Cornhusker, Lakeland, Texas United, Iowa, Kansas Fire); newly acquired [[cypress-insurance]] under Milt Thornton.
+- **Banking** — [[illinois-national-bank]] under [[gene-abegg]], with Peter Jeffrey incoming.
+- **Affiliate** — 36.5% of [[blue-chip-stamps]], which in turn owns 99% of [[sees-candies]] and 80% of [[wesco-financial]].
+
+## Sources discussing this entity
+
+- [[berkshire-1977-letter]] — establishes ROE-as-yardstick framing; documents the textile-to-insurance capital migration; equity portfolio at $107M cost / $181M market
