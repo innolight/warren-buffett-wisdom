@@ -10,6 +10,41 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-05-25] ingest | berkshire-1985-letter
+
+User confirmed scope before writing: 4 new pages + targeted updates only, ~9 light updates. Discipline target met.
+
+**Created (4):**
+- `sources/berkshire-1985-letter.md` — Halley's Comet year; textile shutdown obituary with Burlington case; incentive-compensation essay; Cap Cities/ABC closes at $172.50; Scott & Fetzer acquired; Fireman's Fund quota-share; WPC triple-dip
+- `concepts/incentive-compensation.md` — new timeless concept; the savings-account analogy; the double standard; three structural fixes (scope/structure/pricing); Berkshire's six-feature alternative
+- `entities/scott-fetzer.md` — prototype Berkshire acquisition; World Book as low-price-best-product franchise; Ralph Schey; the cold-letter origin story
+- `people/jack-byrne.md` — GEICO turnaround surgeon; the franchise-rescue-as-recognition exemplar; succession via Snyder/Simpson; follow-on to FFIC
+
+**Updated existing pages (durable additions only — no year-by-year recap):**
+- `concepts/commodity-business-economics.md` — Burlington 21-year case study; "capacity is attitudinal" formulation for insurance
+- `concepts/tailwinds-vs-headwinds.md` — "business boat" formulation; the "chronically-leaking boat" corollary; textile auction as lower-bound evidence
+- `concepts/economic-goodwill.md` — the three-business arithmetic ($8M → $72M on $40M added capital vs. ~$300M required at corporate-average ratios); the rocking-chair savings-account corollary
+- `concepts/share-repurchases.md` — the WPC triple-dip worked example
+- `entities/berkshire-hathaway.md` — 21-year compound table extended; textile-shutdown note; 1985 milestones section; market-price-no-longer-at-discount flag
+- `entities/geico.md` — Byrne departure / Snyder + Simpson succession; 1985 position line; friendly-block-holder model originated here
+- `entities/capital-cities.md` — the $172.50 commitment closes; voting-delegation + sale-restriction arrangement; Buffett's 1978–80-sale confession
+- `entities/washington-post.md` — the "triple-dip" formulation; $221M outcome; Buffett leaves WPC board
+
+**Updated `index.md`:** added 1985 source line, scott-fetzer entity line, jack-byrne person line, incentive-compensation concept line.
+
+**Deliberately skipped (per scope filter — recorded for audit):**
+- Operators / managers — Ralph Schey, Tom Murphy, Dan Burke, Bill Snyder, Lou Simpson, Mike Goldberg, Chuck Huggins, Stan Lipsey, Kay Graham, Ken Chace, Garry Morrison, Jim Ferguson, Phil Smith. All folded into respective entity pages per existing convention. Murphy and Graham strongest candidates for future person pages if later letters develop them further.
+- Fireman's Fund / Wes-FIC — transactional reinsurance arrangement, not a Berkshire-owned canonical entity; covered on the source page only.
+- Portfolio holdings (1985 marketable equities table): Affiliated Publications, Beatrice, Handy & Harman, Time — listed on source page; no enduring lesson warrants entity pages.
+- General Foods — sold in 1985; the four-factor framing covered on source page; no standalone entity page.
+- The "Except-For Insurance Company" anecdote, the oil-prospector parable, "I'll buy a lottery ticket as a gift" — kept on source page only.
+- Cherry Coke / Coca-Cola — not yet a position; the position is 1988.
+
+**Open threads:**
+- Tom Murphy and Kay Graham approaching the threshold for dedicated person pages. Revisit on 1986/1987 ingest.
+- Scott Fetzer / World Book economics will need ongoing development as the businesses report through later letters.
+- "Capacity is attitudinal" formulation in insurance — worth cross-referencing into [[float]] if the insurance-cycle treatment in 1986–87 letters extends it further.
+
 ## [2026-05-25] ingest | berkshire-1980-letter through berkshire-1984-letter
 
 Five-year ingest. User decisions before writing: (1) fold Jack Byrne and Tom Murphy into [[geico]] and [[capital-cities]] rather than creating dedicated person pages; (2) create `passive-return-crossbar` and `bonds-as-a-business` as new concepts (rather than folding into existing `bonds-and-inflation`).

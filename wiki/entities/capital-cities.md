@@ -3,9 +3,9 @@ type: entity
 status: draft
 created: 2026-05-24
 updated: 2026-05-25
-sources: [berkshire-1977-letter, berkshire-1981-letter, berkshire-1984-letter]
+sources: [berkshire-1977-letter, berkshire-1981-letter, berkshire-1984-letter, berkshire-1985-letter]
 tags: [media, broadcasting, exemplary-management, marketable-equities]
-related: [[berkshire-hathaway]], [[acquisition-criteria]], [[share-repurchases]]
+related: [[berkshire-hathaway]], [[acquisition-criteria]], [[share-repurchases]], [[geico]], [[washington-post]]
 ---
 
 # Capital Cities Communications
@@ -38,15 +38,35 @@ The combination — discipline + integrity + recognition + operating ability —
 | Year | Notes |
 | --- | --- |
 | 1977 | First Berkshire position; $10.9M cost / $13.2M market; 220,000 shares |
-| 1985 (subsequent to 1984 letter) | Agreed to 3M shares at $172.50, contingent on the ABC acquisition closing |
+| 1978–80 | Berkshire sold its position at ~$43/share. Buffett's 1985 confession: "a characteristic burst of brilliance" — "I spent much of 1985 working on a snappy answer that would reconcile these acts. A little more time, please." |
+| March 1985 | Commitment to 3,000,000 shares at $172.50 — $517.5M — to help finance Cap Cities' $3.5B ABC acquisition |
+| Year-end 1985 | 900,800 shares already on the books ($54.4M cost, $109.0M market — ABC shares; the broader Cap Cities position closes right after year-end) |
 
-The 1985 commitment closes "very late in 1985 at the earliest" per the 1984 letter's subsequent-event note.
+## The friendly-block-holder arrangement (1985)
+
+The 1985 Cap Cities deal includes structural features that institutionalize a model Buffett had previously applied at [[geico]] and [[washington-post]]:
+
+- **Tom Murphy (or Dan Burke, should he be CEO) votes Berkshire's shares for an extended period.**
+- **Berkshire is restricted in the sale of its shares** to prevent the block landing with an unfriendly large holder without management's approval.
+
+Buffett's rationale — argued explicitly in the 1985 letter — is that the long-term economic prospects for both Berkshire and Cap Cities are *enhanced* by the arrangement, despite the loss of the premium a free-floating large block can command. The mechanism: managers freed from defensive maneuvering around takeover threats can focus entirely on operating the business and compounding long-term value.
+
+> Today, corporate instability is an inevitable consequence of widely-diffused ownership of voting stock. At any time a major holder can surface, usually mouthing reassuring rhetoric but frequently harboring uncivil intentions.
+
+The human-side rationale is treated as equally weighty: management should not lose sleep about ownership surprises from a major holder it has invited in. The contract is Buffett's signature put where his word otherwise was.
+
+This model — friendly large block + voting delegation + sale restriction — becomes the recurring Berkshire form for substantial passive positions in publicly-traded companies whose managements Buffett trusts.
+
+## On the price paid
+
+Buffett describes the $172.50 commitment as "a full price, reflecting the very considerable enthusiasm for both media stocks and media properties that has developed in recent years (and that, in the case of some property purchases, has approached a mania). It's no field for bargains." The deal is accepted as the cost of getting the *people* right, with no expectation that the price itself constitutes a bargain.
 
 ## Sources discussing this entity
 
 - [[berkshire-1977-letter]] — first position; framed as the look-through-earnings exemplar; "better management result through non-control than control"
 - [[berkshire-1981-letter]] — Tom Murphy cited as a managerial "twofer"; the Category 1 + Category 2 framework
 - [[berkshire-1984-letter]] — Cap Cities/ABC deal announced as subsequent event; Murphy and Burke praised for "ability and integrity"
+- [[berkshire-1985-letter]] — the 3M-share commitment at $172.50 closes; voting-delegation + sale-restriction arrangement (the same friendly-block-holder model as GEICO and WPC); price paid is "a full price" with no claim to bargain economics; Buffett's confessional aside on the 1978–80 sale at ~$43
 
 ## Related
 

@@ -35,6 +35,24 @@ Graham's framework — buying tangible assets at a discount — works against yo
 
 The implicit credit for the shift in Buffett's thinking — though Buffett does not state it outright in 1983 — is widely understood to be Munger's influence. See [[charlie-munger]].
 
+## The three-business arithmetic (1985)
+
+The 1985 letter operationalizes the 1983 framework with specific dollar figures, treating Berkshire's three wholly-owned non-insurance franchises — [[nebraska-furniture-mart]], [[sees-candies]], and [[buffalo-evening-news]] — as a single illustrative bundle:
+
+| | Aggregate pre-tax earnings | Additional capital required (vs. 1970) |
+| --- | ---: | ---: |
+| ~1970 | $8M | — |
+| 1985 | $72M | ~$40M |
+| Average American business (notional) | $72M | ~$300M (at $5 capital per $1 earnings) |
+
+The three-business cumulative earnings grew from $8M to $72M — but the incremental capital required to produce that ninefold growth was only ~$40M. At the corporate-American average ratio of ~$5 of additional capital per $1 of additional pre-tax earnings, the same outcome would have demanded ~$300M of additional capital from owners. The ~$260M gap is the cash that economic Goodwill *liberated* for redeployment elsewhere in Berkshire — the principal financing source for the broader equity portfolio.
+
+Buffett's distilled point on the corollary failure mode:
+
+> When returns on capital are ordinary, an earn-more-by-putting-up-more record is no great managerial achievement. You can get the same result personally while operating from your rocking chair. Just quadruple the capital you commit to a savings account and you will quadruple your earnings. You would hardly expect hosannas for that particular accomplishment.
+
+A pure earnings-growth chart that ignores the capital-employed denominator hides the difference between the high-Goodwill business compounding at high return and the savings-account-style business compounding only through retention.
+
 ## The mechanism: returns on incremental capital
 
 In an inflationary environment, a business with high return on tangible capital can grow earnings simply by re-pricing — capturing more nominal dollars on the same tangible base. A capital-intensive low-return business in the same inflation captures nothing of the same kind; it must reinvest just to maintain unit volume (see the [[passive-return-crossbar]] / inflation-as-tapeworm framing from [[berkshire-1981-letter]]).
@@ -45,6 +63,7 @@ The result: enduring economic Goodwill is the principal *defense against inflati
 
 - [[berkshire-1983-letter]] — debut; the Appendix ("Goodwill and its Amortization: The Rules and The Realities"); the explicit acknowledgment of evolving past Graham's tangible-asset preference
 - [[berkshire-1984-letter]] — Section on dividend policy refers back: "companies with a core business characterized by extraordinary economics can use small amounts of incremental capital in that business at very high rates of return (as was discussed in last year's section on Goodwill)"
+- [[berkshire-1985-letter]] — the three-business arithmetic ($8M → $72M on $40M of additional capital vs. ~$300M required at corporate-average ratios); the rocking-chair savings-account corollary
 
 ## Related
 

@@ -3,9 +3,9 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-05-25
-sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter]
+sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter]
 tags: [capital-allocation, repurchases, signaling]
-related: [[stock-as-acquisition-currency]], [[intrinsic-value-vs-book-value]], [[dividend-policy]]
+related: [[stock-as-acquisition-currency]], [[intrinsic-value-vs-book-value]], [[dividend-policy]], [[washington-post]]
 ---
 
 # Share Repurchases
@@ -44,6 +44,18 @@ Buffett's three largest holdings during this stretch all engaged in significant 
 - **[[washington-post]]** — repurchases referenced as material; Berkshire's position increased in proportional terms.
 - **General Foods** — 1984 open-market repurchases conducted concurrent with Berkshire share sales to maintain proportional ownership (analogous to GEICO 1983).
 
+## The Washington Post "triple-dip" (1985)
+
+The 1985 letter delivers the clearest worked example of repurchases compounding *on top of* an already-good business outcome — three reinforcing tailwinds operating simultaneously on a non-selling shareholder's position:
+
+1. **Business value soared upward.** Underlying [[washington-post]] economics improved over a decade.
+2. **Per-share business value increased considerably faster because of stock repurchases.** Kay Graham executed large repurchases in 1973–74 specifically when the market had marked WPC stock to ~20 cents on the dollar of intrinsic value.
+3. **Discount narrowed, so the stock price outpaced the gain in per-share business value.** Market re-recognition compounded onto the per-share-value gain.
+
+The position arithmetic: $10.6M cost (1973) → $8M market (year-end 1974, a 25% loss) → $221M total proceeds-plus-yearend-value by 1985. Counterfactual any of the half-dozen "investment-favorite" media names of mid-1973 would have produced roughly $40–60M today; Buffett attributes the additional ~$160M "in very large part" to Kay Graham's repurchase decisions and operating quality.
+
+The case anchors a broader durable claim: repurchases at a meaningful discount do not merely *redistribute* value — they compound it, in concert with operating improvement *and* multiple re-rating, on the position of every non-selling shareholder. The three effects multiply, not add.
+
 ## The owner-acquirer test
 
 A useful Buffett heuristic: if you would not sell 100% of the business at the current market price, you should not sell *any* portion of it. Repurchases are simply the inverse trade — buying portions of the business at a price you would refuse to *receive* for the whole.
@@ -53,6 +65,7 @@ A useful Buffett heuristic: if you would not sell 100% of the business at the cu
 - [[berkshire-1980-letter]] — debut as a recurring theme; the auction-vs-negotiated framing
 - [[berkshire-1982-letter]] — repurchase as damage-repair option for value-destroying stock-funded acquisitions
 - [[berkshire-1984-letter]] — full canonical articulation; arithmetic *plus* signaling; greenmail explicitly distinguished
+- [[berkshire-1985-letter]] — the WPC "triple-dip" worked example: business-value gain + per-share-value compounding via repurchase + discount narrowing
 
 ## Related
 

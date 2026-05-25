@@ -3,9 +3,9 @@ type: entity
 status: draft
 created: 2026-05-24
 updated: 2026-05-25
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter]
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter]
 tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities]
-related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]]
+related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]], [[jack-byrne]]
 ---
 
 # GEICO (Government Employees Insurance Company)
@@ -26,7 +26,7 @@ A pivotal Buffett distinction. The mid-1970s GEICO crisis was not a true turnaro
 
 > GEICO's problems at that time put it in a position analogous to that of American Express in 1964 following the salad oil scandal. Both were one-of-a-kind companies, temporarily reeling from the effects of a fiscal blow that did not destroy their exceptional underlying economics. The GEICO and American Express situations, extraordinary business franchises with a localized excisable cancer (needing, to be sure, a skilled surgeon), should be distinguished from the true "turnaround" situation in which the managers expect — and need — to pull off a corporate Pygmalion.
 
-The surgeon was **Jack Byrne**, who arrived in 1976. Byrne (and later Bill Snyder as president, and Lou Simpson as investment manager) restored the underlying low-cost franchise that had always been GEICO's structural advantage; the brilliance was in *recognizing what to preserve and what to fix*, not in inventing a new business model. The franchise pre-dated and post-dated the rescue.
+The surgeon was [[jack-byrne]], who arrived in 1976. Byrne (and later Bill Snyder as president, and Lou Simpson as investment manager) restored the underlying low-cost franchise that had always been GEICO's structural advantage; the brilliance was in *recognizing what to preserve and what to fix*, not in inventing a new business model. The franchise pre-dated and post-dated the rescue.
 
 This is why GEICO does not violate [[turnarounds-seldom-turn]]: the underlying business economics were intact throughout.
 
@@ -40,6 +40,7 @@ This is why GEICO does not violate [[turnarounds-seldom-turn]]: the underlying b
 | 1982 | $47.1M | $309.6M | $79M of Berkshire's $208M net-worth gain came from GEICO alone |
 | 1983 | $47.1M | $398.2M | Proportional redemption: Berkshire received $21M cash at the 6.9% inter-corporate dividend tax rate while keeping its 35% ownership unchanged |
 | 1984 | $45.7M | $397.3M | Market value flat while intrinsic value rose substantially — Buffett notes this as a normal multi-year recalibration |
+| 1985 | $45.7M | $596.0M | 6,850,000 shares; ~38% of GEICO. Underwriting weaker than GEICO's standards (private passenger auto and homeowners' industry-wide deterioration) but "far better than that of virtually all its major competitors." |
 
 ## Repurchases and proportional redemptions
 
@@ -55,7 +56,11 @@ The arithmetic illustrated repeatedly: GEICO paid Berkshire only ~$3M annually i
 
 ## Operating leadership
 
-Jack Byrne (CEO from 1976), Bill Snyder (president), and Lou Simpson (investment manager) are repeatedly cited as exceptional. Per the 1983 letter: "Jack Byrne and Bill Snyder have maintained extraordinary discipline in the underwriting area (including, crucially, provision for full and proper loss reserves)… Lou Simpson is the class of the field among insurance investment managers." Per 1984: "Lou has the rare combination of temperamental and intellectual characteristics that produce outstanding long-term investment performance."
+[[jack-byrne]] (CEO from 1976), Bill Snyder (president), and Lou Simpson (investment manager) are repeatedly cited as exceptional. Per the 1983 letter: "Jack Byrne and Bill Snyder have maintained extraordinary discipline in the underwriting area (including, crucially, provision for full and proper loss reserves)… Lou Simpson is the class of the field among insurance investment managers." Per 1984: "Lou has the rare combination of temperamental and intellectual characteristics that produce outstanding long-term investment performance."
+
+**Mid-1985 succession.** Byrne leaves GEICO to become chairman and CEO of Fireman's Fund (triggering Berkshire's 7% FFIC quota-share contract — see [[berkshire-1985-letter]]). At GEICO: **Bill Snyder** becomes chairman, **Lou Simpson** becomes vice chairman. The 1985 letter credits Byrne's identification and development of the successors as an achievement equal to the original rescue: "he found managers to succeed him who have talents as valuable as his own."
+
+The friendly-block-holder structural agreement that originated at GEICO — Berkshire's voting authority delegated to management for an extended period, with sale restrictions on the block — becomes the template Buffett later reapplies at [[washington-post]] and [[capital-cities]].
 
 ## Sources discussing this entity
 
@@ -65,6 +70,7 @@ Jack Byrne (CEO from 1976), Bill Snyder (president), and Lou Simpson (investment
 - [[berkshire-1982-letter]] — explicitly named as the high-profit exception in a commodity industry
 - [[berkshire-1983-letter]] — combined ratio 96 vs. industry 111; proportional redemption mechanism
 - [[berkshire-1984-letter]] — "major, sustainable competitive advantage" language; market flat while intrinsic rises
+- [[berkshire-1985-letter]] — Byrne departs for FFIC; Snyder/Simpson succession; underwriting weaker than its own standards but better than industry on auto and homeowners deterioration
 
 ## Related
 

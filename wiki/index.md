@@ -16,6 +16,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-1982-letter]] — 1982 annual letter; beginning-ROE yardstick discarded; commodity-business framework; stock-as-acquisition-currency essay; six-point acquisition ad first published
 - [[berkshire-1983-letter]] — 1983 annual letter; owner's manual (13 principles); intrinsic vs. book value; economic-Goodwill appendix; Nebraska Furniture Mart acquired; shareholder-eugenics on stock splits
 - [[berkshire-1984-letter]] — 1984 annual letter; share-repurchases canonical doctrine; dividend-policy framework; bonds-as-a-business via WPPSS; loss-reserving uncertainty; Cap Cities/ABC announced
+- [[berkshire-1985-letter]] — 1985 annual letter; textile shutdown obituary and Burlington case; incentive-compensation essay; Cap Cities $172.50 closes; Scott & Fetzer acquired; Fireman's Fund quota-share; WPC triple-dip
 
 ## Entities
 
@@ -26,6 +27,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[geico]] — direct-to-consumer auto insurer; canonical low-cost-operator moat in financial services
 - [[national-indemnity]] — Berkshire's insurance flagship; the empirical basis of the float framework
 - [[nebraska-furniture-mart]] — Mrs. B's home-furnishings retailer; canonical Berkshire low-cost operator; the $55M handshake deal
+- [[scott-fetzer]] — diversified industrial conglomerate acquired late 1985; home of World Book; Buffett's prototype "good business at a fair price" acquisition
 - [[sees-candies]] — confectioner; the archetypal pricing-power / enduring-economic-Goodwill franchise
 - [[washington-post]] — long-running newspaper/media holding; dominant-newspaper economics
 - [[wesco-financial]] — Blue Chip Stamps subsidiary; Munger's chair from late 1983
@@ -34,6 +36,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 
 - [[ben-graham]] — Buffett's teacher; *The Intelligent Investor*; the framework Buffett evolves past on Goodwill
 - [[charlie-munger]] — Berkshire vice chairman; partner; Wesco chairman from late 1983
+- [[jack-byrne]] — the GEICO turnaround surgeon (1976–85); afterwards CEO of Fireman's Fund; the franchise-rescue-as-recognition exemplar
 - [[rose-blumkin]] — "Mrs. B"; founder of Nebraska Furniture Mart; the operator-as-shaping-figure exemplar
 - [[warren-buffett]] — chairman of Berkshire Hathaway; author of the annual letters
 
@@ -46,6 +49,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[dividend-policy]] — restricted vs. unrestricted earnings; the $1-of-market-value per $1-retained retention test
 - [[economic-goodwill]] — durable competitive advantage producing high returns on tangible capital; Buffett's escape from Graham's tangible-asset bias
 - [[float]] — premium-derived investable funds; the engine that converts an insurer into a compounder
+- [[incentive-compensation]] — the option-critique and the savings-account analogy; Berkshire's unit-specific, uncapped, seniority-blind alternative
 - [[institutional-imperative]] — corporate herd behavior; the structural force a disciplined allocator must resist
 - [[intrinsic-value-vs-book-value]] — book is financial input, intrinsic is future cash output; the gauge for capital-allocation decisions
 - [[investor-misery-index]] — real return = nominal − inflation − tax on the nominal; the lens that distinguishes apparent from actual wealth creation
