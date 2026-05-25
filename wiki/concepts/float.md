@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-24
-updated: 2026-05-24
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter]
+updated: 2026-05-25
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter]
 tags: [insurance, capital-allocation, berkshire]
-related: [[national-indemnity]], [[berkshire-hathaway]]
+related: [[national-indemnity]], [[berkshire-hathaway]], [[geico]]
 ---
 
 # Float
@@ -35,7 +35,27 @@ Float is not free in the long run. Two forces work to raise it:
 
 Unless premium rates rise as fast as both forces combined, underwriting profitability shrinks and the float that once was free starts to carry a positive cost.
 
+## The bond-duration trap (1980)
+
+A structural fragility revealed in the 1980 letter: many P&C insurers carried long-term bonds at amortized cost equal to 2–3x net worth, while market values had collapsed under high interest rates. Recognizing the losses would have wiped out stated net worth.
+
+The pathology that followed: insurers could not afford to let premium volume shrink — that would force bond sales and force loss recognition — so they wrote insurance at any price to keep the float pool stable. Buffett's term: **"asset-maintenance underwriting" — the acceptance of terrible business just to keep the assets you now have."**
+
+The lesson: float invested badly (in long bonds during inflation) doesn't just produce poor returns — it can hijack underwriting discipline. The insurer cannot afford honest pricing because honest pricing would force liability shrinkage and recognition of investment-side losses. The float advantage inverts into a structural trap. See [[bonds-and-inflation]].
+
+## Loss-reserving uncertainty (1984)
+
+The 1984 letter adds a deeper structural fragility: float itself is *imprecisely measured.* An insurer's reported earnings depend critically on estimates of losses incurred but not yet paid (or even reported). Estimates can be wrong by tens of millions for years before correction. Buffett's five-year table shows Berkshire's own under-reserving: 1981–83 each revised significantly worse on a "one year later" basis.
+
+Industry pathology: "insolvent insurers don't run out of cash until long after they have run out of net worth" — the "walking dead" then write at any price, driving down industry pricing for solvent operators too. "The corpse is supposed to file the death certificate."
+
+Two implications for thinking about float:
+- **The same float that funds compounding can disguise a hollowed-out balance sheet.** Cash flow lags solvency by years.
+- **Conservative reserving is itself a competitive feature.** A balance sheet honest about its liabilities is rare enough in long-tail insurance to become a moat — the 1984 letter's framing of Berkshire's "premier financial strength" as the operational asset behind structured settlements and loss-reserve assumption businesses.
+
 ## Related
 
 - [[tailwinds-vs-headwinds]] — insurance, done well, is the canonical tailwind business
 - [[institutional-imperative]] — the industry's collective failure to price soft markets honestly is what makes the cost of float move
+- [[bonds-and-inflation]] — float deployed in long bonds in inflation creates the asset-maintenance underwriting trap
+- [[geico]] — the canonical low-cost-operator counter-example whose disciplined float exploits these structural fragilities
