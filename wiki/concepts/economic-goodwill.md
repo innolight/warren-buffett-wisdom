@@ -3,9 +3,9 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-05-25
-sources: [berkshire-1983-letter]
+sources: [berkshire-1983-letter, berkshire-1985-letter]
 tags: [valuation, goodwill, moat, business-quality]
-related: [[intrinsic-value-vs-book-value]], [[moat]], [[sees-candies]]
+related: [[intrinsic-value-vs-book-value]], [[moat]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]]
 ---
 
 # Economic Goodwill

@@ -3,9 +3,9 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-05-25
-sources: [berkshire-1982-letter]
+sources: [berkshire-1982-letter, berkshire-1985-letter]
 tags: [industry-structure, business-quality, moat]
-related: [[moat]], [[tailwinds-vs-headwinds]], [[geico]]
+related: [[moat]], [[tailwinds-vs-headwinds]], [[geico]], [[scott-fetzer]]
 ---
 
 # Commodity-Business Economics
@@ -31,7 +31,7 @@ In Buffett's hands, this framework is principally an *insurance industry* diagno
 
 The 1982 letter is the most pointed application. Insurance has every commodity characteristic:
 
-- **Capacity is mental.** Underwriting capacity can be created instantly by capital plus an underwriter willing to sign — no factories required. Excess capacity is the default condition.
+- **Capacity is mental.** Underwriting capacity can be created instantly by capital plus an underwriter willing to sign — no factories required. Excess capacity is the default condition. The 1985 letter sharpens this to a definition: "capacity is an attitudinal concept, not a physical fact." Capital begets comfort begets capacity; in 1985 alone, ~15 insurers raised over $3B to expand writing at the better prices then prevailing — and that capital-raising trend accelerated into 1986. Tight pricing in this industry is therefore self-extinguishing on a short cycle.
 - **Product is undifferentiated.** "Many insureds, including the managers of large businesses, do not even know the names of their insurers."
 - **State-sponsored guaranty funds protect policyholders against insurer insolvency**, reducing the customer's incentive to pay up for a better balance sheet.
 
@@ -43,9 +43,27 @@ The framework's value is in identifying the rare escape: a wide, sustainable cos
 
 The general principle Buffett extracts: in a commodity industry, the only sustainable path to good profitability is *being the low-cost producer* — but only if the cost advantage is *both* wide enough to matter *and* structurally protected against erosion.
 
+## The Burlington Industries case study (1985)
+
+The textile-shutdown letter delivers the canonical illustration that **brilliant capital allocation inside a structurally bad business still produces a bad outcome**.
+
+| Metric | 1964 | 1985 |
+| --- | ---: | ---: |
+| Sales | $1.2B | $2.8B |
+| Stock price | $60 | $34 (split-adjusted) |
+| Cumulative capex 1964–85 | — | ~$3B (~$200/share on the $60 stock) |
+| Real per-share purchasing power | 1.00× | ~0.33× (CPI tripled) |
+
+Burlington was the industry's largest U.S. textile company at both endpoints. Its capital decisions were rational in isolation; collectively (across the industry) they neutralized each other. "Each company's capital investment decision appeared cost-effective and rational; viewed collectively, the decisions neutralized each other and were irrational (just as happens when each person watching a parade decides he can see a little better if he stands on tiptoes)." See [[tailwinds-vs-headwinds]] for Buffett's "business boat" formulation.
+
+Buffett's distilled rule from the case:
+
+> A horse that can count to ten is a remarkable horse — not a remarkable mathematician. Likewise, a textile company that allocates capital brilliantly within its industry is a remarkable textile company — but not a remarkable business.
+
 ## How it's discussed in sources
 
 - [[berkshire-1982-letter]] — debut; the four escapes; insurance as textbook case; the 1950–70 quasi-administered regime as a one-time historical artifact
+- [[berkshire-1985-letter]] — Burlington Industries 21-year case study; "capacity is an attitudinal concept" sharpens the insurance application; the textile auction proceeds illustrate where decades of "rational" intra-industry capital allocation actually land in liquidation
 
 ## Related
 
