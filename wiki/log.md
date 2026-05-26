@@ -10,6 +10,92 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-05-26] ingest | berkshire-1986-letter through berkshire-1995-letter (batch)
+
+Ten-year batch ingest. User confirmed scope before writing: full proposed coverage; heavier source pages on canonical-essay years (1986, 1987, 1989, 1991, 1993, 1995); skip tier-2 small subsidiaries (Fechheimer, Helzberg's, R.C. Willey, H.H. Brown, Central States, etc.) per the editorial discipline.
+
+**Created sources (10):**
+- `sources/berkshire-1986-letter.md` — owner-earnings Appendix; Fechheimer; Scott Fetzer first full year; Tax Reform Act of 1986
+- `sources/berkshire-1987-letter.md` — Mr. Market allegory canonized; Sainted Seven coined; Salomon $700M preferred; capital allocation essay; "carry a loaded gun"
+- `sources/berkshire-1988-letter.md` — Coca-Cola first major purchase; Borsheim's announced; arbitrage essay (Rockwood, Arcata, RJR); EMT critique; NYSE listing; David Dodd obituary
+- `sources/berkshire-1989-letter.md` — Mistakes of the First 25 Years; Coca-Cola enlarged; three convertible preferreds (Gillette, USAir, Champion); zero-coupon debentures + critique; super-cat reinsurance debut
+- `sources/berkshire-1990-letter.md` — cost-of-float framework; Wells Fargo accumulation; food-prices analogy; super-cat framework; junk-bond critique; USAir "unforced error"
+- `sources/berkshire-1991-letter.md` — franchise-vs-business canonical essay; See's 20-year retrospective; Fannie Mae Mistake Du Jour; H.H. Brown; Salomon interim chairmanship
+- `sources/berkshire-1992-letter.md` — growth-vs-value joined at the hip; Salomon post-crisis; stock-options-as-expense; Central States; General Dynamics; Mrs. B returns
+- `sources/berkshire-1993-letter.md` — risk-vs-beta; concentration-vs-diversification; corporate-governance modes; Dexter Shoe; Li'l Abner tax math; Cap Cities sale
+- `sources/berkshire-1994-letter.md` — Scott Fetzer case study; compensation essay; USAir post-mortem; capital allocation; American Express major addition
+- `sources/berkshire-1995-letter.md` — GEICO 100% acquisition; Helzberg's + R.C. Willey + Disney/Cap Cities; float-as-equity; convertible-preferred retrospective; Class B share recapitalization; the Lorimer Davidson tribute
+
+**Created concepts (11):**
+- `concepts/mr-market.md` — Graham allegory canonized 1987; Cinderella warning; voting-vs-weighing machine
+- `concepts/owner-earnings.md` — 1986 Appendix formula; Scott Fetzer worked example; cash-flow fallacy
+- `concepts/franchise-vs-business.md` — 1991 three-condition test; valuation math; media reclassification
+- `concepts/cigar-butts-vs-wonderful-businesses.md` — 1989 "Mistakes" essay headline lesson; cockroach-in-the-kitchen
+- `concepts/risk-vs-volatility.md` — 1993 beta critique; five-factor framework
+- `concepts/concentration-vs-diversification.md` — 1993 know-nothing vs. know-something
+- `concepts/capital-allocation.md` — 1987 canonical essay; 60% statistic; musician-to-Fed-Chairman
+- `concepts/mistakes-of-omission.md` — 1989/91 framing; Fannie Mae $1.4B; Cap Cities; Disney 1967
+- `concepts/super-cat-insurance.md` — 1989 debut; "lumpy 15% vs. smooth 12%"; the three lucky years
+- `concepts/volatility-as-opportunity.md` — 1990 food-prices analogy; 1994 fear-is-friend-of-fundamentalist
+- `concepts/margin-of-safety.md` — Graham principle canonized; junk-bond critique as inverse
+
+**Created entities (8):**
+- `entities/coca-cola.md` — $1B 1988-89 → $7.4B 1995; flagship position; Goizueta/Keough partnership
+- `entities/gillette.md` — $600M preferred 1989; converted 1991; paired with Coca-Cola
+- `entities/wells-fargo.md` — 1990 panic accumulation; Reichardt/Hazen; food-prices analogy origin
+- `entities/american-express.md` — 1991 PERC; major 1994 addition; salad-oil-scandal partnership lineage
+- `entities/salomon.md` — $700M 1987 preferred; 1991 interim chairmanship; reputation case
+- `entities/borsheims.md` — 1989 acquisition; Friedman family; NFM-style operating discipline
+- `entities/usair.md` — $358M 1989 mistake; "unforced error"; canonical commodity-business cautionary tale
+- `entities/disney.md` — Berkshire's 1996 holding via Cap Cities exchange; Sun Valley genesis
+
+**Created people (11):**
+- `people/ajit-jain.md` — super-cat franchise architect; "simply the best in this business"
+- `people/lou-simpson.md` — GEICO investments; 22.8% vs. S&P 15.7%; explicit successor frame
+- `people/tom-murphy.md` — Cap Cities CEO; canonical capital-allocator exemplar; 1995 concentrated tribute
+- `people/ralph-schey.md` — Scott Fetzer CEO; five-minute compensation arrangement; symmetric incentives
+- `people/lorimer-davidson.md` — 1951 Saturday meeting with Buffett; GEICO origin
+- `people/roberto-goizueta.md` — Coca-Cola CEO from 1981; marketing-and-finance combination
+- `people/colman-mockler.md` — Gillette CEO 1975-91; quality-first culture; 1990 obituary
+- `people/david-dodd.md` — Buffett's other teacher; *Security Analysis* co-author; 1988 obituary
+- `people/carl-reichardt.md` — Wells Fargo CEO; cost-discipline-in-good-times-as-in-bad
+- `people/kay-graham.md` — Washington Post CEO; dual-class-stock-trust template
+- `people/john-gutfreund.md` — Salomon CEO; 1987 investment thesis personified; 1991 resignation
+
+**Updated existing pages (substantive additions, not chronicle):**
+- `concepts/institutional-imperative.md` — 1989 formal naming with four-part decomposition; 1990 banking application
+- `concepts/float.md` — cost-of-float framework canonized; 1967-1995 table; float-as-equity essay; super-cat as growth driver
+- `concepts/look-through-earnings.md` — 1990 explicit calculation method as tabular form; 1994 $1.03B target met early
+- `concepts/intrinsic-value-vs-book-value.md` — 1994 Scott Fetzer case study; college-education analogy; canonical definition
+- `concepts/moat.md` — castle-and-moat 1986 metaphor canonized; global brand-and-distribution as fifth signature (Coke/Gillette)
+- `concepts/incentive-compensation.md` — H.H. Brown 1991 capital-charged-bonus system; Schey/Scott Fetzer 1994 articulation; 1992 options-as-expense essay
+- `concepts/economic-goodwill.md` — 1986 Appendix link; 1994 Scott Fetzer case
+- `concepts/turnarounds-seldom-turn.md` — 1989 cigar-butts restatement; 1994 USAir case
+- `entities/geico.md` — 1986-1995 position evolution; 1996 100% acquisition section; Tony Nicely/Lou Simpson; Davidson tribute
+- `entities/scott-fetzer.md` — comprehensive rewrite; 1994 case study table; Schey compensation arrangement; Sainted Seven framing; World Book secular decline
+- `entities/capital-cities.md` — 1991 franchise-to-business reclassification; 1993 partial sale; 1995 Disney/Cap Cities exchange and Sun Valley genesis
+- `entities/sees-candies.md` — 1991 twenty-year retrospective; 1986-95 operating updates
+- `entities/nebraska-furniture-mart.md` — Mrs. B saga 1989 departure / 1992 return; Borsheim's connection; 1990 See's-candy-cart synergy anecdote
+- `entities/national-indemnity.md` — super-cat platform; Ajit Jain; Don Wurster traditional book; 1985-95 operating arc
+- `entities/berkshire-hathaway.md` — book-value compound extended through 1995; modern-portfolio era section; NYSE listing + Class B recap; 1995 operating units expanded
+- `people/warren-buffett.md` — 1986-1995 framework expansion section; major operational events; Lorimer Davidson tribute
+
+**Deliberately skipped (per scope filter — recorded for audit):**
+- Smaller wholly-owned subsidiaries: Fechheimer, Helzberg's, R.C. Willey, H.H. Brown, Lowell Shoe, Dexter, Central States Indemnity. Covered on source pages; no standalone entity pages unless they become canonical later.
+- Operating managers below the shaping bar: the Heldmans, Friedmans, Blumkin family (beyond Mrs. B already paged), Bill Child, Barnett Helzberg, Susan Jacques, Stan Lipsey, Chuck Huggins, Bill Snyder, Murray Light, Frank Rooney, Brad Kinstler, Don Wurster, Mike Goldberg. Referenced on entity pages, not standalone.
+- Smaller portfolio holdings: Champion International (preferred), Freddie Mac, Guinness, Gannett, PNC Bank, General Dynamics, ACF Industries, First Empire State, Texaco bonds, RJR Nabisco bonds. Mentioned on source pages only.
+- Period-specific topics: Tax Reform Act of 1986 details, zero-coupon bond issuance mechanics, NYSE listing process, Class B share recap mechanics, shareholder-designated contributions program, accounting rule changes for deferred tax / common-equity-at-market.
+- Disney: created a thin page because the Cap Cities exchange placed Berkshire substantially into Disney as 1996 began; subsequent letters will deepen.
+- Tony Nicely: deliberately not yet a standalone page; appears only in 1995. Folded into [[geico]] for now. Revisit if subsequent letters elevate him to shaping status.
+
+**Open threads:**
+- Dexter Shoe is framed in 1993 as "one of the best-managed companies Charlie and I have seen" but later letters reveal this assessment was incorrect — flag for entity page when Buffett admits the mistake.
+- Tony Nicely's role will likely warrant a standalone page once GEICO's 1996+ performance is ingested.
+- Champion International preferred converted in 1995; if subsequent letters develop the paper-industry framework further, may warrant a page.
+- The Class B share recapitalization will close in 1996; tracking will continue.
+
+**Net page count change:** 33 → 73 substantive pages (40 created + ~16 substantively updated). Within the spirit of scope discipline given that 1989 alone delivered the "Mistakes of the First 25 Years" canonical essay and 1995 closed three major acquisitions including the GEICO 100% buyout.
+
 ## [2026-05-25] ingest | berkshire-1985-letter
 
 User confirmed scope before writing: 4 new pages + targeted updates only, ~9 light updates. Discipline target met.

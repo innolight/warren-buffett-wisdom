@@ -2,10 +2,10 @@
 type: entity
 status: draft
 created: 2026-05-24
-updated: 2026-05-25
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter]
+updated: 2026-05-26
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1991-letter]
 tags: [consumer, confectionery, pricing-power, economic-goodwill, blue-chip]
-related: [[blue-chip-stamps]], [[economic-goodwill]], [[moat]]
+related: [[blue-chip-stamps]], [[economic-goodwill]], [[moat]], [[franchise-vs-business]], [[cigar-butts-vs-wonderful-businesses]]
 ---
 
 # See's Candies
@@ -50,6 +50,38 @@ The 1983 and 1984 letters identify two recurring issues:
 
 In 1984, See's introduced six candy bars to fight back against snack-vendor competition at non-holiday periods. Buffett continues to refuse the typical industry compromises (preservatives, freezing finished product) that would smooth production costs at the expense of quality.
 
+## The 1991 twenty-year retrospective
+
+The 1991 letter contains the canonical retrospective on See's as a wonderful-business case study. The acquisition arithmetic:
+
+- Sellers asked $40M (calculated on the full ownership Berkshire eventually attained).
+- Excess cash $10M → true asking $30M.
+- Buffett & Munger said $25M ceiling. "Fortunately, the sellers accepted our offer."
+
+Twenty-year results (1972 → 1991):
+
+| | 1972 | 1991 |
+| --- | ---: | ---: |
+| Sales | $29M | $196M |
+| Pre-tax profit | $4.2M | $42.4M |
+| Net worth (tangible) | $7M | $25M |
+
+Cumulative pre-tax profits distributed over 20 years: ~$410M. Cumulative reinvested capital: ~$18M.
+
+The framing: "We saw that the business had untapped pricing power. Otherwise, we were lucky twice over. First, the transaction was not derailed by our dumb insistence on a $25 million price. Second, we found Chuck Huggins. … We've made significant money in certain common stocks because of the lessons we learned at See's." ([[berkshire-1991-letter]])
+
+See's becomes the explicit reference point for the wonderful-business framework canonized in 1989 (see [[cigar-butts-vs-wonderful-businesses]]) and the franchise-vs-business essay of 1991 (see [[franchise-vs-business]]).
+
+## 1986-1995 operating updates
+
+- **1986:** Pounds up 2% — first non-decline in same-store volume in years. Profit margin maintained on minimal price increase.
+- **1987:** Volume record 25.1M pounds. 85% of profit earned in December. The Christmas-concentration intensifies.
+- **1988:** Volume record 25.1M pounds; 90% of full-year profits in December.
+- **1989:** 8% pound growth — first same-store gains in many years. Hal Riney advertising; tripled newspaper advertising vs. industry trend.
+- **1991:** Pre-tax margin record 21.6%. Volume dollars flat; pounds down 4% (late-year California recession). The 20-year retrospective written.
+
+## Sources discussing this entity
+
 ## Sources discussing this entity
 
 - [[berkshire-1977-letter]] — early framing: $4.2M → $12.6M earnings growth with little additional capital
@@ -58,9 +90,16 @@ In 1984, See's introduced six candy bars to fight back against snack-vendor comp
 - [[berkshire-1982-letter]] — pre-tax $23.9M; cited in stock-as-currency essay as "hard-to-match" business
 - [[berkshire-1983-letter]] — 12-year recap table; "price and value can differ" quote; cost-control issue raised
 - [[berkshire-1984-letter]] — cost-control progress; persistent same-store volume issue; seasonality detail
+- [[berkshire-1986-letter]] — same-store pounds flat for first time in years
+- [[berkshire-1987-letter]] — 25.1M pound record; 85% of profit earned in December; Chuck Huggins's customer-letters episode after culling 14 items
+- [[berkshire-1988-letter]] — 90% of profits in December
+- [[berkshire-1989-letter]] — 8% pound gain, first same-store gain in many years; advertising essay
+- [[berkshire-1991-letter]] — **the canonical 20-year retrospective**; $25M → $410M distributed pre-tax
 
 ## Related
 
 - [[economic-goodwill]] — See's is the canonical case study in enduring economic Goodwill with minimal tangible capital
 - [[moat]] — brand and customer-preference lock-in as one of the four moat archetypes
 - [[blue-chip-stamps]] — pre-1983 corporate parent
+- [[franchise-vs-business]] — See's is the textbook franchise example
+- [[cigar-butts-vs-wonderful-businesses]] — See's is the wonderful-business case study that taught Buffett the framework

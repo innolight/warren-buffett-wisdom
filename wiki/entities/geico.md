@@ -2,10 +2,10 @@
 type: entity
 status: draft
 created: 2026-05-24
-updated: 2026-05-25
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter]
-tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities]
-related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]], [[jack-byrne]]
+updated: 2026-05-26
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter]
+tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities, wholly-owned]
+related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]], [[jack-byrne]], [[lou-simpson]], [[lorimer-davidson]], [[franchise-vs-business]]
 ---
 
 # GEICO (Government Employees Insurance Company)
@@ -41,6 +41,12 @@ This is why GEICO does not violate [[turnarounds-seldom-turn]]: the underlying b
 | 1983 | $47.1M | $398.2M | Proportional redemption: Berkshire received $21M cash at the 6.9% inter-corporate dividend tax rate while keeping its 35% ownership unchanged |
 | 1984 | $45.7M | $397.3M | Market value flat while intrinsic value rose substantially — Buffett notes this as a normal multi-year recalibration |
 | 1985 | $45.7M | $596.0M | 6,850,000 shares; ~38% of GEICO. Underwriting weaker than GEICO's standards (private passenger auto and homeowners' industry-wide deterioration) but "far better than that of virtually all its major competitors." |
+| 1986 | $45.7M | $674.7M | Combined ratio 96.9; premium volume up 16%; share repurchases reduce shares outstanding 5.5%; Berkshire's ownership now ~41% |
+| 1988 | $45.7M | $849.4M | 44% of GEICO; California Proposition 103 a threat |
+| 1989 | $45.7M | $1,044.6M | 48% of GEICO |
+| 1992 | $45.7M | $2,226.3M | 48% of GEICO (post 5-for-1 split → 34.25M shares) |
+| 1995 | $45.7M | $2,393.2M | ~50% via continued GEICO buybacks; Berkshire never added to position 1980-1995 |
+| **Jan 1996** | **+$2.3B** | — | **Berkshire acquires remaining 50%; GEICO becomes wholly-owned** |
 
 ## Repurchases and proportional redemptions
 
@@ -53,6 +59,16 @@ GEICO is also the case study in shareholder-friendly capital allocation that run
 ## Earning power, dividend, and look-through
 
 The arithmetic illustrated repeatedly: GEICO paid Berkshire only ~$3M annually in dividends in the early 1980s, while Berkshire's share of GEICO's earning power was ~$20M+ — making GEICO one of the largest contributors to Berkshire's [[look-through-earnings]]. By 1984, Berkshire's 36% interest represented $320M of premium volume, more than double Berkshire's own direct insurance volume.
+
+## The 1996 100% acquisition
+
+End of 1995: Berkshire agreed to pay $2.3B for the half of GEICO it didn't own. Tony Nicely (34 years at GEICO; insurance side) and [[lou-simpson]] (investments) named as the two operating leaders going forward.
+
+The 1995 letter retells the 45-year history in full: Buffett's 1951 Saturday meeting with [[lorimer-davidson]]; the 1951 personal accumulation (350 shares, 65% of net worth); the 1952 sale at $15,259 (which would have been worth $1.3M by the 1970s); the 1976 Byrne-era rescue purchase; the steady compounding through the 1980s through GEICO's own buybacks rather than additional Berkshire purchases.
+
+The moat reaffirmed: "In business, I look for economic castles protected by unbreachable 'moats.' Thanks to Tony and his management team, GEICO's moat widened in 1995." Operating expense ratio pushed below 23.6% of premiums in 1995, nearly one percentage point below 1994.
+
+Lou Simpson's 1980-1995 GEICO equity returns: 22.8% annualized vs. S&P 15.7%. The 1995 letter elevates Simpson to explicit successor: "His presence on the scene assures us that Berkshire would have an extraordinary professional immediately available to handle its investments if something were to happen to Charlie and me."
 
 ## Operating leadership
 
@@ -71,6 +87,10 @@ The friendly-block-holder structural agreement that originated at GEICO — Berk
 - [[berkshire-1983-letter]] — combined ratio 96 vs. industry 111; proportional redemption mechanism
 - [[berkshire-1984-letter]] — "major, sustainable competitive advantage" language; market flat while intrinsic rises
 - [[berkshire-1985-letter]] — Byrne departs for FFIC; Snyder/Simpson succession; underwriting weaker than its own standards but better than industry on auto and homeowners deterioration
+- [[berkshire-1986-letter]] — combined ratio 96.9; "kind of moat that protects a valuable and much-sought-after business castle" language; Simpson's 7-year track record table first published
+- [[berkshire-1988-letter]] — California Proposition 103 threat discussed at length; "huge amount of economic goodwill at risk"
+- [[berkshire-1990-letter]] — operating at underwriting profit; effective cost of float "considerably less than zero"
+- [[berkshire-1995-letter]] — **the canonical retelling of the 45-year history**; 100% acquisition for $2.3B; Tony Nicely and Lou Simpson elevated; the Lorimer Davidson tribute
 
 ## Related
 
@@ -78,3 +98,6 @@ The friendly-block-holder structural agreement that originated at GEICO — Berk
 - [[commodity-business-economics]] — GEICO is the rare textbook exception
 - [[share-repurchases]] — GEICO's repurchase pattern through the 1980s is one of the cleanest case studies in shareholder-friendly capital allocation
 - [[look-through-earnings]] — GEICO is the single largest contributor in this era
+- [[lou-simpson]] — GEICO's investment manager from 1979; emerges as Berkshire investment-side successor
+- [[lorimer-davidson]] — the 1951 mentor whose Saturday afternoon was the origin of the entire arc
+- [[franchise-vs-business]] — GEICO is the textbook low-cost-operator-as-business that has built moats sufficient to act as a franchise

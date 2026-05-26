@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1985-letter]
+updated: 2026-05-26
+sources: [berkshire-1985-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1994-letter]
 tags: [compensation, options, capital-allocation, agency, owner-orientation]
-related: [[owner-orientation]], [[share-repurchases]], [[stock-as-acquisition-currency]], [[institutional-imperative]]
+related: [[owner-orientation]], [[share-repurchases]], [[stock-as-acquisition-currency]], [[institutional-imperative]], [[ralph-schey]], [[scott-fetzer]]
 ---
 
 # Incentive Compensation
@@ -89,9 +89,44 @@ There is a kinship to [[share-repurchases]]: in both cases the right answer requ
 
 > By accepting both the risks and the carrying costs that go with outright purchases, these managers truly walk in the shoes of owners.
 
+## The H.H. Brown system (1991)
+
+The 1991 H.H. Brown acquisition introduces what Buffett calls "one of the most unusual compensation systems I've encountered — but one that warms my heart":
+
+> A number of key managers are paid an annual salary of $7,800, to which is added a designated percentage of the profits of the company after these are reduced by a charge for capital employed. These managers therefore truly stand in the shoes of owners. In contrast, most managers talk the talk but don't walk the walk, choosing instead to employ compensation systems that are long on carrots but short on sticks (and that almost invariably treat equity capital as if it were cost-free). ([[berkshire-1991-letter]])
+
+Two structural features matter: (a) the *capital-charge* — incremental capital must earn above a hurdle to count for the manager; (b) the *symmetry* — managers bear capital cost the way owners do.
+
+> Managers eager to bet heavily on their abilities usually have plenty of ability to bet on.
+
+## The Ralph Schey arrangement at Scott Fetzer (1994 articulation)
+
+The 1994 letter contains the most complete Buffett treatment of the principle in practice — the Schey-Scott Fetzer compensation structure agreed in five minutes at the 1986 acquisition and unchanged since:
+
+> If Ralph can employ incremental funds at good returns, it pays him to do so: His bonus increases when earnings on additional capital exceed a meaningful hurdle charge. But our bonus calculation is symmetrical: If incremental investment yields sub-standard returns, the shortfall is costly to Ralph as well as to Berkshire. The consequence of this two-way arrangement is that it pays Ralph — and pays him well — to send to Omaha any cash he can't advantageously use in his business. ([[berkshire-1994-letter]])
+
+The principle Buffett articulates: **alignment is symmetric, not one-sided.** "In our book, alignment means being a partner in both directions, not just on the upside. Many 'alignment' plans flunk this basic test, being artful forms of 'heads I win, tails you lose.'"
+
+A cynic's diagnosis of typical stock options: "the combination of a ten-year option, a low dividend payout, and compound interest can provide lush gains to a manager who has done no more than tread water in his job."
+
+See [[ralph-schey]] and [[scott-fetzer]].
+
+## The 1992 stock-options-as-expense argument
+
+The 1992 letter extends the compensation framework to the accounting question. The lobby's three excuses: options are hard to value; expensing would injure start-ups; out-of-the-money options have no value at issuance.
+
+Buffett's counter: businesses incur costs when they deliver value of any form, not just when cash changes hands. Other items lacking pinpoint precision (depreciation, loan-loss provisions, insurance reserves) are routinely estimated and recorded. The reason options-expensing is resisted is not technical; it is that managements benefit from non-expensing.
+
+> If options aren't a form of compensation, what are they? If compensation isn't an expense, what is it? And, if expenses shouldn't go into the calculation of earnings, where in the world should they go? ([[berkshire-1992-letter]])
+
+The standing offer: "If you find a CEO who says his newly-issued options have little or no value, tell him to try us out." Berkshire would happily buy any out-of-the-money option for fair value.
+
 ## How it's discussed in sources
 
 - [[berkshire-1985-letter]] — debut; the savings-account analogy; the three structural fixes; Berkshire's six-feature alternative
+- [[berkshire-1991-letter]] — the H.H. Brown $7,800-base / capital-charged-bonus system; "stand in the shoes of owners"
+- [[berkshire-1992-letter]] — the stock-options-as-expense essay; the standing offer to buy options at fair value
+- [[berkshire-1994-letter]] — **the Schey-Scott Fetzer arrangement detailed**; symmetric incentives; "alignment in both directions, not just on the upside"
 
 ## Related
 
@@ -99,3 +134,5 @@ There is a kinship to [[share-repurchases]]: in both cases the right answer requ
 - [[share-repurchases]] — the same principle applied to capital return: retained earnings are not free
 - [[stock-as-acquisition-currency]] — the same intrinsic-value-vs-market-price logic surfaces; managers cite market unrealism when defending against outside bids, then use market prices when selling parts of the business to themselves
 - [[institutional-imperative]] — option-grant design is one of the classic forms in which the imperative operates
+- [[ralph-schey]] — the manager whose compensation arrangement is the textbook structure
+- [[scott-fetzer]] — the operating canvas for the 1994 treatment

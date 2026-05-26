@@ -2,10 +2,10 @@
 type: entity
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1983-letter, berkshire-1984-letter]
-tags: [retail, home-furnishings, low-cost-operator, berkshire]
-related: [[rose-blumkin]], [[berkshire-hathaway]], [[moat]]
+updated: 2026-05-26
+sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1992-letter, berkshire-1993-letter]
+tags: [retail, home-furnishings, low-cost-operator, berkshire, family-business]
+related: [[rose-blumkin]], [[berkshire-hathaway]], [[moat]], [[borsheims]]
 ---
 
 # Nebraska Furniture Mart
@@ -40,6 +40,17 @@ Mrs. B's compressed version: **"Sell cheap and tell the truth."**
 - **1983:** Berkshire acquires 90% for $55M.
 - **1983 (one store):** sales >$100M.
 - **1984:** sales $115M; Mrs. B receives an honorary doctorate from NYU at age 91.
+- **1986:** sales $132M (+10.2%); Mrs. B at 93, still seven days a week.
+- **1987:** sales $142.6M (+8%); Buffett scraps mandatory retirement-at-100 policy.
+- **1988:** Borsheim's jewelry store acquired from the Blumkin-Friedman family branch — extension of the same operating philosophy.
+- **1989:** Mrs. B leaves over a carpet-department dispute and opens a competing operation next door. The 1989 letter sides with the rest of the Blumkin family on the merits of the dispute.
+- **1992:** Mrs. B (now 99) sells her building and land back to NFM; signs a non-compete; carpet operation continues in the same building, with NFM operating alongside. "I, having been incautious on this point when she was 89, snapped at the deal."
+- **1993:** Mrs. B's 100th birthday, December 3. Store was open that evening; she postpones the party until a closed-evening.
+- **1995:** Sales $200M; opening of the Mega Mart (electronics, appliances, computers, CD's, cameras, audio) on the 64-acre site.
+
+## The 1995 synergy reversal
+
+Notable 1990 anecdote that runs counter to Buffett's standard critique of "synergy" claims: NFM placed a See's candy cart inside the store late in 1990 and sold more candy than some full-fledged See's stores in California. Buffett's framing: "In Berkshire's first synergistic explosion … With the Blumkins, though, the impossible is routine." ([[berkshire-1990-letter]])
 
 ## The acquisition deal
 
@@ -49,9 +60,17 @@ The transaction itself is the canonical case study in trust-as-deal-economics: "
 
 - [[berkshire-1983-letter]] — acquisition; Mrs. B's biography; "I'd rather wrestle grizzlies than compete with Mrs. B and her progeny"
 - [[berkshire-1984-letter]] — financial detail vs. Levitz; the four "Blumkin secrets"; the no-audit, no-inventory closing
+- [[berkshire-1986-letter]] — sales $132M; "Mrs. B, Chairman of Nebraska Furniture Mart, continues at age 93 to outsell and out-hustle any manager I've ever seen"
+- [[berkshire-1987-letter]] — sales $142.6M; Mrs. B 94; mandatory-retirement-at-100 policy scrapped; the "Sell cheap and tell the truth" maxim canonized
+- [[berkshire-1988-letter]] — Borsheim's acquired from the Blumkin-Friedman branch
+- [[berkshire-1989-letter]] — Mrs. B leaves over carpet dispute; opens competing operation next door
+- [[berkshire-1990-letter]] — sales $159M; operating costs 15%; NFM's See's-candy-cart "synergy" surprise
+- [[berkshire-1992-letter]] — Mrs. B returns; sells building back to NFM; signs non-compete at 99
+- [[berkshire-1993-letter]] — Mrs. B's 100th birthday; sales $200M
 
 ## Related
 
 - [[rose-blumkin]] — founder, still on the sales floor seven days a week into her 90s
 - [[moat]] — NFM's wide-and-sustainable cost advantage is the operational template
 - [[acquisition-criteria]] — the $55M deal meets all six points published in [[berkshire-1982-letter]]
+- [[borsheims]] — sister-family operation acquired 1988; same operating philosophy

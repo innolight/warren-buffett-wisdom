@@ -2,10 +2,10 @@
 type: entity
 status: draft
 created: 2026-05-24
-updated: 2026-05-25
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter]
+updated: 2026-05-26
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter]
 tags: [berkshire, holding-company, insurance]
-related: [[warren-buffett]], [[charlie-munger]], [[national-indemnity]], [[blue-chip-stamps]], [[scott-fetzer]]
+related: [[warren-buffett]], [[charlie-munger]], [[national-indemnity]], [[blue-chip-stamps]], [[scott-fetzer]], [[geico]], [[salomon]]
 ---
 
 # Berkshire Hathaway Inc.
@@ -35,6 +35,16 @@ Two structural events in this 1980–1984 stretch reshape the corporate form:
 | 1983 | $975.83 | 19-year compound 22.6%; book value used as conservative proxy for intrinsic value |
 | 1984 | $1,108.77 | 20-year compound 22.1% |
 | 1985 | $1,643.71 | 21-year compound 23.2%; 48.2% single-year gain (the "Halley's Comet" year) — driven primarily by securities sales (General Foods to Philip Morris) and recognition of franchise values |
+| 1986 | $2,073.06 | 22-year compound 23.3%; Fechheimer acquired |
+| 1987 | $2,477.47 | 23-year compound 23.1%; Salomon $700M preferred; Sainted Seven coined |
+| 1988 | $2,974.52 | 24-year compound 23.0%; Coca-Cola first major; NYSE listing |
+| 1989 | $4,296.01 | 25-year compound 23.8%; +44.4% year; three convertible preferreds |
+| 1990 | $4,612.06 | 26-year compound 23.2%; Wells Fargo accumulated in panic |
+| 1991 | $6,437.00 | 27-year compound 23.7%; +39.6% year; Salomon crisis |
+| 1992 | $7,745.00 | 28-year compound 23.6% |
+| 1993 | $8,854.00 | 29-year compound 23.3%; Dexter Shoe acquired |
+| 1994 | $10,083.00 | 30-year compound 23.0% |
+| 1995 | $14,426.00 | 31-year compound 23.6%; +45% year; three acquisitions (Helzberg's, R.C. Willey, GEICO) |
 
 Notably, share count grew only from 1,137,778 (1965) to 1,146,909 (1983, post-Blue Chip merger) — under 1% net dilution over 19 years while adding everything outside the original textile business. The 1983 letter highlights this directly.
 
@@ -82,6 +92,36 @@ Also: Berkshire's insurance premium volume more than tripled in 1985 off a long 
 
 A further structural shift noted in 1985: **Berkshire's market price had stopped trading at a discount to intrinsic value** and was occasionally at a modest premium. Buffett flags this as "bad news for the new or prospective owner" — the elimination of the discount means future returns to a new entrant cannot match future business performance unless the discount stays absent or widens to a premium.
 
+## 1986-1995 — the modern-portfolio era
+
+This decade is when Berkshire becomes Berkshire as the public recognizes it. Five structural shifts:
+
+1. **Portfolio reorients around global consumer franchises.** Coca-Cola ($1B+ in 1988-89, $7.4B by 1995), Gillette ($600M preferred 1989 → $2.5B common 1995), American Express ($300M PERC 1991 → $2B common 1995), Wells Fargo ($290M 1990 → $1.5B 1995). The earlier permanent-three (Cap Cities, GEICO, WaPo) is broadened into a permanent-seven.
+
+2. **Insurance becomes the dominant engine.** Float grows from $0.8B (1986) to $3.6B (1995); super-cat reinsurance (architected by [[ajit-jain]]) becomes a defining Berkshire line. Cost of float negative in three of the last three years.
+
+3. **GEICO comes home.** Started as marketable stake (1976); grown to ~50% via GEICO's own buybacks; taken to 100% for $2.3B end of 1995. See [[geico]].
+
+4. **Wholly-owned-business acquisitions accelerate.** Fechheimer 1986; Borsheim's 1989; H.H. Brown 1991; Central States Indemnity 1992; Lowell 1992; Dexter 1993; Helzberg's 1995; R.C. Willey 1995. Most are family-controlled "Blumkin-Friedman-Heldman mold" acquisitions.
+
+5. **Salomon crisis (1991-92).** Buffett's ten-month service as Interim Chairman. See [[salomon]]. The episode becomes the canonical Buffett-on-reputation case.
+
+## NYSE listing (1988) and Class B share recapitalization (1996)
+
+November 29, 1988: Berkshire lists on the NYSE. The 1988 letter articulates the unusual goals — trade at intrinsic value (not above or below); minimize trading activity; attract long-term-owner shareholder base.
+
+The 1995-proposed Class B recapitalization extends the same shareholder-base engineering. Each Class B share = 1/30th the economic interest of A, 1/200th the voting rights, no eligibility for the shareholder-designated contributions program. Designed to defeat third-party "Berkshire clone" unit trusts being marketed at high commissions.
+
+## Owner's manual extended
+
+The 1983 13-principle framework continues to govern. The 1993 letter adds the explicit three-modes corporate-governance essay (no controlling holder; controlling-holder-as-CEO; controlling-holder separate from management). Berkshire is currently in mode 2; planned transition to mode 3 after Buffett's death.
+
+## Operating units expanded (1995)
+
+- **Insurance Group** — National Indemnity, homestate operations, GEICO (100% from 1996), super-cat (Ajit Jain), Central States Indemnity (1992).
+- **Sainted Seven Plus One** (1989 → expanded) — Buffalo News, Fechheimer, Kirby, NFM, Scott Fetzer Manufacturing, See's, World Book, Borsheim's. Plus by 1995: H.H. Brown / Lowell / Dexter (shoe group), Helzberg's, R.C. Willey.
+- **Finance subsidiaries** — Mutual Savings & Loan, Scott Fetzer Financial, Wesco (insurance and other).
+
 ## Sources discussing this entity
 
 - [[berkshire-1977-letter]] — establishes ROE-as-yardstick framing; documents the textile-to-insurance capital migration
@@ -91,3 +131,13 @@ A further structural shift noted in 1985: **Berkshire's market price had stopped
 - [[berkshire-1983-letter]] — owner's manual published; Blue Chip merger; ~1% net share dilution over 19 years highlighted
 - [[berkshire-1984-letter]] — 20-year compound 22.1%; "academic voice giving way to reportorial voice" on the drag of size
 - [[berkshire-1985-letter]] — 21-year compound 23.2%; Halley's Comet 48.2% year; textile shutdown; Cap Cities/ABC commitment; Scott & Fetzer acquisition; Fireman's Fund quota-share; General Foods sold; market price no longer at a discount to intrinsic value
+- [[berkshire-1986-letter]] — Fechheimer; owner-earnings Appendix; Tax Reform Act
+- [[berkshire-1987-letter]] — Salomon $700M preferred; Sainted Seven; Mr. Market; capital allocation essay
+- [[berkshire-1988-letter]] — Coca-Cola; Borsheim's; NYSE listing
+- [[berkshire-1989-letter]] — three convertible preferreds; +44.4% year; Mistakes of First 25 Years
+- [[berkshire-1990-letter]] — Wells Fargo; cost-of-float framework
+- [[berkshire-1991-letter]] — franchise-vs-business; H.H. Brown; Salomon crisis
+- [[berkshire-1992-letter]] — Central States; General Dynamics; Salomon recovery
+- [[berkshire-1993-letter]] — Dexter Shoe; risk-vs-beta; corporate-governance essay
+- [[berkshire-1994-letter]] — Scott Fetzer case study; compensation; capital allocation; USAir post-mortem
+- [[berkshire-1995-letter]] — three acquisitions; Disney/Cap Cities; Class B recap; the canonical GEICO retelling

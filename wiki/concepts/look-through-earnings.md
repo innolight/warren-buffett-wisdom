@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-24
-updated: 2026-05-25
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter]
+updated: 2026-05-26
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter]
 tags: [accounting, equities, capital-allocation, intrinsic-value]
-related: [[warren-buffett]], [[acquisition-criteria]], [[intrinsic-value-vs-book-value]]
+related: [[warren-buffett]], [[acquisition-criteria]], [[intrinsic-value-vs-book-value]], [[owner-earnings]], [[coca-cola]]
 ---
 
 # Look-Through Earnings
@@ -50,6 +50,41 @@ By 1983, look-through earnings are explicitly part of the owner's-manual framewo
 
 By 1984, Buffett estimates 1984 reported dividends from non-controlled holdings at ~$39M; total attributable retained earnings approximately $65M — together a substantial multiple of Berkshire's own controlled-business operating earnings.
 
+## The 1990 explicit calculation method
+
+The 1990 letter is the first time the look-through calculation is laid out in tabular form. The method:
+
+> Look-through earnings consist of: (1) the operating earnings reported in the previous section, plus; (2) the retained operating earnings of major investees that, under GAAP accounting, are not reflected in our profits, less; (3) an allowance for the tax that would be paid by Berkshire if these retained earnings of investees had instead been distributed to us. ([[berkshire-1990-letter]])
+
+The 1994 calculation (illustrating the format):
+
+| Investee | Ownership | Undistributed earnings (Berkshire's share, $M) |
+| --- | ---: | ---: |
+| American Express | 5.5% | 25 |
+| Cap Cities/ABC | 13.0% | 85 |
+| Coca-Cola | 7.8% | 116 |
+| Freddie Mac | 6.3% | 47 |
+| Gannett | 4.9% | 4 |
+| GEICO | 50.2% | 63 |
+| Gillette | 10.8% | 51 |
+| PNC Bank | 8.3% | 10 |
+| Washington Post | 15.2% | 18 |
+| Wells Fargo | 13.3% | 73 |
+| **Total undistributed** | | **$492M** |
+| Less hypothetical tax (14%) | | (68) |
+| Plus reported operating earnings | | 606 |
+| **= Look-through earnings** | | **$1,030M** |
+
+The 14% hypothetical tax rate is the property-casualty insurer dividends-received deduction rate. The target growth rate Buffett commits to: ~15% annual look-through-earnings growth implies intrinsic-value compounding at that rate.
+
+## Where look-through earnings appear strongest
+
+Look-through earnings dominate reported earnings when investees retain earnings at high returns on capital. The Coca-Cola case is the canonical illustration of how a small dividend hides a large attributable-earnings contribution. The 1990 letter's framing:
+
+> When Coca-Cola uses retained earnings to repurchase its shares, the company increases our percentage ownership in what I regard to be the most valuable franchise in the world. (Coke also, of course, uses retained earnings in many other value-enhancing ways.) Instead of repurchasing stock, Coca-Cola could pay those funds to us in dividends, which we could then use to purchase more Coke shares. That would be a less efficient scenario … If this less efficient procedure were followed, however, Berkshire would report far greater "earnings."
+
+See [[coca-cola]].
+
 ## How it's discussed in sources
 
 - [[berkshire-1977-letter]] — introduced via Capital Cities: $10.9M invested; ~$1.3M attributable earnings; only $40,000 cash dividend in reported operating earnings
@@ -58,6 +93,12 @@ By 1984, Buffett estimates 1984 reported dividends from non-controlled holdings 
 - [[berkshire-1981-letter]] — four companies (GEICO, General Foods, R.J. Reynolds, Washington Post) projected to contribute >$35M of undistributed-earnings to Berkshire's economic-earnings figure in 1982
 - [[berkshire-1982-letter]] — economic-vs-accounting earnings formally distinguished; "manic-depressive lemmings"; "St. Offset"
 - [[berkshire-1983-letter]] — codified as principle #6 of the owner's manual; ~$65M projected 1984 retained earnings attributable
+- [[berkshire-1989-letter]] — explicit articulation as the central look-through framework; "look-through" earnings named
+- [[berkshire-1990-letter]] — **explicit tabular calculation method** introduced; 15% annual growth target
+- [[berkshire-1991-letter]] — first year of look-through-earnings *decline* (-14%); explanatory transparency about Gillette preferred conversion and Wells Fargo break-even year
+- [[berkshire-1992-letter]] — $604M look-through; the "$1.8B by 2000" target
+- [[berkshire-1993-letter]] — $856M look-through; ~$439M from investees; Cap Cities retained-earnings illustration explicit
+- [[berkshire-1994-letter]] — $1,030M look-through (target met early); cautionary note that super-cat results lifted reported earnings above trend
 
 ## Related
 

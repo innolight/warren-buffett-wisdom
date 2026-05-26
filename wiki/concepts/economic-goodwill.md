@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1983-letter, berkshire-1985-letter]
+updated: 2026-05-26
+sources: [berkshire-1983-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1994-letter]
 tags: [valuation, goodwill, moat, business-quality]
-related: [[intrinsic-value-vs-book-value]], [[moat]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]]
+related: [[intrinsic-value-vs-book-value]], [[moat]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]], [[owner-earnings]], [[franchise-vs-business]], [[scott-fetzer]]
 ---
 
 # Economic Goodwill
@@ -64,6 +64,8 @@ The result: enduring economic Goodwill is the principal *defense against inflati
 - [[berkshire-1983-letter]] — debut; the Appendix ("Goodwill and its Amortization: The Rules and The Realities"); the explicit acknowledgment of evolving past Graham's tangible-asset preference
 - [[berkshire-1984-letter]] — Section on dividend policy refers back: "companies with a core business characterized by extraordinary economics can use small amounts of incremental capital in that business at very high rates of return (as was discussed in last year's section on Goodwill)"
 - [[berkshire-1985-letter]] — the three-business arithmetic ($8M → $72M on $40M of additional capital vs. ~$300M required at corporate-average ratios); the rocking-chair savings-account corollary
+- [[berkshire-1986-letter]] — Scott Fetzer purchase-accounting Appendix uses economic-vs-accounting Goodwill distinction operationally
+- [[berkshire-1994-letter]] — Scott Fetzer eight-year case study: book value declines while underlying earning power doubles — the economic-Goodwill compounding in real time
 
 ## Related
 
@@ -72,3 +74,6 @@ The result: enduring economic Goodwill is the principal *defense against inflati
 - [[sees-candies]] — Buffett's recurring case study; high return on minimal tangible capital
 - [[ben-graham]] — the framework Buffett is escaping
 - [[charlie-munger]] — widely associated with pushing Buffett toward this view
+- [[owner-earnings]] — the operating-period earnings framework (1986) that makes economic-Goodwill compounding visible in real time
+- [[franchise-vs-business]] — the 1991 formalization that builds on the economic-Goodwill framework
+- [[scott-fetzer]] — the canonical 1994 case study of economic-Goodwill compounding while accounting book value declines

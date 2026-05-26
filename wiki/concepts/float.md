@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-24
-updated: 2026-05-25
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter]
+updated: 2026-05-26
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter]
 tags: [insurance, capital-allocation, berkshire]
-related: [[national-indemnity]], [[berkshire-hathaway]], [[geico]]
+related: [[national-indemnity]], [[berkshire-hathaway]], [[geico]], [[super-cat-insurance]], [[ajit-jain]]
 ---
 
 # Float
@@ -53,9 +53,52 @@ Two implications for thinking about float:
 - **The same float that funds compounding can disguise a hollowed-out balance sheet.** Cash flow lags solvency by years.
 - **Conservative reserving is itself a competitive feature.** A balance sheet honest about its liabilities is rare enough in long-tail insurance to become a moat — the 1984 letter's framing of Berkshire's "premier financial strength" as the operational asset behind structured settlements and loss-reserve assumption businesses.
 
+## The cost-of-float framework (canonized 1990)
+
+By the 1990 letter, Buffett formalizes a measurement framework that becomes the recurring Berkshire insurance scorecard for every subsequent letter. The framework reframes insurance not by combined ratio but by the **effective cost of the funds the business generates**:
+
+> The cost of float is determined by our underwriting loss or profit. … An insurance business is profitable over time if its cost of float is less than the cost the company would otherwise incur to obtain funds. But the business has a negative value if the cost of its float is higher than market rates for money.
+
+The 1967-1995 table (canonical in [[berkshire-1990-letter]], [[berkshire-1991-letter]], [[berkshire-1993-letter]], [[berkshire-1994-letter]], [[berkshire-1995-letter]]):
+
+| Year | Underwriting loss | Avg. float ($M) | Cost of funds | Long-term Govt. yield |
+| ---: | ---: | ---: | ---: | ---: |
+| 1967 | profit | 17.3 | <0 | 5.50% |
+| 1975 | $11.4M | 87.6 | 12.96% | 8.03% |
+| 1980 | profit | 237.0 | <0 | 11.94% |
+| 1985 | $44.2M | 390.2 | 11.34% | 9.34% |
+| 1990 | $26.7M | 1,637.3 | 1.63% | 8.24% |
+| 1991 | $119.6M | 1,895.0 | 6.31% | 7.40% |
+| 1992 | $109.0M | 2,290.4 | 4.76% | 7.39% |
+| 1993 | profit | 2,624.7 | <0 | 6.35% |
+| 1994 | profit | 3,056.6 | <0 | 7.88% |
+| 1995 | profit | 3,607.2 | <0 | 5.95% |
+
+In 19 of the first 24 years (and growing) since Berkshire entered insurance, the cost of float was below the U.S. government's cost of long-term funds. Three consecutive negative-cost years 1993-1995.
+
+Two qualifications Buffett notes:
+1. **The fat lady has yet to gargle.** True 1967-95 cost of funds won't be knowable until all loss reserves settle decades later.
+2. **The tax penalty on indirect investment income.** Adds ~1 percentage point to the effective cost for shareholders. Direct investments would be more tax-efficient.
+
+## Float-as-equity (1995)
+
+The 1995 letter develops the structural framing further: float that costs essentially nothing is functionally equivalent to equity, for the purposes of supporting an asset base. The counterfactual:
+
+> Since our float has cost us virtually nothing over the years, it has in effect served as equity. Of course, it differs from true equity in that it doesn't belong to us. Nevertheless, let's assume that instead of our having $3.4 billion of float at the end of 1994, we had replaced it with $3.4 billion of equity. … We would have had somewhat lower earnings because the cost of float was negative last year. … And, of course, to obtain the replacement equity, we would have needed to sell many new shares of Berkshire. The net result — more shares, equal assets and lower earnings — would have materially reduced the value of our stock. ([[berkshire-1995-letter]])
+
+The framework: any company's profitability is determined by (1) what its assets earn, (2) what its liabilities cost, and (3) the leverage ratio of liabilities to equity. Berkshire is exceptional on all three, but most distinctively on (2) — and the framing here is the clean articulation of why.
+
+## Super-cat as the principal driver of float growth (1989-1995)
+
+Berkshire's float grows from $0.8B (1986) to $3.6B (1995). The principal driver is the super-cat reinsurance franchise built by [[ajit-jain]] from 1986 onward. Super-cat policies typically generate large float-per-premium ratios (premium paid up-front, losses contingent on multi-year-frequency events).
+
+See [[super-cat-insurance]].
+
 ## Related
 
 - [[tailwinds-vs-headwinds]] — insurance, done well, is the canonical tailwind business
 - [[institutional-imperative]] — the industry's collective failure to price soft markets honestly is what makes the cost of float move
 - [[bonds-and-inflation]] — float deployed in long bonds in inflation creates the asset-maintenance underwriting trap
 - [[geico]] — the canonical low-cost-operator counter-example whose disciplined float exploits these structural fragilities
+- [[super-cat-insurance]] — the franchise built post-1989 that becomes the principal driver of float growth
+- [[ajit-jain]] — the underwriter whose judgment makes the super-cat franchise possible

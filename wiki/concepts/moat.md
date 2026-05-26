@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter]
+updated: 2026-05-26
+sources: [berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1993-letter, berkshire-1995-letter]
 tags: [competitive-advantage, business-quality, moat]
-related: [[economic-goodwill]], [[commodity-business-economics]], [[tailwinds-vs-headwinds]]
+related: [[economic-goodwill]], [[commodity-business-economics]], [[tailwinds-vs-headwinds]], [[franchise-vs-business]], [[coca-cola]], [[gillette]]
 ---
 
 # Moat
@@ -40,11 +40,36 @@ And one operational/operator example:
 - **A brilliant manager alone.** Buffett's 1981 framing: managerial superstars are rare; even where present, "with few exceptions, when a management with a reputation for brilliance tackles a business with a reputation for poor fundamental economics, it is the reputation of the business that remains intact." Managerial brilliance can be additive *to* a moat, not a substitute for one.
 - **A current cost advantage with no structural protection.** Width without sustainability.
 
+## The "castle and moat" image (1986 onward)
+
+The 1986 letter gives the moat its canonical metaphorical form, applied to GEICO:
+
+> The difference between GEICO's costs and those of its competitors is a kind of moat that protects a valuable and much-sought-after business castle. No one understands this moat-around-the-castle concept better than Bill Snyder, Chairman of GEICO. He continually widens the moat by driving down costs still more, thereby defending and strengthening the economic franchise. ([[berkshire-1986-letter]])
+
+The castle-and-moat image then appears repeatedly. By the 1993 letter, it is the standard frame for Coca-Cola and Gillette:
+
+> The might of their brand names, the attributes of their products, and the strength of their distribution systems give them an enormous competitive advantage, setting up a protective moat around their economic castles. ([[berkshire-1993-letter]])
+
+And the 1995 letter on GEICO's centennial:
+
+> In business, I look for economic castles protected by unbreachable "moats." Thanks to Tony and his management team, GEICO's moat widened in 1995. ([[berkshire-1995-letter]])
+
+## Global brand-and-distribution as the fifth signature (1993)
+
+The 1993 risk-vs-beta essay extends the moat-signature inventory to a fifth structural form: **dominant global market share in a brand-and-distribution-heavy consumer product.** Coca-Cola at 44% of worldwide soft drinks, Gillette at 60% of worldwide razor/blade value. The empirical signature is share that *increases* over time despite continuous competitive attack — a sign that the structural advantages compound rather than decay.
+
+The combination of brand, product attributes, and distribution as three reinforcing barriers is structurally similar to the four 1980-84 signatures (low-cost producer, brand lock-in, dominant local franchise, low-cost operator culture) — but operates at global rather than local scale, and produces wider and more durable margins than the local signatures because the customer relationship is harder to disrupt.
+
+See [[coca-cola]], [[gillette]], and [[franchise-vs-business]] for the linked frameworks.
+
 ## How it's discussed in sources
 
 - [[berkshire-1982-letter]] — first articulation; "cost advantage that is both wide and sustainable" as the only durable escape from commodity-industry economics; GEICO as the example
 - [[berkshire-1983-letter]] — penetration ratio as the empirical signature of a newspaper moat; See's pricing power as the empirical signature of a confectionery moat
 - [[berkshire-1984-letter]] — GEICO's cost advantage explicitly named a "major, sustainable competitive advantage"; the rented-suit / loss-reserving discussion identifies financial strength as a moat in long-tail insurance lines
+- [[berkshire-1986-letter]] — **the castle-and-moat metaphor in canonical form**, applied to GEICO; "kind of moat that protects a valuable and much-sought-after business castle"
+- [[berkshire-1993-letter]] — extended to global consumer franchises; Coca-Cola and Gillette as "moats around economic castles"
+- [[berkshire-1995-letter]] — restated at the 100% GEICO acquisition: "economic castles protected by unbreachable moats"
 
 ## Related
 
@@ -52,3 +77,5 @@ And one operational/operator example:
 - [[commodity-business-economics]] — the industry-structure framing the moat protects against
 - [[tailwinds-vs-headwinds]] — the broader industry-structure framework
 - [[geico]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]] — the four canonical case studies in this era
+- [[coca-cola]], [[gillette]] — the global consumer-brand fifth-signature additions to the moat catalog
+- [[franchise-vs-business]] — the formalized 1991 framework that emerges from moat-thinking

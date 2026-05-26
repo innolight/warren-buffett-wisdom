@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-24
-updated: 2026-05-25
-sources: [berkshire-1979-letter, berkshire-1980-letter, berkshire-1983-letter]
+updated: 2026-05-26
+sources: [berkshire-1979-letter, berkshire-1980-letter, berkshire-1983-letter, berkshire-1989-letter, berkshire-1994-letter]
 tags: [capital-allocation, business-quality, acquisition]
-related: [[tailwinds-vs-headwinds]], [[acquisition-criteria]], [[geico]]
+related: [[tailwinds-vs-headwinds]], [[acquisition-criteria]], [[geico]], [[cigar-butts-vs-wonderful-businesses]], [[usair]]
 ---
 
 # Turnarounds Seldom Turn
@@ -54,6 +54,8 @@ The corollary: even when management is honest and competent, throwing capital at
 - [[berkshire-1979-letter]] — debut; Waumbec Mills as the explicit case study; Buffett acknowledges the mistake directly and draws the principle from it
 - [[berkshire-1980-letter]] — the franchise-vs-turnaround distinction; GEICO and 1964 American Express as the contrast cases
 - [[berkshire-1983-letter]] — the corollary on capital expenditure: don't fund turnarounds from within either
+- [[berkshire-1989-letter]] — "Mistakes of the First 25 Years" essay restates the principle as cigar-butts-vs-wonderful-businesses; Hochschild Kohn as the case study companion to Waumbec
+- [[berkshire-1994-letter]] — USAir post-mortem; commodity-business economics; "the same energies … are much better employed in a good business purchased at a fair price"
 
 ## Related
 
@@ -62,3 +64,5 @@ The corollary: even when management is honest and competent, throwing capital at
 - [[geico]] — the canonical not-a-turnaround case
 - [[dividend-policy]] — the retention-side analogue
 - [[passive-ownership-advantage]] — the inverse lesson: buying a great business even at a full price, passively, can be better than buying a poor business cheaply with control
+- [[cigar-butts-vs-wonderful-businesses]] — the 1989 canonical restatement of the principle, now centered on the time-as-enemy-of-the-mediocre framing
+- [[usair]] — the 1989-94 case study; "unforced error" version of the same lesson at a different scale

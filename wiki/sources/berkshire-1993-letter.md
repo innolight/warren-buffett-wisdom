@@ -1,0 +1,155 @@
+---
+type: source
+status: draft
+created: 2026-05-25
+updated: 2026-05-25
+source_type: annual-letter
+author: warren-buffett
+year: 1993
+raw_path: raw/berkshire-letters/1993.md
+tags: [berkshire, annual-letter, risk-vs-beta, concentration, dexter, taxes-li-l-abner, governance]
+related: [[warren-buffett]], [[berkshire-hathaway]], [[risk-vs-volatility]], [[concentration-vs-diversification]], [[mistakes-of-omission]]
+---
+
+# Berkshire Hathaway 1993 Annual Letter
+
+Dated March 1, 1994. Per-share book value up 14.3% to $8,854. Market price up 39% — outpacing intrinsic value. Two new accounting rules adopted (deferred-tax recalculation; common stock at market for non-insurance subs). Dexter Shoe acquired (November 7) via stock issuance — Berkshire's first major stock-issuance acquisition since 1978. Three canonical essays: **risk-vs-beta**, **concentration-vs-diversification**, and **corporate-governance modes**. Plus the **Li'l Abner / tax-deferral** essay and Cap Cities sale (10M shares) — a [[mistakes-of-omission]] retrospective in the making.
+
+## Key themes
+
+- **Risk-vs-beta essay.** Buffett's most fully developed rejection of academic risk-as-volatility. The five-factor framework; Washington Post inversion-of-sign example; pet-rocks-vs-Monopoly toys; Coca-Cola/Gillette as durable-franchise illustrations. "It is better to be approximately right than precisely wrong." See [[risk-vs-volatility]].
+- **Concentration vs. diversification.** Know-nothing investor → index fund; know-something investor → concentrate. Mae West: "Too much of a good thing can be wonderful." See [[concentration-vs-diversification]].
+- **Corporate-governance modes essay.** Three cases: (1) no controlling shareholder (most common); (2) controlling shareholder is also CEO (Berkshire); (3) controlling shareholder not in management (Hershey, Dow Jones). Implications for outside directors.
+- **Dexter Shoe acquired.** Harold Alfond and Peter Lunder. $315M purchase, paid in 25,203 Berkshire shares. The third "shoe group" addition (H.H. Brown 1991; Lowell 1992; Dexter 1993). At the time framed as "one of the best-managed companies Charlie and I have seen in our business lifetimes." (Subsequent letters reveal this assessment was incorrect — Dexter becomes a canonical mistake later.)
+- **Li'l Abner tax-deferral essay.** $1 doubled 20 times = $1,048,576; with single position and final 35% tax = $130M. With annual realization at 35% tax = $25,250. The structural edge of long-hold strategies.
+- **Cap Cities sale (10M shares at $63).** Reduces ownership; foregone gain by yearend 1994 = $222.5M (becomes ~$1.27B by Disney exchange). The 1994 mistake-du-jour subject. See [[mistakes-of-omission]].
+- **Cost of float negative for first time.** $31M underwriting profit; "less than zero" cost of $2.625B float. See [[float]].
+
+## Notable quotes
+
+> In the short-run, the market is a voting machine — reflecting a voter-registration test that requires only money, not intelligence or emotional stability — but in the long-run, the market is a weighing machine. [Buffett quoting Graham.]
+
+> In fact, the true investor welcomes volatility. … The more manic-depressive [Mr. Market] is, the greater the opportunities available to the investor.
+
+> The real risk that an investor must assess is whether his aggregate after-tax receipts from an investment (including those he receives on sale) will, over his prospective holding period, give him at least as much purchasing power as he had to begin with, plus a modest rate of interest on that initial stake.
+
+> Is it really so difficult to conclude that Coca-Cola and Gillette possess far less business risk over the long term than, say, any computer company or retailer?
+
+> Stocks of companies selling commodity-like products should come with a warning label: "Competition may prove hazardous to human wealth." [Buffett quoting Peter Lynch.]
+
+> The might of their brand names, the attributes of their products, and the strength of their distribution systems give them an enormous competitive advantage, setting up a protective moat around their economic castles.
+
+> Why search for a needle buried in a haystack when one is sitting in plain sight?
+
+> Paradoxically, when "dumb" money acknowledges its limitations, it ceases to be dumb.
+
+> I cannot understand why an investor of that sort elects to put money into a business that is his 20th favorite rather than simply adding that money to his top choices.
+
+> Charlie and I decided long ago that in an investment lifetime it's just too hard to make hundreds of smart decisions. … Indeed, we'll now settle for one good idea a year. (Charlie says it's my turn.)
+
+> An investor should ordinarily hold a small piece of an outstanding business with the same tenacity that an owner would exhibit if he owned all of that business.
+
+## Risk vs. beta — substance
+
+The 1993 essay is the canonical rejection of beta as a measure of risk. The two-part argument:
+
+1. **Beta is logically inconsistent with how an owner thinks.** Lower price = lower beta-defined risk only if you assume the new lower price is correctly assessed by the market. But for an owner of the underlying business, a price decline makes the same business cheaper relative to earning power — lower-risk, not higher.
+
+2. **Beta ignores everything that matters.** Two toy companies with identical betas — pet rocks vs. Monopoly — have wildly different business risk. Beta has no mechanism to distinguish them.
+
+The substitute: a five-factor framework rooted in qualitative judgment about long-term business economics, management quality, owner-orientation of management, purchase price, and tax/inflation environment.
+
+See [[risk-vs-volatility]].
+
+## Concentration vs. diversification
+
+The know-nothing/know-something distinction. Index funds for the know-nothing; concentration in 5-10 well-understood businesses for the know-something. The defense: concentration reduces risk by raising the intensity of analysis and the comfort-level required to invest at all.
+
+Keynes 1934 letter referenced again. Berkshire's "one good idea a year" practice.
+
+See [[concentration-vs-diversification]].
+
+## Corporate-governance modes
+
+Three cases:
+- **No controlling shareholder.** Outside directors should act as if for an "absentee owner"; should be willing to oppose CEO; should escalate to absentee owners if not heeded. Few do.
+- **Controlling-shareholder-as-CEO** (Berkshire). Outside directors limited to persuasion; if unsatisfied, should resign.
+- **Controlling shareholder, separate from management** (Hershey, Dow Jones). Most effective governance structure — directors can escalate directly to engaged owner.
+
+Berkshire's planned transition: from case 2 to case 3 after Buffett's death, with his stock going to Susan (or after her, to a foundation). Howard Buffett added to board in 1993 to prepare the controlling-interest representation.
+
+## Cost of float — first negative year
+
+| Year | Underwriting | Avg float | Cost of funds | Long-term Govt. yield |
+| ---: | ---: | ---: | ---: | ---: |
+| 1993 | profit | $2,624.7M | less than zero | 6.35% |
+
+Super-cat year exceptionally lucky (Midwestern floods didn't trigger; California earthquake came in 1994). Tempered enthusiasm: "the true catastrophic Midwestern floods of 1993 did not trigger super-cat losses, the reason being that very few flood policies are purchased from private insurers."
+
+## Cap Cities partial sale
+
+Sold 10,000,000 shares (1/3 of holding) at $63/share = $630M. Buffett's framing in 1993 is muted; the 1994 letter calls it out as "silver medal" mistake of the year ($222.5M foregone by then); the 1995 Disney exchange reveals the full cost (~$1.27B in Disney shares for 10M Cap Cities shares vs. $635M Buffett received).
+
+See [[mistakes-of-omission]].
+
+## Dexter Shoe
+
+Acquired November 7, 1993. Harold Alfond (founded 1956 with $10K, started in shoe factories at age 20 for 25¢/hour); Peter Lunder (nephew). 7.5M pairs annually; 77 retail outlets; major golf-shoe producer (15% of U.S. output). Frank Rooney (H.H. Brown) introduced the deal.
+
+Paid in 25,203 Berkshire shares. The 1993 framing — "one of the best-managed companies Charlie and I have seen in our business lifetimes" — proves wrong over subsequent years; Dexter becomes a canonical mistake (the stock-issuance cost compounds even more than the business-quality misjudgment). The fuller mistake admission comes in later letters.
+
+## Li'l Abner tax math
+
+Dogpatch sage Old Man Mose: double your dollar 20 times. If done with single-position 35% tax in year 20: $130M. If done with annual realization and tax: $25,250. The math: long-hold strategy generates 5,200× the after-tax wealth of the same gross return strategy with frequent realization.
+
+## Portfolio (yearend 1993)
+
+| Shares | Holding | Cost | Market |
+| ---: | --- | ---: | ---: |
+| 2,000,000 | Cap Cities/ABC | $345.0M | $1,239.0M |
+| 93,400,000 | Coca-Cola | $1,023.9M | $4,168.0M |
+| 13,654,600 | Freddie Mac | $307.5M | $681.0M |
+| 34,250,000 | GEICO | $45.7M | $1,759.6M |
+| 4,350,000 | General Dynamics | $94.9M | $401.3M |
+| 24,000,000 | Gillette | $600.0M | $1,431.0M |
+| 38,335,000 | Guinness | $333.0M | $270.8M |
+| 1,727,765 | Washington Post | $9.7M | $440.1M |
+| 6,791,218 | Wells Fargo | $423.7M | $878.6M |
+
+Note: Cap Cities reduced from 3M to 2M shares; General Dynamics cost basis reduced (partial sale or dividend?); other positions essentially untouched.
+
+## Entities discussed
+
+- [[berkshire-hathaway]]
+- All portfolio holdings; permanent four; convertible preferreds
+- Dexter Shoe — acquired (not standalone)
+- General Dynamics — held
+
+## People mentioned
+
+- [[warren-buffett]], [[charlie-munger]], [[ben-graham]]
+- [[kay-graham]] — Washington Post retirement
+- Don Keough — Coke retirement (then unretired)
+- Frank Rooney — H.H. Brown / introduced Dexter
+- Harold Alfond, Peter Lunder — Dexter (folded into source page)
+- Howard Buffett — added to Berkshire board
+- [[ajit-jain]] — super-cat
+- [[lou-simpson]]
+
+## Concepts introduced or discussed
+
+- [[risk-vs-volatility]] — **canonical essay**
+- [[concentration-vs-diversification]] — **canonical essay**
+- [[mr-market]] — reprised
+- [[volatility-as-opportunity]] — canonical reprise
+- [[moat]] — "moat around their economic castles" — explicit reprise
+- [[mistakes-of-omission]] — Cap Cities sale (made explicit in 1994/1995 letters)
+- [[float]] — first negative-cost year
+
+## Connections to other sources
+
+- The risk-vs-beta essay extends the EMT critique of [[berkshire-1988-letter]].
+- The concentration essay extends the Keynes citation and "few large bets" framing of [[berkshire-1991-letter]].
+- The moat-around-castles language extends the moat framework of [[berkshire-1982-letter]]-[[berkshire-1985-letter]] applied to the Coca-Cola / Gillette franchises.
+- The Cap Cities partial sale becomes the centerpiece of the 1994 mistake-du-jour and the 1995 Disney-exchange retrospective.
+- Dexter Shoe will eventually become a canonical mistake; this letter is the initial enthusiastic framing.
