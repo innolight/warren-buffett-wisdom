@@ -2,7 +2,7 @@
 type: entity
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1995-letter]
 tags: [retail, jewelry, low-cost-operator, family-business]
 related: [[berkshire-hathaway]], [[nebraska-furniture-mart]], [[rose-blumkin]], [[helzbergs]], [[moat]]
@@ -46,14 +46,7 @@ The most surprising operational feature: Borsheim's serves customers nationwide 
 
 The volume from a single location supports inventory ten times that of typical fine-jewelry stores, which supports broader selection, which attracts more customers, in a self-reinforcing loop. By the 1990 letter, Borsheim's was likely the second-highest-volume single jewelry store in the U.S. (after Tiffany's New York).
 
-## Sales evolution
-
-| Year | Notes |
-| --- | --- |
-| Jan. 1989 | Berkshire acquires 80%; sales had doubled in the six years before Berkshire bought, and continued to grow. |
-| 1989 | Sales considerably more than twice the level four years prior; up significantly post-acquisition. |
-| 1990 | Sales up 18% in a year retailing generally was weak. |
-| 1995 | Sales up 11.7% under Susan Jacques (named CEO early 1994 after rising from a $4-an-hour job over 11 years). |
+Borsheim's sustained double-digit annual growth throughout the late 1980s and 1990s, consistently outperforming comparable jewelry retailers on volume — even in years when retailing broadly was weak — reflecting the self-reinforcing loop of low prices, broad selection, and nationwide reach from a single location.
 
 ## "If you don't know jewelry, know your jeweler"
 

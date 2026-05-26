@@ -2,13 +2,13 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 source_type: annual-letter
 author: warren-buffett
 year: 1988
 raw_path: raw/berkshire-letters/1988.md
 tags: [berkshire, annual-letter, coca-cola, borsheims, arbitrage, efficient-market-theory, nyse-listing]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[coca-cola]], [[borsheims]], [[mr-market]]
+related: [[warren-buffett]], [[berkshire-hathaway]], [[coca-cola]], [[borsheims]], [[mr-market]], [[charlie-munger]], [[capital-cities]], [[geico]], [[washington-post]], [[salomon]], [[national-indemnity]], [[scott-fetzer]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]], [[ben-graham]], [[david-dodd]], [[ajit-jain]], [[tom-murphy]], [[kay-graham]], [[lou-simpson]], [[concentration-vs-diversification]], [[risk-vs-volatility]], [[capital-allocation]], [[acquisition-criteria]]
 ---
 
 # Berkshire Hathaway 1988 Annual Letter

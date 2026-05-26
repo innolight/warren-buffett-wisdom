@@ -2,7 +2,7 @@
 type: entity
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 sources: [berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter]
 tags: [banking, low-cost-operator, marketable-equities, capital-allocation]
 related: [[berkshire-hathaway]], [[carl-reichardt]], [[volatility-as-opportunity]], [[moat]], [[institutional-imperative]]
@@ -11,6 +11,10 @@ related: [[berkshire-hathaway]], [[carl-reichardt]], [[volatility-as-opportunity
 # Wells Fargo & Company
 
 California-based bank holding company. Berkshire built a ~10% position in 1990 during a panic-driven sell-off of West Coast bank stocks, drove it as high as ~13% in 1993, and held it through the period covered. The position is Berkshire's first major bank holding and the canonical case study of [[volatility-as-opportunity]] in this decade.
+
+## History
+
+Wells Fargo was one of the largest commercial banks on the West Coast, operating from a California base with $56 billion in assets at the time of Berkshire's initial purchase. Under CEO [[carl-reichardt]] and President Paul Hazen — who ran the bank as a disciplined partnership — Wells had established a reputation for attacking costs relentlessly, keeping headcount lean, and staying within what management understood; the bank was earning more than 20% on equity and 1.25% on assets, superior figures in a heavily leveraged industry. In 1990, concerns about California real estate overbuilding and potential loan losses spread through the banking sector; Wells Fargo's stock fell nearly 50% within a few months, even though the bank's underlying loan book was considerably better managed than those of peers whose losses were then cascading into public view. Buffett accumulated aggressively into the panic, purchasing Berkshire's ~10% stake for $290M — less than five times after-tax earnings — viewing the sell-off as an opportunity to buy a well-managed institution at fear-driven prices rather than as evidence of structural impairment — see [[berkshire-1990-letter]].
 
 ## Why it matters
 

@@ -2,13 +2,13 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 source_type: annual-letter
 author: warren-buffett
 year: 1990
 raw_path: raw/berkshire-letters/1990.md
 tags: [berkshire, annual-letter, cost-of-float, wells-fargo, super-cat, look-through-earnings, junk-bonds]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[wells-fargo]], [[float]], [[super-cat-insurance]], [[volatility-as-opportunity]]
+related: [[warren-buffett]], [[berkshire-hathaway]], [[wells-fargo]], [[float]], [[super-cat-insurance]], [[volatility-as-opportunity]], [[charlie-munger]], [[capital-cities]], [[geico]], [[washington-post]], [[coca-cola]], [[salomon]], [[gillette]], [[usair]], [[national-indemnity]], [[ben-graham]], [[carl-reichardt]], [[ajit-jain]], [[colman-mockler]], [[lou-simpson]], [[margin-of-safety]], [[look-through-earnings]], [[franchise-vs-business]]
 ---
 
 # Berkshire Hathaway 1990 Annual Letter

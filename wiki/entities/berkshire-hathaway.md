@@ -92,19 +92,13 @@ Also: Berkshire's insurance premium volume more than tripled in 1985 off a long 
 
 A further structural shift noted in 1985: **Berkshire's market price had stopped trading at a discount to intrinsic value** and was occasionally at a modest premium. Buffett flags this as "bad news for the new or prospective owner" — the elimination of the discount means future returns to a new entrant cannot match future business performance unless the discount stays absent or widens to a premium.
 
-## 1986-1995 — the modern-portfolio era
+## 1986–1995 — the modern-portfolio era
 
-This decade is when Berkshire becomes Berkshire as the public recognizes it. Five structural shifts:
+This is the decade in which Berkshire's investment identity consolidates. The through-line is a deliberate shift from asset-intensive, commodity-adjacent businesses toward durable consumer franchises requiring little incremental capital. Coca-Cola, Gillette, American Express, and Wells Fargo are added to the earlier permanent holdings in Cap Cities, [[geico]], and [[washington-post]] — assembling what Buffett calls the permanent portfolio. The underlying logic is identical to the lesson learned at [[sees-candies]]: businesses with strong brand preference and pricing power compound on a near-fixed capital base far better than businesses that must reinvest heavily just to hold position.
 
-1. **Portfolio reorients around global consumer franchises.** Coca-Cola ($1B+ in 1988-89, $7.4B by 1995), Gillette ($600M preferred 1989 → $2.5B common 1995), American Express ($300M PERC 1991 → $2B common 1995), Wells Fargo ($290M 1990 → $1.5B 1995). The earlier permanent-three (Cap Cities, GEICO, WaPo) is broadened into a permanent-seven.
+Insurance float cements itself as the dominant funding engine over this period. Float grows roughly fourfold across the decade, and [[ajit-jain]]'s super-cat franchise — built from scratch after Jain joined in 1986 — becomes one of Berkshire's most distinctive competitive assets, converting the balance-sheet strength that no competitor can match into underwriting economics no competitor can replicate. The cost-of-float framework, formalized in the 1990 letter, makes explicit what had been implicit since 1967: float obtained at zero or negative cost is better than equity capital, not merely equivalent. GEICO, which Berkshire had held as a marketable stake since 1976 and which had grown to roughly 50% through the company's own buybacks, was taken to 100% for $2.3B at the end of 1995 — the culmination of a twenty-year relationship and the largest single acquisition to that point.
 
-2. **Insurance becomes the dominant engine.** Float grows from $0.8B (1986) to $3.6B (1995); super-cat reinsurance (architected by [[ajit-jain]]) becomes a defining Berkshire line. Cost of float negative in three of the last three years.
-
-3. **GEICO comes home.** Started as marketable stake (1976); grown to ~50% via GEICO's own buybacks; taken to 100% for $2.3B end of 1995. See [[geico]].
-
-4. **Wholly-owned-business acquisitions accelerate.** Fechheimer 1986; Borsheim's 1989; H.H. Brown 1991; Central States Indemnity 1992; Lowell 1992; Dexter 1993; Helzberg's 1995; R.C. Willey 1995. Most are family-controlled "Blumkin-Friedman-Heldman mold" acquisitions.
-
-5. **Salomon crisis (1991-92).** Buffett's ten-month service as Interim Chairman. See [[salomon]]. The episode becomes the canonical Buffett-on-reputation case.
+The decade also proves that decentralized management works at scale. By 1995 Berkshire operates more than forty distinct businesses with no central management layer between them and Buffett. The Salomon crisis (1991–92) — in which Buffett served ten months as Interim Chairman to stabilize a firm on the edge of a Treasury-market license revocation — becomes the canonical episode illustrating Berkshire's reputational capital as a tangible asset: the Treasury's decision to leave Salomon's license intact turned, in part, on Buffett's presence and credibility. See [[salomon]].
 
 ## NYSE listing (1988) and Class B share recapitalization (1996)
 

@@ -2,7 +2,7 @@
 type: person
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 sources: [berkshire-1989-letter, berkshire-1993-letter]
 tags: [coca-cola, ceo, operator, capital-allocation, global-franchise]
 related: [[coca-cola]], [[berkshire-hathaway]], [[franchise-vs-business]], [[capital-allocation]]
@@ -41,9 +41,11 @@ The 1993 letter quantifies the result of the Goizueta-Keough partnership: "they 
 
 ## Notable quotes
 
-> Roberto, along with Don Keough … first rethought and focused the company's policies and then energetically carried them out. — [[berkshire-1989-letter]]
+> After drifting somewhat in the 1970's, Coca-Cola had in 1981 become a new company with the move of Roberto Goizueta to CEO. Roberto, along with Don Keough, once my across-the-street neighbor in Omaha, first rethought and focused the company's policies and then energetically carried them out. What was already the world's most ubiquitous product gained new momentum, with sales overseas virtually exploding. — [[berkshire-1989-letter]]
 
-> The mesh of marketing and finance is perfect and the result is a shareholder's dream. — [[berkshire-1989-letter]]
+> Through a truly rare blend of marketing and financial skills, Roberto has maximized both the growth of his product and the rewards that this growth brings to shareholders. Normally, the CEO of a consumer products company, drawing on his natural inclinations or experience, will cause either marketing or finance to dominate the business at the expense of the other discipline. With Roberto, the mesh of marketing and finance is perfect and the result is a shareholder's dream. — [[berkshire-1989-letter]]
+
+> Roberto Goizueta had become CEO of Coke in 1981, with Don alongside as his partner. The two of them took hold of a company that had stagnated during the previous decade and moved it from $4.4 billion of market value to $58 billion in less than 13 years. What a difference a pair of managers like this makes, even when their product has been around for 100 years. — [[berkshire-1993-letter]]
 
 ## Sources discussing this person
 

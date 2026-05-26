@@ -2,13 +2,13 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 source_type: annual-letter
 author: warren-buffett
 year: 1994
 raw_path: raw/berkshire-letters/1994.md
 tags: [berkshire, annual-letter, scott-fetzer-case-study, compensation, usair-mistake, capital-allocation, american-express]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[scott-fetzer]], [[ralph-schey]], [[intrinsic-value-vs-book-value]], [[incentive-compensation]], [[usair]]
+related: [[warren-buffett]], [[berkshire-hathaway]], [[scott-fetzer]], [[ralph-schey]], [[intrinsic-value-vs-book-value]], [[incentive-compensation]], [[usair]], [[charlie-munger]], [[coca-cola]], [[american-express]], [[capital-cities]], [[gillette]], [[geico]], [[washington-post]], [[wells-fargo]], [[salomon]], [[national-indemnity]], [[ben-graham]], [[ajit-jain]], [[carl-reichardt]], [[roberto-goizueta]], [[mistakes-of-omission]], [[volatility-as-opportunity]], [[float]], [[concentration-vs-diversification]], [[capital-allocation]]
 ---
 
 # Berkshire Hathaway 1994 Annual Letter

@@ -2,13 +2,13 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 source_type: annual-letter
 author: warren-buffett
 year: 1991
 raw_path: raw/berkshire-letters/1991.md
 tags: [berkshire, annual-letter, franchise-vs-business, salomon, sees-twenty-years, fannie-mae, h-h-brown]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[franchise-vs-business]], [[salomon]], [[sees-candies]], [[mistakes-of-omission]]
+related: [[warren-buffett]], [[berkshire-hathaway]], [[franchise-vs-business]], [[salomon]], [[sees-candies]], [[mistakes-of-omission]], [[charlie-munger]], [[coca-cola]], [[capital-cities]], [[geico]], [[washington-post]], [[gillette]], [[wells-fargo]], [[american-express]], [[national-indemnity]], [[usair]], [[john-gutfreund]], [[ajit-jain]], [[ralph-schey]], [[concentration-vs-diversification]], [[float]], [[mr-market]], [[economic-goodwill]], [[cigar-butts-vs-wonderful-businesses]], [[incentive-compensation]]
 ---
 
 # Berkshire Hathaway 1991 Annual Letter

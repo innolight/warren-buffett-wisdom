@@ -2,13 +2,13 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 source_type: annual-letter
 author: warren-buffett
 year: 1986
 raw_path: raw/berkshire-letters/1986.md
 tags: [berkshire, annual-letter, owner-earnings, scott-fetzer, fechheimer, tax-reform-act, capital-allocation]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[scott-fetzer]], [[owner-earnings]], [[capital-allocation]]
+related: [[warren-buffett]], [[berkshire-hathaway]], [[scott-fetzer]], [[owner-earnings]], [[capital-allocation]], [[charlie-munger]], [[geico]], [[capital-cities]], [[washington-post]], [[national-indemnity]], [[lou-simpson]], [[ralph-schey]], [[moat]], [[commodity-business-economics]], [[float]], [[acquisition-criteria]], [[volatility-as-opportunity]]
 ---
 
 # Berkshire Hathaway 1986 Annual Letter

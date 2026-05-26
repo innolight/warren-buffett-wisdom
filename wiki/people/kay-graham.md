@@ -2,7 +2,7 @@
 type: person
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 sources: [berkshire-1985-letter, berkshire-1988-letter, berkshire-1993-letter]
 tags: [media, washington-post, ceo, capital-allocation]
 related: [[washington-post]], [[berkshire-hathaway]], [[capital-allocation]], [[share-repurchases]]
@@ -39,6 +39,18 @@ Drawing on the 1985 and 1988 letters:
 - **Held WaPo's capital structure conservatively.** Both WaPo and [[capital-cities]] entered the late-1980s media-leverage era essentially debt-free. The shrinkage in media valuations after 1990 (see [[franchise-vs-business]]) was therefore not accentuated by leverage at either company.
 - **Did not chase the late-1980s media-acquisition mania.** Per the 1991 letter: "these companies stayed on the sidelines during the late 1980's period in which purchasers of media properties regularly paid irrational prices." Restraint as a structural feature.
 - **Repurchased systematically.** WaPo's per-share intrinsic value rose materially faster than its total enterprise value because of disciplined buybacks at sub-intrinsic prices throughout Graham's tenure.
+
+## Notable quotes
+
+> Kay Graham, CEO of WPC, had the brains and courage to repurchase large quantities of stock for the company at those bargain prices, as well as the managerial skills necessary to dramatically increase business values. — [[berkshire-1985-letter]]
+
+> The extra $160 million or so we gained through ownership of WPC came, in very large part, from the superior nature of the managerial decisions made by Kay as compared to those made by managers of most media companies. Her stunning business success has in large part gone unreported but among Berkshire shareholders it should not go unappreciated. — [[berkshire-1985-letter]]
+
+> Kay Graham and Dick Simmons at The Washington Post. Charlie and I appreciate enormously the talent and integrity these managers bring to their businesses. — [[berkshire-1988-letter]]
+
+> Charlie and I concluded that Kay would prove to be an outstanding manager and would treat all shareholders honorably. That latter consideration was particularly important because The Washington Post Company has two classes of stock, a structure that we've seen some managers abuse. — [[berkshire-1993-letter]]
+
+> Kay's skills as a manager were underscored this past year when she was elected by Fortune's Board of Editors to the Business Hall of Fame. On behalf of our shareholders, Charlie and I had long ago put her in Berkshire's Hall of Fame. — [[berkshire-1993-letter]]
 
 ## Sources discussing this person
 

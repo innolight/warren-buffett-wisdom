@@ -2,13 +2,13 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 source_type: annual-letter
 author: warren-buffett
 year: 1993
 raw_path: raw/berkshire-letters/1993.md
 tags: [berkshire, annual-letter, risk-vs-beta, concentration, dexter, taxes-li-l-abner, governance]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[risk-vs-volatility]], [[concentration-vs-diversification]], [[mistakes-of-omission]]
+related: [[warren-buffett]], [[berkshire-hathaway]], [[risk-vs-volatility]], [[concentration-vs-diversification]], [[mistakes-of-omission]], [[charlie-munger]], [[coca-cola]], [[capital-cities]], [[geico]], [[washington-post]], [[gillette]], [[wells-fargo]], [[ben-graham]], [[kay-graham]], [[ajit-jain]], [[lou-simpson]], [[mr-market]], [[volatility-as-opportunity]], [[moat]], [[float]]
 ---
 
 # Berkshire Hathaway 1993 Annual Letter

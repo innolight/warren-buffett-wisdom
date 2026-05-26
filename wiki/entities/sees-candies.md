@@ -72,15 +72,7 @@ The framing: "We saw that the business had untapped pricing power. Otherwise, we
 
 See's becomes the explicit reference point for the wonderful-business framework canonized in 1989 (see [[cigar-butts-vs-wonderful-businesses]]) and the franchise-vs-business essay of 1991 (see [[franchise-vs-business]]).
 
-## 1986-1995 operating updates
-
-- **1986:** Pounds up 2% — first non-decline in same-store volume in years. Profit margin maintained on minimal price increase.
-- **1987:** Volume record 25.1M pounds. 85% of profit earned in December. The Christmas-concentration intensifies.
-- **1988:** Volume record 25.1M pounds; 90% of full-year profits in December.
-- **1989:** 8% pound growth — first same-store gains in many years. Hal Riney advertising; tripled newspaper advertising vs. industry trend.
-- **1991:** Pre-tax margin record 21.6%. Volume dollars flat; pounds down 4% (late-year California recession). The 20-year retrospective written.
-
-## Sources discussing this entity
+Through the balance of the decade, the core pattern held: unit volume remained roughly flat, price increases continued to outpace input-cost inflation, and annual profits grew with minimal incremental capital — confirming rather than revising the franchise economics established in the first twenty years.
 
 ## Sources discussing this entity
 

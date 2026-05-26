@@ -34,19 +34,9 @@ Mrs. B's compressed version: **"Sell cheap and tell the truth."**
 
 ## History
 
-- **1917:** Mrs. Blumkin emigrates from Russia at age 23.
-- **1937:** Opens NFM with $500 of saved capital from selling used clothing. Named after the American Furniture Mart in Chicago.
-- **Early years:** Furniture and carpet manufacturers refused to sell to her under pressure from established Omaha retailers. She circumvented; was sued under Fair Trade laws; won. After one trial, sold the judge $1,400 worth of carpet.
-- **1983:** Berkshire acquires 90% for $55M.
-- **1983 (one store):** sales >$100M.
-- **1984:** sales $115M; Mrs. B receives an honorary doctorate from NYU at age 91.
-- **1986:** sales $132M (+10.2%); Mrs. B at 93, still seven days a week.
-- **1987:** sales $142.6M (+8%); Buffett scraps mandatory retirement-at-100 policy.
-- **1988:** Borsheim's jewelry store acquired from the Blumkin-Friedman family branch — extension of the same operating philosophy.
-- **1989:** Mrs. B leaves over a carpet-department dispute and opens a competing operation next door. The 1989 letter sides with the rest of the Blumkin family on the merits of the dispute.
-- **1992:** Mrs. B (now 99) sells her building and land back to NFM; signs a non-compete; carpet operation continues in the same building, with NFM operating alongside. "I, having been incautious on this point when she was 89, snapped at the deal."
-- **1993:** Mrs. B's 100th birthday, December 3. Store was open that evening; she postpones the party until a closed-evening.
-- **1995:** Sales $200M; opening of the Mega Mart (electronics, appliances, computers, CD's, cameras, audio) on the 64-acre site.
+Rose Blumkin emigrated from Russia in 1917 and opened NFM in 1937 with $500 of saved capital, naming it after the American Furniture Mart in Chicago. The early years were combative: furniture and carpet manufacturers refused to sell to her under pressure from established Omaha retailers; she circumvented them, was sued under Fair Trade laws, and won — reportedly selling the judge $1,400 worth of carpet after one trial. By the time Berkshire acquired 90% in 1983 for $55M, the single Omaha store was already generating over $100M in sales. The growth-through-volume pattern persisted across the following decade, with NFM consistently setting regional and national sales records as the low-cost discipline compounded into dominant market share.
+
+The Mrs. B arc is instructive on owner-operator culture. In 1989 she left over a carpet-department dispute with younger family members and opened a competing operation next door. By 1992, at 99, she sold her building and land back to NFM and signed a non-compete — prompting Buffett's admission: "I, having been incautious on this point when she was 89, snapped at the deal." The departure and return underscore both the irreplaceability of the founding operator and the durability of the NFM institution itself, which continued growing through the episode.
 
 ## The 1995 synergy reversal
 

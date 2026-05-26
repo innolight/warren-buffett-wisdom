@@ -2,13 +2,13 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 source_type: annual-letter
 author: warren-buffett
 year: 1989
 raw_path: raw/berkshire-letters/1989.md
 tags: [berkshire, annual-letter, mistakes-25-years, coca-cola, convertible-preferreds, zero-coupon, super-cat]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[cigar-butts-vs-wonderful-businesses]], [[institutional-imperative]], [[mistakes-of-omission]], [[super-cat-insurance]]
+related: [[warren-buffett]], [[berkshire-hathaway]], [[cigar-butts-vs-wonderful-businesses]], [[institutional-imperative]], [[mistakes-of-omission]], [[super-cat-insurance]], [[charlie-munger]], [[coca-cola]], [[gillette]], [[usair]], [[salomon]], [[capital-cities]], [[geico]], [[washington-post]], [[national-indemnity]], [[borsheims]], [[scott-fetzer]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]], [[ben-graham]], [[ajit-jain]], [[roberto-goizueta]], [[colman-mockler]], [[ralph-schey]], [[capital-allocation]], [[concentration-vs-diversification]], [[franchise-vs-business]]
 ---
 
 # Berkshire Hathaway 1989 Annual Letter

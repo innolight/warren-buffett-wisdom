@@ -10,6 +10,34 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-05-26] refactor | post-ingest quality pass on 1986–1995 batch
+
+Five-category quality audit (spot-checked by 5 independent agents) identified structural issues across all page types. Six improvement agents dispatched in parallel to address findings.
+
+**Entity pages revised:**
+- `entities/disney.md` — full rewrite (was 2.5/5); added History section, franchise/moat exposition, stripped Sun Valley anecdote to 1 sentence; now principle-first reference
+- `entities/nebraska-furniture-mart.md` — replaced dated timeline and year-specific operating metrics with coherent paragraphs organized around principles (low-cost-operator archetype, trust-as-deal-economics)
+- `entities/sees-candies.md` — removed 1986–1995 year-by-year operating subsection; replaced with single bridging sentence on pattern persistence
+- `entities/berkshire-hathaway.md` — replaced 5-bullet event dump with 3 thematic paragraphs distilling what the 1986–1995 decade means (franchise shift, float dominance, decentralized management at scale)
+- `entities/american-express.md` — added missing History section (salad-oil scandal, franchise durability, PERC re-entry); fixed frontmatter sources: list
+- `entities/wells-fargo.md` — added missing History section (California franchise, Reichardt/Hazen cost discipline, 1990 panic context)
+- `entities/borsheims.md` — compressed year-specific sales metrics to a single sentence
+
+**Concept pages restructured:**
+- `concepts/super-cat-insurance.md` — full restructure from year-keyed narrative to principle-first (Definition → Why it matters → Structural advantage → Volatility profile → Sources)
+- `concepts/mistakes-of-omission.md` — full restructure from chronological to thematic (Definition → Why systematically underweighted → Case studies grouped by type → Sources)
+- `concepts/volatility-as-opportunity.md` — added missing Definition section
+
+**People pages updated:**
+- `people/roberto-goizueta.md` — replaced paraphrases with 3 verbatim direct quotes from 1989 and 1993 letters
+- `people/colman-mockler.md` — added Notable quotes section (previously missing entirely); 4 direct quotes from 1989–1990 letters
+- `people/kay-graham.md` — replaced paraphrases with 5 direct quotes from 1985, 1988, 1993 letters
+
+**Source pages updated:**
+- All 10 source pages (1986–1995): expanded `related:` frontmatter from avg ~5–7 entries to avg 17–29 entries; all additions verified against existing wiki files
+
+---
+
 ## [2026-05-26] ingest | berkshire-1986-letter through berkshire-1995-letter (batch)
 
 Ten-year batch ingest. User confirmed scope before writing: full proposed coverage; heavier source pages on canonical-essay years (1986, 1987, 1989, 1991, 1993, 1995); skip tier-2 small subsidiaries (Fechheimer, Helzberg's, R.C. Willey, H.H. Brown, Central States, etc.) per the editorial discipline.

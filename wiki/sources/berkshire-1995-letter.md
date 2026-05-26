@@ -2,13 +2,13 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 source_type: annual-letter
 author: warren-buffett
 year: 1995
 raw_path: raw/berkshire-letters/1995.md
 tags: [berkshire, annual-letter, geico-acquisition, helzbergs, r-c-willey, disney, float-as-equity, class-b]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[geico]], [[helzbergs]], [[disney]], [[float]], [[lorimer-davidson]]
+related: [[warren-buffett]], [[berkshire-hathaway]], [[geico]], [[helzbergs]], [[disney]], [[float]], [[lorimer-davidson]], [[charlie-munger]], [[capital-cities]], [[coca-cola]], [[gillette]], [[wells-fargo]], [[american-express]], [[salomon]], [[usair]], [[national-indemnity]], [[borsheims]], [[washington-post]], [[lou-simpson]], [[tom-murphy]], [[ajit-jain]], [[ralph-schey]], [[franchise-vs-business]], [[moat]], [[super-cat-insurance]], [[mistakes-of-omission]], [[capital-allocation]]
 ---
 
 # Berkshire Hathaway 1995 Annual Letter

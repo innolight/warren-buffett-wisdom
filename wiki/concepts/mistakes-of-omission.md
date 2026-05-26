@@ -2,7 +2,7 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 sources: [berkshire-1983-letter, berkshire-1989-letter, berkshire-1991-letter, berkshire-1994-letter]
 tags: [psychology, decision-making, behavioral, opportunity-cost]
 related: [[capital-allocation]], [[concentration-vs-diversification]], [[cigar-butts-vs-wonderful-businesses]]
@@ -10,61 +10,51 @@ related: [[capital-allocation]], [[concentration-vs-diversification]], [[cigar-b
 
 # Mistakes of Omission
 
-## The thesis
+## Definition
 
-The most expensive investment mistakes are usually invisible: they are decisions *not* made, opportunities recognized and then skipped. Reported financial statements never show them. They do not draw the embarrassment of a visible loss. But the foregone compounding from a missed great business can dwarf the cost of any actual realized loss.
+Mistakes of omission are failures to act — to buy, to hold, or to fully size a position — on high-conviction situations that were within the investor's circle of competence. They are the opposite of mistakes of commission, which are actions taken that turn out to be wrong. Crucially, omissions are invisible in financial statements: no line item captures a foregone gain. The portfolio that skipped a 100x compounder reports identically to the portfolio that never saw it.
 
-Buffett's 1989 articulation, included in "Mistakes of the First Twenty-five Years":
+The key qualifier in Buffett's definition: the cost being measured is not the cost of missing what was outside one's circle of competence — "It's no sin to miss a great opportunity outside one's area of competence" — but the cost of passing on what was inside it. Buffett's 1989 formalization: "I have passed on a couple of really big purchases that were served up to me on a platter and that I was fully capable of understanding. For Berkshire's shareholders, myself included, the cost of this thumb-sucking has been huge." ([[berkshire-1989-letter]])
 
-> Some of my worst mistakes were not publicly visible. These were stock and business purchases whose virtues I understood and yet didn't make. It's no sin to miss a great opportunity outside one's area of competence. But I have passed on a couple of really big purchases that were served up to me on a platter and that I was fully capable of understanding. For Berkshire's shareholders, myself included, the cost of this thumb-sucking has been huge. ([[berkshire-1989-letter]])
+## Why it matters
 
-The key qualifier: "served up to me on a platter and that I was fully capable of understanding." The cost being counted is not the cost of missing what was outside the circle of competence — that is no sin — but the cost of *passing on what was inside it*. The 1983 antecedent: Buffett's "important business mistakes of omission" caused by his early tangible-asset bias (see [[economic-goodwill]]).
+Omissions are systematically underweighted by investors and institutions because the feedback mechanisms that would make them visible are absent. Three forces compound this:
 
-## The canonical example: Fannie Mae (1991)
+**Reported results don't punish omissions.** A foregone gain has no place to land in financial statements. The investor who skipped a 100x compounder reports the same as the investor who never saw it. No auditor flags the miss; no analyst asks about it in an earnings call.
 
-The 1991 "Mistake Du Jour" essay supplies the worked example. In early 1988, Buffett decided to buy 30 million shares of Federal National Mortgage Association (Fannie Mae) — a $350-$400 million position. He had owned the stock years earlier, understood the company's business, and had personally confirmed with CEO David Maxwell that a large position would not be a problem.
+**Personal embarrassment is asymmetric.** A losing purchase becomes a known story — a visible mark on the record. A missed buy is private. The fear of being publicly wrong on a commission outweighs the larger but invisible cost of being privately wrong on an omission. The institutional and reputational incentives point toward inaction over under-sized action.
 
-> After we bought about 7 million shares, the price began to climb. In frustration, I stopped buying (a mistake that, thankfully, I did not repeat when Coca-Cola stock rose similarly during our purchase program). In an even sillier move, I surrendered to my distaste for holding small positions and sold the 7 million shares we owned.
+**Cognitive availability.** Visible losses dominate memory; foregone gains are abstract. The behavioral asymmetry between losses (which loom larger in the mind) and gains extends into investing: the commission loss that stings $1 million feels larger than the omission that cost $10 million but left no trace.
+
+The portfolio implication is systematic under-allocation to high-conviction ideas. A manager rewarded only for visible results will never be called to account for the Coca-Cola they didn't buy enough of. This connects directly to [[concentration-vs-diversification]] and [[capital-allocation]].
+
+## Case studies
+
+**Estimation errors — should have bought earlier or more fully.** The Coca-Cola case is the counter-corrected positive example: Buffett had followed Coca-Cola for decades and consumed the product for 52 years before buying at scale in 1988–89. When the stock began rising during his accumulation, he did *not* stop buying — explicitly learning from the Fannie Mae error — and the result was a full-size position that became Berkshire's largest holding. The counter-lesson is implicit: the years of following without buying were the omission, and only conviction finally overcame it.
+
+**Under-allocation — high conviction, insufficient sizing.** The Fannie Mae case (1991 letter) is the worked example. In early 1988, Buffett decided to buy 30 million shares of Federal National Mortgage Association — a $350–400 million position. He had owned the stock before, understood the business, and had personally confirmed with CEO David Maxwell that a large position would pose no problem. After buying approximately 7 million shares, the price began to climb:
+
+> In frustration, I stopped buying (a mistake that, thankfully, I did not repeat when Coca-Cola stock rose similarly during our purchase program). In an even sillier move, I surrendered to my distaste for holding small positions and sold the 7 million shares we owned.
 >
 > I wish I could give you a halfway rational explanation for my amateurish behavior vis-a-vis Fannie Mae. But there isn't one. What I can give you is an estimate as of yearend 1991 of the approximate gain that Berkshire didn't make because of your Chairman's mistake: about $1.4 billion. ([[berkshire-1991-letter]])
 
-$1.4 billion of foregone gain on a position never taken to full size, by yearend 1991. The decision left no mark on any financial statement. It is invisible to anyone reading Berkshire's accounts.
+$1.4 billion of foregone gain on a position never taken to full size. The decision left no mark on any financial statement.
 
-## The 1994 reprise: Cap Cities
+**Premature exits — selling a winner too early.** Cap Cities illustrates a different flavor: not omission of a purchase but premature termination of an existing winning position. From the 1994 letter:
 
-A different flavor of the same error: not omission of a purchase but premature termination of an existing winning position. The 1994 letter:
+> Late in 1993 I sold 10 million shares of Cap Cities at $63; at year-end 1994, the price was $85.25. (The difference is $222.5 million for those of you who wish to avoid the pain of calculating the damage yourself.) When we purchased the stock at $17.25 in 1986, I told you that I had previously sold our Cap Cities holdings at $4.30 per share during 1978–80, and added that I was at a loss to explain my earlier behavior. Now I've become a repeat offender. ([[berkshire-1994-letter]])
 
-> Late in 1993 I sold 10 million shares of Cap Cities at $63; at year-end 1994, the price was $85.25. (The difference is $222.5 million for those of you who wish to avoid the pain of calculating the damage yourself.) When we purchased the stock at $17.25 in 1986, I told you that I had previously sold our Cap Cities holdings at $4.30 per share during 1978-80, and added that I was at a loss to explain my earlier behavior. Now I've become a repeat offender.
+The original 1978–80 exit at $4.30, then the 1993 sale at $63 — both of Cap Cities, both premature. By the time of the Disney exchange in 1995, the 10 million shares sold at $63 would have been worth roughly $1.27 billion in Disney consideration. Buffett in 1995: "don't later be as dumb as I was two years ago when I sold one-third of our holdings in Cap Cities for $635 million (versus the $1.27 billion those shares would bring in the Disney merger)."
 
-By the time of the Disney exchange in 1995, the foregone gain was larger still: the 10 million shares sold at $63 would have been worth roughly $1.27 billion in Disney consideration. The 1995 letter restates the lesson: "don't later be as dumb as I was two years ago when I sold one-third of our holdings in Cap Cities for $635 million (versus the $1.27 billion those shares would bring in the Disney merger)."
-
-## The 1995 reprise: Disney itself
-
-Yet another instance: in 1966, Buffett Partnership Ltd. bought Disney at a split-adjusted $0.31 per share — "selling at only five times rides." In 1967 Buffett sold at $0.48. By 1995 the stock was $66. The 1995 admission: "your Chairman was up to the task of nullifying" the brilliant decision.
-
-## Why mistakes of omission are systematically underweighted
-
-The asymmetry between visible and invisible mistakes biases decision-making toward inaction. Three forces:
-
-1. **Reported results don't punish omissions.** A foregone gain has no place to land in financial statements. The investor who skipped a 100x compounder reports the same as the investor who never saw it.
-2. **Personal embarrassment is asymmetric.** A losing purchase becomes a known story; a missed buy is private. The fear of being publicly wrong outweighs the larger but invisible cost of being privately wrong.
-3. **Cognitive availability.** Visible losses dominate memory; foregone gains are abstract. The behavioral economics literature has formalized this as the asymmetry between losses (which loom larger) and gains; Buffett's framing extends the point to investing.
-
-## The Coca-Cola counter-correction
-
-Buffett explicitly notes the lesson learned: when Coca-Cola began rising during his accumulation in 1988-89, he did *not* stop buying as he had with Fannie Mae. The result was a full-size position that became Berkshire's largest holding. The contrast is the discipline lesson: the cost of pausing during accumulation, when conviction is established and the price is still reasonable, is asymmetric — small gain on the foregone shares vs. enormous compounding loss on the missing position.
-
-## The institutional implication
-
-The cost asymmetry means a portfolio manager rewarded only for visible results will systematically under-allocate to high-conviction ideas. The discipline required to act fully on conviction — to "back up the truck" on the few ideas one really understands — is not natural; it requires deliberate counter-pressure to the institutional and psychological forces that reward visible-loss-avoidance over invisible-gain-maximization. This connects directly to [[concentration-vs-diversification]] and [[capital-allocation]].
+A parallel instance: in 1966, Buffett Partnership Ltd. bought Disney at a split-adjusted $0.31 per share — "selling at only five times rides." In 1967 he sold at $0.48. By 1995 the stock was $66. The pattern across all three — Cap Cities 1978–80, Disney 1967, Cap Cities 1993 — is a recurring bias toward premature exit of winning positions.
 
 ## How it's discussed in sources
 
-- [[berkshire-1983-letter]] — the original Buffett-evolution context: tangible-asset bias caused "many important business mistakes of omission, although relatively few of commission"
-- [[berkshire-1989-letter]] — formalized in "Mistakes of the First Twenty-five Years"; thumb-sucking framing
-- [[berkshire-1991-letter]] — the Fannie Mae case study; $1.4B cost calculated
-- [[berkshire-1994-letter]] — Cap Cities sale of 10M shares at $63
-- [[berkshire-1995-letter]] — Disney 1967 sale; Cap Cities sale value in Disney shares
+- [[berkshire-1983-letter]] — the original Buffett-evolution context: tangible-asset bias caused "many important business mistakes of omission, although relatively few of commission"; connects to [[economic-goodwill]]
+- [[berkshire-1989-letter]] — formalized in "Mistakes of the First Twenty-five Years"; the thumb-sucking framing; the canonical definition of within-competence omissions
+- [[berkshire-1991-letter]] — the Fannie Mae case study; $1.4B cost calculated; the explicit contrast with the Coca-Cola accumulation discipline
+- [[berkshire-1994-letter]] — Cap Cities sale of 10M shares at $63; self-identified as a repeat offense
+- [[berkshire-1995-letter]] — Disney 1967 sale at $0.48; Cap Cities sale restated in Disney-share terms
 
 ## Related
 

@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter]
+updated: 2026-05-26
+sources: [berkshire-1980-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter]
 tags: [financial-services, brand, marketable-equities, perc]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[franchise-vs-business]], [[geico]]
 ---
@@ -11,6 +11,10 @@ related: [[berkshire-hathaway]], [[warren-buffett]], [[franchise-vs-business]], 
 # American Express
 
 Financial-services company built around the card franchise (charge card, then increasingly credit card) and IDS Financial Services (later renamed American Express Financial Advisors). Berkshire's modern position began in 1991 with a $300M PERC (a hybrid security) and grew through 1994 into a major common-stock holding; by yearend 1995 Berkshire owned just under 10% of the company at a cost of $1.39B and market value of $2.05B.
+
+## History
+
+American Express was built on three legs: the charge card and travel-and-entertainment (T&E) network, the traveler's check business, and financial advisory services (IDS, later American Express Financial Advisors). The T&E franchise — accepted by merchants worldwide because affluent cardholders use it, and used by cardholders because merchants accept it — is the two-sided network at the core of the company's durable economics. In 1963, Allied Crude Vegetable Oil's collapse exposed American Express to massive liabilities from fraudulently warehouse-receipted salad oil; the stock fell sharply and the scandal threatened the company. Buffett Partnership Ltd. responded by investing roughly 40% of its capital in the stock — over 5% of the company for ~$13M — on the thesis that the underlying franchise (brand trust, card acceptance, traveler's check float) remained intact despite the localized crisis, and that thesis proved correct. Decades later, Berkshire re-entered via a $300M PERC in 1991 and added aggressively in 1994 and 1995, with Buffett citing both the original partnership-era familiarity and his even earlier 1953 investment in IDS as foundations for his conviction — see [[berkshire-1994-letter]].
 
 ## Why it matters
 

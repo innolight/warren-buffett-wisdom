@@ -2,13 +2,17 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 sources: [berkshire-1987-letter, berkshire-1990-letter, berkshire-1993-letter, berkshire-1994-letter]
 tags: [psychology, market-behavior, valuation]
 related: [[mr-market]], [[risk-vs-volatility]], [[margin-of-safety]]
 ---
 
 # Volatility as Opportunity
+
+## Definition
+
+Volatility-as-opportunity is the principle that price swings in high-quality businesses create buying opportunities rather than signaling deteriorating value. When the market temporarily prices a durable franchise below intrinsic value due to short-term fear or macroeconomic noise, the rational investor treats the decline as a lower entry cost rather than a reason to exit. This inverts the conventional assumption that price volatility equals investment risk.
 
 ## The thesis
 

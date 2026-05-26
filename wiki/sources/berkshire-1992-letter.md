@@ -2,13 +2,13 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 source_type: annual-letter
 author: warren-buffett
 year: 1992
 raw_path: raw/berkshire-letters/1992.md
 tags: [berkshire, annual-letter, growth-vs-value, salomon-postmortem, central-states, general-dynamics, stock-options]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[cigar-butts-vs-wonderful-businesses]], [[margin-of-safety]], [[salomon]]
+related: [[warren-buffett]], [[berkshire-hathaway]], [[cigar-butts-vs-wonderful-businesses]], [[margin-of-safety]], [[salomon]], [[charlie-munger]], [[coca-cola]], [[capital-cities]], [[geico]], [[washington-post]], [[gillette]], [[wells-fargo]], [[american-express]], [[usair]], [[national-indemnity]], [[nebraska-furniture-mart]], [[rose-blumkin]], [[ajit-jain]], [[ralph-schey]], [[colman-mockler]], [[ben-graham]], [[david-dodd]], [[incentive-compensation]], [[franchise-vs-business]], [[float]], [[capital-allocation]]
 ---
 
 # Berkshire Hathaway 1992 Annual Letter

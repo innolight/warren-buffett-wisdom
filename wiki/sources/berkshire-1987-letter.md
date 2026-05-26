@@ -2,13 +2,13 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-05-26
 source_type: annual-letter
 author: warren-buffett
 year: 1987
 raw_path: raw/berkshire-letters/1987.md
 tags: [berkshire, annual-letter, mr-market, salomon, sainted-seven, capital-allocation]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[mr-market]], [[salomon]], [[capital-allocation]]
+related: [[warren-buffett]], [[berkshire-hathaway]], [[mr-market]], [[salomon]], [[capital-allocation]], [[charlie-munger]], [[geico]], [[capital-cities]], [[washington-post]], [[scott-fetzer]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]], [[national-indemnity]], [[john-gutfreund]], [[ralph-schey]], [[tom-murphy]], [[lou-simpson]], [[ben-graham]], [[volatility-as-opportunity]], [[owner-earnings]], [[commodity-business-economics]], [[look-through-earnings]]
 ---
 
 # Berkshire Hathaway 1987 Annual Letter
