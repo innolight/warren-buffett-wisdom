@@ -2,7 +2,7 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
+updated: 2026-05-27
 source_type: annual-letter
 author: warren-buffett
 year: 1989
@@ -19,7 +19,7 @@ Dated March 2, 1990. Net worth up $1.515B (44.4%) — Berkshire's largest annual
 
 - **"Mistakes of the First Twenty-five Years."** Buffett's canonical compressed essay on lessons: cigar butts vs. wonderful businesses; good jockey on bad horse; easy-does-it (one-foot hurdles); the **institutional imperative** formally named; only-deal-with-people-you-like-trust-admire; mistakes of omission; conservative leverage justified. See [[cigar-butts-vs-wonderful-businesses]], [[institutional-imperative]], [[mistakes-of-omission]].
 - **Coca-Cola added to 23.35M shares.** Cost $1.024B. Buffett's 52-years-late confession; the Goizueta-Keough partnership canonized.
-- **Three new convertible preferreds.** $600M Gillette (8 3/4%, conv. $50), $358M USAir (9 1/4%, conv. $60), $300M Champion International (9 1/4%, conv. $38). All ten-year mandatory redemption. Different industry-economic confidence than Salomon (Gillette: confident; USAir/Champion: agnostic).
+- **Three new convertible preferreds.** $600M Gillette (8 3/4%, conv. $50), $358M USAir (9 1/4%, conv. $60), $300M Champion International (9 1/4%, conv. $38). All ten-year mandatory redemption. Different industry-economic confidence than [[salomon]] (Gillette: confident; USAir/Champion: agnostic).
 - **Tax-and-Rip-Van-Winkle math.** The single doubling-20-times vs. annual-doublings comparison: $1 → $25,250 with annual realization vs. $692,000 with single position. The math creates a structural edge for long-hold strategies.
 - **Zero-coupon debenture issuance.** $902.6M face, 5.5%, due 15 years, conversion at $9,815. Berkshire's first major debt. The cash-flow benefit (interest deduction without cash payment) is positive.
 - **The zero-coupon-bond critique.** EBITDA culture critiqued; "I don't know how I'll ever repay you"; "dagger on the steering wheel"; "the bezzle" reframed; the bartender-morality line. Investment bankers' gatekeeping role.
@@ -38,14 +38,6 @@ Dated March 2, 1990. Net worth up $1.515B (44.4%) — Berkshire's largest annual
 
 > A small chance of distress or disgrace cannot, in our view, be offset by a large chance of extra returns. … We enjoy the process far more than the proceeds.
 
-> What's the sense in getting rich just to stare at a ticker tape all day? [On Berkshire's preference for few large arbitrage positions.]
-
-> Some companies that historically have had great success in direct sales have stumbled in recent years. … so far, the record shows that both Kirby and World Book have responded most successfully. [Re Scott Fetzer subsidiaries.]
-
-> A horse that can count to ten is a remarkable horse — not a remarkable mathematician. [Reprised from 1985, applied to Berkshire's first 25 years.]
-
-> Once again I'd be hard put to come up with a snappier ad. [On the standard six-point acquisition ad, repeated essentially verbatim.]
-
 > The man claiming to be a financial alchemist may become rich. But gullible investors rather than business achievements will usually be the source of his wealth. [On zero-coupon bond promotion.]
 
 ## "Mistakes of the First Twenty-five Years" — substance
@@ -56,7 +48,7 @@ Six lessons:
 
 2. **Good jockeys on broken-down nags.** "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact."
 
-3. **Easy does it.** Avoid problems rather than solve them; identify one-foot hurdles. "We've done better by avoiding dragons than by slaying them." Periodic exceptions (Sunday Buffalo paper; American Express, GEICO turnarounds) where great businesses face one-time solvable problems.
+3. **Easy does it.** Avoid problems rather than solve them; identify one-foot hurdles. "We've done better by avoiding dragons than by slaying them." Periodic exceptions (Sunday Buffalo paper; [[american-express]], [[geico]] turnarounds) where great businesses face one-time solvable problems.
 
 4. **The institutional imperative.** Buffett's formal naming of the phenomenon. Four manifestations: (1) institutions resist change in direction; (2) projects expand to soak up available funds; (3) staff produces studies validating any CEO craving; (4) peer-company behavior gets mindlessly imitated. See [[institutional-imperative]].
 
@@ -144,3 +136,5 @@ WPPSS sold significantly during the year (low-coupon issues bought at large disc
 - Coca-Cola addition begins the position that becomes Berkshire's largest in [[berkshire-1995-letter]].
 - Super-cat reinsurance becomes the headline insurance theme in [[berkshire-1990-letter]] through 1995.
 - The three convertible preferreds are tracked across [[berkshire-1990-letter]], [[berkshire-1991-letter]], [[berkshire-1992-letter]], [[berkshire-1994-letter]], [[berkshire-1995-letter]] (USAir mistake; Gillette success; Champion conversion).
+- The Rip-Van-Winkle tax-deferral math (annual doublings vs. single 20× position) is reprised in [[berkshire-1993-letter]]'s "Li'l Abner" tax essay, confirming it as a recurring pedagogical frame rather than a one-time observation.
+- The "look-through" earnings concept introduced here (Berkshire's share of investee retained earnings) is developed into an explicit annual calculation table in [[berkshire-1990-letter]], making the 1989 letter its definitional source.

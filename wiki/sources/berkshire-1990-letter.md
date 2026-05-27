@@ -2,7 +2,7 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
+updated: 2026-05-27
 source_type: annual-letter
 author: warren-buffett
 year: 1990
@@ -35,15 +35,13 @@ Dated March 1, 1991. Net worth up $362M (7.3%) after closing the year strongly �
 
 > Most men would rather die than think. Many do. [Buffett quoting Bertrand Russell.]
 
-> In an unregulated commodity business, a company must lower its costs to competitive levels or face extinction.
+> In a business selling a commodity-type product, it's impossible to be a lot smarter than your dumbest competitor.
 
-> It's impossible to be a lot smarter than your dumbest competitor.
-
-> We prefer a lumpy 15% to a smooth 12%.
+> Charlie and I always have preferred a lumpy 15% return to a smooth 12%.
 
 > A plan that requires dodging them all is a plan for disaster. [On junk-bond capital structures and the "dagger on the steering wheel."]
 
-> Confronted with a challenge to distill the secret of sound investment into three words, we venture the motto, MARGIN OF SAFETY. [Buffett quoting Ben Graham.]
+> Confronted with a challenge to distill the secret of sound investment into three words, we venture the motto, Margin of Safety. [Buffett quoting Ben Graham.]
 
 > Beware of past-performance "proofs" in finance: If history books were the key to riches, the Forbes 400 would consist of librarians.
 
@@ -56,13 +54,13 @@ The canonical Berkshire insurance scorecard. By 1990: average float $1.637B, und
 1. "The fat lady has yet to gargle, let alone sing" — true 1967-90 cost of funds won't be known until all loss reserves settle decades later.
 2. The value of float to shareholders is somewhat undercut by the tax penalty on indirect investment income (~1 percentage point).
 
-The conceptual reframing: a float-generating business is positive-value if cost (with tax penalty) is below alternative funding costs; negative-value otherwise. GEICO is the dramatic example — operating at an underwriting profit, so policyholders effectively pay GEICO interest on the float.
+The conceptual reframing: a float-generating business is positive-value if cost (with tax penalty) is below alternative funding costs; negative-value otherwise. [[geico]] is the dramatic example — operating at an underwriting profit, so policyholders effectively pay GEICO interest on the float.
 
 ## Wells Fargo accumulation
 
 5,000,000 shares; cost $289.4M; market $289.4M at yearend. ~10% ownership; one-sixth bought 1989, rest in 1990 panic. Bank stock down nearly 50% within months on California real-estate fears.
 
-The Reichardt/Hazen pairing introduced explicitly as analogous to Murphy/Burke at Cap Cities. Four shared characteristics: each pair stronger than sum of parts; pay able people well but lean on head count; attack costs as vigorously at record profits as under pressure; stay within understanding.
+The Reichardt/Hazen pairing introduced explicitly as analogous to [[tom-murphy|Murphy]]/Burke at [[capital-cities|Cap Cities]]. Four shared characteristics: each pair stronger than sum of parts; pay able people well but lean on head count; attack costs as vigorously at record profits as under pressure; stay within understanding.
 
 The published worst-case: 10% of all $48B of bank loans hit by problems with 30% loss severity → company breaks even. "A year like that — which we consider only a low-level possibility, not a likelihood — would not distress us."
 
@@ -109,7 +107,7 @@ USAir admitted as "unforced error." The 1994 fully-developed post-mortem builds 
 
 Position untouched; market value $2.17B vs. cost $1.02B. Reaffirmed as permanent holding.
 
-Cap Cities and Washington Post both decline (media-industry secular concerns); Coca-Cola rises. The 1991 letter develops the franchise-vs-business reframing that comes out of this divergence.
+Cap Cities and Washington Post both decline (media-industry secular concerns); Coca-Cola rises. The 1991 letter develops the [[franchise-vs-business]] reframing that comes out of this divergence.
 
 ## Permanent four reframed
 
@@ -151,3 +149,5 @@ The "permanent four": Cap Cities, Coca-Cola, GEICO, Washington Post. (Wells Farg
 - Junk-bond critique extends the zero-coupon-bond essay of [[berkshire-1989-letter]].
 - USAir "unforced error" admission becomes the full post-mortem in [[berkshire-1994-letter]].
 - Super-cat framework established here is restated in every subsequent letter through 1995.
+- The Wells Fargo rationale turns explicitly on the [[institutional-imperative]] — "lemming-like zeal" of peer-following banks — first formally named in [[berkshire-1989-letter]]; this letter provides the clearest positive illustration (a bank that avoided it).
+- The look-through earnings table introduced here is picked up in [[berkshire-1991-letter]] as a standing annual feature and becomes the lens for evaluating Berkshire's Coca-Cola and Capital Cities stakes.

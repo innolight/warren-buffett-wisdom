@@ -2,7 +2,7 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
+updated: 2026-05-27
 source_type: annual-letter
 author: warren-buffett
 year: 1994
@@ -13,27 +13,27 @@ related: [[warren-buffett]], [[berkshire-hathaway]], [[scott-fetzer]], [[ralph-s
 
 # Berkshire Hathaway 1994 Annual Letter
 
-Dated March 7, 1995. Per-share book value up 13.9% to $10,083. The headline 1994 events: Coca-Cola addition to 100M shares; major American Express position built; Cap Cities increased; USAir writedown ($269M to 25% of par); Carl Reichardt and Dan Burke retire. Canonical essays: the **Scott Fetzer accounting case study** of intrinsic-value-vs-book-value divergence, the **compensation essay** centered on Ralph Schey, the **capital-allocation essay** with the MBA / day-laborer analogy, and the **USAir post-mortem** with the "unforced error" framing fully developed.
+Dated March 7, 1995. Per-share book value up 13.9% to $10,083. The headline 1994 events: Coca-Cola addition to 100M shares; major American Express position built; Cap Cities increased; USAir writedown ($269M to 25% of par); Carl Reichardt and Dan Burke retire. Canonical essays: the **[[scott-fetzer]] accounting case study** of intrinsic-value-vs-book-value divergence, the **compensation essay** centered on [[ralph-schey]], the **capital-allocation essay** with the MBA / day-laborer analogy, and the **[[usair]] post-mortem** with the "unforced error" framing fully developed.
 
 ## Key themes
 
 - **Scott Fetzer case study.** Eight-year intrinsic-value-vs-book-value analysis. Book value declined from $172.6M (1986) to $94M (1994) through distributions exceeding earnings, while pre-tax earnings nearly doubled. The intrinsic-value-vs-carrying-value gap is "now huge."
 - **Compensation essay (Ralph Schey).** Five-minute agreement; symmetric incentives (capital charge for incremental capital deployed, equal credit for capital released); never amended. The structural critique of typical "alignment" plans as "heads I win, tails you lose."
 - **Capital allocation essay.** MBA / day-laborer analogy. "Animal spirits" CEOs. "Chain letter in reverse" (John Medlin, Wachovia). The interior-decorator analogy. Wayne Gretzky's "go to where the puck is going to be."
-- **USAir post-mortem.** Full "unforced error" framing. Commodity-business economics with regulatory lag. "You don't have to make it back the way that you lost it." $269M writedown to $89.5M (25% of par); dividend suspended September 1994; Buffett/Munger resign from board.
-- **Coca-Cola to 100M shares.** Cost $1.298B; market $5.15B at yearend.
-- **American Express major addition.** 27.76M shares; cost $723.9M; ~5.5% of company.
-- **Cap Cities increased.** From 2M to 20M shares (3-for-1 split adjustment). Cost $345M; market $1.705B.
+- **USAir post-mortem.** Full "unforced error" framing. [[commodity-business-economics]] with regulatory lag. "You don't have to make it back the way that you lost it." $269M writedown to $89.5M (25% of par); dividend suspended September 1994; Buffett/Munger resign from board.
+- **[[coca-cola]] to 100M shares.** Cost $1.298B; market $5.15B at yearend.
+- **[[american-express]] major addition.** 27.76M shares; cost $723.9M; ~5.5% of company.
+- **[[capital-cities]] increased.** From 2M to 20M shares (3-for-1 split adjustment). Cost $345M; market $1.705B.
 - **Mistake du jour (Cap Cities 1993 sale).** Sold 10M at $63 in late 1993; year-end 1994 price $85.25. $222.5M of damage by then.
 - **PNC Bank Corporation, Gannett added.**
 
 ## Notable quotes
 
-> Intrinsic value can be defined simply: It is the discounted value of the cash that can be taken out of a business during its remaining life.
+> We define intrinsic value as the discounted value of the cash that can be taken out of a business during its remaining life.
 
-> A fat wallet is the enemy of superior investment results.
+> A fat wallet, however, is the enemy of superior investment results.
 
-> My argument is, to be a good hitter, you've got to get a good ball to hit. … If I have to bite at stuff that is out of my happy zone, I'm not a .344 hitter. I might only be a .250 hitter. [Buffett quoting Ted Williams.]
+> My argument is, to be a good hitter, you've got to get a good ball to hit. It's the first rule in the book. If I have to bite at stuff that is out of my happy zone, I'm not a .344 hitter. I might only be a .250 hitter. [Buffett quoting Ted Williams.]
 
 > Fear is the foe of the faddist, but the friend of the fundamentalist.
 
@@ -45,9 +45,9 @@ Dated March 7, 1995. Per-share book value up 13.9% to $10,083. The headline 1994
 
 > When such a CEO is encouraged by his advisors to make deals, he responds much as would a teenage boy who is encouraged by his father to have a normal sex life. It's not a push he needs.
 
-> Most major acquisitions display an egregious imbalance: They are a bonanza for the shareholders of the acquiree; they increase the income and status of the acquirer's management; and they are a honey pot for the investment bankers and other professionals on both sides. But, alas, they usually reduce the wealth of the acquirer's shareholders, often to a substantial extent.
+> The sad fact is that most major acquisitions display an egregious imbalance: They are a bonanza for the shareholders of the acquiree; they increase the income and status of the acquirer's management; and they are a honey pot for the investment bankers and other professionals on both sides. But, alas, they usually reduce the wealth of the acquirer's shareholders, often to a substantial extent.
 
-> [Asking your strategic planning staff whether an acquisition makes sense is] like asking your interior decorator whether you need a $50,000 rug.
+> That's like asking your interior decorator whether you need a $50,000 rug. *[paraphrase — not verbatim; original has fuller context: "Often the CEO asks a strategic planning staff, consultants or investment bankers whether an acquisition or two might make sense."]*
 
 > In our book, alignment means being a partner in both directions, not just on the upside.
 
@@ -83,7 +83,7 @@ See [[intrinsic-value-vs-book-value]] and [[ralph-schey]].
 
 ## Compensation essay
 
-The Schey arrangement: bonuses tied to Scott Fetzer results (not Berkshire's); high charge for incremental capital used; equal credit for capital released. Symmetric. Five-minute agreement at the time of acquisition. Unchanged through 1994.
+The Schey arrangement: bonuses tied to Scott Fetzer results (not [[berkshire-hathaway]]'s); high charge for incremental capital used; equal credit for capital released. Symmetric. Five-minute agreement at the time of acquisition. Unchanged through 1994.
 
 The structural critique of typical stock-option plans: ten-year options at fixed prices, with low dividend payouts that build up the value of the company through retained earnings — provide "lush gains to a manager who has done no more than tread water in his job."
 
@@ -93,7 +93,7 @@ See [[incentive-compensation]].
 
 ## Capital allocation essay
 
-The MBA / day-laborer share-swap analogy: a young MBA student with high future earnings would dramatically boost current-year earnings by merging with a day laborer of equal current earnings — and would obviously be making a terrible decision.
+The [[stock-as-acquisition-currency]] MBA / day-laborer share-swap analogy: a young MBA student with high future earnings would dramatically boost current-year earnings by merging with a day laborer of equal current earnings — and would obviously be making a terrible decision.
 
 The "interior decorator" framing: CEOs ask consultants and bankers whether acquisitions make sense; the advisor's incentive is to find a deal. Wayne Gretzky's "go to where the puck is going to be" as the guiding principle.
 
@@ -111,13 +111,13 @@ Full "unforced error" essay. $358M preferred written down to $89.5M (25% of par)
 
 "This principle should have been obvious to your Chairman, but I missed it."
 
-Buffett and Munger resign from USAir board.
+Buffett and [[charlie-munger]] resign from USAir board.
 
 See [[usair]].
 
 ## Mistake du jour: Cap Cities 1993 sale
 
-Sold 10M shares at $63 in late 1993; yearend 1994 price $85.25. $222.5M of foregone gain by then. The full cost in Disney shares only revealed in 1995.
+Sold 10M shares at $63 in late 1993; yearend 1994 price $85.25. $222.5M of foregone gain by then. The full cost in [[disney]] shares only revealed in 1995.
 
 "When we purchased the stock at $17.25 in 1986, I told you that I had previously sold our Cap Cities holdings at $4.30 per share during 1978-80, and added that I was at a loss to explain my earlier behavior. Now I've become a repeat offender."
 
@@ -146,7 +146,7 @@ Significant additions: American Express (PERC converted, common added), Cap Citi
 | ---: | ---: | ---: | ---: | ---: |
 | 1994 | profit | $3,056.6M | less than zero | 7.88% |
 
-Second consecutive year of negative cost of float. Super-cat lucky again; Los Angeles earthquake losses "nominal" (if had been 7.5 instead of 6.8 would have been different story). Berkshire's worst-case super-cat loss now ~$600M after-tax.
+Second consecutive year of negative cost of [[float]]. [[super-cat-insurance]] lucky again; Los Angeles earthquake losses "nominal" (if had been 7.5 instead of 6.8 would have been different story). Berkshire's worst-case super-cat loss now ~$600M after-tax.
 
 ## Entities discussed
 
@@ -184,3 +184,5 @@ Second consecutive year of negative cost of float. Super-cat lucky again; Los An
 - The capital-allocation essay extends the canonical 1987 essay of [[berkshire-1987-letter]].
 - The USAir post-mortem completes the "unforced error" admission of [[berkshire-1990-letter]].
 - "Fear is friend of fundamentalist" extends the food-prices analogy of [[berkshire-1990-letter]].
+- The USAir commodity-business analysis is the negative case study for the franchise-vs-business framework canonically introduced in [[berkshire-1991-letter]]: USAir is the paradigmatic "business" (not a franchise) unable to raise prices or lower costs, confirming the framework's predictive power.
+- The compensation essay's critique of option-plan misalignment parallels the owner-orientation principles first articulated at Berkshire's NYSE listing in [[berkshire-1988-letter]], showing how misaligned incentives corrode manager focus over time.

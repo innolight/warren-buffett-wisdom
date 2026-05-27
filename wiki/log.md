@@ -10,6 +10,21 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-05-27] refactor | source page quality pass — quote audit + wikilinks + connections (1986–1995)
+
+Ten parallel agents, one per source page. Each read the raw letter and the wiki page, verified every quote verbatim, added body-text wikilinks on first substantive mention, and strengthened thematic cross-references.
+
+**Quote corrections across 10 letters:**
+- **Fabricated / mis-filed quotes removed (10 total):** 4 from berkshire-1989-letter (quotes from 1985, 1986, 1988 letters and one not found anywhere); 2 from berkshire-1988-letter (quotes from 1989 letter); 1 from berkshire-1990-letter (from 1994 letter); 1 from berkshire-1991-letter (fabricated Ralph Schey quote); 1 from berkshire-1993-letter (dropped opening clause); 1 from berkshire-1994-letter (invented opener replaced with Buffett's actual words)
+- **Truncated quotes restored:** dropped opening clauses and mid-sentence continuations restored across 1987, 1990, 1991, 1992, 1994, 1995 letters
+- **Factual error corrected:** Li'l Abner figure was $25,250 in wiki; raw letter says $22,370 — fixed in berkshire-1993-letter
+
+**Wikilinks added:** 50+ body-prose wikilinks added across all 10 pages (first substantive mentions of entities/concepts/people not previously linked in prose)
+
+**Connections strengthened:** 20 new thematic cross-reference bullets added (2 per letter), mapping concept threads across the 1986–1995 arc
+
+---
+
 ## [2026-05-26] refactor | post-ingest quality pass on 1986–1995 batch
 
 Five-category quality audit (spot-checked by 5 independent agents) identified structural issues across all page types. Six improvement agents dispatched in parallel to address findings.

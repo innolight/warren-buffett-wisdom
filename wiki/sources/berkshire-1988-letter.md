@@ -2,7 +2,7 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
+updated: 2026-05-27
 source_type: annual-letter
 author: warren-buffett
 year: 1988
@@ -28,17 +28,15 @@ Dated February 28, 1989. Net worth up $569M (20%). Per-share book value to $2,97
 
 ## Notable quotes
 
-> Some Charlatans interpret the rules "imaginatively" and record business transactions in ways that technically comply with GAAP but actually display an economic illusion to the world. … It has been far safer to steal large sums with a pen than small sums with a gun.
+> So these charlatans interpret the rules "imaginatively" and record business transactions in ways that technically comply with GAAP but actually display an economic illusion to the world. … It has been far safer to steal large sums with a pen than small sums with a gun.
 
 > The supreme irony of business management is that it is far easier for an inadequate CEO to keep his job than it is for an inadequate subordinate.
 
-> The boss shoots the arrow of managerial performance and then hastily paints the bullseye around the spot where it lands.
+> At too many companies, the boss shoots the arrow of managerial performance and then hastily paints the bullseye around the spot where it lands.
 
 > When we own portions of outstanding businesses with outstanding managements, our favorite holding period is forever.
 
 > We continue to concentrate our investments in a very few companies that we try to understand well. … "Too much of a good thing can be wonderful."
-
-> Fools rush in where angels fear to trade. [Buffett quoting Wall Streeter Ray DeVoe.]
 
 > If something can't go on forever, it will end. [Buffett quoting Herb Stein.]
 
@@ -46,11 +44,9 @@ Dated February 28, 1989. Net worth up $569M (20%). Per-share book value to $2,97
 
 > In any sort of a contest — financial, mental, or physical — it's an enormous advantage to have opponents who have been taught that it's useless to even try.
 
-> Buy a stock at a sufficiently low price, there will usually be some hiccup in the fortunes of the business that gives you a chance to unload at a decent profit, even though the long-term performance of the business may be terrible. [On the cigar-butt approach — first appearance before the 1989 canonization.]
-
 ## The Coca-Cola purchase
 
-14,172,500 shares at $592.5M cost; $632.4M market at yearend 1988. The position is held in Berkshire's insurance subsidiaries. The 1988 letter announces it tersely; the substantive personal history (Buffett's 1936 awareness; Goizueta's 1981 arrival; the "52 years late" admission) appears in [[berkshire-1989-letter]]. The framing of intent is clear from the start: this is a permanent holding, like Cap Cities, GEICO, and Washington Post.
+14,172,500 shares at $592.5M cost; $632.4M market at yearend 1988. The position is held in Berkshire's insurance subsidiaries. The 1988 letter announces it tersely; the substantive personal history (Buffett's 1936 awareness; Goizueta's 1981 arrival; the "52 years late" admission) appears in [[berkshire-1989-letter]]. The framing of intent is clear from the start: this is a permanent holding, like [[capital-cities]], [[geico]], and [[washington-post]].
 
 The letter pairs the Coca-Cola purchase with the Freddie Mac preferred as the two "major purchases" of the year — together accounting for most of the year's new equity deployment.
 
@@ -82,15 +78,15 @@ See [[risk-vs-volatility]] for the 1993 extension on beta.
 
 Industry combined ratio 105.4 (1988). Berkshire's: 104. Florida hurricane and California earthquake risk discussion continues. Buffett's volume forecast (1989-90) is for low premium because of disciplined pricing.
 
-The structural-advantages section of the insurance essay: Berkshire's float-to-premium ratio is now exceptional ("at least three times that of the typical property/casualty company" expected for 1989-90). Mike Goldberg, [[ajit-jain]], Dinos Iordanou, and the National Indemnity team named. Ajit's first mention in any Berkshire letter.
+The structural-advantages section of the insurance essay: Berkshire's [[float]]-to-premium ratio is now exceptional ("at least three times that of the typical property/casualty company" expected for 1989-90). Mike Goldberg, [[ajit-jain]], Dinos Iordanou, and the [[national-indemnity]] team named. Ajit's first mention in any Berkshire letter.
 
 GEICO note: Proposition 103 in California threatens to force auto-insurance rate cuts. Direct effect on Berkshire small; effect on GEICO (10% of premium volume from California) significant; bigger concern that similar measures pass in other states.
 
 ## NYSE listing — owner-orientation goals
 
-Listed November 29, 1988. Two explicit goals distinguishing Berkshire from typical companies:
+Listed November 29, 1988. Two explicit [[owner-orientation]] goals distinguishing Berkshire from typical companies:
 
-1. **Stock should trade close to intrinsic value, not above or below.** "Both extremes will inevitably produce results for many shareholders that will differ sharply from Berkshire's business results."
+1. **Stock should trade close to [[intrinsic-value-vs-book-value|intrinsic value]], not above or below.** "Both extremes will inevitably produce results for many shareholders that will differ sharply from Berkshire's business results."
 2. **Very little trading activity.** "We don't understand the CEO who wants lots of stock activity, for that can be achieved only if many of his owners are constantly exiting. At what other organization — school, club, church, etc. — do leaders cheer when members leave?"
 
 The shareholder-base engineering implicit in these goals becomes the recurring Berkshire theme (no stock splits, candid disclosure, low payout, eventually the 1996 Class B share design).
@@ -109,7 +105,7 @@ The "permanent holdings" (Cap Cities, GEICO, WaPo) plus Coca-Cola and Freddie Ma
 
 ## David Dodd
 
-Brief tribute upon Dodd's death at 93. Buffett's teacher and friend for 38 years. "In Berkshire's investments, Charlie and I have employed the principles taught by Dave and Ben Graham. Our prosperity is the fruit of their intellectual tree." See [[david-dodd]].
+Brief tribute upon Dodd's death at 93. Buffett's teacher and friend for 38 years. "In Berkshire's investments, Charlie and I have employed the principles taught by Dave and [[ben-graham]]. Our prosperity is the fruit of their intellectual tree." See [[david-dodd]].
 
 ## Entities discussed
 
@@ -150,3 +146,5 @@ Brief tribute upon Dodd's death at 93. Buffett's teacher and friend for 38 years
 - Borsheim's acquisition acknowledges the [[nebraska-furniture-mart]] / Blumkin family connection.
 - The NYSE-listing owner-orientation principles will be extended in the 1995 Class B share recapitalization ([[berkshire-1995-letter]]).
 - Dodd obituary completes the Graham-Dodd lineage references that recur in every value-investing essay across the letters.
+- The CEO-incompetence-persistence essay here is the direct precursor to [[berkshire-1989-letter]]'s formal naming of the [[institutional-imperative]] — the same behavioral dynamic (Board inertia, social pressures, no external standard) receives its canonical label one year later.
+- The Mae West "Too much of a good thing can be wonderful" line on concentration (introduced here) recurs verbatim in [[berkshire-1993-letter]]'s know-something-investor essay, cementing it as a durable Buffett shorthand for the [[concentration-vs-diversification]] principle.

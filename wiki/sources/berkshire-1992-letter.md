@@ -2,7 +2,7 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
+updated: 2026-05-27
 source_type: annual-letter
 author: warren-buffett
 year: 1992
@@ -27,9 +27,9 @@ Dated March 1, 1993. Per-share book value up 20.3% to $7,745. Central States Ind
 
 ## Notable quotes
 
-> In our opinion, the two approaches are joined at the hip: Growth is always a component in the calculation of value.
+> In our opinion, the two approaches are joined at the hip: Growth is always a component in the calculation of value, constituting a variable whose importance can range from negligible to enormous and whose impact can be negative as well as positive.
 
-> What is "investing" if it is not the act of seeking value at least sufficient to justify the amount paid? Consciously paying more for a stock than its calculated value … should be labeled speculation.
+> What is "investing" if it is not the act of seeking value at least sufficient to justify the amount paid? Consciously paying more for a stock than its calculated value - in the hope that it can soon be sold for a still-higher price - should be labeled speculation (which is neither illegal, immoral nor - in our view - financially fattening).
 
 > Growth benefits investors only when the business in point can invest at incremental returns that are enticing — in other words, only when each dollar used to finance the growth creates over a dollar of long-term market value. In the case of a low-return business requiring incremental funds, growth hurts the investor.
 
@@ -43,13 +43,13 @@ Dated March 1, 1993. Per-share book value up 20.3% to $7,745. Central States Ind
 
 > "Practice doesn't make perfect; practice makes permanent." [Buffett quoting an anonymous golf pro on acquisition discipline.]
 
-> Buy good businesses at fair prices rather than fair businesses at good prices.
+> [tried to] buy good businesses at fair prices rather than fair businesses at good prices. *[paraphrase — not verbatim]*
 
 > How many legs does a dog have if you call his tail a leg? … Four, because calling a tail a leg does not make it a leg. [Lincoln, quoted on accounting questions.]
 
 > When you get right down to it, what other item of major but hard-to-precisely-calculate cost — other, that is, than stock options — does the accounting profession say should be ignored in the calculation of earnings?
 
-> It is both silly and cynical to say that an important item of cost should not be recognized simply because it can't be quantified with pinpoint precision. … No one knows with any certainty what a bank's annual loan loss charge ought to be. And the estimates of losses that property-casualty companies make are notoriously inaccurate. Does this mean that these important items of cost should be ignored simply because they can't be quantified with absolute accuracy? Of course not.
+> Moreover, it is both silly and cynical to say that an important item of cost should not be recognized simply because it can't be quantified with pinpoint precision. Right now, accounting abounds with imprecision. After all, no manager or auditor knows how long a 747 is going to last, which means he also does not know what the yearly depreciation charge for the plane should be. No one knows with any certainty what a bank's annual loan loss charge ought to be. And the estimates of losses that property-casualty companies make are notoriously inaccurate. Does this mean that these important items of cost should be ignored simply because they can't be quantified with absolute accuracy? Of course not.
 
 ## Growth-vs-value essay
 
@@ -69,7 +69,7 @@ The offer: "If you find a CEO who says his newly-issued options have little or n
 
 Acquired December 1992. Bill Kizer (Omaha; Buffett friend since 1957). Father of nine; another in the family-business mold. Carries the recurring 1992 framing — Berkshire's 1991 acquisition (H.H. Brown) and 1992 acquisition (Central States) both came from large families.
 
-The "carbon copy" of National Indemnity logic: another Omaha insurance acquisition from a friend.
+The "carbon copy" of [[national-indemnity]] logic: another Omaha insurance acquisition from a friend.
 
 ## General Dynamics
 
@@ -83,7 +83,7 @@ Buffett's gratitude is unusually personal: "I will forever be grateful to them."
 
 ## Mrs. B returns
 
-After her 1989 departure from NFM (over a managerial disagreement about carpet operations), Mrs. B sold the building she had bought to NFM in December 1992 and signed a non-compete at 99. Her carpet business continues; NFM operates the rest of the building.
+After her 1989 departure from [[nebraska-furniture-mart]] (over a managerial disagreement about carpet operations), Mrs. B sold the building she had bought to NFM in December 1992 and signed a non-compete at 99. Her carpet business continues; NFM operates the rest of the building.
 
 ## Cost-of-float 1992
 
@@ -91,7 +91,7 @@ After her 1989 departure from NFM (over a managerial disagreement about carpet o
 | ---: | ---: | ---: | ---: | ---: |
 | 1992 | $108.96M | $2,290.4M | 4.76% | 7.39% |
 
-Below long-term government bond yield again. Super-cat: Hurricane Andrew $125M loss roughly equal to annual super-cat premium income. Super-cat net result for year ~$2M loss.
+Below long-term government bond yield again. [[super-cat-insurance]]: Hurricane Andrew $125M loss roughly equal to annual super-cat premium income. Super-cat net result for year ~$2M loss.
 
 ## Portfolio (yearend 1992)
 
@@ -151,3 +151,5 @@ Note: position changes from prior year — Freddie Mac doubled; Guinness modestl
 - Stock-options essay anticipates the more pointed 1994 incentive-compensation discussion centered on Ralph Schey at Scott Fetzer.
 - Mrs. B return restores the NFM family integrity.
 - Acquisition criteria reprised verbatim (acquisitions section).
+- The look-through earnings table (1992 actual: $604M; target by 2000: $1.8B) extends the framework first introduced in [[berkshire-1990-letter]] and operationalizes the capital-allocation goal that frames all portfolio decisions through the mid-1990s.
+- The General Dynamics move — from arbitrage position to 14% long-term stake in a single month — directly parallels the Wells Fargo accumulation in [[berkshire-1990-letter]]; both illustrate using an episodic surge in share volume (tender offer / bank-panic selling) to build an outsized stake quickly, then committing to indefinite ownership.

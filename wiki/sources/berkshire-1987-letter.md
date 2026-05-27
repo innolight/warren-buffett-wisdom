@@ -2,7 +2,7 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
+updated: 2026-05-27
 source_type: annual-letter
 author: warren-buffett
 year: 1987
@@ -29,19 +29,19 @@ Dated February 29, 1988. Net worth up $464M (19.5%). Per-share book value to $2,
 
 > Severe change and exceptional returns usually don't mix. … For such investor-dreamers, any blind date is preferable to one with the girl next door, no matter how desirable she may be.
 
-> Our managers have produced extraordinary results by doing rather ordinary things — but doing them exceptionally well. … They work exceptionally hard at the details of their businesses, and it shows.
+> Our managers have produced extraordinary results by doing rather ordinary things - but doing them exceptionally well. … They work exceptionally hard at the details of their businesses, and it shows.
 
 > Mr. Market is there to serve you, not to guide you. It is his pocketbook, not his wisdom, that you will find useful. … If you've been in the game 30 minutes and you don't know who the patsy is, you're the patsy.
 
 > Develop your eccentricities while you are young. That way, when you get old, people won't think you're going ga-ga. [Buffett quoting David Ogilvy.]
 
-> Making silk purses out of silk is the best that we can do; with sow's ears, we fail.
+> Charlie and I have found that making silk purses out of silk is the best that we can do; with sow's ears, we fail.
 
-> A CEO who annually retains earnings equal to 10% of net worth will have been responsible for the deployment of more than 60% of all the capital at work in the business.
+> After ten years on the job, a CEO whose company annually retains earnings equal to 10% of net worth will have been responsible for the deployment of more than 60% of all the capital at work in the business.
 
-> The final step for a highly-talented musician [is not] to perform at Carnegie Hall but, instead, to be named Chairman of the Federal Reserve. [On capital allocation as the new job a CEO must take up.]
+> …it's as if the final step for a highly-talented musician was not to perform at Carnegie Hall but, instead, to be named Chairman of the Federal Reserve. [On capital allocation as the new job a CEO must take up.]
 
-> If you want to shoot rare, fast-moving elephants, you should always carry a loaded gun. [On financing in anticipation of need.]
+> Our basic principle is that if you want to shoot rare, fast-moving elephants, you should always carry a loaded gun. [On financing in anticipation of need.]
 
 ## The Mr. Market allegory — substance
 
@@ -49,7 +49,7 @@ Buffett's framing: imagine a business partner who shows up daily with a buy/sell
 
 The discipline he enforces: "If he shows up some day in a particularly foolish mood, you are free to either ignore him or to take advantage of him, but it will be disastrous if you fall under his influence. Indeed, if you aren't certain that you understand and can value your business far better than Mr. Market, you don't belong in the game."
 
-The complementary Graham line: "In the short run, the market is a voting machine but in the long run it is a weighing machine."
+The complementary [[ben-graham]] line: "In the short run, the market is a voting machine but in the long run it is a weighing machine."
 
 See [[mr-market]] for the full treatment.
 
@@ -61,17 +61,17 @@ The lesson: "the best business returns are usually achieved by companies that ar
 
 Operating updates:
 
-- **NFM.** 1987 sales $142.6M (+8%). Mrs. B at 94, still working seven days a week. The "Sell cheap and tell the truth" maxim.
+- **NFM.** 1987 sales $142.6M (+8%). [[rose-blumkin|Mrs. B]] at 94, still working seven days a week. The "Sell cheap and tell the truth" maxim.
 - **Buffalo News.** Seven editions per 24 hours; 50% news hole maintained.
 - **See's.** Volume hit a record 25.1M pounds; Christmas-concentrated profits (85% of profit earned in December).
 - **Fechheimer.** First full year; record earnings continued the multi-generational Heldman pattern.
-- **Scott Fetzer / World Book / Kirby.** Schey continued to compound; 10% pre-tax earnings growth, capital base declining.
+- **Scott Fetzer / World Book / Kirby.** [[ralph-schey|Schey]] continued to compound; 10% pre-tax earnings growth, capital base declining.
 
 See [[scott-fetzer]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]] for entity-level detail.
 
 ## Insurance — 1987 results
 
-Industry combined ratio 104.7. Berkshire's: 105 (excluding structured settlements/financial reinsurance). Underwriting result improved primarily through float growth, not underwriting margin. The "lag factor" Buffett describes: price changes take 6-12 months to show in earnings; the 1985-87 industry party will produce 1988-89 results improvement, then turn south.
+Industry combined ratio 104.7. Berkshire's: 105 (excluding structured settlements/financial reinsurance). Underwriting result improved primarily through [[float]] growth, not underwriting margin. The "lag factor" Buffett describes: price changes take 6-12 months to show in earnings; the 1985-87 industry party will produce 1988-89 results improvement, then turn south.
 
 Two essays in the insurance section:
 
@@ -91,7 +91,7 @@ Permanent-holding policy formalized. Two main advantages of controlled vs. marke
 
 ## Salomon convertible preferred
 
-$700M, 9% coupon, convertible after 3 years at $38/share into Salomon common, mandatory redemption ratably 1995-99. Largest single capital commitment in Berkshire history. The structure is mostly medium-term fixed-income with a conversion kicker. Investment thesis: confidence in Gutfreund, not understanding of investment-banking economics.
+$700M, 9% coupon, convertible after 3 years at $38/share into Salomon common, mandatory redemption ratably 1995-99. Largest single capital commitment in Berkshire history. The structure is mostly medium-term fixed-income with a conversion kicker. Investment thesis: confidence in [[john-gutfreund|Gutfreund]], not understanding of investment-banking economics.
 
 See [[salomon]] for the substantive treatment.
 
@@ -111,7 +111,7 @@ The framework on debt overall: "we wish that to be certain" (re: meeting obligat
 
 ## The 1987 sale of K&W Products to Harry Bottle
 
-A minor anecdote, but characteristic Berkshire: K&W Products, a small automotive-compound subsidiary, had stumbled in 1985-86. Munger called Harry Bottle (then 68, who had earlier solved Buffett's 1962 Dempster Mill crisis) and made him CEO. Profits up >300% in 1987; capital employed down 20%. The pattern: trust the operator, get out of the way.
+A minor anecdote, but characteristic Berkshire: K&W Products, a small automotive-compound subsidiary, had stumbled in 1985-86. [[charlie-munger|Munger]] called Harry Bottle (then 68, who had earlier solved Buffett's 1962 Dempster Mill crisis) and made him CEO. Profits up >300% in 1987; capital employed down 20%. The pattern: trust the operator, get out of the way.
 
 ## Entities discussed
 
@@ -151,3 +151,5 @@ A minor anecdote, but characteristic Berkshire: K&W Products, a small automotive
 - The Salomon investment becomes operationally central in [[berkshire-1991-letter]] (Buffett as Interim Chairman during the crisis).
 - The "carry a loaded gun" financing principle is reprised in [[berkshire-1989-letter]] (zero-coupon debentures) and [[berkshire-1990-letter]] (Wells Fargo panic accumulation).
 - The capital-allocation essay is sharpened in [[berkshire-1994-letter]] (the MBA / day-laborer analogy).
+- The [[commodity-business-economics]] diagnosis of insurance (ease of entry, undifferentiated product, only low-cost or niche operators survive) is extended in [[berkshire-1988-letter]], which applies the same logic to justify Berkshire's volume-indifferent underwriting stance in a softening market.
+- The auditor-opinion critique on long-tail reserve unknowability prefigures the accounting-skepticism thread in [[berkshire-1992-letter]] and [[berkshire-1993-letter]], where Buffett consistently distinguishes GAAP-reported earnings from economic reality.

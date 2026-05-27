@@ -2,7 +2,7 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
+updated: 2026-05-27
 source_type: annual-letter
 author: warren-buffett
 year: 1995
@@ -31,27 +31,27 @@ Dated March 1, 1996. Per-share book value up 43.1% to $14,426. The headline 1995
 
 > The real advantage of being bisexual is that it doubles your chances for a date on Saturday night. [Buffett quoting Woody Allen on the dual-track approach of full acquisitions and stock-market purchases.]
 
-> Dealmaking beats working. Dealmaking is exciting and fun, and working is grubby. … That's why you have deals that make no sense. [Peter Drucker.]
+> "I will tell you a secret: Dealmaking beats working. Dealmaking is exciting and fun, and working is grubby. Running anything is primarily an enormous amount of grubby detail work . . . dealmaking is romantic, sexy. That's why you have deals that make no sense." [Peter Drucker, as quoted by Buffett.]
 
 > Things are seldom what they seem, skim milk masquerades as cream. [HMS Pinafore, on acquisition projections.]
 
 > In retailing, to coast is to fail.
 
-> If you were smart enough to buy a network TV station very early in the game, you could put in a shiftless and backward nephew to run things, and the business would still do well for decades. … For a retailer, hiring that nephew would be an express ticket to bankruptcy.
+> if you were smart enough to buy a network TV station very early in the game, you could put in a shiftless and backward nephew to run things, and the business would still do well for decades. … For a retailer, hiring that nephew would be an express ticket to bankruptcy.
 
 > Buying a retailer without good management is like buying the Eiffel Tower without an elevator.
 
-> Bill took over the business from his father-in-law in 1954 when sales were about $250,000. … "It's not what you've got — it's what you do with what you've got." [Quoting Mae West on R.C. Willey.]
+> Bill took over the business from his father-in-law in 1954 when sales were about $250,000. … "It's not what you've got - it's what you do with what you've got." [Quoting Mae West on R.C. Willey.]
 
 > In business, I look for economic castles protected by unbreachable "moats." Thanks to Tony and his management team, GEICO's moat widened in 1995.
 
 > A bad reinsurance contract is like hell: easy to enter and impossible to exit.
 
-> We prefer a lumpy 15% to a smooth 12%. [Reprised on super-cat.]
+> we prefer a lumpy 15% to a smooth 12%. [Reprised on super-cat.]
 
 > Eating my words has never given me indigestion. [Buffett quoting Churchill on the convertible-preferred retrospective.]
 
-> Don't bother to study its value — just buy the stock. [On Tom Murphy.]
+> If Murph should elect to run another business, don't bother to study its value - just buy the stock. [On Tom Murphy.]
 
 > Just tell me the bad news; the good news will take care of itself. [Charlie's dictum on management reporting.]
 
@@ -63,10 +63,10 @@ $2.3B for the half Berkshire didn't own. Berkshire's interest had grown from 33.
 
 The 1995 letter retells the 45-year Buffett-GEICO history at length. Highlights:
 
-- January 1951: Buffett travels to Washington on Saturday to find GEICO's offices closed; pounds on door; custodian directs him to Lorimer Davidson on sixth floor; four-hour education.
-- 1951: Four GEICO purchases for Buffett's personal account; September 26 the last. Year-end position 350 shares at $13,125 — 65% of net worth.
+- January 1951: Buffett, then studying under [[ben-graham]] at Columbia, travels to Washington on Saturday to find GEICO's offices closed; pounds on door; custodian directs him to Lorimer Davidson on sixth floor; four-hour education.
+- 1951: Four GEICO purchases for Buffett's personal account; September 26 the last. Year-end position 350 shares at $13,125 — 65% of net worth. Funds partly earned delivering [[washington-post]] as a boy.
 - 1952: Sells entire position for $15,259 to switch into Western Insurance Securities ("p/e ratio that for some reason caught my eye"). By the 1970s, the GEICO sold would have been worth $1.3M.
-- 1976: Berkshire builds large position during Byrne-era rescue.
+- 1976: Berkshire builds large position during [[jack-byrne]] rescue era.
 - 1980: Berkshire owns 33.3% at $45.7M cost.
 - 1996: Acquires remaining 50% for $2.3B.
 
@@ -80,13 +80,13 @@ See [[geico]], [[lorimer-davidson]], [[lou-simpson]].
 
 **Helzberg's:** ABWA encounter on 58th & Fifth. Barnett Helzberg (4 shares of Berkshire); third-generation owner since grandfather started in 1915. Jeff Comment as CEO. 134 stores in 23 states; $282M sales 1994. Tax-free stock exchange; Barnett shared proceeds with associates.
 
-**R.C. Willey:** Bill Child (took over from father-in-law in 1954 at $250K sales; now $257M). NFM's Irv Blumkin made the introduction; Bill Child told Irv that he and other owners might be interested in selling. Mid-1995 closing. Both Helzberg's and R.C. Willey emphasize the "have-to-be-smart-every-day" retail discipline.
+**R.C. Willey:** Bill Child (took over from father-in-law in 1954 at $250K sales; now $257M). [[nebraska-furniture-mart]]'s Irv Blumkin made the introduction; Bill Child told Irv that he and other owners might be interested in selling. Mid-1995 closing. Both Helzberg's and R.C. Willey emphasize the "have-to-be-smart-every-day" retail discipline.
 
 ## Disney/Cap Cities merger
 
 July 14, 1995: Buffett met Eisner on Wildflower Lane in Sun Valley (after Eisner's presentation at Allen's conference). Mention of merger possibility. Murphy joined them. Both sides willing to bend on stock/cash mix. Contract in three busy days.
 
-Cap Cities shareholders received either Disney stock + cash, or (subject to allocation) all stock / all cash. Berkshire requested all stock; ~20M+ Disney shares.
+[[capital-cities]] shareholders received either Disney stock + cash, or (subject to allocation) all stock / all cash. Berkshire requested all stock; ~20M+ Disney shares.
 
 Buffett's 1966-67 Disney history retold: bought BPL position at $0.31; sold at $0.48; stock now $66.
 
@@ -142,7 +142,7 @@ See [[float]].
 Three "decent or better" returns but earnings declined:
 
 - **Shoe group** — cyclical industry weakness; "no doubt that our shoe operations will climb back to top-grade earnings"
-- **Buffalo News** — another secular notch lost; industry still profitable
+- **[[buffalo-evening-news|Buffalo News]]** — another secular notch lost; industry still profitable
 - **World Book** — increasingly tough competition from CD-ROM and online; "Berkshire's most difficult problem"; major distribution changes in late 1995
 
 Charlie's dictum: "Just tell me the bad news; the good news will take care of itself."
@@ -161,7 +161,7 @@ Charlie's dictum: "Just tell me the bad news; the good news will take care of it
 | | Others | $1,379.0M | $2,655.4M |
 | | **Total Common Stocks** | **$5,745.1M** | **$22,000.3M** |
 
-Only major position change in 1995: American Express added (to just under 10% of company).
+Only major position change in 1995: [[american-express]] added (to just under 10% of company).
 
 ## Entities discussed
 
@@ -208,3 +208,5 @@ Only major position change in 1995: American Express added (to just under 10% of
 - The convertible-preferred retrospective extends the four 1989-91 commitments tracked across [[berkshire-1989-letter]], [[berkshire-1990-letter]], [[berkshire-1991-letter]], [[berkshire-1992-letter]], [[berkshire-1994-letter]].
 - The "have-to-be-smart-once" framework extends the [[franchise-vs-business]] essay of [[berkshire-1991-letter]].
 - The class B recapitalization extends the shareholder-base goals stated at the 1988 NYSE listing.
+- The 1951 Davidson story is the canonical account of how [[ben-graham]]'s teaching led directly to the GEICO investment — complementing the intellectual lineage described in [[berkshire-1984-letter]] (Graham retrospective on the value framework). Both letters together trace how Graham shaped Buffett's two most foundational investment relationships.
+- The retailing discipline ("have-to-be-smart-every-day") introduced here through R.C. Willey parallels the NFM/[[rose-blumkin]] case study developed in [[berkshire-1983-letter]]: both frame the irreplaceability of owner-operators in retail as a precondition for any acquisition.

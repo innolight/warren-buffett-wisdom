@@ -2,7 +2,7 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
+updated: 2026-05-27
 source_type: annual-letter
 author: warren-buffett
 year: 1991
@@ -33,19 +33,17 @@ Dated February 28, 1992. Net worth up $2.1B (39.6%). Per-share book value to $6,
 
 > In contrast, "a business" earns exceptional profits only if it is the low-cost operator or if supply of its product or service is tight. Tightness in supply usually does not last long. … And a business, unlike a franchise, can be killed by poor management.
 
-> Gone are the days of bullet-proof franchises and cornucopian economics. [On media properties.]
+> But gone are the days of bullet-proof franchises and cornucopian economics. [On media properties.]
 
 > What I can give you is an estimate as of yearend 1991 of the approximate gain that Berkshire didn't make because of your Chairman's mistake: about $1.4 billion.
 
 > Managers eager to bet heavily on their abilities usually have plenty of ability to bet on. [On the H.H. Brown compensation system.]
 
-> If you advertise an interest in buying collies, a lot of people will call hoping to sell you their cocker spaniels. [On unsolicited acquisition proposals.]
+> …if you advertise an interest in buying collies, a lot of people will call hoping to sell you their cocker spaniels. [On unsolicited acquisition proposals; lowercase in original — mid-sentence in raw letter.]
 
 > The stock market serves as a relocation center at which money is moved from the active to the patient.
 
-> As time goes on, I get more and more convinced that the right method in investment is to put fairly large sums into enterprises which one thinks one knows something about and in the management of which one thoroughly believes. [Buffett quoting Keynes's 1934 letter to F. C. Scott.]
-
-> We acquired Ralph as a manager as fully as important as our acquisition of the businesses. [Re Scott Fetzer purchase years earlier — context of the H.H. Brown acquisition.]
+> As time goes on, I get more and more convinced that the right method in investment is to put fairly large sums into enterprises which one thinks one knows something about and in the management of which one thoroughly believes. It is a mistake to think that one limits one's risk by spreading too much between enterprises about which one knows little and has no reason for special confidence. . . . One's knowledge and experience are definitely limited and there are seldom more than two or three enterprises at any given time in which I personally feel myself entitled to put full confidence. [Buffett quoting Keynes's August 15, 1934 letter to F. C. Scott.]
 
 ## Franchise vs. business — substance
 
@@ -53,13 +51,13 @@ Three conditions for a franchise: needed/desired; no close substitute; not price
 
 The valuation math: a $1M after-tax-earnings property modeled as a 6%-growth perpetuity at 10% discount rate values at $25M (25× after-tax). The same $1M earnings modeled as cyclical "bob-around" at 10% discount values at $10M (10× after-tax). Same earnings, different category of math.
 
-The media reclassification: secular forces (declining ad-spending growth, retailer bypass, channel proliferation) have moved newspapers, TV, magazines from franchise toward business. The intrinsic-value impact on Buffalo News, Cap Cities, Washington Post is significant.
+The media reclassification: secular forces (declining ad-spending growth, retailer bypass, channel proliferation) have moved newspapers, TV, magazines from franchise toward business. The intrinsic-value impact on [[buffalo-evening-news|Buffalo News]], [[capital-cities|Cap Cities]], [[washington-post|Washington Post]] is significant.
 
 See [[franchise-vs-business]].
 
 ## See's twenty-year retrospective
 
-January 3, 1972 acquisition by Blue Chip Stamps (later merged into Berkshire). Sellers asked $40M (calculated on the full ownership Berkshire ultimately attained); $30M after excess cash; Berkshire said $25M as ceiling. "Fortunately, the sellers accepted our offer."
+January 3, 1972 acquisition by [[blue-chip-stamps|Blue Chip Stamps]] (later merged into Berkshire). Sellers asked $40M (calculated on the full ownership Berkshire ultimately attained); $30M after excess cash; Berkshire said $25M as ceiling. "Fortunately, the sellers accepted our offer."
 
 | | 1972 | 1991 |
 | --- | ---: | ---: |
@@ -85,7 +83,7 @@ See [[incentive-compensation]] — H.H. Brown's compensation system extends the 
 
 Early 1988: decision to buy 30M shares ($350-400M position). After 7M shares the price climbed; Buffett stopped buying; then sold the 7M shares. By yearend 1991: ~$1.4B of foregone gain.
 
-The framing: "I wish I could give you a halfway rational explanation for my amateurish behavior vis-a-vis Fannie Mae. But there isn't one." The Coca-Cola counter-correction: when Coke rose during accumulation in 1988-89, Buffett did *not* stop.
+The framing: "I wish I could give you a halfway rational explanation for my amateurish behavior vis-a-vis Fannie Mae. But there isn't one." The [[coca-cola|Coca-Cola]] counter-correction: when Coke rose during accumulation in 1988-89, Buffett did *not* stop.
 
 See [[mistakes-of-omission]].
 
@@ -108,7 +106,7 @@ First year cost of funds exceeded long-term government bond yield since 1985. Lo
 
 ## Convertible preferreds — Gillette converted
 
-April 1, 1991: Gillette called the preferred. Berkshire converted to 12M common (later split-adjusted to 24M). Foregone $35M annual after-tax preferred income; replaced with common position now valued at $1.35B.
+April 1, 1991: [[gillette|Gillette]] called the preferred. Berkshire converted to 12M common (later split-adjusted to 24M). Foregone $35M annual after-tax preferred income; replaced with common position now valued at $1.35B.
 
 ## Portfolio (yearend 1991)
 
@@ -163,8 +161,10 @@ American Express PERC ($300M cost; $263.3M market) and First Empire State prefer
 
 ## Connections to other sources
 
-- The franchise-vs-business essay extends and operationalizes the [[moat]] discussions of 1982-85 and the [[economic-goodwill]] analysis of 1983-85.
+- The [[franchise-vs-business]] essay extends and operationalizes the [[moat]] discussions of 1982-85 and the [[economic-goodwill]] analysis of 1983-85.
 - The See's twenty-year retrospective is the wonderful-business confirmation of the [[cigar-butts-vs-wonderful-businesses]] lesson articulated in [[berkshire-1989-letter]].
 - Fannie Mae mistake completes the omission-mistakes framing referenced (without specifics) in [[berkshire-1989-letter]].
 - Salomon interim chairmanship extends the 1987 investment thesis in [[berkshire-1987-letter]]; full crisis-recovery report in [[berkshire-1992-letter]].
 - Cost-of-float table continues the format established in [[berkshire-1990-letter]].
+- The "Rip Van Winkle" stay-put portfolio framing and the Keynes concentration passage together anticipate the extended [[concentration-vs-diversification]] argument in [[berkshire-1993-letter]], where Buffett formally endorses a focused-portfolio philosophy.
+- The media-franchise reclassification is foreshadowed in [[berkshire-1986-letter]], which first distinguished media properties as price-setters rather than commodity producers; the 1991 letter marks the moment Buffett acknowledges that edge is structurally eroding.
