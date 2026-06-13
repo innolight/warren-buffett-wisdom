@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-12
 updated: 2026-06-13
-sources: [berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter]
+sources: [berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2005-letter]
 tags: [derivatives, risk, systemic-risk, financial-weapons]
 related: [[general-re]], [[float]], [[institutional-imperative]], [[underwriting-discipline]]
 ---
@@ -42,6 +42,16 @@ The 2004 letter adds a sharpened observation on mark-to-market incentives: deriv
 
 The case is instructive because the losses occurred under favorable conditions. A stress scenario — the kind of correlated credit crisis derivatives are designed to amplify — would have produced multiples of that cost. The exit difficulty itself illustrates the "easy to enter, almost impossible to exit" characterization Buffett applied to both Hell and bad derivatives books: "Like Hell, both are easy to enter and almost impossible to exit." ([[berkshire-2002-letter]])
 
+**2005: near the end, one last lesson.** By yearend 2005 the book had fallen to 741 contracts (from 2,890 at yearend 2004 and 23,218 at peak). The 2005 loss was $104 million; aggregate losses since the wind-down began totaled $404 million — all in a benign market, free of any credit stress.
+
+The most instructive detail from the final stretch: one of the contracts liquidated in 2005 had a term of 100 years. "It's difficult to imagine what 'need' such a contract could fulfill except, perhaps, the need of a compensation-conscious trader to have a long-dated contract on his books." Long-duration contracts are the hardest to mark to market and the easiest to inflate — smallest wonder that traders promoted them.
+
+The mutual self-deception that long-dated derivatives enable: "It's a strange world in which two parties can carry out a paper transaction that each can promptly report as profitable." The marks go to the firms' respective models; the models are run by the same people whose compensation depends on high marks. Both sides report gains; the difference from reality is deferred to settlement, sometimes decades away.
+
+Buffett's sharpest self-indictment on the dithering: "Fault me for dithering. (Charlie calls it thumb-sucking.) When a problem exists, whether in personnel or in business operations, the time to act is now."
+
+The canary framing, offered as a warning rather than a postmortem: "We are a canary in this business coal mine and should sing a song of warning as we expire. The number and value of derivative contracts outstanding in the world continues to mushroom and is now a multiple of what existed in 1998, the last time that financial chaos erupted." The systemic scenario Buffett described — "one or more firms with positions many multiples of ours attempting to liquidate in chaotic markets and under extreme, well-publicized pressures" — would materialize in practice during 2008. ([[berkshire-2005-letter]])
+
 ## Opacity as a first-order problem
 
 A diagnostic test Buffett and Munger apply: after reading a major bank's long footnotes detailing its derivatives activities, "the only thing we understand is that we don't understand how much risk the institution is running." ([[berkshire-2002-letter]]) This is not false modesty — it reflects a genuine epistemological gap. Instruments are often custom, models are proprietary, and counterparty exposures are dynamic.
@@ -57,6 +67,7 @@ Buffett's critique is not absolute. He acknowledges using large-scale derivative
 - [[berkshire-2002-letter]] — the canonical "financial weapons of mass destruction" essay; five structural mechanisms identified; Gen Re Securities mid-wind-down (14,384 contracts, 672 counterparties); LTCM 1998 as precedent; mark-to-myth coinage
 - [[berkshire-2003-letter]] — Gen Re Securities dithering confession; opacity-of-disclosure as first-order problem; Darwin quote; final balance ($272M loss in benign conditions); started at ~23,218 contracts
 - [[berkshire-2004-letter]] — wind-down to 2,890 contracts at yearend 2004 (from 7,580 at yearend 2003); phantom-profits-from-fuzzy-marks articulated (annual bonuses tied to marks create incentive toward optimistic valuation); "swimming naked when the tide goes out" framing; "Like Hell, derivative trading is easy to enter but difficult to leave"
+- [[berkshire-2005-letter]] — wind-down to 741 contracts; $104M 2005 loss; $404M aggregate; 100-year contract anecdote; "strange world" mutual-reporting-as-profitable quote; thumb-sucking self-indictment; canary-in-coal-mine systemic warning; described scenario largely materialized in 2008
 
 ## Related
 

@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-05-25
 updated: 2026-06-13
-sources: [berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+sources: [berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2005-letter]
 tags: [consumer-brand, global-franchise, marketable-equities, convertible-preferred]
 related: [[berkshire-hathaway]], [[colman-mockler]], [[coca-cola]], [[american-express]], [[franchise-vs-business]], [[moat]], [[concentration-vs-diversification]]
 ---
@@ -75,6 +75,18 @@ Market value fell from $4,821M (1997) to $2,915M (2002) — a 40% drawdown over 
 
 The 2003 letter confirmed: "The last position change in Gillette was in 1989." Fourteen years without a purchase or sale. Buffett added a candid self-criticism: "We own pieces of excellent businesses — all of which had good gains in intrinsic value last year — but their current prices reflect their excellence. The unpleasant corollary is that I made a big mistake in not selling several of our larger holdings during The Great Bubble." ([[berkshire-2003-letter]])
 
+## 2005: the merger closes and the position becomes P&G
+
+The Procter & Gamble / Gillette merger closed in Q4 2005. Berkshire's 96,000,000 Gillette shares were exchanged for 100,000,000 shares of P&G (3.0% of the combined company). GAAP required Berkshire to record a $5.0 billion pre-tax capital gain — a "bookkeeping entry, dictated by GAAP, meaningless from an economic standpoint." No tax was incurred (the exchange qualified as a tax-free reorganization); no intent to sell the resulting P&G shares. The GAAP cost basis for the P&G shares was re-marked to $940M.
+
+Buffett's tribute to Jim Kilts, who became Gillette's CEO in January 2001 and engineered the turnaround:
+
+> It's hard to overemphasize the importance of who is CEO of a company. Before Jim Kilts arrived at Gillette in 2001, the company was struggling, having particularly suffered from capital-allocation blunders. In the major example, Gillette's acquisition of Duracell cost Gillette shareholders billions of dollars, a loss never made visible by conventional accounting. Quite simply, what Gillette received in business value in this acquisition was not equivalent to what it gave up.
+
+Kilts "instilled fiscal discipline, tightened operations and energized marketing, moves that dramatically increased the intrinsic value of the company." For this, he was paid very well — and Buffett's view: "Indeed, it's difficult to overpay the truly extraordinary CEO of a giant enterprise. But this species is rare."
+
+The Duracell diagnosis is important: the acquisition appeared logical on the surface (a consumer brand adding another consumer brand) but destroyed value because what Gillette gave up in share issuance exceeded what it received in business value. The failure was invisible to conventional accounting — which is why Buffett raised it in the context of the CEO-compensation and stock-as-acquisition-currency essays running through the same letter. See [[stock-as-acquisition-currency]] and [[capital-allocation]]. ([[berkshire-2005-letter]])
+
 ## Sources discussing this entity
 
 - [[berkshire-1989-letter]] — $600M convertible preferred purchased July 1989; Buffett joins board; Sensor razor recommendation; "Gillette's business is very much the kind we like"
@@ -90,6 +102,7 @@ The 2003 letter confirmed: "The last position change in Gillette was in 1989." F
 - [[berkshire-2001-letter]] — held through post-9/11 decline; $3,206M market
 - [[berkshire-2002-letter]] — "earnings up, valuations down"; $2,915M market — trough of the post-bubble correction
 - [[berkshire-2003-letter]] — position frozen since 1989; "fully priced but excellent business"; self-critical note on not selling at the bubble peak
+- [[berkshire-2005-letter]] — merger into P&G closes Q4 2005; $5B GAAP gain described as "meaningless"; 96M Gillette → 100M P&G shares; Jim Kilts tribute; Duracell as capital-allocation blunder; "difficult to overpay the truly extraordinary CEO"
 
 ## Related
 

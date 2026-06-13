@@ -365,3 +365,26 @@ Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages 
 - Updated concepts: `float` (2004 row: $46.1B/$1.551B underwriting profit; all-segment table), `underwriting-discipline` (NICO cultural mechanics as positive structural illustration), `corporate-governance` (three questions that truly count; Matthew 6:21 independence test; Berkshire board standard; post-bubble reforms)
 - Updated index: added berkshire-2004-letter entry
 - Deliberately skipped: trade deficit / foreign currency macro essay (period-specific 2002-2004 dollar thesis; timeless elements already in other concepts); MidAmerican Energy zinc venture failure (local operational anecdote; the multi-variable probability insight lacks enough source support for a standalone concept page); Clayton Homes growth narrative (operational update, no new timeless insight); Don Wurster separate person page (operationally significant but not a shaping person in the intellectual arc — lives on national-indemnity page); derivatives wind-down (one-liner quote "like Hell" added as context for existing derivatives page via source page; no page update needed)
+
+## [2026-06-13] ingest | berkshire-2005-letter
+
+- Created source: `sources/berkshire-2005-letter.md`
+- Created concept: `concepts/investment-friction.md` (Gotrocks allegory; Newton's Fourth Law; four-layer Helper taxonomy; ~20% frictional cost estimate)
+- Updated entities: `geico` (2005: 32% productivity gain, employment −4%, policies +26%, advertising $502M, market share 5.6→6.1%, underwriting profit $1,221M), `midamerican-energy` (PUHCA repeal; 83.4% stake; PacifiCorp acquisition; partnership-model framing; $523M earnings to Berkshire), `clayton-homes` (portfolio $5.4B→$17B; $9.6B owned; Karsten acquisition; industry at 40-year lows; Clayton sole earner), `gillette` (P&G merger closes; $5B GAAP gain; Jim Kilts tribute; Duracell capital-allocation diagnosis; position becomes 100M P&G shares)
+- Updated concepts: `incentive-compensation` (Fred Futile/Stagnant Inc. worked example on dividend-withholding mechanism; "Ratchet Ratchet and Bingo"; nothing-succeeds-like-failure; Hank Greenberg anecdote), `derivatives` (741 contracts at yearend 2005; $104M 2005 loss, $404M aggregate; 100-year contract anecdote; thumb-sucking self-indictment; canary-in-coal-mine systemic warning)
+- Updated index: added `berkshire-2005-letter` (Sources section, chronological) and `investment-friction` (Concepts section, alphabetical)
+- Deliberately skipped:
+  - Forest River entity page (Pete Liegl entrepreneur story is charming; RV manufacturer is an acquisition announcement, not a canonical case study)
+  - Business Wire entity page (same: one-paragraph acquisition note)
+  - Applied Underwriters, MedPro entity pages (brief acquisition mentions; no durable investment lesson beyond what general acquisition-criteria coverage already captures)
+  - Chuck Huggins person page (See's operator for 34 years; notable but not a shaping figure in Buffett's intellectual development)
+  - Jim Kilts person page (praised for Gillette turnaround; better placed as a note on the Gillette entity page)
+  - PacifiCorp entity page (covered by updating MidAmerican)
+  - Hurricane / Katrina detail (year-specific; super-cat-insurance page already well-developed; no new principle beyond what Noah Rule and super-cat pages hold)
+  - Currency / trade-deficit essay (period-specific macro view; timeless elements already in other concepts)
+  - Management succession framing (interesting but thin — one paragraph noting the board has a named successor; no new concept warranted)
+
+## [2026-06-13] refactor | berkshire-2005-letter post-ingest quality fixes
+
+- `sources/berkshire-2005-letter.md` — added currency/trade key theme (GAAP mark-to-market asymmetry; $955M 2005 loss; +$2.0B since inception; shift to foreign equities); expanded management succession bullet to surface the CEO/investment-manager separation as structural governance design; removed incorrect 1988 letter cross-reference ("arbitrage essay on transaction costs" mischaracterized that essay — it's about Berkshire's own risk-arb methodology, not aggregate investor friction); 1999 letter connection retained and tightened
+- `concepts/investment-friction.md` — corrected two descriptions of [[passive-ownership-advantage]]: "partial ownership at public-market prices can outperform control" replaced with the accurate framing (passive minority stakes in *excellent* businesses outperform active control of mediocre ones — the business-quality dimension, not the pricing mechanism)

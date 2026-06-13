@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-06-13
 updated: 2026-06-13
-sources: [berkshire-2003-letter]
+sources: [berkshire-2003-letter, berkshire-2005-letter]
 tags: [acquisition, manufactured-housing, consumer-finance, underwriting-discipline, originate-and-distribute]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[acquisition-criteria]]
 ---
@@ -30,6 +30,17 @@ Clayton's board accepted the offer partly because future securitization access h
 
 **"Every tub on its own bottom."** Post-acquisition, Berkshire's financing structure for Clayton followed a principle Buffett articulated explicitly: Berkshire would not fund Clayton's loan portfolio from its own cash at zero cost. Instead, Berkshire borrowed externally and re-lent to Clayton at cost plus one percentage point. The rationale: a subsidiary with access to a rich parent's balance sheet at sub-market rates makes sloppy lending decisions. By insisting Clayton pay an appropriate rate for its capital, Berkshire preserved the incentive structure that made Clayton disciplined in the first place.
 
+## 2004–2005: scale, industry dominance, and expansion
+
+By 2005, Clayton serviced $17 billion of manufactured-home loans — up from $5.4 billion at acquisition in 2003. Clayton itself owned $9.6 billion of the servicing portfolio, a position built almost entirely in the two post-acquisition years. To fund this, Berkshire borrowed externally and re-lent to Clayton at cost plus one percentage point; in 2005 that arrangement cost Clayton $83 million, yet Clayton still earned $416 million after the charge.
+
+Industry context was stark: manufactured housing sales stagnated at 40-year lows throughout this period. Most industry participants were suffering losses. Clayton was the only participant earning significant money. Its advantage was not marketing — it came from the discipline of retaining and servicing its own loans. That discipline existed precisely because securitization was not an option to offload consequences.
+
+Plant expansion accelerated: in 2004 Clayton added twelve plants through the Oakwood bankruptcy purchase; in 2005 it acquired Karsten, a four-plant West Coast operation. From its original 20 plants, Clayton grew to 36 by late 2005.
+
+The "every tub on its own bottom" principle proved its importance here: a subsidiary with free access to a parent's balance sheet would have made sloppy loans. By pricing capital correctly, Berkshire preserved the incentive structure that made Clayton's underwriting discipline durable. ([[berkshire-2005-letter]])
+
 ## Sources discussing this entity
 
 - [[berkshire-2003-letter]] — the full acquisition story; industry diagnosis; originate-and-distribute critique; origin via Tennessee students and Jim Clayton's autobiography; "every tub on its own bottom" financing philosophy
+- [[berkshire-2005-letter]] — servicing portfolio to $17B (from $5.4B at acquisition); $9.6B owned; industry at 40-year lows, Clayton only participant earning significant money; Karsten acquisition; $416M earnings after $83M Berkshire interest charge

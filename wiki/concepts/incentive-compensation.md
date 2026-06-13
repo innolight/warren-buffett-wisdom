@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-06-13
-sources: [berkshire-1985-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1994-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+sources: [berkshire-1985-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1994-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2005-letter]
 tags: [compensation, options, capital-allocation, agency, owner-orientation]
 related: [[owner-orientation]], [[share-repurchases]], [[stock-as-acquisition-currency]], [[institutional-imperative]], [[ralph-schey]], [[scott-fetzer]], [[geico]]
 ---
@@ -161,6 +161,32 @@ Buffett's summary: **"Compensation-hungry CEOs loved this outcome: Let FASB have
 
 The cultural consequence: reported earnings for much of corporate America were persistently overstated through the 1990s, and the overstatement grew as option grants expanded. "Pro-forma" earnings became the preferred reporting language — excluding stock-based compensation as if it were not a real cost. "Managers that always promise to 'make the numbers' will at some point be tempted to make up the numbers." See [[berkshire-2002-letter]].
 
+## The Fred Futile arithmetic: dividend withholding and options (2005)
+
+The 2005 letter extends the savings-account analogy into a worked numerical example — "Fred Futile, CEO of Stagnant, Inc." — that makes the dividend-withholding mechanism explicit.
+
+Fred receives options on 1% of Stagnant, which earns $1B per year on $10B of net worth ($10/share on 100M shares). Fred eschews dividends and uses all earnings to repurchase shares. The stock sells at 10× earnings.
+
+After ten years: shares outstanding fall from 100M to 38.7M; EPS rises to $25.80; stock has appreciated 158%. Fred's 1% option earns $158M — from a company that improved not at all in underlying economics. "Astonishingly, Fred could have made more than $100 million if Stagnant's earnings had declined by 20% during the ten-year period."
+
+Alternatively, Fred withholds earnings and deploys them into disappointing projects earning only 5%. His option still yields $63M, while shareholders wonder what happened to the "alignment of interests" that options were supposed to produce.
+
+The arithmetic pins down what the savings-account analogy stated abstractly: **every dollar retained is a dollar the option-holder effectively takes free of charge.** If CEO compensation is designed around retained earnings rather than returns *on* those earnings, the incentive is structurally anti-owner.
+
+The clincher: "CEOs understand this math and know that every dime paid out in dividends reduces the value of all outstanding options. I've never, however, seen this manager-owner conflict referenced in proxy materials that request approval of a fixed-price option plan."
+
+The remedy Buffett identifies: boards can design options with strike prices that automatically adjust upward for retained earnings — precisely charging the CEO for the capital withheld from owners. "But — surprise, surprise — options of that kind are almost never issued." ([[berkshire-2005-letter]])
+
+## Nothing succeeds like failure; "Ratchet, Ratchet and Bingo" (2005)
+
+The 2005 letter names the structural forces that produce excessive severance and perks:
+
+- **Comp-committee contagion.** Three or so directors are "bombarded for a few hours before a board meeting with pay statistics that perpetually ratchet upwards." Each new egregious grant becomes the baseline for the next survey round. The children's logic: "But, Mom, all the other kids have one." The firm name for the ever-accommodating consultant: **"Ratchet, Ratchet and Bingo."**
+
+- **Firing as jackpot.** "Getting fired can produce a particularly bountiful payday for a CEO. Indeed, he can 'earn' more in that single day, while cleaning out his desk, than an American worker earns in a lifetime of cleaning toilets. Forget the old maxim about nothing succeeding like success: Today, in the executive suite, the all-too-prevalent rule is that **nothing succeeds like failure.**"
+
+The Hank Greenberg counter-model: Greenberg's son Steve, a player's agent, asked his father what bonus he should seek for an outfielder. Hank asked what the player hit last year. ".246." Greenberg: "Ask for a uniform." The right attitude for compensation committees: **pay for actual performance.** ([[berkshire-2005-letter]])
+
 ## The CEO-pay culture: consultants and contagion (2003)
 
 Buffett identified a systemic contagion mechanism for compensation escalation. Compensation consultants are hired by boards, report upward to the compensation committee, and depend on maintaining client relationships. Their structural incentive is to recommend generosity. Once any CEO captures an "overreaching" package, it becomes the benchmark for the next round of surveys. The consultant then uses those comparisons at each client company to advocate for similar awards. The result: "compensation packages gained by the most avaricious… were promptly replicated elsewhere."
@@ -180,6 +206,7 @@ The "play-money" framing captures the board-room dynamic: in a compensation nego
 - [[berkshire-2001-letter]] — MiTek coinvestment model as alternative to options; option-repricing attack; "shareholders as patsies, not partners"
 - [[berkshire-2002-letter]] — FASB/Andersen/Senate defeat of options-expensing documented; "compensation-hungry CEOs"; pro-forma earnings as cultural symptom
 - [[berkshire-2003-letter]] — CEO-pay contagion mechanism; consultants as "couriers for this epidemic of greed"; "play-money" framing of comp-committee negotiations
+- [[berkshire-2005-letter]] — Fred Futile / Stagnant Inc. worked example; dividend-withholding as hidden anti-owner mechanism; "Ratchet Ratchet and Bingo"; nothing-succeeds-like-failure; Hank Greenberg ".246 → ask for a uniform"
 
 ## Related
 

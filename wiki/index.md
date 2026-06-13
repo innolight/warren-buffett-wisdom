@@ -36,6 +36,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2002-letter]] — 2002 annual letter; "financial weapons of mass destruction" derivatives essay; corporate governance critique; "owner-capitalism" coined
 - [[berkshire-2003-letter]] — 2003 annual letter; McLane and Clayton acquisitions; foreign currency bonds; Noah Rule coined; Gen Re derivatives runoff nearing completion
 - [[berkshire-2004-letter]] — 2004 annual letter; definitive GEICO founding-to-2004 history; NICO cultural model and fear-factor countermeasure; Lou Simpson as the cleanest second-Buffett track record; Matthew 6:21 director independence test
+- [[berkshire-2005-letter]] — 2005 annual letter; Gotrocks investment-friction essay; Fred Futile CEO-compensation arithmetic; GEICO 32% productivity gain; Gillette→P&G closes; Gen Re derivatives to 741 contracts; PUHCA repeal and PacifiCorp
 
 ## Entities
 
@@ -110,6 +111,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[incentive-compensation]] — the option-critique and the savings-account analogy; Berkshire's unit-specific, uncapped, seniority-blind, symmetric alternative; stock-options expensing fight 1998–2003
 - [[institutional-imperative]] — corporate herd behavior; the structural force a disciplined allocator must resist; canonically named 1989; Gen Re as the real-world failure case
 - [[intrinsic-value-vs-book-value]] — book is financial input, intrinsic is future cash output; the gauge for capital-allocation decisions
+- [[investment-friction]] — Gotrocks allegory; four layers of Helpers erode aggregate investor returns; Newton's Fourth Law: returns decrease as motion increases; ~20% of business earnings going to intermediaries by 2005
 - [[investor-misery-index]] — real return = nominal − inflation − tax on the nominal; the lens that distinguishes apparent from actual wealth creation
 - [[look-through-earnings]] — pro-rata earnings attributable to a partial stake vs. cash dividends actually received; explicit tabular calculation method 1990
 - [[margin-of-safety]] — Graham's three-word distillation; the gap between estimated intrinsic value and price paid; cornerstone of investment success

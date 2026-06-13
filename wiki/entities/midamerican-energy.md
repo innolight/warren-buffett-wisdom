@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
-sources: [berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+updated: 2026-06-13
+sources: [berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2005-letter]
 tags: [utility, regulated, infrastructure, capital-deployment, acquisition]
 related: [[berkshire-hathaway]], [[dave-sokol]], [[acquisition-criteria]], [[capital-allocation]]
 ---
@@ -19,6 +19,7 @@ Regulated electric and natural gas utility acquired by [[berkshire-hathaway]] st
 - **2001.** MidAmerican adds Yorkshire Electricity (UK distribution). Pre-tax earnings contribution grows substantially.
 - **2002.** Two major pipeline acquisitions: Kern River (Wyoming to Southern California) and Northern Natural Gas (16,600-mile system, Southwest to Midwest — the original InterNorth pipeline that was renamed Enron after a 1985 merger with Houston Natural Gas). Together, MidAmerican transports approximately 8% of all U.S. natural gas. HomeServices of America (a MidAmerican subsidiary) becomes the second-largest U.S. residential real estate brokerage. See [[berkshire-2002-letter]].
 - **2003.** Berkshire holds 80.5% economic interest (9.9% voting). The UK platform adds Northern Electric (Yorkshire + Northern Electric together serve 3.7 million UK customers). MidAmerican Energy serves 689,000 Iowa electric customers. Kern River and Northern Natural carry approximately 7.8% of U.S. natural gas transport. HomeServices reaches $48.6 billion in transactions. See [[berkshire-2003-letter]].
+- **2005.** PUHCA (the 1935 Public Utility Holding Company Act) repealed August 8, 2005 — the structural constraint that had forced the complex preferred/voting arrangement since 1999. On February 9, 2006, Berkshire converted its MidAmerican preferred into voting common shares, raising its stake to **83.4%** of common stock and votes (the 80.5% economic figure reflects dilution from outstanding employee options certain to be exercised). PacifiCorp — serving 1.6 million electric customers across six western states — cleared all regulatory approvals and was expected to close shortly after yearend. Berkshire's investment: $3.4B in MidAmerican common, supplemented by $1.7B of MidAmerican borrowing. PacifiCorp adds +$3.3B to MidAmerican revenues and +$14.1B to assets. HomeServices of America: 19,200 agents across 18 locally-branded firms; $64B in transactions in 2005, up 6.5%. 2005 earnings applicable to Berkshire: $523M. See [[berkshire-2005-letter]].
 
 ## Why it matters
 
@@ -32,6 +33,12 @@ Regulated electric and natural gas utility acquired by [[berkshire-hathaway]] st
 
 **Seed of a long-duration capital platform.** The 1999 investment was explicitly framed as a potential platform. Over the following years, MidAmerican absorbed billions of dollars of incremental Berkshire capital through pipeline acquisitions, UK utility expansion, and HomeServices growth. The business became the proof-of-concept that regulated infrastructure could absorb Berkshire-scale capital at satisfactory returns.
 
+## The partnership model
+
+"We view MidAmerican as a partnership among Berkshire, Walter Scott, and two terrific managers, Dave Sokol and Greg Abel. It's unimportant how many votes each party has; we will make major moves only when we are unanimous in thinking them wise." ([[berkshire-2005-letter]])
+
+This framing captures how Berkshire operates large subsidiaries: voting control is less important than the quality of the partnership. Even after the PUHCA repeal gave Berkshire formal majority control, Buffett characterized the governance as requiring unanimity among the four parties — reflecting an owner-partnership orientation over a principal-agent one.
+
 ## Sources discussing this entity
 
 - [[berkshire-1999-letter]] — deal announced; structure; Sokol introduced; Buffett flags possible large future commitments; PUHCA explained
@@ -39,3 +46,4 @@ Regulated electric and natural gas utility acquired by [[berkshire-hathaway]] st
 - [[berkshire-2001-letter]] — Yorkshire Electric added; growing earnings contribution from utilities alongside the insurance disaster
 - [[berkshire-2002-letter]] — Kern River and Northern Natural pipelines; ~8% of U.S. gas transport; HomeServices expansion; Sokol + Abel partnership
 - [[berkshire-2003-letter]] — full development: UK (3.7M customers), Iowa (689K customers), pipelines (7.8% U.S. gas); HomeServices $48.6B transactions; Berkshire 80.5% economic interest
+- [[berkshire-2005-letter]] — PUHCA repeal; preferred converts to common; 83.4% stake; PacifiCorp acquisition (+$14.1B assets); HomeServices $64B transactions; $523M earnings to Berkshire; partnership framing of four-party governance
