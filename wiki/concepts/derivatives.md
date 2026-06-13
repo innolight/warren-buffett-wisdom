@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
-sources: [berkshire-2002-letter, berkshire-2003-letter]
+updated: 2026-06-13
+sources: [berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter]
 tags: [derivatives, risk, systemic-risk, financial-weapons]
 related: [[general-re]], [[float]], [[institutional-imperative]], [[underwriting-discipline]]
 ---
@@ -36,7 +36,9 @@ Buffett's 2002 essay identified five interlocking mechanisms:
 
 When Berkshire acquired [[general-re]] in 1998, it inherited General Re Securities — a derivatives dealer subsidiary Buffett "judged to be dangerous" but failed to close quickly. The scale of the problem: the book started at approximately 23,218 contracts with 884 counterparties. After ten months of active wind-down, yearend 2002 still held 14,384 contracts with 672 counterparties and $6.5B of receivables. By yearend 2003: 7,580 contracts, 453 counterparties. Full exit took years beyond that.
 
-The cost: approximately $272M pre-tax across 2002–2003, in a benign, orderly market with no credit losses. Buffett's 2003 admission was direct: "Charlie would have moved swiftly to close down Gen Re Securities — no question about that. I, however, dithered. As a consequence, our shareholders are paying a far higher price than was necessary to exit this business." ([[berkshire-2003-letter]])
+The cost: approximately $272M pre-tax across 2002–2003, in a benign, orderly market with no credit losses. Buffett's 2003 admission was direct: "Charlie would have moved swiftly to close down Gen Re Securities — no question about that. I, however, dithered. As a consequence, our shareholders are paying a far higher price than was necessary to exit this business." ([[berkshire-2003-letter]]) By yearend 2004, the book had fallen further to 2,890 contracts — down from 23,218 at peak, but still requiring active management four years after the decision to exit. ([[berkshire-2004-letter]])
+
+The 2004 letter adds a sharpened observation on mark-to-market incentives: derivative marks can be "very fuzzy" when settlement is sometimes decades away and involves multiple variables. In the interim, the marks influence the managerial and trading bonuses paid annually — creating a structural incentive toward optimistic valuation. "It's small wonder that phantom profits are often recorded." The diagnostic extends beyond derivatives dealers: "in all types of financial institutions, rapid growth sometimes masks major underlying problems (and occasionally fraud). The real test of the earning power of a derivatives operation is what it achieves after operating for an extended period in a no-growth mode. You only learn who has been swimming naked when the tide goes out." ([[berkshire-2004-letter]])
 
 The case is instructive because the losses occurred under favorable conditions. A stress scenario — the kind of correlated credit crisis derivatives are designed to amplify — would have produced multiples of that cost. The exit difficulty itself illustrates the "easy to enter, almost impossible to exit" characterization Buffett applied to both Hell and bad derivatives books: "Like Hell, both are easy to enter and almost impossible to exit." ([[berkshire-2002-letter]])
 
@@ -54,6 +56,7 @@ Buffett's critique is not absolute. He acknowledges using large-scale derivative
 
 - [[berkshire-2002-letter]] — the canonical "financial weapons of mass destruction" essay; five structural mechanisms identified; Gen Re Securities mid-wind-down (14,384 contracts, 672 counterparties); LTCM 1998 as precedent; mark-to-myth coinage
 - [[berkshire-2003-letter]] — Gen Re Securities dithering confession; opacity-of-disclosure as first-order problem; Darwin quote; final balance ($272M loss in benign conditions); started at ~23,218 contracts
+- [[berkshire-2004-letter]] — wind-down to 2,890 contracts at yearend 2004 (from 7,580 at yearend 2003); phantom-profits-from-fuzzy-marks articulated (annual bonuses tied to marks create incentive toward optimistic valuation); "swimming naked when the tide goes out" framing; "Like Hell, derivative trading is easy to enter but difficult to leave"
 
 ## Related
 

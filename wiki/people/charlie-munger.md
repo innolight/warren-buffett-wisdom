@@ -3,7 +3,7 @@ type: person
 status: draft
 created: 2026-05-25
 updated: 2026-06-13
-sources: [berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1989-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+sources: [berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1989-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter]
 tags: [investor, berkshire, wesco, partner]
 related: [[warren-buffett]], [[berkshire-hathaway]], [[wesco-financial]], [[owner-orientation]], [[economic-goodwill]]
 ---
@@ -37,6 +37,10 @@ The most revealing Munger reference in the 1996–2003 period is the Gen Re Secu
 ### Operator trust and talent spotting
 
 A small but characteristic 1987 episode: K&W Products (a small Berkshire automotive-compound subsidiary) had stumbled. Munger called Harry Bottle — then 68, who had earlier rescued Buffett's 1962 Dempster Mill crisis — and installed him as CEO. Profits rose more than 300% in 1987; capital employed fell 20%. The pattern: find the right operator, define the problem, get out of the way.
+
+### Poor Charlie's Almanack
+
+In 2004, Peter Kaufman compiled *Poor Charlie's Almanack* — a collection of Munger's speeches, mental models, and investing philosophy. The book premiered at Berkshire's annual meeting bookshop. Buffett: "Scholars have for too long debated whether Charlie is the reincarnation of Ben Franklin. This book should settle the question." This is the first published collection of Munger's thought as a standalone work, consolidating what had circulated in Buffett's annual letter references across the preceding two decades. ([[berkshire-2004-letter]])
 
 ### Capital allocation philosophy
 
@@ -87,6 +91,7 @@ The 2002 letter gives the sharpest joint statement on derivatives: "Charlie and 
 - [[berkshire-2001-letter]] — personal wealth commitment restated (99%+ of Buffett's, 90%+ of Munger's in Berkshire)
 - [[berkshire-2002-letter]] — derivatives-as-time-bombs; "of one mind"
 - [[berkshire-2003-letter]] — Gen Re confession: Munger named as the one who would have acted decisively
+- [[berkshire-2004-letter]] — *Poor Charlie's Almanack* premieres at annual meeting; "Scholars have for too long debated whether Charlie is the reincarnation of Ben Franklin"
 
 ## Related
 

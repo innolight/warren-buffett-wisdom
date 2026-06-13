@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
-sources: [berkshire-1999-letter, berkshire-2001-letter]
+updated: 2026-06-13
+sources: [berkshire-1999-letter, berkshire-2001-letter, berkshire-2004-letter]
 tags: [psychology, decision-making, behavioral, competence]
 related: [[mistakes-of-omission]], [[mr-market]], [[moat]], [[margin-of-safety]]
 ---
@@ -28,6 +28,14 @@ The circle-of-competence principle does three things:
 
 **3. It applies beyond equity investing.** The same principle governs insurance underwriting. The first of the three underwriting principles stated in the 2001 letter: accept only risks you can properly evaluate, "staying within their circle of competence." [[ajit-jain]] has applied this discipline without exception; [[general-re]] violated it by assuming unpriced terrorism risk it could not evaluate.
 
+## Proposition simplicity: the variable-count risk
+
+The 2004 letter extends the circle-of-competence principle into operations, with direct investment application. Reflecting on MidAmerican Energy's failed zinc recovery project, Buffett draws a broader lesson: "Our failure here illustrates the importance of a guideline — stay with simple propositions — that we usually apply in investments as well as operations."
+
+The math is precise: "If only one variable is key to a decision, and the variable has a 90% chance of going your way, the chance for a successful outcome is obviously 90%. But if ten independent variables need to break favorably for a successful result, and each has a 90% probability of success, the likelihood of having a winner is only 35%." The prescription: "look for — if you'll excuse an oxymoron — mono-linked chains." ([[berkshire-2004-letter]])
+
+This is a quantitative argument for staying within the circle. A business whose economics rest on a single evaluable variable (GEICO's cost advantage, See's pricing power) is structurally more investable than one requiring ten simultaneous correct judgments — even when each individual judgment seems high-probability. The complexity of what must go right is itself a risk factor, independent of how well you understand each piece. Operating inside the circle means minimizing the number of variables your thesis requires to work.
+
 ## The boundary, not the size
 
 The value of the concept is honest boundary-setting, not expanding the circle to include anything interesting. A larger circle with fuzzy edges is worse than a smaller one with a clear boundary. The corollary: "If the choice is between a questionable business at a comfortable price or a comfortable business at a questionable price, we much prefer the latter. What really gets our attention, however, is a comfortable business at a comfortable price." ([[berkshire-1999-letter]]) Both dimensions require that you are operating inside the circle.
@@ -44,6 +52,7 @@ The lesson is not that Buffett was correct about the direction of technology pri
 
 - [[berkshire-1999-letter]] — canonical articulation; Berkshire holds no tech because Buffett and Munger cannot identify which participants have durable competitive advantages; "neither envy nor emulate"; the frame is competence, not market timing
 - [[berkshire-2001-letter]] — applied to insurance underwriting as the first of three principles; General Re violated it by pricing terrorism risk from historical experience rather than current exposure; Ajit Jain has never violated it
+- [[berkshire-2004-letter]] — proposition-simplicity extension: the variable-count risk; 90% × 90% × … = 35% (ten variables); "stay with simple propositions"; "mono-linked chains" as the investment prescription; principle stated as applying to investments as well as operations
 
 ## Related
 

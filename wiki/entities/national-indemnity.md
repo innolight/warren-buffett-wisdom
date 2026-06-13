@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-05-24
-updated: 2026-05-26
-sources: [berkshire-1977-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1995-letter]
+updated: 2026-06-13
+sources: [berkshire-1977-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-2004-letter]
 tags: [insurance, berkshire, super-cat-platform]
 related: [[berkshire-hathaway]], [[float]], [[ajit-jain]], [[super-cat-insurance]]
 ---
@@ -45,6 +45,22 @@ National Indemnity is also the corporate vehicle through which Berkshire's super
 
 The 1995 super-cat examples (illustrating the diversified non-traditional book): Mike Tyson life insurance, Lloyd's mortality coverage on 225 "names," Chinese satellite launch+orbit. See [[super-cat-insurance]].
 
+## The NICO cultural model
+
+The 2004 letter contains Buffett's most complete account of *why* National Indemnity's underwriting discipline has been maintained across four CEOs since 1940, when most insurers cannot sustain it even for four years.
+
+**The fear-factor dynamic.** When insurance prices are soft and volume is declining, employees at most companies face a logical trap: they know inadequately-priced business will eventually cause problems, but they also know declining volume leads to layoffs. The institutional self-interest resolves in predictable fashion — rationalize the bad pricing, tell oneself the market will recover, preserve the organization and distribution network. The [[institutional-imperative]] runs through individual fear of job loss. ([[berkshire-2004-letter]])
+
+**The no-layoff policy as the countermeasure.** NICO has always promised its workforce that no one will be fired because of declining volume, however severe the contraction. This removes the self-interest argument entirely. Employees need not rationalize inadequate pricing to protect themselves; they can evaluate each policy on its merits. NICO is not labor-intensive — as the 25-year table shows, it can live with excess overhead. It cannot live with underpriced business and the breakdown in underwriting discipline that accompanies it. ([[berkshire-2004-letter]])
+
+**The overstaffing discipline.** A no-layoff policy creates its own constraint: the company must avoid overstaffing when times are good, since it cannot shrink easily during bad times. Tom Murphy (Capital Cities CEO) illustrated this to Buffett: hiring an assistant at $20,000/year is really a $3M decision once you factor in raises, benefits, and additional costs over a lifetime of likely employment. One unnecessary hire is not a marginal cost — it is a long-duration commitment. ([[berkshire-2004-letter]])
+
+**Cultural fortitude as the operational result.** NICO has had four CEOs since its formation in 1940; none have bent on underwriting discipline. Living day after day with dwindling volume — while competitors boast growth and receive Wall Street's applause — requires a culture that genuinely does not equate business volume with business success. "It takes real fortitude—embedded deep within a company's culture—to operate as NICO does." ([[berkshire-2004-letter]])
+
+**Don Wurster (CEO since 1989).** Buffett's portrait: "The current managerial star — make that superstar — at NICO is Don Wurster, who has been running things since 1989. His slugging percentage is right up there with Barry Bonds' because, like Barry, Don will accept a walk rather than swing at a bad pitch." By 2004, Wurster had accumulated $950M of float at NICO that Buffett expected to prove negative-cost over time. As insurance prices fell and NICO's volume declined, Buffett noted he would "applaud him ever more loudly." ([[berkshire-2004-letter]])
+
+**25-year performance table (1980–2004).** Written premium ran from $79.6M (1980) to a trough around $54.5M (1999) during soft-market years when NICO let business walk rather than price inadequately, then recovered to $605.6M (2004) as the hard market arrived. Underwriting margins were positive in most years across the 25-year span — a sustained record nearly unmatched in commercial insurance. Float accumulated by Wurster at NICO alone reached $950M by 2004. ([[berkshire-2004-letter]])
+
 ## Sources discussing this entity
 
 - [[berkshire-1977-letter]] — premium history; underwriting discipline framing; the four named operating mistakes
@@ -54,3 +70,4 @@ The 1995 super-cat examples (illustrating the diversified non-traditional book):
 - [[berkshire-1992-letter]] — Don Wurster combined ratio 84.2; Hurricane Andrew well-managed
 - [[berkshire-1993-letter]] — homestate, workers' comp, credit card, traditional auto all profitable
 - [[berkshire-1995-letter]] — three-year traditional-book combined ratio 85.6; super-cat franchise summary
+- [[berkshire-2004-letter]] — "Portrait of a Disciplined Underwriter" 25-year table; the NICO cultural model (no-layoff policy, overstaffing discipline, fear-factor countermeasure); Don Wurster as "superstar" with $950M float

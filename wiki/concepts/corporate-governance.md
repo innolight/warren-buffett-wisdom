@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
-sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+updated: 2026-06-13
+sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter]
 tags: [governance, management, incentives, compensation, accountability]
 related: [[incentive-compensation]], [[owner-orientation]], [[institutional-imperative]]
 ---
@@ -48,6 +48,40 @@ Even outside the options question, auditor effectiveness is constrained. Insuran
 
 Audit committee oversight is similarly limited: "audit committees can't audit." The committee's leverage is in asking pointed questions and making the auditor "afraid of misleading it." The four questions Buffett proposes for audit committees — covering whether the auditor would have done it differently, whether the financials are in plain English, whether internal audit matches the auditor's standards, and whether any period-shifting actions were taken — put the auditor on record before, not after, a problem emerges ([[berkshire-2002-letter]]).
 
+## Three questions that truly count
+
+The 2004 letter distills institutional shareholder activism to its failure mode: most institutions "focus on minutiae" and ignore the three questions with real economic consequence:
+
+1. **Does the company have the right CEO?**
+2. **Is the CEO overreaching in terms of compensation?**
+3. **Are proposed acquisitions more likely to create or destroy per-share value?**
+
+On all three, the interests of the CEO may diverge from shareholders', and directors sometimes lack the knowledge or gumption to overrule. Buffett's critique of checklist-based proxy voting (triggered by his own experience being challenged on "independence" at Coca-Cola despite holding $8B of Coke stock for Berkshire): following a procedural definition of independence without asking *where the director's treasure lies* produces the wrong answer. ([[berkshire-2004-letter]])
+
+## The Matthew 6:21 test for director independence
+
+Webster's defines independence as "not subject to control by others." Buffett's formulation: **Jesus understood independence calibration more clearly than most governance reformers.** Matthew 6:21 — "For where your treasure is, there will your heart be also" — is the correct test.
+
+Applied to directors: a director whose board and committee fees represent a meaningful share of annual income has treasure at risk if the company is acquired or the board is restructured. That director will, consciously or not, be tempted to protect those fees. A director holding $8B of the company's stock has treasure that dwarfs any fee-related consideration.
+
+The Berkshire board as a structural model:
+- Every director is a member of a family owning at least $4M of stock
+- None of these shares were acquired from Berkshire via options or grants
+- No directors receive committee, consulting, or board fees that are more than a tiny portion of annual income
+- No D&O liability insurance — directors bear real financial downside alongside shareholders
+
+"At Berkshire, board members travel the same road as shareholders." ([[berkshire-2004-letter]])
+
+The anecdote: Buffett recounts a case (not Berkshire) where directors receiving ~$100,000 annually in board fees blocked shareholders from seeing a multi-billion acquisition offer. Non-management directors owned little stock except shares received from the company. Their open-market purchases had been nominal even when the stock traded far below the proposed acquisition price. The board then voted itself a significant fee increase at the same meeting it rejected the deal. The directors themselves may not have known their own motivations — "self-interest inevitably blurs introspection" — but the Matthew 6:21 logic explains the outcome precisely. ([[berkshire-2004-letter]])
+
+## Post-bubble governance reforms
+
+Two specific changes enacted at Berkshire after the Enron/WorldCom era, both of which Buffett says he should have put in place years earlier:
+
+**Regular CEO-free director meetings.** Directors meet without the CEO present. Across 19 boards, Buffett observed this process would have led to more thorough examination of dubious plans and more prompt CEO changes in several cases. "There is no downside to this process, and there are many possible benefits."
+
+**Whistleblower line.** Employees can send information to Buffett and the board's audit committee without fear of reprisal. In a company of 180,000 (Berkshire's 2004 employee count), not every problem surfaces to headquarters through normal channels. Issues raised "are usually not of a type discoverable by audit, but relate instead to personnel and business practices." ([[berkshire-2004-letter]])
+
 ## The structural fix: ownership, not rules
 
 Governance failures are a consequence of directors not bearing sufficient financial risk. Rules about independence, committee composition, and separation of chair and CEO roles address surface features without touching the root cause.
@@ -68,6 +102,7 @@ Beyond the board, the most powerful enforcement mechanism is institutional owner
 - [[berkshire-2001-letter]] — option repricing as shareholder abuse; CEOs who "view shareholders as patsies, not partners"; MiTek manager-coinvestment (real cash at risk) as the antidote
 - [[berkshire-2002-letter]] — canonical governance essay: the 62-year mutual-fund case study; "independence" critique; compensation ratchet; FASB/Andersen/Senate options history; audit committee's four questions; Berkshire's structural response via ownership alignment
 - [[berkshire-2003-letter]] — "owner-capitalism" coined; mutual-fund scandals (Spitzer era) as empirical vindication; concrete reform proposals; potted-plant directors; board restructuring
+- [[berkshire-2004-letter]] — three questions that truly count; Matthew 6:21 as the correct independence test; Berkshire board standard ($4M+ family ownership, no grants, nominal fees, no D&O insurance); acquisition-blocking directors anecdote; CEO-free board meetings and whistleblower line as post-bubble reforms; stock-option expensing fight update (312-111 House vote, Senate Shelby resistance)
 
 ## Related
 

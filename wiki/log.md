@@ -356,3 +356,12 @@ Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages 
 - Added 7 notable quotes (was 2)
 - Key editorial decision: the Gen Re 2003 confession ("Charlie would have moved swiftly… I, however, dithered") is the most significant Munger reference in the 1996–2003 period — Buffett's only explicit acknowledgment that Munger had the better call on a specific material decision
 - Added wikilinks to [[inversion]] and [[cigar-butts-vs-wonderful-businesses]] (both may be stubs or missing — flag for future creation)
+
+## [2026-06-13] ingest | berkshire-2004-letter
+
+- Created source: `sources/berkshire-2004-letter.md`
+- Updated entities: `geico` (origins/industry context; 2004 results; NJ re-entry), `national-indemnity` (NICO cultural model: no-layoff policy, overstaffing discipline, Don Wurster)
+- Updated people: `lou-simpson` (definitive 25-year record: 20.3% vs S&P 13.5%), `charlie-munger` (*Poor Charlie's Almanack* premiere)
+- Updated concepts: `float` (2004 row: $46.1B/$1.551B underwriting profit; all-segment table), `underwriting-discipline` (NICO cultural mechanics as positive structural illustration), `corporate-governance` (three questions that truly count; Matthew 6:21 independence test; Berkshire board standard; post-bubble reforms)
+- Updated index: added berkshire-2004-letter entry
+- Deliberately skipped: trade deficit / foreign currency macro essay (period-specific 2002-2004 dollar thesis; timeless elements already in other concepts); MidAmerican Energy zinc venture failure (local operational anecdote; the multi-variable probability insight lacks enough source support for a standalone concept page); Clayton Homes growth narrative (operational update, no new timeless insight); Don Wurster separate person page (operationally significant but not a shaping person in the intellectual arc — lives on national-indemnity page); derivatives wind-down (one-liner quote "like Hell" added as context for existing derivatives page via source page; no page update needed)

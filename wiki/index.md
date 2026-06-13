@@ -35,6 +35,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2001-letter]] — 2001 annual letter; 9/11 losses ($2.28B pretax); super-cat market hardens; Gen Re reserve shortfall ($800M); terrorism risk essay
 - [[berkshire-2002-letter]] — 2002 annual letter; "financial weapons of mass destruction" derivatives essay; corporate governance critique; "owner-capitalism" coined
 - [[berkshire-2003-letter]] — 2003 annual letter; McLane and Clayton acquisitions; foreign currency bonds; Noah Rule coined; Gen Re derivatives runoff nearing completion
+- [[berkshire-2004-letter]] — 2004 annual letter; definitive GEICO founding-to-2004 history; NICO cultural model and fear-factor countermeasure; Lou Simpson as the cleanest second-Buffett track record; Matthew 6:21 director independence test
 
 ## Entities
 

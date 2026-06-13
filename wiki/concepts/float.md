@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-24
 updated: 2026-06-13
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter]
 tags: [insurance, capital-allocation, berkshire]
 related: [[national-indemnity]], [[berkshire-hathaway]], [[geico]], [[super-cat-insurance]], [[ajit-jain]], [[underwriting-discipline]], [[general-re]]
 ---
@@ -31,6 +31,7 @@ It is the engine that converts a well-run insurance underwriter into a long-dura
 - [[berkshire-2001-letter]] — 12.8% cost (worst since 1984) driven by 9/11 losses and Gen Re $800M reserve catch-up; segment table extended; GEICO's underwriting profit partially offsets reinsurance segment losses
 - [[berkshire-2002-letter]] — back to 1% cost after Gen Re discipline restored; float $41.2B; retroactive-insurance deferred-charges mechanism fully explicated; three disciplines restated
 - [[berkshire-2003-letter]] — $44.2B float with $1.7B underwriting profit; "in 18 of the 37 years Berkshire has been in the insurance business, we have operated at an underwriting profit"; "Float is wonderful—if it doesn't come at a high price"
+- [[berkshire-2004-letter]] — $46.1B float with $1.551B underwriting profit across all four segments (Gen Re $23.1B, B-H Reinsurance $15.3B, GEICO $6.0B, Other Primary $1.7B); "In 2004 we were paid more than $1.5 billion to hold an average of about $45.2 billion"; float has grown from $20M at the 1967 NICO purchase to $46.1B
 
 ## What pressures the cost of float
 
@@ -134,6 +135,7 @@ Three consecutive years of positive cost of float broke the long negative-cost r
 | 2001 | $35,508M | 12.8% | 9/11 losses + Gen Re $800M reserve catch-up |
 | 2002 | $41,224M | 1.0% | Discipline restored; $1.31B catch-up still a 2002 drag |
 | 2003 | $44,220M | <0% | $1.7B underwriting profit across all segments |
+| 2004 | $46,094M | <0% | $1.551B underwriting profit; all four segments positive |
 
 The 1999 positive-cost note: $400M of the underwriting loss was "welcomed"—it came from policies that would deliver long-duration float with capped losses (retroactive reinsurance). The remaining losses were "decidedly unwelcome" and reflected General Re's failure to price adequately. Ajit Jain's "other reinsurance" segment had by 1999 accumulated $6.3B of float "from scratch since 1986 with cumulative underwriting profit"—the contrast to General Re was direct. ([[berkshire-1999-letter]])
 

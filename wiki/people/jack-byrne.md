@@ -2,8 +2,8 @@
 type: person
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1980-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter]
+updated: 2026-06-13
+sources: [berkshire-1980-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-2004-letter]
 tags: [insurance, operator, geico, firemans-fund, turnaround]
 related: [[geico]], [[berkshire-hathaway]], [[warren-buffett]], [[moat]]
 ---
@@ -19,6 +19,8 @@ Three durable contributions to the Berkshire story:
 ### 1. The GEICO rescue as a recognition exercise, not a turnaround
 
 Byrne's 1976 arrival at GEICO is the operative event in what Buffett later codifies (1980) as the **franchise-vs-turnaround distinction**: GEICO was not a true turnaround but a franchise with a localized fixable problem. Byrne's brilliance was *recognizing what to preserve and what to fix* — the direct-to-consumer low-cost-distribution franchise was intact throughout the crisis; the surgery was on underwriting discipline, loss reserves, and capital structure.
+
+The 2004 letter provides the most quantitatively specific retrospective of Byrne's tenure. His rescue required major price increases, causing policyholders to flee; by 1980 market share had fallen to 1.8% — the cost of restoring honest pricing. After Byrne's departure in mid-1985, GEICO made the additional error of diversifying away from its core business, stunting growth. By 1993, market share had recovered only fractionally, to 1.9%, at which point Tony Nicely took charge and the Nicely-era growth began. These numbers were not available when the 1980-1985 letters were written; the 2004 retelling closes the arc. ([[berkshire-2004-letter]])
 
 > The GEICO and American Express situations, extraordinary business franchises with a localized excisable cancer (needing, to be sure, a skilled surgeon), should be distinguished from the true "turnaround" situation in which the managers expect — and need — to pull off a corporate Pygmalion. ([[berkshire-1980-letter]])
 
@@ -53,6 +55,7 @@ The economic content of the relationship — float held by Berkshire, premiums a
 - [[berkshire-1983-letter]] — Byrne (with Snyder) cited for underwriting discipline and proper loss reserves at GEICO
 - [[berkshire-1984-letter]] — continued exemplar of insurance operating leadership
 - [[berkshire-1985-letter]] — departs GEICO for FFIC; the succession credit; "never one to let go of a meal ticket"
+- [[berkshire-2004-letter]] — retrospective quantitative account: market share fell to 1.8% by 1980 as the price of Byrne's rescue pricing discipline; post-Byrne diversification detour; 1.9% market share still in 1993 when Nicely took charge — the full arc of what Byrne saved and what his successors left for Nicely to build on
 
 ## Related
 

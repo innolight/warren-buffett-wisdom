@@ -2,8 +2,8 @@
 type: person
 status: draft
 created: 2026-05-25
-updated: 2026-06-12
-sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1999-letter]
+updated: 2026-06-13
+sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1999-letter, berkshire-2004-letter]
 tags: [investing, geico, concentration, succession]
 related: [[geico]], [[berkshire-hathaway]], [[concentration-vs-diversification]], [[warren-buffett]], [[incentive-compensation]]
 ---
@@ -40,6 +40,10 @@ The structural logic extends beyond fairness: it prevents the investment manager
 
 **Operational independence.** Simpson makes investment decisions for the GEICO portfolio without Buffett's involvement. The independence is both structural (separate accounts, separate reporting) and epistemic (Buffett does not advise or second-guess). This makes the Simpson track record a clean parallel test of the same investing methodology applied by a different practitioner — empirically validating that the results are method-driven, not idiosyncratically person-specific.
 
+**The 25-year definitive record.** The 2004 letter publishes the most complete performance table in the letters' history: Simpson's annual equity returns at GEICO for every year from 1980 through 2004. The result: **20.3% annually vs. S&P 13.5%** — a 6.8 percentage point annual edge sustained over 25 years. Buffett: "Take a look at the facing page to see why Lou is a cinch to be inducted into the investment Hall of Fame." ([[berkshire-2004-letter]])
+
+The portfolio by 2004: approximately $2.5 billion of GEICO equities, with individual purchases typically in the $200–$300 million range, concentrated in companies smaller than those Buffett himself focuses on. Full delegation in practice: "You may be surprised to learn that Lou does not necessarily inform me about what he is doing. When Charlie and I assign responsibility, we truly hand over the baton." Buffett receives Simpson's transactions approximately ten days after the end of each month. "Sometimes, it should be added, I silently disagree with his decisions. But he's usually right." ([[berkshire-2004-letter]])
+
 ## Sources discussing this person
 
 - [[berkshire-1983-letter]] — "the class of the field among insurance investment managers"
@@ -51,6 +55,7 @@ The structural logic extends beyond fairness: it prevents the investment manager
 - [[berkshire-1996-letter]] — outperformed S&P by 6.2 ppt in 1996; "Hall-of-Famer"; separate four-year rolling compensation tied only to investment performance explained
 - [[berkshire-1997-letter]] — independently manages ~$2B GEICO equity portfolio; holdings sometimes overlap, sometimes diverge from Buffett's
 - [[berkshire-1999-letter]] — visited Lorimer Davidson with Buffett and Nicely before Davidson's death in November 1999
+- [[berkshire-2004-letter]] — definitive 25-year record table (20.3% annual vs. S&P 13.5%); "cinch to be inducted into the investment Hall of Fame"; $2.5B portfolio; full-delegation model described
 
 ## Related
 

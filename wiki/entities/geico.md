@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-05-24
-updated: 2026-06-12
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter]
+updated: 2026-06-13
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter]
 tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities, wholly-owned]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]], [[jack-byrne]], [[lou-simpson]], [[lorimer-davidson]], [[franchise-vs-business]], [[tony-nicely]]
 ---
@@ -11,6 +11,16 @@ related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-busin
 # GEICO (Government Employees Insurance Company)
 
 Direct-to-consumer auto insurer. Buffett's first commercial connection to the company was at age 20 (January 1951). Berkshire's modern position was built during and after GEICO's 1976 near-bankruptcy crisis. By the early 1980s, GEICO had become Berkshire's largest single non-controlled equity holding and a structural anchor of the investment portfolio — eventually a wholly-owned subsidiary in 1996.
+
+## Origins and industry context
+
+GEICO was founded in 1936 by Leo Goodwin with $200,000 — the business concept being to eliminate the agent entirely and deal directly with the auto owner. Goodwin's reasoning: unlike business insurance buyers who might need professional advice, consumers knew what they needed in an auto policy. Direct dealing removed an unnecessary and expensive link from the distribution chain.
+
+This insight built on two prior competitive disruptions in auto insurance. In 1922, State Farm was formed by George Mecherle, a farmer from Merna, Illinois, who used a captive agency force — lower-cost than the independent-agent bureau cartel — to eventually capture ~25% of personal lines. Allstate, formed in 1931, adopted the same captive system and became the second-largest personal lines insurer. GEICO's direct model pushed the cost structure lower still by eliminating the agent entirely.
+
+Between 1936 and 1975, GEICO grew to a 4% market share, becoming the fourth-largest U.S. auto insurer. Originally marketing to government employees, it later shifted to phone and broadcast advertising. But after CEO [[lorimer-davidson]] retired in 1970, GEICO's successors made a compounding error: **under-reserving for losses → faulty cost information → inadequate pricing**. By 1976 the company was on the brink of failure. ([[berkshire-2004-letter]])
+
+[[jack-byrne]] arrived as CEO in 1976 and saved the company through major price increases. The rescue cost GEICO policyholders who fled to competitors; by 1980 market share had fallen to 1.8%. Subsequently, the company made the additional error of diversifying away from its extraordinary core business, stunting growth. By 1993, market share had grown only fractionally, to 1.9%. [[tony-nicely]] then took charge. ([[berkshire-2004-letter]])
 
 ## Why it matters
 
@@ -86,6 +96,10 @@ Policy count grew from approximately two million at the time of acquisition to n
 
 **Permanent holding.** Buffett's framing by the late 1990s: GEICO is not a holding to be measured quarter by quarter but a permanent capital asset whose cost advantage compounds over decades. The moat is the low-cost distribution structure, which incumbent competitors cannot replicate without dismantling their own agent networks — the same logic Buffett identified in 1951 and restated at every stage of the arc.
 
+**2004 results and the Tony Nicely era in full.** By 2004, underwriting profit reached $970M and float grew to $5.96B. Buffett projected a ~6% market share for 2005. The value equation Nicely engineered: customers saved $1B vs. alternatives; associates earned $191M in profit-sharing (24.3% of salary average); Berkshire enjoyed excellent financial returns. GEICO's market share under Nicely (from 1.9% in 1993 to a projected 6% in 2005) is the most dramatic sustained-growth story in the letters' history. ([[berkshire-2004-letter]])
+
+**New Jersey re-entry.** GEICO had withdrawn from New Jersey in 1976 when the state refused Byrne the rates needed to operate profitably; the company also avoided Massachusetts as structurally hostile to insurers. In 2003, New Jersey enacted legislation curbing fraud and creating a viable operating environment. GEICO was licensed in August 2004. Response was dramatic — 140,000 policyholders (~4% of the New Jersey market) attracted quickly, with above-national-average inquiry-to-policy conversion rates. The New Jersey re-entry is the closing chapter of the Byrne-era retreat, every abandoned market now re-entered under better terms. ([[berkshire-2004-letter]])
+
 ## Operating leadership
 
 [[jack-byrne]] (CEO from 1976), Bill Snyder (president), and Lou Simpson (investment manager) are repeatedly cited as exceptional. Per the 1983 letter: "Jack Byrne and Bill Snyder have maintained extraordinary discipline in the underwriting area (including, crucially, provision for full and proper loss reserves)… Lou Simpson is the class of the field among insurance investment managers." Per 1984: "Lou has the rare combination of temperamental and intellectual characteristics that produce outstanding long-term investment performance."
@@ -112,6 +126,7 @@ The friendly-block-holder structural agreement that originated at GEICO — Berk
 - [[berkshire-1998-letter]] — record new-policy growth; marketing spend triples from 1995; "great idea + great manager" framing; canonical CEO-autonomy essay
 - [[berkshire-1999-letter]] — continued surge; market share 2.7% → 4.1%; compensation formula explained in detail; Davidson dies
 - [[berkshire-2000-letter]] — advertising stumble post-mortem; four-factor analysis; structural cost advantage reaffirmed; State Farm comparison
+- [[berkshire-2004-letter]] — most complete GEICO history published: 1936 founding, State Farm/Allstate competitive arc, 1976 under-reserving failure, Byrne rescue (market share trough 1.8%), post-Byrne diversification detour (1.9% by 1993), Nicely era; New Jersey re-entry; $970M underwriting profit; ~6% market share projection
 
 ## Related
 

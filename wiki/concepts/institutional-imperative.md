@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-24
 updated: 2026-06-13
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1981-letter, berkshire-1984-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1981-letter, berkshire-1984-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter]
 tags: [behavior, management, capital-allocation]
 related: [[warren-buffett]], [[acquisition-criteria]], [[owner-orientation]], [[capital-allocation]], [[wells-fargo]], [[general-re]], [[underwriting-discipline]]
 ---
@@ -82,6 +82,18 @@ Buffett's framing: the institutional imperative operates as an enabler of danger
 
 See [[underwriting-discipline]] for the detailed analysis of how volume-over-discipline erodes an insurer's balance sheet.
 
+## The structural countermeasure: NICO's no-layoff policy (2004)
+
+The 2004 letter provides the first detailed account of *how* to defeat the institutional imperative at the operational level. Prior letters identify it as a problem; this letter proposes a structural solution.
+
+**The individual-level channel.** The institutional imperative doesn't only operate at the organizational level — it runs through individual self-preservation. When insurance prices are soft and volume declines, employees know inadequate pricing will cause problems, but they also know declining volume leads to layoffs. Self-interest resolves predictably: rationalize the bad pricing, argue the market will recover, preserve the organization and distribution network. The fear of job loss is the specific mechanism by which institutional pressure becomes individual rationalization. ([[berkshire-2004-letter]])
+
+**The countermeasure: remove the fear.** National Indemnity has always promised its workforce that no one will be fired because of declining volume, however severe the contraction. This removes the self-interest argument entirely. Employees need not rationalize inadequate pricing to protect themselves; they can evaluate each policy on its merits. NICO can live with excess overhead; it cannot live with underpriced business and the breakdown in underwriting discipline that accompanies it. ([[berkshire-2004-letter]])
+
+**The price of the policy: overstaffing discipline.** A no-layoff commitment requires exceptional care to avoid overstaffing when times are good. Tom Murphy (Capital Cities CEO) made this to Buffett: hiring an assistant at $20,000/year is really a $3M decision when raises, benefits, and lifetime employment likelihood are factored in. One unnecessary hire is not a marginal cost — it is a long-duration commitment. ([[berkshire-2004-letter]])
+
+**The result.** NICO has had four CEOs since 1940; none bent on underwriting discipline. "It takes real fortitude—embedded deep within a company's culture—to operate as NICO does. Anyone examining the table can scan the years from 1986 to 1999 quickly. But living day after day with dwindling volume—while competitors are boasting of growth and reaping Wall Street's applause—is an experience few managers can tolerate." This is the positive prescription that completes the General Re failure case: the same institutional-imperative forces are present at both companies; the no-layoff policy is NICO's structural countermeasure. See [[national-indemnity]] and [[underwriting-discipline]].
+
 ## Corporate governance era (2002-2003)
 
 The corporate scandal era of 2002-2003 is the institutional imperative manifesting at the board level. Three applications in these letters:
@@ -107,6 +119,7 @@ Berkshire's structural counter across all three contexts: directors with large p
 - [[berkshire-2001-letter]] — General Re as the canonical insurance case; market-share-over-profit framing; "difficult for able, hard-driving professionals to curb their urge to prevail over competitors"; Noah rule as the failure of recognized-but-unacted-upon risk
 - [[berkshire-2002-letter]] — boardroom atmosphere as the governance failure mechanism; "collegiality trumped independence"; CEO compensation ratchet as systemic replication of the most egregious packages
 - [[berkshire-2003-letter]] — "boardroom atmosphere almost invariably sedates their fiduciary genes"; compensation consultants as institutional couriers; mutual-fund governance scandals as vindication
+- [[berkshire-2004-letter]] — NICO's no-layoff policy as the structural countermeasure: the individual-level fear-of-layoff channel identified as the mechanism by which institutional pressure becomes rationalized bad pricing; removing the fear (via guaranteed employment) removes the rationalization; the overstaffing discipline as the price of the commitment; four CEOs since 1940, none bent
 
 ## Related
 
