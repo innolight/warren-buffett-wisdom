@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-13
-sources: [berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+updated: 2026-06-14
+sources: [berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2007-letter]
 tags: [competitive-advantage, business-quality, moat]
 related: [[economic-goodwill]], [[commodity-business-economics]], [[tailwinds-vs-headwinds]], [[franchise-vs-business]], [[coca-cola]], [[gillette]], [[general-re]]
 ---
@@ -88,6 +88,14 @@ The lesson for moat analysis: **a moat based on institutional culture and discip
 
 The three violations that destroyed the moat — mispricing current business, accumulating uncompensated risk, under-reserving — are each attributable to the same institutional force: optimizing for competitive position rather than absolute underwriting standards. See [[berkshire-2001-letter]] and [[berkshire-2002-letter]].
 
+## Endurance and the manager-dependency test (2007)
+
+The 2007 letter adds two linked requirements that sharpen the moat concept. First, the moat must be **enduring** — not just currently wide. "Our criterion of 'enduring' causes us to rule out companies in industries prone to rapid and continuous change. Though capitalism's 'creative destruction' is highly beneficial for society, it precludes investment certainty. A moat that must be continuously rebuilt will eventually be no moat at all."
+
+Second, and more distinctively: **businesses whose great results depend on a superstar manager do not have a great business.** A medical practice led by your area's premier brain surgeon earns outsized returns — but the moat goes when the surgeon goes. The Mayo Clinic, by contrast, has a moat that survives any individual; you cannot name its CEO, yet you can predict with confidence that patients will continue to prefer it. The distinction matters: institutional moats compound across leadership transitions; manager-dependent moats are personal assets that walk out the door.
+
+The corollary is that stable industries are a precondition. Rapid-change industries require the moat to be continuously rebuilt (invalidating the first criterion) and create environments where managerial brilliance is load-bearing (invalidating the second). "Long-term competitive advantage in a stable industry is what we seek in a business." See [[great-good-gruesome]].
+
 ## Dexter Shoe: the illusory moat
 
 Dexter Shoe appeared in 1993 to possess the markers of a moat: stable earnings, brand loyalty, a quality-manufacturing reputation that translated to repeat customers and pricing stability. The competitive position proved to have no structural protection. When foreign low-cost competition expanded to 93% of U.S. shoe consumption by 1999, the apparent moat did not hold.
@@ -112,6 +120,7 @@ The 2001 letter adds that procrastination — recognizing the deterioration and 
 - [[berkshire-2001-letter]] — General Re three-rule failure as canonical case study of culture-based moat erosion; "what counts in this business is underwriting discipline" as the only real moat in reinsurance
 - [[berkshire-2002-letter]] — Gen Re cleanup; the three insurance disciplines (pricing, reserving, aggregation control) as the only durable moat in reinsurance; the structural observation that insurance has no patents, installed base, or critical real estate to defend
 - [[berkshire-2003-letter]] — explicit statement: "Insurers sell a non-proprietary piece of paper containing a non-proprietary promise. Anyone can copy anyone else's product. No installed base, key patents, critical real estate or natural resource position protects an insurer's competitive position. Typically, brands do not mean much either" — making managerial brains, discipline, and integrity the entirety of the insurance moat
+- [[berkshire-2007-letter]] — "enduring" elevated as the key requirement: "A moat that must be continuously rebuilt will eventually be no moat at all"; manager-dependency test introduced (brain surgeon's practice vs. Mayo Clinic); stable industries as a precondition; the framework embedded in the [[great-good-gruesome]] taxonomy
 
 ## Related
 

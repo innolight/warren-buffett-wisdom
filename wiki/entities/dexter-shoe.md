@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-06-13
-updated: 2026-06-13
-sources: [berkshire-1997-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter]
+updated: 2026-06-14
+sources: [berkshire-1997-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2007-letter]
 tags: [acquisition, manufacturing, cautionary-tale, shoes, stock-as-acquisition-currency, moat-failure]
 related: [[berkshire-hathaway]], [[stock-as-acquisition-currency]], [[warren-buffett]], [[h-h-brown]]
 ---
@@ -34,3 +34,4 @@ The combined lesson: overpaying with undervalued equity is not just an error in 
 - [[berkshire-1999-letter]] — first explicit operational discussion; 93% U.S. shoe consumption imported; decline attributed to industry economics
 - [[berkshire-2000-letter]] — the explicit mistake acknowledgment; goodwill fully written off; "I compounded that mistake in a huge way by using Berkshire shares in payment"
 - [[berkshire-2001-letter]] — three-mistake enumeration (purchase, currency, procrastination); operations folded under H.H. Brown
+- [[berkshire-2007-letter]] — explicit $3.5B effective-cost calculation: 25,203 A shares now worth $3.5B; "I gave away 1.6% of a wonderful business — one now valued at $220 billion — to buy a worthless business"; named "the worst deal that I've made"

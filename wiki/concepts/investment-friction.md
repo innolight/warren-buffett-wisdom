@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-13
-updated: 2026-06-13
-sources: [berkshire-2005-letter, berkshire-2006-letter]
+updated: 2026-06-14
+sources: [berkshire-2005-letter, berkshire-2006-letter, berkshire-2007-letter]
 tags: [investing, fees, passive-investing, active-management, aggregate-returns]
 related: [[passive-ownership-advantage]], [[concentration-vs-diversification]], [[capital-allocation]], [[mr-market]], [[walter-schloss]]
 ---
@@ -58,6 +58,16 @@ Buffett does not prescribe index funds explicitly in this essay, but the implica
 
 See [[passive-ownership-advantage]] for the related point about individual investment style; see [[concentration-vs-diversification]] for Buffett's own answer to the question (for the investor who genuinely knows what they're doing).
 
+## The 21st-century Dow arithmetic (2007)
+
+The 2007 letter sharpens the century-math argument with explicit numbers for the current century. The Dow advanced from 66 to 11,497 over the 20th century — 5.3% compounded annually. To *equal* that rate in the 21st century, the Dow would need to close at approximately **2,000,000** by December 31, 2099. Eight years into the century, it had gained fewer than 2,000 of the 1,988,000 points needed to reach that figure.
+
+The implication for pension funds: most corporate plans were using an 8% return assumption in 2006, with bonds/cash comprising ~28% of assets (expected to earn no more than 5%) and the remaining 72% in equities needing to earn 9.2% net of fees to achieve the aggregate 8%. Given the 5.3% historical equity return and the fact that fees are now "far higher than they have ever been," the 8% assumption requires equity performance that would demand a Dow at roughly 2,000,000 by 2099 — a figure that "commentators regularly hyperventilate" over in increments of 1,000 points.
+
+For investors forecasting 10% annual equity returns (2% dividends + 8% price appreciation), the implied Dow level by 2100 is **24,000,000**. "If your adviser talks to you about double-digit returns from equities, explain this math to him — not that it will faze him."
+
+The 2007 formulation is the cleanest statement of why helpers cannot close the gap between their fee expectations and the math of long-run equity returns. See [[berkshire-2007-letter]].
+
 ## The 2-and-20 arithmetic (2006)
 
 The 2006 letter extends the Gotrocks argument to hedge funds with a concrete arithmetic demonstration. The "2-and-20" structure — 2% annual management fee regardless of results, plus 20% of profits — produces a structural transfer from investors to managers:
@@ -76,6 +86,7 @@ The contrast with the 2-and-20 Hyper-Helper is exact: Schloss aligned himself co
 
 - [[berkshire-2005-letter]] — the Gotrocks allegory in full; the four-layer Helper taxonomy; the 20% friction estimate; Newton's Fourth Law; the Dow century arithmetic
 - [[berkshire-2006-letter]] — 2-and-20 arithmetic (10% gross → 6.4% net → $108M manager fee on a $3B fund); Walter Schloss as the counter-example (47 years, fee only on profit, S&P-beating record)
+- [[berkshire-2007-letter]] — sharpest Dow century arithmetic: Dow at 2,000,000 needed by 2099 to repeat 5.3% rate; only ~2,000 of 1,988,000 points gained in first 8 years; 10% forecasts imply Dow at 24,000,000; pension 8% assumption arithmetic dissected; "Beware the glib helper who fills your head with fantasies while he fills his pockets with fees"
 
 ## Related
 

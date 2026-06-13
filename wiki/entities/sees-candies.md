@@ -2,10 +2,10 @@
 type: entity
 status: draft
 created: 2026-05-24
-updated: 2026-06-13
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1991-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+updated: 2026-06-14
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1991-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2007-letter]
 tags: [consumer, confectionery, pricing-power, economic-goodwill, blue-chip]
-related: [[blue-chip-stamps]], [[economic-goodwill]], [[moat]], [[franchise-vs-business]], [[cigar-butts-vs-wonderful-businesses]], [[buffalo-evening-news]]
+related: [[blue-chip-stamps]], [[economic-goodwill]], [[moat]], [[franchise-vs-business]], [[cigar-butts-vs-wonderful-businesses]], [[buffalo-evening-news]], [[great-good-gruesome]]
 ---
 
 # See's Candies
@@ -88,6 +88,22 @@ Annual pre-tax earnings held steady near record levels through the period: $58.6
 
 Buffett's summary in 1999 captures the full picture: "Businesses such as See's and [[buffalo-evening-news]] are now worth fifteen to twenty times the value at which they are carried on our books. Our goal is to continually widen this spread at all subsidiaries."
 
+## 2007: The full 35-year case study
+
+The 2007 letter contains the most complete See's arithmetic in any letter, used as the anchor for the [[great-good-gruesome]] framework:
+
+| Metric | 1972 | 2007 |
+| --- | ---: | ---: |
+| Sales | $30M | $383M |
+| Pre-tax earnings | <$5M | $82M |
+| Tangible capital required | $8M | $40M |
+| **Incremental capital invested (35 yrs)** | — | **$32M** |
+| **Cumulative pre-tax earnings** | — | **$1.35B** |
+
+The editorial point: See's needed only $32M of incremental capital over 35 years to generate $1.35B in cumulative pre-tax earnings — nearly all of which was sent to Berkshire (or Blue Chip) for redeployment into other businesses. The contrast case is FlightSafety, which required $509M in incremental capital to generate $159M in additional earnings — a good return, but fundamentally different from See's.
+
+Buffett also surfaces his near-miss at purchase: "The seller was asking $30 million, and I was adamant about not going above $25 million. Fortunately, he caved. Otherwise I would have balked, and that $1.35 billion would have gone to somebody else." [[berkshire-2007-letter]]
+
 ## Sources discussing this entity
 
 - [[berkshire-1977-letter]] — early framing: $4.2M → $12.6M earnings growth with little additional capital
@@ -108,6 +124,7 @@ Buffett's summary in 1999 captures the full picture: "Businesses such as See's a
 - [[berkshire-2001-letter]] — pre-tax earnings in the same range
 - [[berkshire-2002-letter]] — mentioned in operating summary
 - [[berkshire-2003-letter]] — $59M retail pre-tax; one of the "excellent businesses" in the portfolio
+- [[berkshire-2007-letter]] — **the canonical great-business case study**; 35-year arithmetic: $383M sales, $82M pre-tax, $40M capital, only $32M reinvested since 1972, $1.35B cumulative pre-tax; the anchor of the [[great-good-gruesome]] framework
 
 ## Related
 

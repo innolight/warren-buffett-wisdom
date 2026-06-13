@@ -2,10 +2,10 @@
 type: entity
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
-sources: [berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2001-letter]
+updated: 2026-06-14
+sources: [berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2001-letter, berkshire-2007-letter]
 tags: [aviation, training, capital-intensive, founder-operator, acquisition]
-related: [[berkshire-hathaway]], [[al-ueltschi]], [[netjets]], [[moat]], [[acquisition-criteria]]
+related: [[berkshire-hathaway]], [[al-ueltschi]], [[netjets]], [[moat]], [[acquisition-criteria]], [[great-good-gruesome]]
 ---
 
 # FlightSafety International
@@ -29,6 +29,24 @@ Aviation pilot-training company acquired by [[berkshire-hathaway]] in late 1996 
 
 **Founder-operator template.** Ueltschi built the company over four decades and showed no interest in leaving. This fits the Berkshire [[acquisition-criteria]] pattern: find an owner who has made the business their life's work, buy it at a sensible price, and leave the founder in place.
 
+## 2007: The good-business case study
+
+The 2007 letter uses FlightSafety as the canonical "good business" archetype in the [[great-good-gruesome]] framework — excellent but not extraordinary, contrasted against See's Candies.
+
+Since Berkshire's 1996 acquisition with pre-tax earnings of $111M on $570M net fixed assets, through 2007:
+
+| Metric | Amount |
+| --- | ---: |
+| Depreciation charged | $923M |
+| Capital expenditures | $1.635B |
+| Net fixed assets (2007) | $1.079B |
+| Pre-tax earnings (2007) | $270M (+$159M) |
+| Incremental capital invested | ~$509M |
+
+The ratio — $159M in added earnings on $509M of incremental capital — is a respectable return but not extraordinary. The capital requirement is structural: simulator technology must track aircraft model introductions, and each new simulator costs $12M or more. There is no See's-like ability to simply extract earnings without reinvestment.
+
+Buffett's framing: "There is, to follow through on our example, nothing shabby about earning $82 million pre-tax on $400 million of net tangible assets. But that equation for the owner is vastly different from the See's situation." The good-business lesson: competitive moats and good returns are necessary but not sufficient for great economics. Capital-light compounding is the distinguishing feature of the great tier.
+
 ## Sources discussing this entity
 
 - [[berkshire-1996-letter]] — acquisition announced; capital-intensity explicitly flagged as unusual for Berkshire; Ueltschi biography (Lindbergh, Pan Am, 1951 founding); deal structure designed to minimize share issuance
@@ -36,3 +54,4 @@ Aviation pilot-training company acquired by [[berkshire-hathaway]] in late 1996 
 - [[berkshire-1998-letter]] — cross-Berkshire integration: EJA's ~650 pilots train biannually at FlightSafety; brief operating-earnings appearance in the segment table
 - [[berkshire-1999-letter]] — detailed comparison of FlightSafety and NetJets as two contrasting capital profiles within the same aviation-services parent; 222 simulators; $215M capex that year; high operating margins required by the capital structure
 - [[berkshire-2001-letter]] — Ueltschi at 84; commercial training temporarily depressed post-9/11; $10,000 founding cited
+- [[berkshire-2007-letter]] — **the canonical good-business case study**; full capital arithmetic since 1996 acquisition: $923M depreciation, $1.635B capex, $509M incremental capital for $159M earnings growth; "put-up-more-to-earn-more" as the defining characteristic of the good tier; [[great-good-gruesome]] framework

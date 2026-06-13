@@ -389,6 +389,32 @@ Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages 
 - `sources/berkshire-2005-letter.md` — added currency/trade key theme (GAAP mark-to-market asymmetry; $955M 2005 loss; +$2.0B since inception; shift to foreign equities); expanded management succession bullet to surface the CEO/investment-manager separation as structural governance design; removed incorrect 1988 letter cross-reference ("arbitrage essay on transaction costs" mischaracterized that essay — it's about Berkshire's own risk-arb methodology, not aggregate investor friction); 1999 letter connection retained and tightened
 - `concepts/investment-friction.md` — corrected two descriptions of [[passive-ownership-advantage]]: "partial ownership at public-market prices can outperform control" replaced with the accurate framing (passive minority stakes in *excellent* businesses outperform active control of mediocre ones — the business-quality dimension, not the pricing mechanism)
 
+## [2026-06-14] ingest | berkshire-2007-letter
+
+**Created (2):**
+- `sources/berkshire-2007-letter.md` — Great/Good/Gruesome framework; See's 35-year arithmetic; Dexter $3.5B cost; passive-investing Dow-at-2,000,000 arithmetic; Mayo Clinic moat test; Marmon acquisition
+- `concepts/great-good-gruesome.md` — introduced in this letter; three-tier savings-account taxonomy; See's (great), FlightSafety (good), airlines (gruesome); moat-endurance and manager-dependency corollaries
+
+**Updated (5):**
+- `entities/sees-candies.md` — added 2007 full 35-year case study section ($32M incremental capital → $1.35B cumulative pre-tax); near-miss purchase anecdote; [[great-good-gruesome]] link
+- `entities/flightsafety.md` — added 2007 good-business case study section ($923M depreciation / $1.635B capex / $509M incremental capital for $159M earnings growth); [[great-good-gruesome]] link
+- `concepts/moat.md` — added endurance-and-manager-dependency section (brain surgeon vs. Mayo Clinic; stable-industry precondition; "continuously rebuilt = no moat at all")
+- `concepts/investment-friction.md` — added 2007 Dow-century arithmetic section (Dow at 2,000,000 by 2099; 10% forecasts imply 24,000,000; pension 8% assumption dissected)
+- `entities/dexter-shoe.md` — added 2007 source bullet with $3.5B effective-cost explicit calculation
+
+**Updated index:** added `berkshire-2007-letter` (Sources) and `great-good-gruesome` (Concepts)
+
+**Deliberately skipped:**
+- Marmon Group acquisition — $4.5B deal, no new timeless principle beyond acquisition-criteria already covered
+- Jay Pritzker, Byron Trott — transactional context; not shaping figures in investment-wisdom arc
+- Housing/financial-crisis macro commentary — period-specific; "swimming naked" quote preserved on source page
+- Currency/trade-deficit section — policy commentary, not timeless
+- Pension accounting manipulation — interesting but adequately covered under corporate-governance; no new page warranted
+- Richline Group, BoatU.S. — minor acquisitions; no enduring lesson
+- Specific subsidiary operating tables — year-specific; live on source page
+- Derivatives page update — 2007 contract growth (62→94) and put-option category added to source page Concepts section; no new timeless principle beyond existing [[derivatives]] coverage
+- Investment succession update — four candidates now named; outcome (Combs/Weschler) not yet known; continuation of 2006 thread; no new concept warranted
+
 ## [2026-06-14] refactor | berkshire-2006-letter post-ingest quality fixes
 
 - `sources/berkshire-2006-letter.md` — split composite/reversed Notable Quote (float + parking meter story) into two correctly ordered verbatim quotes; added CEO/CIO succession structure as a key theme (search for younger CIO announced as separate from CEO succession; Lou Simpson framing; trait articulation)

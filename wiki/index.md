@@ -38,6 +38,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2004-letter]] — 2004 annual letter; definitive GEICO founding-to-2004 history; NICO cultural model and fear-factor countermeasure; Lou Simpson as the cleanest second-Buffett track record; Matthew 6:21 director independence test
 - [[berkshire-2005-letter]] — 2005 annual letter; Gotrocks investment-friction essay; Fred Futile CEO-compensation arithmetic; GEICO 32% productivity gain; Gillette→P&G closes; Gen Re derivatives to 741 contracts; PUHCA repeal and PacifiCorp
 - [[berkshire-2006-letter]] — 2006 annual letter; GEICO 47% productivity miracle; float $50.9B + Equitas deal; 2-and-20 arithmetic; Walter Schloss as EMT refutation; newspaper moat erosion essay; first international acquisition (ISCAR)
+- [[berkshire-2007-letter]] — 2007 annual letter; Great/Good/Gruesome business taxonomy; See's 35-year case study ($32M reinvested → $1.35B cumulative earnings); Dexter's $3.5B effective cost; passive-investing Dow-at-2,000,000 arithmetic
 
 ## Entities
 
@@ -110,6 +111,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[economic-goodwill]] — durable competitive advantage producing high returns on tangible capital; Buffett's escape from Graham's tangible-asset bias
 - [[float]] — premium-derived investable funds; the engine that converts an insurer into a compounder; cost-of-float framework from 1990; Gen Re adds ~$15B to float base
 - [[franchise-vs-business]] — the 1991 three-condition test; franchises tolerate mismanagement, businesses do not; the media reclassification
+- [[great-good-gruesome]] — three-tier business-quality taxonomy (2007); great = capital-light compounder (See's); good = capital-intensive but good returns (FlightSafety); gruesome = capital-hungry with poor returns (airlines)
 - [[incentive-compensation]] — the option-critique and the savings-account analogy; Berkshire's unit-specific, uncapped, seniority-blind, symmetric alternative; stock-options expensing fight 1998–2003
 - [[institutional-imperative]] — corporate herd behavior; the structural force a disciplined allocator must resist; canonically named 1989; Gen Re as the real-world failure case
 - [[intrinsic-value-vs-book-value]] — book is financial input, intrinsic is future cash output; the gauge for capital-allocation decisions
