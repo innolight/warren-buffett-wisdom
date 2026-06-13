@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-12
 updated: 2026-06-13
-sources: [berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2005-letter]
+sources: [berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter]
 tags: [derivatives, risk, systemic-risk, financial-weapons]
 related: [[general-re]], [[float]], [[institutional-imperative]], [[underwriting-discipline]]
 ---
@@ -62,12 +62,19 @@ The 2003 letter extends this: "No matter how financially sophisticated you are, 
 
 Buffett's critique is not absolute. He acknowledges using large-scale derivative positions himself when they facilitate specific investment strategies — currency hedges, equity index put options, credit-default instruments in specific situations. The difference is that these are purposeful, individually-sized positions, not a dealer book generating volume-based profits. "The macro picture is dangerous and getting more so" applies to the aggregate market; individual, purpose-specific positions with a clearly-defined risk profile are a separate matter.
 
+The 2006 letter makes this distinction explicit. After the Gen Re Securities wind-down was declared complete ($409M total pre-tax loss, 197 contracts remaining), Buffett directly addressed the apparent contradiction between his systemic critique and his own practice:
+
+> Derivatives, just like stocks and bonds, are sometimes wildly mispriced. For many years, accordingly, we have selectively written derivative contracts — few in number but sometimes for large dollar amounts. We currently have 62 contracts outstanding. I manage them personally, and they are free of counterparty credit risk. ([[berkshire-2006-letter]])
+
+Three distinguishing features of Buffett's selective use: (1) **few contracts** — 62 total vs. Gen Re Securities' 23,218 at peak; (2) **personally managed** — no trading desk, no model-dependent pricing, no agency problem; (3) **counterparty-free** — Berkshire received cash upfront, eliminating the daisy-chain credit risk that is the systemic danger. The critique of derivatives as weapons of mass destruction was always about the dealer-book model and systemic concentration, not about individual positions struck on favorable terms. The currency forward contracts Berkshire used to profit $2.2B (2002-2006) are another example: purpose-specific, limited in number, and directional bets on a clearly analyzed macroeconomic imbalance rather than volume-driven market-making.
+
 ## How it's discussed in sources
 
 - [[berkshire-2002-letter]] — the canonical "financial weapons of mass destruction" essay; five structural mechanisms identified; Gen Re Securities mid-wind-down (14,384 contracts, 672 counterparties); LTCM 1998 as precedent; mark-to-myth coinage
 - [[berkshire-2003-letter]] — Gen Re Securities dithering confession; opacity-of-disclosure as first-order problem; Darwin quote; final balance ($272M loss in benign conditions); started at ~23,218 contracts
 - [[berkshire-2004-letter]] — wind-down to 2,890 contracts at yearend 2004 (from 7,580 at yearend 2003); phantom-profits-from-fuzzy-marks articulated (annual bonuses tied to marks create incentive toward optimistic valuation); "swimming naked when the tide goes out" framing; "Like Hell, derivative trading is easy to enter but difficult to leave"
 - [[berkshire-2005-letter]] — wind-down to 741 contracts; $104M 2005 loss; $404M aggregate; 100-year contract anecdote; "strange world" mutual-reporting-as-profitable quote; thumb-sucking self-indictment; canary-in-coal-mine systemic warning; described scenario largely materialized in 2008
+- [[berkshire-2006-letter]] — Gen Re Securities declared complete ($409M total, 197 contracts); explicit reconciliation of systemic critique with personal selective use (62 contracts, personally managed, counterparty-free, hundreds of millions in profits); "wildly mispriced like stocks and bonds" framing
 
 ## Related
 

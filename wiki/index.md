@@ -37,6 +37,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2003-letter]] — 2003 annual letter; McLane and Clayton acquisitions; foreign currency bonds; Noah Rule coined; Gen Re derivatives runoff nearing completion
 - [[berkshire-2004-letter]] — 2004 annual letter; definitive GEICO founding-to-2004 history; NICO cultural model and fear-factor countermeasure; Lou Simpson as the cleanest second-Buffett track record; Matthew 6:21 director independence test
 - [[berkshire-2005-letter]] — 2005 annual letter; Gotrocks investment-friction essay; Fred Futile CEO-compensation arithmetic; GEICO 32% productivity gain; Gillette→P&G closes; Gen Re derivatives to 741 contracts; PUHCA repeal and PacifiCorp
+- [[berkshire-2006-letter]] — 2006 annual letter; GEICO 47% productivity miracle; float $50.9B + Equitas deal; 2-and-20 arithmetic; Walter Schloss as EMT refutation; newspaper moat erosion essay; first international acquisition (ISCAR)
 
 ## Entities
 
@@ -90,6 +91,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[rose-blumkin]] — "Mrs. B"; founder of Nebraska Furniture Mart; the operator-as-shaping-figure exemplar
 - [[tom-murphy]] — Capital Cities CEO; canonical Buffett exemplar of capital allocation and integrity in one person
 - [[tony-nicely]] — GEICO CEO from 1993; architect of the low-cost-growth virtuous circle; policies more than doubled under his leadership
+- [[walter-schloss]] — Graham-trained value investor; 47-year partnership (1956-2002); the definitive empirical refutation of efficient-market theory; fee only on profit
 - [[warren-buffett]] — chairman of Berkshire Hathaway; author of the annual letters
 
 ## Concepts

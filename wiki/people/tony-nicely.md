@@ -2,8 +2,8 @@
 type: person
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
-sources: [berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter]
+updated: 2026-06-13
+sources: [berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2006-letter]
 tags: [geico, insurance, management, operator]
 related: [[geico]], [[warren-buffett]], [[lou-simpson]], [[incentive-compensation]]
 ---
@@ -30,6 +30,8 @@ CEO of [[geico]] through its post-acquisition growth era. Joined GEICO in the ea
 
 > To steal a line from a competitor, we are in good hands with Tony. — [[berkshire-2000-letter]]
 
+**2006: the 47% productivity milestone.** Between yearend 2003 and 2006, GEICO's policies grew from 5.7 million to 8.1 million (42%) while employees fell 3.5% — a 47% productivity gain. Advertising spend reached $631M, more than any competitor. Underwriting profit: $1,314M; float: $7.171B. Nicely joined GEICO at age 18 in 1961 — 45 years of tenure by 2006. Buffett relayed director Don Keough's reaction: "Forget births. Tell the shareholders to immediately change the names of their present children to Tony or Antoinette." Keough signed his letter "Tony." ([[berkshire-2006-letter]])
+
 ## Sources discussing this person
 
 - [[berkshire-1995-letter]] — canonical introduction; 34 years at GEICO; named operating leader for the wholly-owned subsidiary alongside Lou Simpson on investments
@@ -38,3 +40,4 @@ CEO of [[geico]] through its post-acquisition growth era. Joined GEICO in the ea
 - [[berkshire-1998-letter]] — canonical tribute ("no one in the business world who could run GEICO better"); Mark McGwire comparison; accelerating marketing investment
 - [[berkshire-1999-letter]] — compensation formula explained in detail; "we foot the bill" framing; visited Lorimer Davidson before his death
 - [[berkshire-2000-letter]] — advertising stumble post-mortem; four-factor analysis; structural moat reaffirmed despite campaign misfire
+- [[berkshire-2006-letter]] — 47% productivity gain 2003–2006; $631M advertising; 45 years at GEICO; "rename your children Tony" Keough tribute

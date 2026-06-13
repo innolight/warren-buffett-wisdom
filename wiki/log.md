@@ -388,3 +388,29 @@ Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages 
 
 - `sources/berkshire-2005-letter.md` — added currency/trade key theme (GAAP mark-to-market asymmetry; $955M 2005 loss; +$2.0B since inception; shift to foreign equities); expanded management succession bullet to surface the CEO/investment-manager separation as structural governance design; removed incorrect 1988 letter cross-reference ("arbitrage essay on transaction costs" mischaracterized that essay — it's about Berkshire's own risk-arb methodology, not aggregate investor friction); 1999 letter connection retained and tightened
 - `concepts/investment-friction.md` — corrected two descriptions of [[passive-ownership-advantage]]: "partial ownership at public-market prices can outperform control" replaced with the accurate framing (passive minority stakes in *excellent* businesses outperform active control of mediocre ones — the business-quality dimension, not the pricing mechanism)
+
+## [2026-06-14] refactor | berkshire-2006-letter post-ingest quality fixes
+
+- `sources/berkshire-2006-letter.md` — split composite/reversed Notable Quote (float + parking meter story) into two correctly ordered verbatim quotes; added CEO/CIO succession structure as a key theme (search for younger CIO announced as separate from CEO succession; Lou Simpson framing; trait articulation)
+- `people/walter-schloss.md` — restored dropped "To my knowledge" qualifier in partial quote from 2006 letter; corrected external attribution of "The Superinvestors of Graham and Doddsville" to note it is sourced from outside the 2006 letter (Columbia Business School alumni magazine)
+- `entities/buffalo-evening-news.md` — bumped `updated` frontmatter from 2026-05-25 to 2026-06-13 (was stale; page was substantively updated in the 2006 ingest)
+- `people/tony-nicely.md` — bumped `updated` frontmatter from 2026-06-12 to 2026-06-13 (same issue)
+
+---
+
+## [2026-06-13] ingest | berkshire-2006-letter
+
+- Created source: `sources/berkshire-2006-letter.md`
+- Created person: `people/walter-schloss.md` (Graham-trained; 47-year partnership 1956-2002; fee only on profit; definitive EMT refutation; only associate his son Edwin)
+- Updated entities: `geico` (2006: 47% productivity gain 2003–2006, policies 8.1M, employees −3.5%, $631M advertising, $1,314M underwriting profit, $7.171B float; Keough "rename your children Tony" tribute), `buffalo-evening-news` (2006 newspaper moat erosion essay: "survival of the fattest" monopoly described then declared structurally finished by internet/cable; lush profits explicitly called over)
+- Updated people: `tony-nicely` (2006 metrics; 45 years at GEICO; Don Keough tribute)
+- Updated concepts: `float` (float $50.9B + Equitas $7B; 2006 $3.838B underwriting profit best year ever; DCRA mechanics fully explicated; $450M annual retroactive amortization hurdle; 40-year arc $17M→$50.9B table extended), `derivatives` (Gen Re Securities complete $409M/$197 contracts; "wildly mispriced like stocks and bonds" selective-use reconciliation; 62 contracts, personally managed, counterparty-free), `investment-friction` (2-and-20 arithmetic: 10% gross → 6.4% net → $108M manager fee; Schloss as counter-model), `acquisition-criteria` (ISCAR origin story: 1¼-page letter from Eitan Wertheimer; international buyer-of-choice achieved; TTI: seller-choice dynamics — strategic buyer dismantles, PE flips, Berkshire keeps), `corporate-governance` (four board criteria articulated: owner-oriented, business-savvy, interested, truly independent; fee-dependent directors disqualifier; institutional shareholders as the only credible reform mechanism)
+- Updated index: added `berkshire-2006-letter` (Sources, chronological) and `walter-schloss` (People, alphabetical)
+- Deliberately skipped:
+  - ISCAR entity page — cutting-tool manufacturer; interesting acquisition but not a canonical load-bearing entity; the lesson (management character in writing, buyer-of-choice internationally) belongs on acquisition-criteria
+  - TTI entity page — same logic; the seller-choice dynamics are the timeless lesson, not the distributor itself
+  - NetJets operational update — profitable year but no new durable concept; rich-santulli page unchanged
+  - MidAmerican/HomeServices — financial update only (PacifiCorp full year); no new durable insight
+  - Currency/trade-deficit analysis — macro commentary; period-specific argument; Noah Rule and other concepts not materially advanced
+  - Lou Simpson succession discussion — CIO search announced but outcome (Combs/Weschler) comes in later letters; worth revisiting then, not now
+  - Joe Brandon/General Re — derivatives wind-down closure noted on derivatives page; no update to person pages warranted

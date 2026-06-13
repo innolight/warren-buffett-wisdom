@@ -3,9 +3,9 @@ type: concept
 status: draft
 created: 2026-06-13
 updated: 2026-06-13
-sources: [berkshire-2005-letter]
+sources: [berkshire-2005-letter, berkshire-2006-letter]
 tags: [investing, fees, passive-investing, active-management, aggregate-returns]
-related: [[passive-ownership-advantage]], [[concentration-vs-diversification]], [[capital-allocation]], [[mr-market]]
+related: [[passive-ownership-advantage]], [[concentration-vs-diversification]], [[capital-allocation]], [[mr-market]], [[walter-schloss]]
 ---
 
 # Investment Friction
@@ -58,9 +58,24 @@ Buffett does not prescribe index funds explicitly in this essay, but the implica
 
 See [[passive-ownership-advantage]] for the related point about individual investment style; see [[concentration-vs-diversification]] for Buffett's own answer to the question (for the investor who genuinely knows what they're doing).
 
+## The 2-and-20 arithmetic (2006)
+
+The 2006 letter extends the Gotrocks argument to hedge funds with a concrete arithmetic demonstration. The "2-and-20" structure — 2% annual management fee regardless of results, plus 20% of profits — produces a structural transfer from investors to managers:
+
+> A manager who achieves a gross return of 10% in a year will keep 3.6 percentage points — two points off the top plus 20% of the residual 8 points — leaving only 6.4 percentage points for his investors. On a $3 billion fund, this 6.4% net "performance" will deliver the manager a cool $108 million. He will receive this bonanza even though an index fund might have returned 15% to investors in the same period and charged them only a token fee. ([[berkshire-2006-letter]])
+
+The arithmetic is designed to survive favorable conditions: even when the manager produces positive gross returns, the structural take is large and guaranteed. In aggregate, managers cannot outperform the market they are managing — the Gotrocks logic holds — so the 3.6pp retained represents a pure transfer from investors to managers.
+
+## Walter Schloss as the counter-model
+
+Buffett closes the investment-friction section of the 2006 letter with a tribute to [[walter-schloss]], a Graham-trained investor who ran a partnership from 1956 to 2002 "from which he took not a dime unless his investors made money." His 47-year record dramatically outperformed the S&P 500 using simple statistical methods, no analysts, no computers, and essentially no overhead.
+
+The contrast with the 2-and-20 Hyper-Helper is exact: Schloss aligned himself completely with his investors (fee only on profit), spent nothing on the apparatus of active management, and used methods available to anyone willing to do the work. The implication is not that skill is impossible but that the combination of true alignment and low friction is vanishingly rare — and that most intermediaries claiming to add value do not.
+
 ## How it's discussed in sources
 
 - [[berkshire-2005-letter]] — the Gotrocks allegory in full; the four-layer Helper taxonomy; the 20% friction estimate; Newton's Fourth Law; the Dow century arithmetic
+- [[berkshire-2006-letter]] — 2-and-20 arithmetic (10% gross → 6.4% net → $108M manager fee on a $3B fund); Walter Schloss as the counter-example (47 years, fee only on profit, S&P-beating record)
 
 ## Related
 

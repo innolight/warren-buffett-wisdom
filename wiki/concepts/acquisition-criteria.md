@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-24
 updated: 2026-06-12
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2006-letter]
 tags: [capital-allocation, investment-framework, equities, acquisitions]
 related: [[warren-buffett]], [[tailwinds-vs-headwinds]], [[stock-as-acquisition-currency]], [[owner-orientation]]
 ---
@@ -83,6 +83,24 @@ When both parties understand the criteria, due diligence collapses into verifica
 
 The 2003 letter compresses the criteria into a cleaner triplet for evaluating new situations: (1) favorable and enduring economics, (2) talented and honest managers, (3) a sensible price. The six-point operational ad (published since 1982) remains in force; the three conditions are the high-level test. The "sensible price" condition is not relaxed for great businesses — it remains the binding constraint on deployment, especially as Berkshire's capital base grows and only "elephant"-sized acquisitions move the needle.
 
+## The international extension and seller-choice dynamics (2006)
+
+The 2006 letter marks the first time Berkshire's "buyer of choice" reputation extended beyond U.S. borders. Two deals illustrate the pattern and sharpen the seller-choice dynamics:
+
+**ISCAR (Israel).** Berkshire's first non-US acquisition arrived via a 1¼-page letter from Eitan Wertheimer in October 2005: "I am writing to introduce you to ISCAR." ISCAR is a cutting-tool manufacturer operating in 61 countries. The letter, Buffett writes, made "the quality of the company and the character of its management leap off the page." After a November meeting and resolution of tax and jurisdictional questions, Berkshire purchased 80% for $4 billion, with the Wertheimer family retaining 20%. No banker, no auction.
+
+The deal illustrates a new dimension: sellers actively seeking Berkshire chose it over strategic buyers not for price but for permanence and culture preservation. The family retained 20% — signaling they viewed the deal as a partnership, not an exit.
+
+**TTI (Fort Worth).** Paul Andrews built TTI from $112,000 of sales to $1.3B over 35 years. At 64, he wanted to sell before death forced a disorderly transition. His reasoning, laid out in the 2006 letter, is the clearest articulation yet of why Berkshire wins seller-choice competition:
+
+- A **strategic buyer** would pursue "synergies" and dismantle what Andrews built, uprooting employees.
+- A **private equity firm** would load the business with debt and flip it as soon as possible.
+- That left Berkshire.
+
+The meeting was November 15th, morning. A deal was done before lunch. Andrews wrote afterward: "After our meeting, I am confident that Berkshire is the right owner for TTI … I am proud of our past and excited about our future." ([[berkshire-2006-letter]])
+
+The structural logic: Berkshire's permanent-capital, no-exit stance is not a positioning claim — it is observable history. Sellers who have watched prior Berkshire acquisitions (GEICO, See's, NFM, ISCAR) can verify the claim independently. No investment bank can manufacture this credibility; it compounds only through demonstrated behavior over decades.
+
 ## How it's discussed in sources
 
 - [[berkshire-1977-letter]] — first formulation; introduced in the "Insurance Investments" section as the rationale for treating marketable equities as business-ownership decisions
@@ -97,6 +115,7 @@ The 2003 letter compresses the criteria into a cleaner triplet for evaluating ne
 - [[berkshire-2001-letter]] — all-cash acquisition policy reaffirmed; "issuing shares only grudgingly"
 - [[berkshire-2002-letter]] — "no exit strategy" crystallized; permanence as the distinguishing feature vs. LBO/private-equity
 - [[berkshire-2003-letter]] — three-condition restatement; McLane handshake deal as operational illustration; Clayton via Tennessee-students as reputation-sourced deal
+- [[berkshire-2006-letter]] — international extension: ISCAR sourced by a 1¼-page letter; TTI seller-choice dynamics (strategic buyer dismantles, PE flips, Berkshire keeps); explicit articulation of why sellers choose Berkshire over higher bids
 
 ## Related
 

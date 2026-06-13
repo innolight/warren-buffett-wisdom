@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-05-24
 updated: 2026-06-13
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter]
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter]
 tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities, wholly-owned]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]], [[jack-byrne]], [[lou-simpson]], [[lorimer-davidson]], [[franchise-vs-business]], [[tony-nicely]]
 ---
@@ -102,6 +102,8 @@ Policy count grew from approximately two million at the time of acquisition to n
 
 **2005: the productivity flywheel.** Nicely achieved a 32% improvement in productivity over the two years 2004–2005: employment fell 4% while policy count grew 26% — the operational embodiment of the low-cost compounding cycle running at full speed. Market share rose from 5.6% to 6.1%, an increase that at $1.6B per share-point represents $800M of additional annual premium volume. Underwriting profit reached $1,221M (up from $970M in 2004); yearend float reached $6.692B (up from $5.96B). Advertising spend hit $502M — a 16× increase from the $31M level when Berkshire acquired full control in 1996 — made economically rational by the improving unit economics of policy acquisition. GEICO's internet and phone conversion rate (quotes to policies) reached the highest in its history, evidence that its prices were "more attractive relative to the competition than ever before." By sometime in 2007, GEICO was projected to become the third-largest auto insurer in New Jersey. ([[berkshire-2005-letter]])
 
+**2006: the productivity milestone.** Between yearend 2003 and yearend 2006, policies grew from 5.7 million to 8.1 million — a 42% increase — while employees (full-time equivalent) fell 3.5%. Productivity grew 47%. This is the most concentrated statement of the virtuous circle running at maximum speed: fewer people serving dramatically more policyholders, with advertising spend rising to $631M (up from $238M in 2003 and $31M at the 1996 acquisition). GEICO now spends more on advertising than any competitor, including those much larger. Underwriting profit was $1,314M; yearend float $7.171B. Buffett relayed a remark from director Don Keough after reviewing the results: "Forget births. Tell the shareholders to immediately change the names of their present children to Tony or Antoinette." ([[berkshire-2006-letter]])
+
 ## Operating leadership
 
 [[jack-byrne]] (CEO from 1976), Bill Snyder (president), and Lou Simpson (investment manager) are repeatedly cited as exceptional. Per the 1983 letter: "Jack Byrne and Bill Snyder have maintained extraordinary discipline in the underwriting area (including, crucially, provision for full and proper loss reserves)… Lou Simpson is the class of the field among insurance investment managers." Per 1984: "Lou has the rare combination of temperamental and intellectual characteristics that produce outstanding long-term investment performance."
@@ -130,6 +132,7 @@ The friendly-block-holder structural agreement that originated at GEICO — Berk
 - [[berkshire-2000-letter]] — advertising stumble post-mortem; four-factor analysis; structural cost advantage reaffirmed; State Farm comparison
 - [[berkshire-2004-letter]] — most complete GEICO history published: 1936 founding, State Farm/Allstate competitive arc, 1976 under-reserving failure, Byrne rescue (market share trough 1.8%), post-Byrne diversification detour (1.9% by 1993), Nicely era; New Jersey re-entry; $970M underwriting profit; ~6% market share projection
 - [[berkshire-2005-letter]] — 32% productivity gain (employment −4%, policies +26%); market share 5.6%→6.1%; advertising $502M (16× the 1996 level); $1,221M underwriting profit; record conversion rates; NJ projected to become #3 by 2007
+- [[berkshire-2006-letter]] — 47% productivity gain 2003-2006 (policies +42%, employees −3.5%); $631M advertising; $1,314M underwriting profit; $7.171B float; the "rename your children Tony" Keough tribute
 
 ## Related
 

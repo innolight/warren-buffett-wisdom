@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-12
 updated: 2026-06-13
-sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter]
+sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter]
 tags: [governance, management, incentives, compensation, accountability]
 related: [[incentive-compensation]], [[owner-orientation]], [[institutional-imperative]]
 ---
@@ -74,6 +74,21 @@ The Berkshire board as a structural model:
 
 The anecdote: Buffett recounts a case (not Berkshire) where directors receiving ~$100,000 annually in board fees blocked shareholders from seeing a multi-billion acquisition offer. Non-management directors owned little stock except shares received from the company. Their open-market purchases had been nominal even when the stock traded far below the proposed acquisition price. The board then voted itself a significant fee increase at the same meeting it rejected the deal. The directors themselves may not have known their own motivations — "self-interest inevitably blurs introspection" — but the Matthew 6:21 logic explains the outcome precisely. ([[berkshire-2004-letter]])
 
+## Four criteria for board membership (2006)
+
+The 2006 letter articulates Berkshire's positive standard for selecting directors — four criteria that Buffett contrasts with the diversity-first, demographic-checkbox approach he observes elsewhere:
+
+1. **Owner-oriented** — thinks and acts as an owner, not as a trustee managing someone else's property.
+2. **Business-savvy** — can critically evaluate acquisitions, compensation proposals, and strategic choices. A director who cannot do this is "a potted plant."
+3. **Interested** — genuinely engaged, not passive. Board service requires real attention, not ceremonial presence.
+4. **Truly independent** — independent in fact, not in legal definition. The critical test: directors whose fees constitute a meaningful fraction of their income (often $150,000–$250,000 annually, sometimes "approaching or even exceeding all other income") are not truly independent regardless of what SEC rules say. They have financial treasure at risk if the company's direction changes.
+
+Buffett names the mechanism: "Ratchet, Ratchet and Bingo" — the consulting firms whose fee recommendations on CEO compensation have one direction. Director fees have soared the same way. "Surprise, surprise."
+
+The four criteria are presented not as ideals but as a minimum: "Over the years I've been queried many times about potential directors and have yet to hear anyone ask, 'Does he think like an intelligent owner?'" ([[berkshire-2006-letter]])
+
+**On compensation reform.** Irrational compensation practices will not be corrected by disclosure requirements or by "independent" compensation committee members under current definitions. Structural change requires action by large institutional shareholders — "it would only take a few" — demanding a genuine review rather than deferring to peer-benchmarking consultants. "The consultants' present drill of deftly selecting 'peer' companies to compare with their clients will only perpetuate present excesses." ([[berkshire-2006-letter]])
+
 ## Post-bubble governance reforms
 
 Two specific changes enacted at Berkshire after the Enron/WorldCom era, both of which Buffett says he should have put in place years earlier:
@@ -103,6 +118,7 @@ Beyond the board, the most powerful enforcement mechanism is institutional owner
 - [[berkshire-2002-letter]] — canonical governance essay: the 62-year mutual-fund case study; "independence" critique; compensation ratchet; FASB/Andersen/Senate options history; audit committee's four questions; Berkshire's structural response via ownership alignment
 - [[berkshire-2003-letter]] — "owner-capitalism" coined; mutual-fund scandals (Spitzer era) as empirical vindication; concrete reform proposals; potted-plant directors; board restructuring
 - [[berkshire-2004-letter]] — three questions that truly count; Matthew 6:21 as the correct independence test; Berkshire board standard ($4M+ family ownership, no grants, nominal fees, no D&O insurance); acquisition-blocking directors anecdote; CEO-free board meetings and whistleblower line as post-bubble reforms; stock-option expensing fight update (312-111 House vote, Senate Shelby resistance)
+- [[berkshire-2006-letter]] — four board criteria articulated (owner-oriented, business-savvy, interested, truly independent); fee-dependent directors critique ($150-250K fees as the independence disqualifier); "Ratchet, Ratchet and Bingo" on compensation consultants; institutional shareholders as the only credible reform mechanism
 
 ## Related
 

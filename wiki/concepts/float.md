@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-24
 updated: 2026-06-13
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter]
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter]
 tags: [insurance, capital-allocation, berkshire]
 related: [[national-indemnity]], [[berkshire-hathaway]], [[geico]], [[super-cat-insurance]], [[ajit-jain]], [[underwriting-discipline]], [[general-re]]
 ---
@@ -32,6 +32,7 @@ It is the engine that converts a well-run insurance underwriter into a long-dura
 - [[berkshire-2002-letter]] — back to 1% cost after Gen Re discipline restored; float $41.2B; retroactive-insurance deferred-charges mechanism fully explicated; three disciplines restated
 - [[berkshire-2003-letter]] — $44.2B float with $1.7B underwriting profit; "in 18 of the 37 years Berkshire has been in the insurance business, we have operated at an underwriting profit"; "Float is wonderful—if it doesn't come at a high price"
 - [[berkshire-2004-letter]] — $46.1B float with $1.551B underwriting profit across all four segments (Gen Re $23.1B, B-H Reinsurance $15.3B, GEICO $6.0B, Other Primary $1.7B); "In 2004 we were paid more than $1.5 billion to hold an average of about $45.2 billion"; float has grown from $20M at the 1967 NICO purchase to $46.1B
+- [[berkshire-2006-letter]] — $50.9B float plus $7B Equitas deal; $3.838B underwriting profit (best year ever); DCRA mechanics fully explicated; retroactive reinsurance hurdle now $450M/year; 40-year arc from $17M to $50.9B
 
 ## What pressures the cost of float
 
@@ -136,12 +137,32 @@ Three consecutive years of positive cost of float broke the long negative-cost r
 | 2002 | $41,224M | 1.0% | Discipline restored; $1.31B catch-up still a 2002 drag |
 | 2003 | $44,220M | <0% | $1.7B underwriting profit across all segments |
 | 2004 | $46,094M | <0% | $1.551B underwriting profit; all four segments positive |
+| 2006 | $50,887M | <0% | $3.838B underwriting profit — best year in Berkshire's 40-year insurance history |
 
 The 1999 positive-cost note: $400M of the underwriting loss was "welcomed"—it came from policies that would deliver long-duration float with capped losses (retroactive reinsurance). The remaining losses were "decidedly unwelcome" and reflected General Re's failure to price adequately. Ajit Jain's "other reinsurance" segment had by 1999 accumulated $6.3B of float "from scratch since 1986 with cumulative underwriting profit"—the contrast to General Re was direct. ([[berkshire-1999-letter]])
 
 By 2003, the repair was complete: $44.2B of float, $1.7B of underwriting profit, and the acknowledgment that "in 18 of the 37 years Berkshire has been in the insurance business, we have operated at an underwriting profit, meaning we were actually paid for holding money. And the quantity of this cheap money has grown far beyond what I dreamed it could when we entered the business in 1967." ([[berkshire-2003-letter]])
 
 The discipline that made this possible is analyzed in detail at [[underwriting-discipline]]. Float from undisciplined underwriting is not cheap leverage—it is a liability with an unpredictable and potentially ruinous interest rate.
+
+## Float at scale: the Equitas deal and retroactive mechanics (2006)
+
+By yearend 2006, float reached $50.9 billion — and would grow by another $7 billion via a retroactive reinsurance contract with Equitas (the entity created in 1996 to absorb all Lloyd's pre-1993 liabilities, primarily asbestos, environmental, and product claims). Berkshire received $7.12 billion in cash and securities from Equitas; in exchange, Berkshire agreed to pay all future Equitas claims and expenses up to $13.9 billion — $5.7 billion above what Equitas estimated its liabilities to be. ([[berkshire-2006-letter]])
+
+The Equitas deal illustrates a structural feature of retroactive reinsurance at its most extreme: Berkshire is essentially acquiring a large, long-duration, capped-liability float pool. The $7.12B of float may not be fully paid out for 50 years. If investment income on that float exceeds the claims experience, the transaction generates net value. If not, Berkshire still has the financial strength to absorb it.
+
+**The DCRA accounting mechanics, explained.** Retroactive reinsurance produces a recurring accounting "loss" that is economically intentional and distinct from pricing failure. The mechanics:
+
+1. At inception, Berkshire books the cash received (debit: Cash) against the assumed loss reserves (credit: Reserve for Losses). An asset — "Deferred Charges for Reinsurance Assumed" (DCRA) — absorbs the difference between the premium received and the expected loss reserve.
+2. No profit or loss is recognized at inception.
+3. Each year thereafter, the DCRA asset is amortized downward into underwriting losses. The amortization rate depends on how revised estimates of future claim payments compare to prior-year estimates.
+4. When the last claim is paid (50 years or more away), DCRA reaches zero.
+
+The economic test: if annual investment income on the float exceeds the annual DCRA amortization charge, the transaction is value-creating. Pre-Equitas, this charge ran ~$300M/year. Post-Equitas, it rises to ~$450M/year — setting the hurdle that other insurance segments must clear to keep total float cost-free.
+
+The 2006 year itself was exceptional: total underwriting profit across all segments was $3.838B ($526M General Re, $1,658M B-H Reinsurance, $1,314M GEICO, $340M Other Primary). This is the best single-year result in Berkshire's 40-year insurance history and represents Berkshire being paid $3.8B to hold an average float base of ~$50B — effectively a −7.5% cost of float.
+
+The origin of the float business: when Berkshire acquired [[national-indemnity]] in March 1967 for $8.6M, float was $17M. By yearend 2006 it stood at $50.9B. That compounding — from $17M to $50.9B over 40 years — is the quantitative expression of what the float engine, deployed well, can accomplish.
 
 ## Related
 
