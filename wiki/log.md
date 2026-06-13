@@ -347,3 +347,12 @@ Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages 
 - Created concepts (stubs): `institutional-imperative`, `look-through-earnings`
 - Rebuilt `index.md` with all new entries
 - Open threads: GEICO is established as a major 1977 position but the page is thin on the company's history pre-Berkshire — flesh out as later letters cover the rescue arc. `institutional-imperative` and `look-through-earnings` are stubs flagged for expansion when their formal articulations appear in subsequent letters. Homestate insurers (Cornhusker, Lakeland, Texas United, Iowa, Kansas Fire) noted in the source page but not yet separately paged — defer until they recur or grow material.
+
+## [2026-06-13] refactor | charlie-munger
+
+- Updated `people/charlie-munger.md` — expanded from 1980–1984 coverage to 1980–2003
+- Added sources: berkshire-1986 through berkshire-2003 (19 total, up from 5)
+- New sections added: "The intellectual shift: cigar-butts to wonderful businesses" (1989), "Two jobs framework" (1986), "Mental models attributed to Munger" (inversion, bad-news dictum, lumpy returns), "Judgment as check on Buffett" (2003 Gen Re confession), "Operator trust" (K&W/Harry Bottle 1987), "Capital allocation philosophy" (1998), "Derivatives" (2002)
+- Added 7 notable quotes (was 2)
+- Key editorial decision: the Gen Re 2003 confession ("Charlie would have moved swiftly… I, however, dithered") is the most significant Munger reference in the 1996–2003 period — Buffett's only explicit acknowledgment that Munger had the better call on a specific material decision
+- Added wikilinks to [[inversion]] and [[cigar-butts-vs-wonderful-businesses]] (both may be stubs or missing — flag for future creation)
