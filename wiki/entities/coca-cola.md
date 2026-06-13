@@ -3,9 +3,9 @@ type: entity
 status: draft
 created: 2026-05-25
 updated: 2026-05-25
-sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter]
+sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [consumer-brand, global-franchise, marketable-equities, permanent-holding]
-related: [[berkshire-hathaway]], [[roberto-goizueta]], [[franchise-vs-business]], [[moat]], [[economic-goodwill]], [[concentration-vs-diversification]]
+related: [[berkshire-hathaway]], [[roberto-goizueta]], [[franchise-vs-business]], [[moat]], [[economic-goodwill]], [[concentration-vs-diversification]], [[look-through-earnings]]
 ---
 
 # Coca-Cola

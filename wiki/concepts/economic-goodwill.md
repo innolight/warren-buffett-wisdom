@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
-sources: [berkshire-1983-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1994-letter]
+updated: 2026-06-13
+sources: [berkshire-1983-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1994-letter, berkshire-1999-letter, berkshire-2000-letter]
 tags: [valuation, goodwill, moat, business-quality]
-related: [[intrinsic-value-vs-book-value]], [[moat]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]], [[owner-earnings]], [[franchise-vs-business]], [[scott-fetzer]]
+related: [[intrinsic-value-vs-book-value]], [[moat]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]], [[owner-earnings]], [[franchise-vs-business]], [[scott-fetzer]], [[geico]]
 ---
 
 # Economic Goodwill
@@ -15,6 +15,8 @@ related: [[intrinsic-value-vs-book-value]], [[moat]], [[sees-candies]], [[buffal
 **Accounting Goodwill** is the balance-sheet plug created when one company acquires another for more than the fair value of its tangible assets — and it is then amortized away as an expense over time.
 
 **Economic Goodwill** is something different: the durable competitive advantage of a business that enables it to earn above-normal returns on tangible capital employed, year after year, often without much incremental capital investment. It is not on any balance sheet (and may diverge from accounting Goodwill by orders of magnitude). It compounds quietly via inflation: a business that can re-price its product without re-investing in new capital captures inflationary nominal growth at high return on tangible capital.
+
+The two concepts diverge in both directions. Accounting goodwill can be recorded and then amortized to zero while the underlying economic goodwill grows — [[sees-candies]]'s 78-year record of growing earning power is the canonical illustration; its accounting goodwill has been largely amortized while its franchise has strengthened. Conversely, a business can carry accounting goodwill on the balance sheet while the economic goodwill proves illusory — if the competitive position is not durable, the balance-sheet entry merely delays the reckoning. The 1999 letter crystallizes the asymmetry: "In contrast, economic goodwill does not, in many cases, diminish. Indeed, in a great many instances — perhaps most — it actually grows in value over time. In character, economic goodwill is much like land: The value of both assets is sure to fluctuate, but the direction in which value is going to go is in no way ordained." ([[berkshire-1999-letter]])
 
 ## Why it matters
 
@@ -59,6 +61,18 @@ In an inflationary environment, a business with high return on tangible capital 
 
 The result: enduring economic Goodwill is the principal *defense against inflation* for an equity portfolio — and the principal *offense*, since the high-Goodwill business can compound at high real rates while peers struggle to stand still.
 
+## Genuine vs. illusory economic goodwill: three cases
+
+The deepest test of whether economic goodwill is real is whether it persists under competitive attack. Three cases from the 1993–2003 period illustrate the range:
+
+**[[geico]] — the widening franchise.** Berkshire paid $2.3 billion for the 49% of GEICO it did not already own in 1995, an enormous premium to book value that reflects the scale of GEICO's economic goodwill. An auto insurer's tangible assets (invested float, office infrastructure) are barely distinguishable from any competitor's; the entire advantage is the structural cost advantage from direct-to-consumer distribution. Under Tony Nicely, that goodwill actively widened through a virtuous circle: lower costs → lower prices → more policyholders → higher referral volume (more than one million referrals per year by 1996, comprising more than half of new business) → still-lower unit acquisition costs → lower prices. Economic goodwill is not a static endowment; management can compound it or erode it.
+
+**FlightSafety International — capital intensity as economic goodwill.** FlightSafety's 175 flight simulators (each costing up to $19 million) and 41 training locations are tangible assets, not economic goodwill in themselves. The economic goodwill is the near-impossibility of simultaneously replicating the installed training infrastructure, certified instructor corps, regulatory approvals, and established airline and corporate client relationships. A competitor could purchase the hardware; it cannot quickly purchase the franchise. High capital requirements are normally a drain on returns — here they also constitute a barrier. Economic goodwill exists in a capital-intensive business when the combination of assets and relationships required to mount credible competition is prohibitively large.
+
+**Dexter Shoe — illusory goodwill.** Berkshire acquired Dexter Shoe in 1993 for what appeared to be a business with durable economic goodwill: stable earnings, brand loyalty, a quality-manufacturing reputation. The competitive position proved to have no structural protection against foreign low-cost competition. By 1999, 93% of U.S. shoe consumption was imported; by 2000, Buffett wrote off all remaining accounting goodwill from Dexter. The "goodwill" was social and habitual — customer preference without switching costs, brand familiarity without identity attachment. When the price gap between domestic and imported shoes widened sufficiently, the habit shifted. The lesson: not all apparent competitive advantage constitutes economic goodwill. The relevant test is whether the advantage survives a sustained low-price attack from a structurally lower-cost competitor. Dexter's did not. Social habits are not a moat; structural barriers are.
+
+The Dexter case is especially instructive because at acquisition the business looked sound by standard measures. The failure did not emerge from management error but from a secular structural shift in the industry — a form of risk that balance-sheet analysis and near-term earnings trends cannot reveal. Economic goodwill is real only when its source is a barrier that cannot be dissolved by price competition or technological change.
+
 ## How it's discussed in sources
 
 - [[berkshire-1983-letter]] — debut; the Appendix ("Goodwill and its Amortization: The Rules and The Realities"); the explicit acknowledgment of evolving past Graham's tangible-asset preference
@@ -66,6 +80,8 @@ The result: enduring economic Goodwill is the principal *defense against inflati
 - [[berkshire-1985-letter]] — the three-business arithmetic ($8M → $72M on $40M of additional capital vs. ~$300M required at corporate-average ratios); the rocking-chair savings-account corollary
 - [[berkshire-1986-letter]] — Scott Fetzer purchase-accounting Appendix uses economic-vs-accounting Goodwill distinction operationally
 - [[berkshire-1994-letter]] — Scott Fetzer eight-year case study: book value declines while underlying earning power doubles — the economic-Goodwill compounding in real time
+- [[berkshire-1999-letter]] — acquisition-accounting essay: "economic goodwill is much like land … in a great many instances it actually grows in value over time"; See's 78-year case; critique of mandatory goodwill amortization as a fiction in great businesses; Dexter Shoe's deterioration attributed to structural industry economics
+- [[berkshire-2000-letter]] — Dexter Shoe accounting goodwill written off entirely; "I clearly made a mistake in paying what I did for Dexter in 1993"; canonical case of illusory goodwill: competitive position collapsed under foreign competition, with no structural barrier to defend it
 
 ## Related
 

@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter]
+updated: 2026-06-13
+sources: [berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter]
 tags: [airlines, convertible-preferred, mistake, commodity-business]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[commodity-business-economics]], [[salomon]], [[gillette]]
 ---
@@ -49,6 +49,8 @@ The structural protections (mandatory redemption, fixed dividend, conversion opt
 | 1993 | (not detailed) | $89.5M (25% of par) | Massive writedown |
 | 1994 | $358M (gross) | $89.5M | Dividend suspended September 1994; writedown of $269M sent through income statement as "other than temporary" decline |
 | 1995 | $358M (gross) | $215M (Buffett/Munger fair-value est.) | Some recovery; junior preferred trading at 82-97% of par; the 5%-over-prime compounding on unpaid dividends helping |
+| 1996 | $358M (gross) | ~par | Stephen Wolf turnaround; $47.9M of penalty-rate arrearages paid (prime + 5% compounding = 13.25–14%); Buffett tried to sell at 50% of par in 1995 and ~$335M in early 1996; "I again failed in my attempt to snatch defeat from the jaws of victory" |
+| 1997–1998 | Redeemed at par | Above par | Preferred called for redemption March 15, 1998; $240.5M cumulative dividends received; common ran from $4 to $73; conversion rights "now valuable"; Buffett: "the gain could even prove indecent" |
 
 By 1994 Buffett and Munger had resigned from the USAir board.
 
@@ -60,6 +62,16 @@ Several Buffett rules emerge from the USAir reflection, each restated in differe
 - "In a business selling a commodity-type product, it's impossible to be a lot smarter than your dumbest competitor." ([[berkshire-1990-letter]])
 - The "kamikaze pricing tactics of certain carriers" and the "competitive tontine" of an industry intent on collective destruction — observations about airlines specifically that generalize to other commodity industries with high fixed costs.
 - "Bankruptcy court for airlines has become a health spa" (quoting Southwest's Herb Kelleher in the 1994 letter) — bankrupt carriers' ability to under-price reorganized cost bases drags solvent competitors to the floor.
+
+## Resolution (1996–1998)
+
+The write-down to 25% of par in 1993–1994 and Buffett's post-mortem across those years (documented above) were accurate at the time. The story continued, however — and its conclusion was unexpected.
+
+In [[berkshire-1996-letter]], Stephen Wolf's turnaround of US Airways triggered payment of $47.9M in penalty-rate arrearages. The 1989 preferred contract had included an unusual provision: a prime + 5% penalty dividend on suspended dividends, so unpaid dividends compounded at 13.25–14% during the dark years — a structural feature Buffett noted he had "gotten right" in an otherwise sloppy investment. Buffett had tried to sell the position twice during the trough: in 1995 at 50% of face, and in early 1996 at approximately $335M (of $358M par). Both attempts failed, and the preferred subsequently rallied back toward par. Buffett's description: "I again failed in my attempt to snatch defeat from the jaws of victory."
+
+By [[berkshire-1997-letter]], the resolution was complete. The preferred was called for redemption on March 15, 1998. Cumulative dividends received totaled $240.5M. The common stock had surged from a $4 low to a $73 high, and the conversion rights — once thought nearly worthless — had become valuable. Buffett: "the gain could even prove indecent." On his own record in the investment: "Those who have watched my moves in this investment know that I have compiled a record that is unblemished by success." Stephen Wolf received the credit: "Next time I make a big, dumb decision, Berkshire shareholders will know what to do: *Phone Mr. Wolf*."
+
+The durable lessons are not overwritten by this resolution. The analysis of commodity-business economics, the critique of high-fixed-cost regulated industries after deregulation, and the self-description as an "unforced error" remain fully valid. The final result was fortunate — a structural penalty-rate feature from the preferred contract and a skilled turnaround CEO together rescued a position that Buffett's own analysis had written off. The airline industry remains, in Buffett's framework, a business to avoid.
 
 ## The macro point
 
@@ -78,6 +90,8 @@ USAir is the case study Buffett returns to whenever he wants to make a point abo
 - [[berkshire-1993-letter]] — implicit in the convertible-preferred discussion; Seth Schofield as CEO working on cost reductions
 - [[berkshire-1994-letter]] — canonical post-mortem; "unforced error"; commodity-business essay; $269M writedown; the "you don't have to make it back the way you lost it" line; Buffett/Munger resign from board
 - [[berkshire-1995-letter]] — partial recovery; dividends unpaid but compounding at 5% over prime; junior preferred trading at 82-97% of par
+- [[berkshire-1996-letter]] — Wolf turnaround; $47.9M arrearages paid; two failed sale attempts; "snatch defeat from the jaws of victory"; $240.5M cumulative dividends collected to date (per 1996 letter, including $30M received in early 1997)
+- [[berkshire-1997-letter]] — preferred called for redemption March 1998; conversion rights valuable; "gain could even prove indecent"; "Phone Mr. Wolf"
 
 ## Related
 

@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
-sources: [berkshire-1983-letter, berkshire-1989-letter, berkshire-1991-letter, berkshire-1994-letter]
+updated: 2026-06-13
+sources: [berkshire-1983-letter, berkshire-1989-letter, berkshire-1991-letter, berkshire-1994-letter, berkshire-1999-letter, berkshire-2001-letter, berkshire-2003-letter]
 tags: [psychology, decision-making, behavioral, opportunity-cost]
-related: [[capital-allocation]], [[concentration-vs-diversification]], [[cigar-butts-vs-wonderful-businesses]]
+related: [[capital-allocation]], [[concentration-vs-diversification]], [[cigar-butts-vs-wonderful-businesses]], [[circle-of-competence]], [[noah-rule]]
 ---
 
 # Mistakes of Omission
@@ -48,6 +48,34 @@ The original 1978–80 exit at $4.30, then the 1993 sale at $63 — both of Cap 
 
 A parallel instance: in 1966, Buffett Partnership Ltd. bought Disney at a split-adjusted $0.31 per share — "selling at only five times rides." In 1967 he sold at $0.48. By 1995 the stock was $66. The pattern across all three — Cap Cities 1978–80, Disney 1967, Cap Cities 1993 — is a recurring bias toward premature exit of winning positions.
 
+## The circle-of-competence exception
+
+Not every missed gain is a mistake of omission. Buffett drew this line explicitly in the [[berkshire-1999-letter]], the year Berkshire's relative performance was worst during the dot-com mania:
+
+> This explains, by the way, why we don't own stocks of tech companies, even though we share the general view that our society will be transformed by their products and services. Our problem — which we can't solve by studying up — is that we have no insights into which participants in the tech field possess a truly durable competitive advantage.
+
+The discipline is firm: "I don't understand" is not a mistake of omission. It is the correct application of the circle-of-competence principle. A mistake of omission requires that the opportunity was within the investor's understanding — that they could have assessed it and chosen not to act, or underacted. Passing on what is outside one's competence is not an error; it is sound judgment.
+
+The distinction matters because during the dot-com bubble, Berkshire's non-participation looked, in the short run, like a massive omission. Buffett declined to frame it that way: "If others claim predictive skill in those industries … we neither envy nor emulate them. Instead, we just stick with what we understand." The inability to evaluate a business is not the same as the failure to act on one you could have evaluated.
+
+## Recognized inaction: the Noah Rule variant
+
+A related but distinct failure mode appeared in the [[berkshire-2001-letter]] and [[berkshire-2003-letter]]: mistakes not of missed opportunity but of failing to act on a recognized problem. Buffett had acknowledged, before September 11th, that General Re carried terrorism exposure for which no premium was being charged. He did not act. The result was a loss of roughly $2 to $2.5 billion from the attacks (Buffett's own framing: "perfectly willing to lose $2 billion to $2½ billion in a single event (as we did on September 11th)"). ([[berkshire-2001-letter]]) He named this "the Noah rule": predicting rain doesn't count; building arks does. See [[noah-rule]].
+
+The Gen Re Securities derivatives book is the sharper case. From the [[berkshire-2003-letter]]:
+
+> Charlie and I knew at the time of the General Reinsurance merger that its derivatives business was unattractive. … Charlie would have moved swiftly to close down Gen Re Securities — no question about that. I, however, dithered. As a consequence, our shareholders are paying a far higher price than was necessary to exit this business.
+
+The dithering cost approximately $272M in a benign wind-down. This is neither a failure to see an opportunity (classic omission) nor a failure to understand a business (circle-of-competence exception). It is a third category: understanding a problem fully, choosing not to act, and paying the price later. The recognition that Munger would have moved swiftly is the tell — the analysis was complete; only the will to act was missing.
+
+## Not selling at the peak
+
+The [[berkshire-2003-letter]] added a fourth case study in omission that cut in an unusual direction — the failure to sell, not to buy. Reflecting on the major equity positions (Coca-Cola, American Express, Gillette, Washington Post) that were "fully priced" after the bust:
+
+> The unpleasant corollary to this conclusion is that I made a big mistake in not selling several of our larger holdings during The Great Bubble. If these stocks are fully priced now, you may wonder what I was thinking four years ago when their intrinsic value was lower and their prices far higher. So do I.
+
+This is an omission of a different type: the failure to act at the upside extreme, symmetrically to the failures to act at the downside extreme documented in earlier letters. The businesses had not deteriorated; they had simply been bid to prices above intrinsic value by bubble sentiment. A truly active capital allocator would have trimmed. Buffett chose not to, citing taxes, friction, and temperament — acknowledging the cost honestly rather than rationalizing the inaction.
+
 ## How it's discussed in sources
 
 - [[berkshire-1983-letter]] — the original Buffett-evolution context: tangible-asset bias caused "many important business mistakes of omission, although relatively few of commission"; connects to [[economic-goodwill]]
@@ -55,6 +83,9 @@ A parallel instance: in 1966, Buffett Partnership Ltd. bought Disney at a split-
 - [[berkshire-1991-letter]] — the Fannie Mae case study; $1.4B cost calculated; the explicit contrast with the Coca-Cola accumulation discipline
 - [[berkshire-1994-letter]] — Cap Cities sale of 10M shares at $63; self-identified as a repeat offense
 - [[berkshire-1995-letter]] — Disney 1967 sale at $0.48; Cap Cities sale restated in Disney-share terms
+- [[berkshire-1999-letter]] — the circle-of-competence exception explicitly drawn; not participating in tech is framed as correct judgment, not omission; "we neither envy nor emulate them"
+- [[berkshire-2001-letter]] — the Noah Rule as a distinct failure category: recognized risk plus no action; General Re's terrorism exposure known but unaddressed before September 11th
+- [[berkshire-2003-letter]] — not selling at the bubble peak named as a real mistake; Gen Re Securities dithering as the operational case study of recognized inaction costing $272M
 
 ## Related
 

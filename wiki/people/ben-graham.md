@@ -2,10 +2,10 @@
 type: person
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1983-letter, berkshire-1984-letter]
+updated: 2026-06-13
+sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1997-letter, berkshire-2000-letter, berkshire-2001-letter]
 tags: [investor, author, teacher, value-investing]
-related: [[warren-buffett]], [[acquisition-criteria]], [[economic-goodwill]]
+related: [[warren-buffett]], [[acquisition-criteria]], [[economic-goodwill]], [[david-dodd]]
 ---
 
 # Ben Graham
@@ -30,14 +30,29 @@ Buffett's appraisal of why the escape was hard: "most of what I had been taught 
 
 See [[economic-goodwill]] for the substantive content of the shift.
 
+## The 50th-anniversary tribute and later reflections
+
+In the 2000 letter (dated February 28, 2001), Buffett marked exactly 50 years since entering Graham's class at Columbia. He described his investment performance in the decade before as "no better than average" and credited the transformation entirely to Graham's ideas:
+
+> Beginning in 1951 my performance improved. No, I hadn't changed my diet or taken up exercise. The only new ingredient was Ben's ideas. Quite simply, a few hours spent at the feet of the master proved far more valuable to me than had ten years of supposedly original thinking. ([[berkshire-2000-letter]])
+
+The 1997 letter crystallized Graham's central gift as a single phrase: the margin of safety is "the cornerstone of intelligent investing" — the concept that separates disciplined valuation from speculation ([[berkshire-1997-letter]]).
+
+In the 2001 letter, Buffett returned to the frontispiece of *Security Analysis*, where Graham and [[david-dodd]] quoted Horace: "Many shall be restored that now are fallen and many shall fall that are now in honor." His reflection: "Fifty-two years after I first read those lines, my appreciation for what they say about business and investments continues to grow" ([[berkshire-2001-letter]]).
+
 ## Direct citations
 
 > Investment is most intelligent when it is most businesslike. — Graham, *The Intelligent Investor*, final chapter; quoted in [[berkshire-1984-letter]] alongside Buffett's appraisal that *The Intelligent Investor* is "by far the best book on investing ever written."
+
+> Many shall be restored that now are fallen and many shall fall that are now in honor. — Horace, quoted by Graham and Dodd in the frontispiece to *Security Analysis*; cited in [[berkshire-2001-letter]] with Buffett's note that his appreciation for what the lines say "about business and investments continues to grow."
 
 ## Sources discussing this person
 
 - [[berkshire-1983-letter]] — Buffett's explicit account of evolving past Graham's tangible-asset bias
 - [[berkshire-1984-letter]] — Graham's "businesslike" principle invoked to ground the WPPSS / bonds-as-a-business framework
+- [[berkshire-1997-letter]] — margin of safety identified as "the cornerstone of intelligent investing"
+- [[berkshire-2000-letter]] — 50th-anniversary tribute; "a few hours spent at the feet of the master proved far more valuable to me than had ten years of supposedly original thinking"
+- [[berkshire-2001-letter]] — the Horace frontispiece of *Security Analysis*: "Fifty-two years after I first read those lines, my appreciation continues to grow"
 
 ## Related
 

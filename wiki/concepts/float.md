@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-24
-updated: 2026-05-26
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter]
+updated: 2026-06-13
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [insurance, capital-allocation, berkshire]
-related: [[national-indemnity]], [[berkshire-hathaway]], [[geico]], [[super-cat-insurance]], [[ajit-jain]]
+related: [[national-indemnity]], [[berkshire-hathaway]], [[geico]], [[super-cat-insurance]], [[ajit-jain]], [[underwriting-discipline]], [[general-re]]
 ---
 
 # Float
@@ -25,6 +25,12 @@ It is the engine that converts a well-run insurance underwriter into a long-dura
 - [[berkshire-1977-letter]] — the empirics are spelled out without the label. Insurance investments at cost grew from $134.6M (yearend 1975) to $252.8M (yearend 1977) — driven by "growth in insurance reserves, produced by our large gain in premium volume, plus retained earnings." Pre-tax net investment income climbed $8.4M → $12.3M over the same window. Reinsurance is called out as generating "unusually high funds for investment as a percentage of premium volume."
 - [[berkshire-1978-letter]] — float continues to compound. Insurance equity investments at cost $129.1M / market $216.5M at yearend 1978. Over three years (1975–1978), Berkshire realized and unrealized pre-tax equity gains totaled ~$112M — largely float-funded. The period is described as "a marvelous period for the value-oriented equity buyer."
 - [[berkshire-1979-letter]] — insurance equity portfolio grows to $185.4M cost / $336.7M market. Buffett notes that "retained earnings applicable to our insurance equity investments, not reported in our financial statements, continue to mount annually and, in aggregate, now come to a very substantial number." Float-funded retained earnings in investee companies are now a second layer of compounding beyond the float itself.
+- [[berkshire-1998-letter]] — three-determinants essay (amount, cost, long-term outlook); float-outranks-net-worth claim; 32-year compound to $22.8B at 25.4% annual growth; average cost well under zero for 32-year average; General Re acquisition is primary driver of the jump from $7.1B to $22.8B
+- [[berkshire-1999-letter]] — first year of materially positive cost (5.8%); expanded segment table; "growth of float is important—but its cost is what's vital"; $400M of the loss "welcomed" because it funded long-duration float
+- [[berkshire-2000-letter]] — retroactive reinsurance as legitimate structural exception to break-even underwriting; cost rises to 6%; float $27.9B; "a caution: insurers have enormous latitude in figuring their underwriting results"
+- [[berkshire-2001-letter]] — 12.8% cost (worst since 1984) driven by 9/11 losses and Gen Re $800M reserve catch-up; segment table extended; GEICO's underwriting profit partially offsets reinsurance segment losses
+- [[berkshire-2002-letter]] — back to 1% cost after Gen Re discipline restored; float $41.2B; retroactive-insurance deferred-charges mechanism fully explicated; three disciplines restated
+- [[berkshire-2003-letter]] — $44.2B float with $1.7B underwriting profit; "in 18 of the 37 years Berkshire has been in the insurance business, we have operated at an underwriting profit"; "Float is wonderful—if it doesn't come at a high price"
 
 ## What pressures the cost of float
 
@@ -94,6 +100,47 @@ Berkshire's float grows from $0.8B (1986) to $3.6B (1995). The principal driver 
 
 See [[super-cat-insurance]].
 
+## The Gen Re acquisition and float at scale (1998)
+
+The 1998 acquisition of General Reinsurance for $22 billion was the most significant single event in Berkshire's float history. Float jumped from $7.4B (yearend 1997) to $22.8B (yearend 1998)—a leap driven almost entirely by the addition of General Re and Cologne Re. Float had compounded at 25.4% annually from 1967 to 1998, from $17M to $22.8B. Average cost over those 32 years: well under zero.
+
+The strategic framing: General Re brought distribution force, technical facilities, and an international footprint that Berkshire's balance sheet could amplify. The enlarged float base was explicitly cited as a key rationale. Buffett restated the canonical three-determinants in [[berkshire-1998-letter]]: "The key determinants are: (1) the amount of float that the business generates; (2) its cost; and (3) most important of all, the long-term outlook for both of these factors." And extended the float-as-equity argument: "Indeed, though our net float is recorded on our balance sheet as a liability, it has had more economic value to us than an equal amount of net worth would have had. As long as we can continue to achieve an underwriting profit, float will continue to outrank net worth in value."
+
+The catch: the assumption that General Re's discipline would carry forward proved wrong. The 1999-2002 letters document the cost.
+
+## Float as debt analogue: the cost-of-capital framing (1998-2002)
+
+Through the 1998-2003 letters, Buffett develops a more precise framing of float's economics: it behaves like debt with a floating interest rate—the rate being the annual underwriting result expressed as a percentage of float. In years of underwriting profit, the "rate" is negative (the insurer is paid to hold the money). In years of underwriting loss, the rate is positive and can be compared directly against what the insurer could earn investing the float.
+
+This reframing has two critical implications. First, the tolerable cost of float is not fixed: it depends on prevailing interest rates. When short-term funds yielded 5-6%, a 2-3% cost of float was acceptable. When short-term funds yielded under 2% (as they did post-2001), even a 1% cost of float was problematic. Buffett made this explicit in [[berkshire-2001-letter]]: "with short-term funds yielding under 2% and fat returns nowhere to be found, every insurance operation save retroactive reinsurance must now produce an underwriting profit to be a good business."
+
+Second, the comparison anchors the "lemon" test. [[berkshire-2002-letter]] restated it sharply: declining interest rates had transformed "tolerable" underwriting losses into burdens that moved insurance "deeply into the lemon category."
+
+## Retroactive reinsurance: a structural exception (2000-2002)
+
+The 2000-2002 letters introduce a structural wrinkle that makes the cost-of-float calculation more complex: retroactive reinsurance. In these policies (principally written by [[ajit-jain]]), Berkshire assumes from a primary insurer the obligation to pay capped losses on incidents that have already occurred. Berkshire receives a large upfront premium that is less than expected losses; the difference is booked as an asset ("deferred charges — reinsurance assumed") and amortized into income as an ongoing "loss" over the policy's life.
+
+The accounting result: the underwriting line reads worse than the economics. As of yearend 2002, $3.4B sat on Berkshire's balance sheet as this asset, generating $440M of annual amortization—an intentional "underwriting loss" that had no relationship to pricing discipline or claims experience. The mechanism is explained in [[berkshire-2002-letter]] as explicitly distinct from the General Re reserving mistakes: one is economically rational (pay a premium today, collect float for decades) while the other was a genuine pricing and reserving failure.
+
+## When float becomes expensive: 1999-2001
+
+Three consecutive years of positive cost of float broke the long negative-cost run:
+
+| Year | Float | Cost of float | Note |
+| ---: | ---: | ---: | --- |
+| 1998 | $22,754M | <0% | Full year; cost still favorable |
+| 1999 | $25,298M | 5.8% | First materially positive year; Gen Re mispricing |
+| 2000 | $27,871M | 6.0% | Continued mispricing + retroactive amortization drag |
+| 2001 | $35,508M | 12.8% | 9/11 losses + Gen Re $800M reserve catch-up |
+| 2002 | $41,224M | 1.0% | Discipline restored; $1.31B catch-up still a 2002 drag |
+| 2003 | $44,220M | <0% | $1.7B underwriting profit across all segments |
+
+The 1999 positive-cost note: $400M of the underwriting loss was "welcomed"—it came from policies that would deliver long-duration float with capped losses (retroactive reinsurance). The remaining losses were "decidedly unwelcome" and reflected General Re's failure to price adequately. Ajit Jain's "other reinsurance" segment had by 1999 accumulated $6.3B of float "from scratch since 1986 with cumulative underwriting profit"—the contrast to General Re was direct. ([[berkshire-1999-letter]])
+
+By 2003, the repair was complete: $44.2B of float, $1.7B of underwriting profit, and the acknowledgment that "in 18 of the 37 years Berkshire has been in the insurance business, we have operated at an underwriting profit, meaning we were actually paid for holding money. And the quantity of this cheap money has grown far beyond what I dreamed it could when we entered the business in 1967." ([[berkshire-2003-letter]])
+
+The discipline that made this possible is analyzed in detail at [[underwriting-discipline]]. Float from undisciplined underwriting is not cheap leverage—it is a liability with an unpredictable and potentially ruinous interest rate.
+
 ## Related
 
 - [[tailwinds-vs-headwinds]] — insurance, done well, is the canonical tailwind business
@@ -102,3 +149,5 @@ See [[super-cat-insurance]].
 - [[geico]] — the canonical low-cost-operator counter-example whose disciplined float exploits these structural fragilities
 - [[super-cat-insurance]] — the franchise built post-1989 that becomes the principal driver of float growth
 - [[ajit-jain]] — the underwriter whose judgment makes the super-cat franchise possible
+- [[underwriting-discipline]] — the determinant of float quality; float from undisciplined underwriting is a liability
+- [[general-re]] — the 1998-2002 case study in how float can turn expensive when discipline fails

@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
-sources: [berkshire-1987-letter, berkshire-1990-letter, berkshire-1993-letter, berkshire-1994-letter]
+updated: 2026-06-13
+sources: [berkshire-1987-letter, berkshire-1990-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [psychology, market-behavior, valuation]
 related: [[mr-market]], [[risk-vs-volatility]], [[margin-of-safety]]
 ---
@@ -68,12 +68,28 @@ A consequence Berkshire has actively engineered: structural commitments designed
 
 The 1988 letter on the goal: "Our goal is to attract long-term owners who, at the time of purchase, have no timetable or price target for sale but plan instead to stay with us indefinitely." A high-quality shareholder base is itself a defense against volatility-induced damage and an enabler of the patience needed to take advantage of others' panics.
 
+## The dot-com era: holding firm against FOMO and vindication through the bust
+
+The 1999–2003 cycle was the most demanding test of the principle since the early 1970s — and it ran in both directions. First came the upside pressure: the [[berkshire-1999-letter]] records Berkshire's worst relative performance in Buffett's tenure (lagging the S&P by 20 percentage points) while holding tech-free and watching its core investees — Coca-Cola, Gillette, American Express — underperform a market intoxicated with speculative stocks. The volatility-as-opportunity principle was being tested not just by fear but by envy. Berkshire's position: its core businesses had not deteriorated; their stock prices had simply been bid down relative to a mania. The rational response was to hold, not to chase.
+
+The [[berkshire-2000-letter]] articulated the Aesop bird-in-hand restatement: the dot-com bubble was not an opportunity Berkshire missed — it was a mechanism for redistributing wealth from late participants to early promoters, not for creating value. "Value is destroyed, not created, by any business that loses money over its lifetime, no matter how high its interim valuation may get." The investor who understood this experienced the bubble not as missed opportunity but as confirmation that Mr. Market's enthusiasm was creating no real wealth to be claimed. The bubble deflated; Berkshire's core businesses continued compounding.
+
+The bust then provided the classic volatility-as-opportunity setup. The [[berkshire-2002-letter]] documents Berkshire's junk-bond foray: $8.3 billion deployed into deeply discounted debt of businesses with serviceable economics, priced down by indiscriminate credit-market fear. The opportunity existed because the same manic confidence that bid dot-com stocks to the stratosphere had also bid junk yields to absurdly tight spreads — and the violent reversal compressed them too far in the other direction. By 2003, the [[berkshire-2003-letter]] records the round-trip: "Yesterday's weeds are today being priced as flowers." The patient investor who deployed into the 2002 panic harvested the recovery.
+
+The dot-com era also produced Buffett's first significant macro position: a $12 billion notional foreign-currency bet against the U.S. dollar beginning in 2002–2003. The thesis: a persistent U.S. trade deficit was "force-feeding huge amounts of claims on, and ownership in, America to the rest of the world." The position was a direct application of the volatility-as-opportunity principle applied to macro: a dislocation produced by policy rather than panic, exploitable by the investor willing to act when the crowd was looking the other way.
+
+The enduring lesson from the cycle: the principle works in both directions. Volatility to the upside (bubbles) creates overpricing that should be avoided or sold; volatility to the downside (busts) creates underpricing that should be bought. The requirement is the same in both cases — an independent estimate of value uncontaminated by market sentiment.
+
 ## How it's discussed in sources
 
 - [[berkshire-1987-letter]] — Mr. Market allegory canonized; portfolio-insurance critique post-October crash; volatility produced by sellers as opportunity for buyers
 - [[berkshire-1990-letter]] — the food-prices analogy; Wells Fargo accumulated at panic prices; "we want to do business in such an environment, not because we like pessimism but because we like the prices it produces"
 - [[berkshire-1993-letter]] — the canonical "true investor welcomes volatility" passage in the risk-vs-beta essay
 - [[berkshire-1994-letter]] — fear-is-friend-of-fundamentalist; the macro-shock list as illustration
+- [[berkshire-1999-letter]] — the upside test: Berkshire trails the S&P badly while refusing to chase tech; the principle inverted — holding steady against FOMO pressure is the other side of holding steady against panic
+- [[berkshire-2000-letter]] — the Aesop valuation formula as the rational complement; the bubble as wealth redistribution, not creation; "value is destroyed, not created, by any business that loses money over its lifetime"
+- [[berkshire-2002-letter]] — junk-bond deployment at panic prices; the credit-market bust as the classic downside opportunity; "occasionally successful investing requires inactivity" giving way to aggressive deployment when conditions warrant
+- [[berkshire-2003-letter]] — the junk-bond round-trip vindicated; "yesterday's weeds are today being priced as flowers"; foreign-currency macro position as a dislocation-driven contrarian bet
 
 ## Related
 

@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
-sources: [berkshire-1985-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1992-letter, berkshire-1994-letter]
+updated: 2026-06-13
+sources: [berkshire-1985-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1992-letter, berkshire-1994-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter]
 tags: [diversified-manufacturing, direct-sales, world-book, prototype-acquisition, capital-allocation]
 related: [[berkshire-hathaway]], [[ralph-schey]], [[acquisition-criteria]], [[owner-earnings]], [[intrinsic-value-vs-book-value]], [[incentive-compensation]]
 ---
@@ -81,6 +81,14 @@ The structural point: "alignment means being a partner in both directions, not j
 - **Kirby.** Steady unit-volume growth; major international expansion (sales up 33% from 1982 to 1986; international share of unit sales 5% → 20% by 1989). Generation 3 vacuum cleaner launched 1990 — substantial unit gain.
 - **Campbell Hausfeld.** Largest unit of the Manufacturing Group; air compressors. Earnings more than doubled 1986-1988. Record $109M sales in 1990, 30%+ from products introduced in the previous five years.
 
+## Schey's final years and Berkshire Hall of Fame (1996–2000)
+
+By the late 1990s, Scott Fetzer had become a mature, consistently profitable holding within Berkshire — a case study in what happens when a well-managed, capital-light business is owned indefinitely rather than recycled. Pre-tax operating earnings reached **$118.9M in 1997** (see [[berkshire-1997-letter]]). In 1998, Scott Fetzer earned a record **$96.5M after-tax on $112M of net worth**, operating with essentially no financial leverage beyond a conservative finance subsidiary. In the [[berkshire-1998-letter]], Buffett revisited his 1994 tribute — that Schey had been "just warming up" — as a marker for how far the business had compounded under consistent management.
+
+When Schey retired at year-end 2000 after fifteen years under Berkshire ownership, Buffett published the full reckoning in [[berkshire-2000-letter]]: Scott Fetzer had distributed **$1.03 billion to Berkshire** against a **$230 million net purchase price**, with the contribution to Berkshire's present value placed "well into the billions of dollars." Schey was inducted into "Berkshire's Hall of Fame." Scott Fetzer pre-tax earnings continued after his departure: $122M in 2000 and $129M in 2001 (see [[berkshire-2001-letter]]).
+
+The broader holding-period lesson: a mature, unglamorous industrial conglomerate, held indefinitely under the right manager, compounds capital quietly and reliably. The $1.03B cumulative distribution against a $230M investment is the empirical record. Scott Fetzer after 1994 is not a story of growth but of accumulation — sustained high returns on a declining capital base, with surplus cash flowing to Berkshire year after year without any pressure to sell, restructure, or justify the holding to outside constituents. See [[ralph-schey]].
+
 ## Sources discussing this entity
 
 - [[berkshire-1985-letter]] — acquired right after year-end; the cold-letter origin story
@@ -92,6 +100,11 @@ The structural point: "alignment means being a partner in both directions, not j
 - [[berkshire-1992-letter]] — record $110M pre-tax on $116M equity; distributing more than 100% of earnings
 - [[berkshire-1994-letter]] — **canonical case study** of intrinsic-value-vs-book-value divergence; five-minute compensation arrangement reported
 - [[berkshire-1995-letter]] — World Book attacked by CD-ROM/online; "Berkshire's most difficult problem"
+- [[berkshire-1997-letter]] — operating earnings $118.9M
+- [[berkshire-1998-letter]] — record $96.5M after-tax on $112M net worth; Buffett tribute "just warming up" in 1994
+- [[berkshire-1999-letter]] — the 1985 acquisition anecdote retold (Charlie's "I'll pay $2.5M not to read it")
+- [[berkshire-2000-letter]] — Schey's retirement; $1.03B cumulative distributions vs. $230M net purchase price; Hall of Fame induction
+- [[berkshire-2001-letter]] — continued strong earnings ($122M pre-tax in 2000, $129M in 2001)
 
 ## Related
 

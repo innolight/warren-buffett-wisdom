@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
-sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1993-letter, berkshire-1994-letter]
+updated: 2026-06-13
+sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter]
 tags: [valuation, accounting, intrinsic-value]
 related: [[economic-goodwill]], [[look-through-earnings]], [[owner-orientation]], [[owner-earnings]], [[scott-fetzer]], [[ralph-schey]]
 ---
@@ -56,6 +56,27 @@ The 1994 letter restates the 1983 tuition framing as the canonical analogy:
 
 The 1994 definition becomes the standard Buffett definition: **intrinsic value is the discounted value of the cash that can be taken out of a business during its remaining life.**
 
+## The two-column proxy table and the 1996–1999 sharpening
+
+Starting with the 1995 letter and updated annually, Buffett used a **two-column table** as his public approximation of Berkshire's intrinsic value — without committing to a single number:
+
+- **Per-share investments** — all securities held by the insurance subsidiaries (easy to mark to market)
+- **Per-share pre-tax operating earnings (ex-investment income)** — the earning power of the operating businesses
+
+The two columns together approximate what an outside analyst would use to value Berkshire. Book value captures neither cleanly: it understates investment values and fails to capture the economic goodwill of operating businesses whose intrinsic value has grown far beyond carrying value.
+
+By 1999, the table revealed a structural complication: per-share operating earnings turned *negative* at $(458.55). The cause was not deterioration in the businesses but an accounting artifact — mandatory goodwill-amortization charges of approximately $500M annually flowing through the earnings statement. FASB required Berkshire to amortize the goodwill on acquired businesses even when that goodwill was economically growing, not shrinking. Buffett's argument: "In great businesses, economic goodwill does not, in many cases, diminish. Indeed, in a great many instances it actually grows in value over time." The amortization charge made book value and reported earnings *less* useful proxies for intrinsic value in this era, not more. See [[berkshire-1999-letter]] and [[economic-goodwill]].
+
+The same 1999 letter offered the sharpest direct estimate of the book-value gap at specific subsidiaries:
+
+> Businesses such as See's and Buffalo News are now worth fifteen to twenty times the value at which they are carried on our books. Our goal is to continually widen this spread at all subsidiaries. ([[berkshire-1999-letter]])
+
+A 15–20× gap between carrying value and intrinsic value is the compound effect of economic goodwill growing over decades while accounting goodwill was simultaneously being amortized toward zero.
+
+### The 1998 caveat: book value can also overstate intrinsic value per share
+
+In 1998, the relationship ran the other way. Per-share book value rose 48.3%, but Buffett immediately qualified: "most of that 48.3% gain came from our issuing shares in acquisitions," meaning the per-share intrinsic value gain fell well short of the book-value figure ([[berkshire-1998-letter]]). Issuing Berkshire shares to acquire businesses at fair value does not destroy value, but it does not grow intrinsic value *per share* if the acquisition adds value proportional to the shares issued — the denominator grows alongside the numerator. The lesson: book-value-per-share growth is an unreliable proxy for intrinsic-value-per-share growth when significant share issuance is involved.
+
 ## How it's discussed in sources
 
 - [[berkshire-1983-letter]] — debut; the formal definitions, the tuition analogy, the two-direction divergence framed via Berkshire's own history (1965 textile overstatement → 1983 economic-Goodwill understatement)
@@ -63,6 +84,11 @@ The 1994 definition becomes the standard Buffett definition: **intrinsic value i
 - [[berkshire-1986-letter]] — first appearance of the dichotomy in the owner-earnings Appendix (Scott Fetzer Company O vs. Company N)
 - [[berkshire-1993-letter]] — book vs. intrinsic restated in the context of the 1993 accounting-rule changes; intrinsic value defined as "a present-value estimate of the cash that can be taken out of a business during its remaining life"
 - [[berkshire-1994-letter]] — **the canonical Scott Fetzer case study**; the college-education analogy formalized; the definition that becomes standard Buffett
+- [[berkshire-1996-letter]] — two-column proxy table extended; methodology as annual public approximation of intrinsic value
+- [[berkshire-1997-letter]] — table updated; 30-year compound: per-share investments 25.6% vs. operating earnings 24.2%
+- [[berkshire-1998-letter]] — explicit warning: the 48.3% book-value gain overstated per-share intrinsic-value gain because most came from share issuance
+- [[berkshire-1999-letter]] — negative per-share operating earnings due to ~$500M goodwill-amortization artifact; See's and Buffalo News "fifteen to twenty times" carrying value
+- [[berkshire-2000-letter]] — Aesop bird-in-hand framework restates intrinsic value as the discounted present value of future cash, independent of accounting conventions
 
 ## Related
 

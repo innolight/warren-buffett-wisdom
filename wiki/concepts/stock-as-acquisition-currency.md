@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1982-letter, berkshire-1983-letter]
+updated: 2026-06-13
+sources: [berkshire-1982-letter, berkshire-1983-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter]
 tags: [acquisitions, mergers, dilution, capital-allocation]
 related: [[acquisition-criteria]], [[share-repurchases]], [[intrinsic-value-vs-book-value]]
 ---
@@ -52,10 +52,41 @@ Buffett's recommended sharper formulation: not "Company A acquires Company B" bu
 
 "Subsequent sales of common stock or convertible issues, either to complete the financing for a deal or to restore balance sheet strength, must be fully counted in evaluating the fundamental mathematics of the original acquisition." A deal that looks cash-funded but requires a follow-on equity raise has the same shareholder-dilution math as a direct stock-funded deal.
 
+## The aggregate verdict: "A Confession" (1997)
+
+By 1997, Buffett had enough empirical history to assess stock-funded acquisitions in aggregate. Examining all Berkshire stock-only mergers (excluding affiliated Blue Chip Stamps and Diversified Retailing transactions), his conclusion: "our shareholders are slightly worse off than they would have been had I not done the transactions. … when I've issued stock, I've cost you money." ([[berkshire-1997-letter]])
+
+The cause was not that the acquired businesses underperformed. It was the .380-hitter problem: Berkshire's existing portfolio of businesses operates at a level that is rarely improved by trading any of it for an incrementally smaller competitor. Issuing Berkshire shares to acquire a ".350 hitter" — even an excellent business — almost never constitutes a genuine trade-up. The forward policy announced in 1997: "very reluctant to issue shares." When sellers insist on stock, include a cash option to draw as many as possible to cash.
+
+The structural preconditions for stock-funded acquisitions to create value (acquirer overvaluation or genuine operating synergies) rarely obtain for Berkshire: its shares are "seldom overvalued," and synergies are "usually unrealistic" given Berkshire's hands-off operating model. Both conditions required, neither usually present.
+
+## Dexter Shoe: the compounded mistake
+
+The canonical horror story. Berkshire acquired Dexter Shoe in 1993 for 25,203 Berkshire shares. Two mistakes compounded:
+
+**The acquisition mistake.** Dexter's competitive position proved to have no structural protection against foreign competition. By 1999, 93% of U.S. shoe consumption was imported. The business that appeared at acquisition to have durable economic goodwill (brand loyalty, quality manufacturing, steady earnings) had none of the structural barriers needed to survive a sustained low-cost attack.
+
+**The currency mistake.** Because the acquisition was paid in Berkshire stock — stock then priced below intrinsic value — Buffett surrendered a stake in Berkshire's extraordinary franchise portfolio to acquire a business that subsequently went to near-zero. Each Berkshire share given away in 1993 was worth substantially more over the following decade than Dexter contributed. "I clearly made a mistake in paying what I did for Dexter in 1993. Furthermore, I compounded that mistake in a huge way by using Berkshire shares in payment." ([[berkshire-2000-letter]]) All accounting goodwill from Dexter was written off that year.
+
+The principle the Dexter case crystallizes: paying stock for a deteriorating business is doubly destructive. The first loss is the value of the deteriorating business; the second, less visible loss is the intrinsic value of the equity surrendered and the future compounding those shares would have produced. Cash mistakes cost only the cash. Stock mistakes cost the cash equivalent *plus* the forgone compounding on the surrendered equity.
+
+The 2001 letter adds a third dimension: "procrastination" as a distinct error category — recognizing the operational problems at Dexter and failing to act promptly compounded the damage beyond what an immediate course-correction would have produced. Three separate mistakes, not one.
+
+## General Re (1998): stock issuance in a transformative deal
+
+The $22 billion General Re acquisition in 1998 was predominantly a stock deal. The 1998 letter's opening framing acknowledges the consequence directly: "most of that 48.3% gain came from our issuing shares in acquisitions" — meaning the per-share gain in intrinsic value fell short of the book-value increase. General Re added genuine reinsurance franchise and $22.7 billion of float; whether the intrinsic value received matched the intrinsic value surrendered in shares is a question Buffett appropriately leaves open. The observation is consistent with the enduring principle: the test for share issuance is not "is the deal good?" but "does the intrinsic value received exceed the intrinsic value given away?"
+
+The 1999 letter sharpens the structural analysis: a stock-for-stock acquisition is "the worst deal of all" from a tax perspective — no step-up in asset basis, large future capital-gains exposure on eventual sale of the acquired business, versus the 15-year goodwill amortization available on an asset purchase for cash. The tax disadvantage compounds the intrinsic-value-dilution problem.
+
 ## How it's discussed in sources
 
 - [[berkshire-1982-letter]] — debut; the $2-for-$1 framing, three escape routes, three rationalizations dismantled, the linguistic reframe
 - [[berkshire-1983-letter]] — the owner's-manual principle: "We will issue common stock only when we receive as much in business value as we give. This rule applies to all forms of issuance — not only mergers or public stock offerings, but stock-for-debt swaps, stock options, and convertible securities as well."
+- [[berkshire-1997-letter]] — "A Confession": all stock-only mergers in aggregate cost shareholders money; the .380-hitter analogy; forward policy of extreme reluctance; option-replacement principle for acquiree compensation plans
+- [[berkshire-1998-letter]] — General Re acquisition primarily in stock; opening warning that the 48.3% book-value gain overstates the per-share intrinsic-value gain because of shares issued
+- [[berkshire-1999-letter]] — "worst deal of all is a stock-for-stock acquisition": no asset step-up, large future capital-gains exposure; tax-structure hierarchy (cash purchase of assets > cash purchase of stock > stock-for-stock)
+- [[berkshire-2000-letter]] — Dexter Shoe goodwill written off; "compounded that mistake in a huge way by using Berkshire shares in payment"; canonical case of a bad acquisition made worse by stock currency
+- [[berkshire-2001-letter]] — Dexter triple-mistake: acquisition, stock currency, procrastination; all-cash acquisition policy reaffirmed as the default for all 2001 acquisitions
 
 ## Related
 

@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter]
+updated: 2026-06-13
+sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter]
 tags: [capital-allocation, repurchases, signaling]
-related: [[stock-as-acquisition-currency]], [[intrinsic-value-vs-book-value]], [[dividend-policy]], [[washington-post]]
+related: [[stock-as-acquisition-currency]], [[intrinsic-value-vs-book-value]], [[dividend-policy]], [[washington-post]], [[incentive-compensation]], [[owner-orientation]]
 ---
 
 # Share Repurchases
@@ -60,12 +60,31 @@ The case anchors a broader durable claim: repurchases at a meaningful discount d
 
 A useful Buffett heuristic: if you would not sell 100% of the business at the current market price, you should not sell *any* portion of it. Repurchases are simply the inverse trade — buying portions of the business at a price you would refuse to *receive* for the whole.
 
+## The post-bubble inversion: when buybacks destroy value (1999)
+
+The 1999 letter restates the repurchase framework against its most common violation. Buffett reiterates the two necessary conditions — (1) excess capital beyond near-term business needs, and (2) stock trading below intrinsic value, conservatively calculated — and then observes that the second condition had been systematically violated throughout the bubble era.
+
+The mechanism of harm is the arithmetic mirror image of the value-creation case: repurchases at above-intrinsic-value prices transfer wealth *from continuing shareholders* to *departing shareholders*. The remaining owners effectively subsidize the exit of sellers at the corporation's expense. "Buying dollar bills for $1.10 is not good business for those who stick around." ([[berkshire-1999-letter]])
+
+Two specific failure modes Buffett identifies:
+
+**1. Buybacks to support the stock price.** The underlying motivation is to prop up the market price, not to exploit undervaluation. This is capital misallocation dressed as shareholder friendliness: it spends corporate resources to benefit departing shareholders (sellers at the supported price) while destroying value for those who remain.
+
+**2. Buybacks to offset option-grant dilution.** Structurally irrational. When a company grants options at low prices, then repurchases shares at high prices to neutralize dilution, it: (a) pays managers the full economic value of stock appreciation via option gains, while (b) simultaneously buying back that same stock at elevated prices on behalf of continuing shareholders. The net result is a wealth transfer from the company's long-term owners to its option-holding employees.
+
+> Sometimes, too, companies say they are repurchasing shares to offset the shares issued when stock options granted at much lower prices are exercised. This "buy high, sell low" strategy is one many unfortunate investors have employed — but never intentionally! Managements, however, seem to follow this perverse activity very cheerfully. ([[berkshire-1999-letter]])
+
+**The Berkshire threshold.** Repurchases are only appropriate at a meaningful discount to intrinsic value. In 1999, Berkshire's A shares fell below $45,000; Buffett disclosed that he considered repurchases at that level but deferred to allow shareholders time to review the annual report before any action was taken. If Berkshire were to repurchase, it would respond to offers made directly to the company rather than bid in the open market, and would favor B shares if they traded at more than a 2% discount to A shares on an equivalent basis.
+
+This section of the framework completes the logical structure: the conditions under which repurchases *create* value (discount to intrinsic value + excess capital + full disclosure) are the exact mirror of the conditions under which they *destroy* it (premium to intrinsic value, or dilution-offset without independent value basis). The arithmetic is the same in both directions; only the sign changes.
+
 ## How it's discussed in sources
 
 - [[berkshire-1980-letter]] — debut as a recurring theme; the auction-vs-negotiated framing
 - [[berkshire-1982-letter]] — repurchase as damage-repair option for value-destroying stock-funded acquisitions
 - [[berkshire-1984-letter]] — full canonical articulation; arithmetic *plus* signaling; greenmail explicitly distinguished
 - [[berkshire-1985-letter]] — the WPC "triple-dip" worked example: business-value gain + per-share-value compounding via repurchase + discount narrowing
+- [[berkshire-1999-letter]] — canonical post-bubble restatement; the two-condition framework restated; critique of price-support buybacks and option-offset buybacks as "buy high, sell low"; the Berkshire threshold (meaningful discount to intrinsic value); Berkshire's near-repurchase below $45K and the disclosure approach
 
 ## Related
 
@@ -73,3 +92,4 @@ A useful Buffett heuristic: if you would not sell 100% of the business at the cu
 - [[intrinsic-value-vs-book-value]] — the gauge that determines whether a repurchase is wealth-enhancing
 - [[dividend-policy]] — the alternative form of capital return; repurchases are the right choice when intrinsic value is above market and management can act on it
 - [[owner-orientation]] — pro-shareholder action codified in the 1983 owner's manual
+- [[incentive-compensation]] — the option-offset buyback failure mode connects directly to options-as-expense; the two problems compound

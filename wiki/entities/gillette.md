@@ -2,10 +2,10 @@
 type: entity
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter]
+updated: 2026-06-13
+sources: [berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [consumer-brand, global-franchise, marketable-equities, convertible-preferred]
-related: [[berkshire-hathaway]], [[colman-mockler]], [[coca-cola]], [[franchise-vs-business]], [[moat]]
+related: [[berkshire-hathaway]], [[colman-mockler]], [[coca-cola]], [[american-express]], [[franchise-vs-business]], [[moat]], [[concentration-vs-diversification]]
 ---
 
 # Gillette
@@ -43,6 +43,13 @@ The lesson Buffett extracts: when buying into a business whose long-term economi
 | 1993 | Common | 24,000,000 | $600.0M | $1,431.0M |
 | 1994 | Common | 24,000,000 | $600.0M | $1,797.0M |
 | 1995 | Common (post 2-for-1 split) | 48,000,000 | $600.0M | $2,502.0M |
+| 1997 | Common | 48,000,000 | $600.0M | $4,821.0M |
+| 1998 | Common (post 2-for-1 split) | 96,000,000 | $600.0M | $4,590.0M |
+| 1999 | Common | 96,000,000 | $600.0M | $3,954.0M |
+| 2000 | Common | 96,000,000 | $600.0M | $3,468.0M |
+| 2001 | Common | 96,000,000 | $600.0M | $3,206.0M |
+| 2002 | Common | 96,000,000 | $600.0M | $2,915.0M |
+| 2003 | Common | 96,000,000 | $600.0M | $3,526.0M |
 
 ## Colman Mockler
 
@@ -58,6 +65,16 @@ Buffett joined the Gillette board with the 1989 preferred purchase.
 
 Mockler's tenure included the Sensor razor launch (1989-90), which became the canonical illustration of Gillette's ability to introduce premium-priced product upgrades that customers willingly bought. The 1989 letter: "If you haven't tried Gillette's new Sensor razor, go right out and get one." The empirical signature of a real franchise: each premium upgrade is accepted by the existing customer base, raising the per-customer revenue while preserving share.
 
+## 1997–2003: Core permanent holding
+
+The 1997 portfolio shows the Gillette position at 48,000,000 shares — cost $600M, market value $4,821M, Berkshire's look-through ownership at 8.6% contributing $82M of undistributed earnings. A second 2-for-1 stock split during 1998 brought the share count to 96,000,000, where it remained through 2003. The cost basis of $600M never changed, because no new shares were purchased after the original 1989 investment.
+
+Buffett explicitly grouped Gillette with [[coca-cola]] and [[american-express]] throughout this period as core permanent equity holdings. In the 1999 letter, with Berkshire trailing the S&P badly as tech stocks surged, he acknowledged that "several of our largest investees badly lagged the market in 1999" — but held. The reasoning was not contrarianism but competitive-moat conviction: the underlying businesses had not deteriorated and the valuations were correcting from excess. The 1999 look-through earnings contribution was $53M on a 9.0% ownership stake.
+
+Market value fell from $4,821M (1997) to $2,915M (2002) — a 40% drawdown over five years — without triggering a sale. The 2002 letter offered the key framing: "earnings up, valuations down" across the major holdings, meaning business economics remained sound while prices corrected from bubble levels. See [[concentration-vs-diversification]] for the principle underlying the hold.
+
+The 2003 letter confirmed: "The last position change in Gillette was in 1989." Fourteen years without a purchase or sale. Buffett added a candid self-criticism: "We own pieces of excellent businesses — all of which had good gains in intrinsic value last year — but their current prices reflect their excellence. The unpleasant corollary is that I made a big mistake in not selling several of our larger holdings during The Great Bubble." ([[berkshire-2003-letter]])
+
 ## Sources discussing this entity
 
 - [[berkshire-1989-letter]] — $600M convertible preferred purchased July 1989; Buffett joins board; Sensor razor recommendation; "Gillette's business is very much the kind we like"
@@ -66,6 +83,13 @@ Mockler's tenure included the Sensor razor launch (1989-90), which became the ca
 - [[berkshire-1993-letter]] — paired with Coca-Cola in the franchise-share illustration; the "moat around economic castles" line; "increased worldwide shares"
 - [[berkshire-1994-letter]] — 7% of world razor/blade revenue translated into "$250 million of sales in 1994" attributable to Berkshire
 - [[berkshire-1995-letter]] — convertible-preferred retrospective; the "biggest mistake" admission; market value $2.5B
+- [[berkshire-1997-letter]] — 48,000,000 shares; $4,821M market; 8.6% look-through ownership contributing $82M undistributed earnings
+- [[berkshire-1998-letter]] — 96,000,000 shares post 2-for-1 split; $4,590M market; 9.0% look-through
+- [[berkshire-1999-letter]] — "badly lagged the market in 1999" alongside Coca-Cola and Amex; held for competitive-moat conviction; look-through earnings $53M
+- [[berkshire-2000-letter]] — major positions "essentially unchanged"; $3,468M market value
+- [[berkshire-2001-letter]] — held through post-9/11 decline; $3,206M market
+- [[berkshire-2002-letter]] — "earnings up, valuations down"; $2,915M market — trough of the post-bubble correction
+- [[berkshire-2003-letter]] — position frozen since 1989; "fully priced but excellent business"; self-critical note on not selling at the bubble peak
 
 ## Related
 
@@ -75,3 +99,5 @@ Mockler's tenure included the Sensor razor launch (1989-90), which became the ca
 - [[moat]] — the "economic castles" framing originates in the joint Coke/Gillette discussion
 - [[risk-vs-volatility]] — the pet-rocks-vs-Monopoly framing uses Gillette to make its point
 - [[mistakes-of-omission]] — the convertible-vs-common admission is a near-cousin of omission mistakes
+- [[american-express]] — the paired permanent holding; Gillette and Amex (with Coca-Cola) constitute Berkshire's triumvirate of core concentrated equity positions
+- [[concentration-vs-diversification]] — holding Gillette through the dot-com bubble is a canonical test case for the concentration doctrine

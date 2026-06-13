@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1983-letter, berkshire-1984-letter]
+updated: 2026-06-13
+sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [governance, ownership, capital-allocation, communication]
-related: [[acquisition-criteria]], [[stock-as-acquisition-currency]], [[dividend-policy]]
+related: [[acquisition-criteria]], [[stock-as-acquisition-currency]], [[dividend-policy]], [[incentive-compensation]], [[institutional-imperative]]
 ---
 
 # Owner Orientation
@@ -40,10 +40,36 @@ Three operational consequences distinguish owner-oriented management from the mo
 - **Capital-allocation decisions become testable.** Retention, repurchases, dividends, share issuances, and acquisitions all become judgable against the per-share-intrinsic-value standard. "Our test of the wisdom of retaining earnings" is concrete; failure is visible.
 - **Resistance to the institutional imperative is structurally easier.** Owner-aligned compensation (Buffett's 47% Berkshire stake, mentioned in 1984) removes much of the personal incentive to "fail conventionally." Decisions can be made on long-term economic merit rather than career-survival reflex. See [[institutional-imperative]].
 
+## The operating-manager mandate (1998–1999)
+
+By the late 1990s, Buffett extended the owner-orientation principles beyond shareholder communication to operating management. The formulation: **"Just run your business as if: 1) you own 100% of it; 2) it is the only asset in the world that you and your family have or will ever have; and 3) you can't sell or merge it for at least a century."** ([[berkshire-1998-letter]])
+
+This mandate is the practical translation of the owner's-manual principles for operating CEOs who are not shareholders in the parent entity. It removes quarterly earnings pressure, investor-relations obligations, and the temptation to manage accounting ahead of real economic decisions. The permanent-capital shareholder base that Berkshire cultivates is the precondition: an operator can think in decades only if her owner is thinking in decades.
+
+The R.C. Willey / Bill Child episode illustrates the behavioral model: a manager who invested personal capital, kept the store closed on Sundays against conventional wisdom, and refused interest on capital tied up for two years in a speculative store expansion — without any Berkshire guarantee of his downside. Buffett's summary of the operating-manager mandate: "We simply ask our managers to run their companies as if these are the sole asset of their families and will remain so for the next century." See [[berkshire-1999-letter]].
+
+## Owner-capitalism vs. manager-capitalism (2002–2003)
+
+The 2002–2003 letters articulate the distinction that had been implicit since 1983: a structural contrast between two operating regimes for public companies.
+
+**Manager-capitalism** (the dominant mode): CEOs and directors primarily serve managerial interests. Directors are selected for willingness to approve recommendations rather than for independent economic judgment. Compensation systems are structured for easy escalation: packages gained by the most aggressive become survey benchmarks, then recommendations at the next board. Boards reward managers for results *reported*, not results *created*. The 2002 corporate-governance scandals — Enron, WorldCom — are extreme instances of a structural tendency that operates at lower temperatures in most boardrooms.
+
+**Owner-capitalism** (Berkshire's model): directors own large stakes purchased in the open market, creating real personal exposure to downside. No options, no restricted-share grants, no D&O insurance. Director fees are a pittance, ensuring the seat is not held for the income. Board composition favors directors with direct business judgment over credential-accumulation. Buffett's self-test: "I would be useless on a medical or scientific board … My name would dress up the list of directors, but I wouldn't know enough to critically evaluate proposals. … In effect, I could be replaced, without loss, by a potted plant." ([[berkshire-2003-letter]])
+
+The structural argument: when a director's net worth is dominated by the equity she governs, the "collegiality" that otherwise overrides economic judgment is less likely to prevail. Buffett's own admission from the 2002 letter is the negative proof: "Too often I was silent when management made proposals that I judged to be counter to the interests of shareholders. In those cases, collegiality trumped independence." ([[berkshire-2002-letter]])
+
+Buffett's own position: a large Berkshire stake purchased in the open market, a nominal salary, and no options. "After all, who ever washes a rental car?" The board is designed so no CEO can extract value from shareholders without proportionally bearing the same loss as the smallest shareholder. "You win, they win big; you lose, they lose big."
+
+The 2003 board composition quantified the standard: eleven directors, each (with family) holding over $4M of Berkshire stock, six families with stakes "at least hundreds of millions" held 30+ years — all bought in the open market. See [[berkshire-2003-letter]].
+
 ## How it's discussed in sources
 
 - [[berkshire-1983-letter]] — debut; the 13 principles published as the introduction to the doubled shareholder base after the Blue Chip merger
 - [[berkshire-1984-letter]] — repeated emphasis on the owner-as-manager identity ("we receive our rewards as owners, not managers"); the dividend-policy framework operationalizes principle #9; the repurchase doctrine operationalizes principle #10's signaling dimension
+- [[berkshire-1998-letter]] — the operating-manager mandate in its canonical three-part form ("own 100% / sole family asset / no sale for a century"); applied to Berkshire's operating CEOs; the GEICO pitch to acquiree CEOs
+- [[berkshire-1999-letter]] — the mandate extended as a description of Berkshire's manager culture; Bill Child / R.C. Willey as behavioral exemplar; "We have no contracts at Berkshire"
+- [[berkshire-2002-letter]] — the "owner-capitalism" structural argument made against the post-bubble governance scandals; board compensation and D&O design; Buffett's self-admission that "collegiality trumped independence"; directors should act as if there is a single absentee owner
+- [[berkshire-2003-letter]] — "owner-capitalism" coined explicitly; the potted-plant test for director judgment; board composition quantified (11 directors, 6 families with hundreds of millions, all open-market purchases, no options/restricted shares); "who ever washes a rental car?"
 
 ## Related
 
@@ -52,3 +78,4 @@ Three operational consequences distinguish owner-oriented management from the mo
 - [[stock-as-acquisition-currency]] — principle #10 in detail
 - [[share-repurchases]] — the signaling dimension of pro-shareholder action
 - [[institutional-imperative]] — what owner orientation structurally resists
+- [[incentive-compensation]] — the operating-manager mandate applied to pay design

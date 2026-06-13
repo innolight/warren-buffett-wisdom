@@ -2,8 +2,8 @@
 type: person
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1995-letter]
+updated: 2026-06-13
+sources: [berkshire-1995-letter, berkshire-1997-letter, berkshire-1999-letter]
 tags: [insurance, geico, mentor, shaping-figure]
 related: [[geico]], [[warren-buffett]], [[ben-graham]], [[moat]]
 ---
@@ -43,9 +43,21 @@ The 1995 letter's final note on Davidson:
 
 By 1995, Davidson was 93 and continued to "pay close attention to GEICO" and to be available to its successive CEOs — Jack Byrne, Bill Snyder, and Tony Nicely.
 
+## The 1997 tribute and death (November 1999)
+
+The 1997 letter found Davidson at 95 and offered a second personal tribute, spanning what was then a 47-year friendship: "I might never have grown to understand the whole field of insurance" without him ([[berkshire-1997-letter]]).
+
+Davidson died in November 1999, days after his 97th birthday. Buffett, Tony Nicely, and Lou Simpson had visited him in August. Buffett's tribute in the 1999 letter:
+
+> For me, he was a friend, teacher and hero. Clearly, my life would have developed far differently had he not been a part of it. ([[berkshire-1999-letter]])
+
+His death closed a personal arc that began on that cold January 1951 Saturday in Washington and ran, through the 1976 GEICO crisis and the 1995 100%-acquisition, for nearly half a century. Davidson died just four years after Berkshire completed the acquisition whose origins he had set in motion.
+
 ## Sources discussing this person
 
 - [[berkshire-1995-letter]] — the canonical retelling; "you should understand that Berkshire would not be where it is today if Davy had not been so generous with his time on a cold Saturday in 1951"
+- [[berkshire-1997-letter]] — Davidson at 95; 47-year friendship; "I might never have grown to understand the whole field of insurance without him"
+- [[berkshire-1999-letter]] — death at 97 in November 1999; "For me, he was a friend, teacher and hero"; "my life would have developed far differently had he not been a part of it"
 
 (Earlier letters reference Davidson only implicitly through the GEICO history; the 1995 letter is the explicit on-the-record tribute.)
 

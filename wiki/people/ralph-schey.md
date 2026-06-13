@@ -2,8 +2,8 @@
 type: person
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1992-letter, berkshire-1994-letter]
+updated: 2026-06-13
+sources: [berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1992-letter, berkshire-1994-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-2000-letter]
 tags: [operator, scott-fetzer, capital-allocation, conglomerate, incentive-compensation]
 related: [[scott-fetzer]], [[berkshire-hathaway]], [[incentive-compensation]], [[capital-allocation]], [[intrinsic-value-vs-book-value]]
 ---
@@ -43,8 +43,22 @@ Three durable contributions to the Berkshire story:
 | 1992 | $110M | $116M | Record year |
 | 1993 | (continuing growth) | (declining book) | Would have ranked 4th in Fortune 500 ROE if standalone (1st excluding bankruptcy-emergence companies) |
 | 1994 | (continuing) | ~$94M | Pre-tax earnings now roughly 2× 1986 on declining capital base |
+| 1997 | $118.9M | (continuing decline) | Buffett: "just warming up" in 1994 — see [[berkshire-1998-letter]] |
+| 1998 | $96.5M after-tax | $112M | Record after-tax year; no leverage beyond conservative finance subsidiary |
 
 The "rocking-chair savings account" anti-pattern from [[economic-goodwill]] (1985) — earning more by *putting up more* — is the opposite of what Schey does. Schey earns more by putting up *less*.
+
+## Final years and Buffett's tribute (1996–2000)
+
+Scott Fetzer's compounding continued through the late 1990s. Pre-tax operating earnings were $118.9M in 1997; in 1998 the business earned a record $96.5M after-tax on $112M of net worth, operating without financial leverage. When Buffett reported these results in [[berkshire-1998-letter]], he revisited his 1994 assessment — that Schey had been "just warming up" — to show how far the trajectory had extended beyond even that optimistic benchmark.
+
+When Schey retired at year-end 2000, after fifteen years under Berkshire ownership, Buffett published the full retrospective in [[berkshire-2000-letter]]:
+
+> Fifteen years ago, when we bought Scott Fetzer, I predicted that Ralph would be a star. What I didn't know then was just how much of a star. … The bottom line: $1.03 billion of distributions [to Berkshire] against a net purchase price of $230 million, and we still have a business worth well more than the $230 million investment.
+
+Schey was inducted into "Berkshire's Hall of Fame."
+
+The portrait that emerges from fifteen years of letters is of the **archetypal Berkshire operating manager**: runs his businesses without headquarters involvement; delivers consistent, compounding returns on a declining capital base; actively releases surplus capital rather than redeploying it at inferior returns internally; reports honestly about problems; and never asks for strategic help. See [[acquisition-criteria]] and [[incentive-compensation]]. The $1.03B cumulative distribution against a $230M investment is the empirical record of what that pattern produces.
 
 ## Notable quotes (Buffett on Schey)
 
@@ -67,6 +81,9 @@ The "rocking-chair savings account" anti-pattern from [[economic-goodwill]] (198
 - [[berkshire-1990-letter]] — Fortune 500-tier ROE
 - [[berkshire-1992-letter]] — record $110M pre-tax on $116M equity; distributing more than 100% of earnings
 - [[berkshire-1994-letter]] — canonical Scott Fetzer case study; the five-minute compensation story; explicit identification of Schey as the source of success
+- [[berkshire-1997-letter]] — operating earnings $118.9M
+- [[berkshire-1998-letter]] — record $96.5M after-tax year; tribute "just warming up" in 1994
+- [[berkshire-2000-letter]] — retirement retrospective; $1.03B distributions vs. $230M purchase price; Hall of Fame induction
 
 ## Related
 

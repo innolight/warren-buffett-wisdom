@@ -2,10 +2,10 @@
 type: entity
 status: draft
 created: 2026-05-24
-updated: 2026-05-26
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1991-letter]
+updated: 2026-06-13
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1991-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [consumer, confectionery, pricing-power, economic-goodwill, blue-chip]
-related: [[blue-chip-stamps]], [[economic-goodwill]], [[moat]], [[franchise-vs-business]], [[cigar-butts-vs-wonderful-businesses]]
+related: [[blue-chip-stamps]], [[economic-goodwill]], [[moat]], [[franchise-vs-business]], [[cigar-butts-vs-wonderful-businesses]], [[buffalo-evening-news]]
 ---
 
 # See's Candies
@@ -74,6 +74,20 @@ See's becomes the explicit reference point for the wonderful-business framework 
 
 Through the balance of the decade, the core pattern held: unit volume remained roughly flat, price increases continued to outpace input-cost inflation, and annual profits grew with minimal incremental capital — confirming rather than revising the franchise economics established in the first twenty years.
 
+## 1999–2003: Huggins' Law and the compounding goodwill case
+
+By 1999 — 27 years after acquisition — the economics were sharper than ever. Cumulative pre-tax earnings since 1972 had reached $857M on the original $25M purchase price, with very little additional capital required in the interim. Operating margin hit a record 24% that year. Buffett introduced "Huggins' Law" as a playful benchmark: See's pre-tax profit in millions had come to roughly equal Chuck Huggins's age. When Berkshire acquired See's in 1972, Huggins was 46 and pre-tax earnings were about 10% of his age; by 1999, at 74, profit in millions and age had converged. See [[berkshire-1999-letter]].
+
+The 1999 acquisition-accounting essay placed See's at the center of Buffett's critique of mandatory goodwill amortization:
+
+> In character, economic goodwill is much like land: The value of both assets is sure to fluctuate, but the direction in which value is going to go is in no way ordained. At See's, for example, economic goodwill has grown, in an irregular but very substantial manner, for 78 years. ([[berkshire-1999-letter]])
+
+The accounting irony was sharp: every GAAP amortization charge reduced See's book goodwill while the economic goodwill was growing. Buffett's reform proposal — carry goodwill as an asset and write it down only on impairment, not on a schedule — was ultimately adopted by FASB in 2001 (SFAS 142), with See's as the argument made concrete. See [[economic-goodwill]].
+
+Annual pre-tax earnings held steady near record levels through the period: $58.6M (1997), $59M (1998 and 2003). Capital deployed to maintain and grow those earnings remained negligible throughout. The pattern confirmed See's as the archetype for what Buffett came to call a capital-light compounder: pricing power on a near-fixed tangible base, brand preference providing the moat, minimal reinvestment required for growth in dollar earnings.
+
+Buffett's summary in 1999 captures the full picture: "Businesses such as See's and [[buffalo-evening-news]] are now worth fifteen to twenty times the value at which they are carried on our books. Our goal is to continually widen this spread at all subsidiaries."
+
 ## Sources discussing this entity
 
 - [[berkshire-1977-letter]] — early framing: $4.2M → $12.6M earnings growth with little additional capital
@@ -87,6 +101,13 @@ Through the balance of the decade, the core pattern held: unit volume remained r
 - [[berkshire-1988-letter]] — 90% of profits in December
 - [[berkshire-1989-letter]] — 8% pound gain, first same-store gain in many years; advertising essay
 - [[berkshire-1991-letter]] — **the canonical 20-year retrospective**; $25M → $410M distributed pre-tax
+- [[berkshire-1997-letter]] — operating earnings $58.6M; appears in sources-of-earnings table
+- [[berkshire-1998-letter]] — operating earnings $59M; among first Berkshire subsidiaries selling via the Internet
+- [[berkshire-1999-letter]] — record 24% operating margin; $857M cumulative pre-tax on $25M; Huggins' Law; "economic goodwill much like land" quote; "fifteen to twenty times carrying value"
+- [[berkshire-2000-letter]] — mentioned in operating-business context; "excellent business" framing continues
+- [[berkshire-2001-letter]] — pre-tax earnings in the same range
+- [[berkshire-2002-letter]] — mentioned in operating summary
+- [[berkshire-2003-letter]] — $59M retail pre-tax; one of the "excellent businesses" in the portfolio
 
 ## Related
 

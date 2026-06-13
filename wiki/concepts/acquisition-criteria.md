@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-24
-updated: 2026-05-25
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter]
+updated: 2026-06-12
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [capital-allocation, investment-framework, equities, acquisitions]
-related: [[warren-buffett]], [[tailwinds-vs-headwinds]], [[stock-as-acquisition-currency]]
+related: [[warren-buffett]], [[tailwinds-vs-headwinds]], [[stock-as-acquisition-currency]], [[owner-orientation]]
 ---
 
 # Acquisition Criteria
@@ -63,6 +63,26 @@ The 1983 letter codifies acquisition discipline as principles in the owner's man
 
 See [[owner-orientation]].
 
+## Reputation as competitive advantage (1998–2003)
+
+The six-point ad, published annually since 1982, functions as a self-selecting advertisement to the exact sellers Berkshire wants to attract. By 1999, Buffett could describe the "carefully-crafted acquisition strategy" as simply waiting for the phone to ring. The published criteria are not just a filter — they are an invitation.
+
+Three reinforcing mechanisms emerged clearly in the 1998–2003 letters:
+
+**The operating mandate (1998).** Berkshire's pitch to first-class CEOs: run your business as if you own 100% of it, it is your family's only asset, and you cannot sell or merge it for a century. No backseat driving, no quarterly-earnings pressure, no investor-relations grind. Owner-operators who have built businesses under exactly these principles recognize the structure immediately and prefer it to a financial buyer's auction. See [[berkshire-1998-letter]].
+
+**"Owners who care" as a quality signal (2000).** A seller's emotional attachment to a long-time business signals honest accounting, pride of product, respect for customers, and a loyal associate base — qualities that are difficult to fake and rarely survive a "dressed-up-for-sale" process. When Berkshire commits to keeping a business in its hometown and preserving its culture, those commitments are credible precisely because Berkshire has no exit strategy to enforce. See [[berkshire-2000-letter]].
+
+**Permanence (2002).** The dimension absent from the original six-point ad but central to Berkshire's competitive advantage: "Unlike LBO operators and private equity firms, we have no 'exit' strategy — we buy to keep. That's one reason why Berkshire is usually the first — and sometimes the only — choice for sellers and their managers." See [[berkshire-2002-letter]].
+
+## Speed as the operational signal of trust
+
+When both parties understand the criteria, due diligence collapses into verification and trust replaces negotiation. The McLane acquisition (2003) from Wal-Mart — a $23B-revenue distribution business agreed in a single two-hour meeting with a handshake, no due diligence, and a 29-day close — is the operational illustration. "We knew everything would be exactly as Wal-Mart said it would be — and it was." The Clayton Homes deal (2003) was agreed based on a book, a phone call, and public financials — no banker process. Both deals were sourced via relationships, not auctions. See [[berkshire-2003-letter]].
+
+## The three-condition restatement (2003)
+
+The 2003 letter compresses the criteria into a cleaner triplet for evaluating new situations: (1) favorable and enduring economics, (2) talented and honest managers, (3) a sensible price. The six-point operational ad (published since 1982) remains in force; the three conditions are the high-level test. The "sensible price" condition is not relaxed for great businesses — it remains the binding constraint on deployment, especially as Berkshire's capital base grows and only "elephant"-sized acquisitions move the needle.
+
 ## How it's discussed in sources
 
 - [[berkshire-1977-letter]] — first formulation; introduced in the "Insurance Investments" section as the rationale for treating marketable equities as business-ownership decisions
@@ -71,6 +91,12 @@ See [[owner-orientation]].
 - [[berkshire-1982-letter]] — six-point operational ad first published
 - [[berkshire-1983-letter]] — codified in the owner's manual; six-point ad republished ("repetition is a key to results")
 - [[berkshire-1984-letter]] — six-point ad republished verbatim; concentration policy stated explicitly via the Billy Rose quote
+- [[berkshire-1998-letter]] — "GEICO environment" pitch operationalizes the criteria from the seller's perspective; permanent-capital structure as the precondition for credibility
+- [[berkshire-1999-letter]] — "wait for the phone to ring"; anti-investment-banker stance hardened; cash preference stated explicitly (both 1999 deals cash-only)
+- [[berkshire-2000-letter]] — "owners who care" as quality signal; auction-vs-permanent-home distinction; eight-business spree shows criteria in practice
+- [[berkshire-2001-letter]] — all-cash acquisition policy reaffirmed; "issuing shares only grudgingly"
+- [[berkshire-2002-letter]] — "no exit strategy" crystallized; permanence as the distinguishing feature vs. LBO/private-equity
+- [[berkshire-2003-letter]] — three-condition restatement; McLane handshake deal as operational illustration; Clayton via Tennessee-students as reputation-sourced deal
 
 ## Related
 
@@ -80,3 +106,4 @@ See [[owner-orientation]].
 - [[stock-as-acquisition-currency]] — the inverse problem: how acquisition-currency mistakes destroy value
 - [[turnarounds-seldom-turn]] — why criterion 2 cannot be satisfied by cheapness alone
 - [[institutional-imperative]] — the structural force the discipline must resist
+- [[owner-orientation]] — the operating-mandate framework that makes the criteria credible to sellers

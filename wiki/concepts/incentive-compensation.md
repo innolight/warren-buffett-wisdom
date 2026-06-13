@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
-sources: [berkshire-1985-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1994-letter]
+updated: 2026-06-13
+sources: [berkshire-1985-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1994-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [compensation, options, capital-allocation, agency, owner-orientation]
-related: [[owner-orientation]], [[share-repurchases]], [[stock-as-acquisition-currency]], [[institutional-imperative]], [[ralph-schey]], [[scott-fetzer]]
+related: [[owner-orientation]], [[share-repurchases]], [[stock-as-acquisition-currency]], [[institutional-imperative]], [[ralph-schey]], [[scott-fetzer]], [[geico]]
 ---
 
 # Incentive Compensation
@@ -121,12 +121,65 @@ Buffett's counter: businesses incur costs when they deliver value of any form, n
 
 The standing offer: "If you find a CEO who says his newly-issued options have little or no value, tell him to try us out." Berkshire would happily buy any out-of-the-money option for fair value.
 
+## The controlled-experiment proof: cash vs. options (1998)
+
+The General Re acquisition produced an accidental controlled experiment that crystallized the accounting illogic of non-expensing. When General Re converted its stock-option compensation plan into an economically equivalent cash plan for Berkshire integration purposes, the pro-forma 1997 compensation expense rose by $63 million — with no change to the underlying economics of the pay. The two plans delivered the same value to employees; only the accounting form differed.
+
+This is the trap Buffett had been pressing since 1992 made concrete: if options are not a cost when granted, the acquirer's post-merger cash substitute inexplicably *becomes* a cost — even though employees receive identical economic value under both plans. The real cost was always there; accounting simply chose not to see it.
+
+The portfolio impact was material: Buffett estimated that properly charging options-as-expense would reduce reported per-share earnings at many companies by 5%, with 10% reductions "not all that uncommon." This influenced Berkshire's investment decisions — causing both sales and passes on stocks that would otherwise have met criteria. See [[berkshire-1998-letter]].
+
+> This Alice-in-Wonderland outcome occurs because existing accounting principles ignore the cost of stock options when earnings are being calculated, even though options are a huge and increasing expense at a great many corporations. In effect, accounting principles offer management a choice: Pay employees in one form and count the cost, or pay them in another form and ignore the cost. ([[berkshire-1998-letter]])
+
+## Long-duration incentive design: the GEICO model
+
+[[geico]]'s compensation structure is Buffett's positive model for encoding multi-year value creation into pay design. The bonus formula uses exactly two variables: (1) percentage growth in policyholders, and (2) earnings on "seasoned" business — policies in force for more than one year. Critically, the cost of newly acquired policies is *excluded* from the formula entirely.
+
+The rationale is explicitly temporal: acquiring a new policyholder is costly in year one but valuable over many years. If new-business cost were charged against the bonus, associates would face a disincentive to write new business — precisely the opposite of what Berkshire wanted. By keeping new-business cost off the table ("we foot the bill"), Berkshire encoded a long-duration view of customer value into day-to-day decisions. "At Berkshire, we want to have compensation policies that are both easy to understand and in sync with what we wish our associates to accomplish." See [[berkshire-1999-letter]].
+
+The timeless principle: **incentive formulas should measure outcomes the manager can actually control, on the time horizon that matters to the business.** The GEICO design prevents the common failure mode in which associates optimize for short-term metrics that diverge from long-term value creation. It also encodes a claim about who owns the cost of growth: Berkshire absorbs first-year acquisition costs as an investment decision, not a penalty to the associate.
+
+## Real ownership vs. option grants: the coinvestment alternative (2001)
+
+The MiTek acquisition introduced a structural alternative to stock options that Buffett offered as the antidote to option-repricing abuse. At closing, 55 MiTek managers were each required to invest at least $100,000 of personal cash to own 10% of the company collectively.
+
+This design has three properties standard options lack:
+
+1. **Real capital at risk.** Managers face the same downside as shareholders, not merely a reduced upside if things go wrong.
+2. **No repricing.** Unlike option strikes, purchase prices are permanent. "What they paid is what they live with."
+3. **No artificial wealth transfer.** Coinvestment stakes cannot be retroactively marked to a lower price when a business disappoints — the exit routinely granted to option-holding managers who "reprice" their grants after a stock decline.
+
+Buffett's framing on option repricing: CEOs who push for repriced options after stock declines reveal their true orientation. "To their shame, these business leaders view shareholders as patsies, not partners." The coinvestment model forces managers to experience the business exactly as shareholders do. See [[berkshire-2001-letter]].
+
+## The institutional suppression of options-expensing (2002)
+
+The history of why options-expensing failed to become standard accounting practice illustrates how structural defects become self-reinforcing once they serve enough interested parties.
+
+The documented sequence: Arthur Andersen's Professional Standards Group ruled in the early 1990s that options were a compensatory expense. Andersen's rainmaking partners overruled the PSG — expensing would have hurt client reported earnings. FASB then voted 7-0 to require expensing. The U.S. Senate voted 88-9 against FASB's proposal under intense company and CEO pressure; several senators called for FASB's abolition. Arthur Levitt, then SEC Chairman, reluctantly backed down — a decision he later called the act of his chairmanship he most regretted. FASB retreated to an "honor system": of the S&P 500, 498 companies chose the non-expensing method.
+
+Buffett's summary: **"Compensation-hungry CEOs loved this outcome: Let FASB have the honor; they had the system."**
+
+The cultural consequence: reported earnings for much of corporate America were persistently overstated through the 1990s, and the overstatement grew as option grants expanded. "Pro-forma" earnings became the preferred reporting language — excluding stock-based compensation as if it were not a real cost. "Managers that always promise to 'make the numbers' will at some point be tempted to make up the numbers." See [[berkshire-2002-letter]].
+
+## The CEO-pay culture: consultants and contagion (2003)
+
+Buffett identified a systemic contagion mechanism for compensation escalation. Compensation consultants are hired by boards, report upward to the compensation committee, and depend on maintaining client relationships. Their structural incentive is to recommend generosity. Once any CEO captures an "overreaching" package, it becomes the benchmark for the next round of surveys. The consultant then uses those comparisons at each client company to advocate for similar awards. The result: "compensation packages gained by the most avaricious… were promptly replicated elsewhere."
+
+> As one compensation consultant commented: "There are two classes of clients you don't want to offend — actual and potential." ([[berkshire-2003-letter]])
+
+The "play-money" framing captures the board-room dynamic: in a compensation negotiation where neither side's personal finances are at stake, neither party has a personal incentive to say "Less!" Berkshire's counter-structure is designed to restore that incentive: the CEO takes a nominal salary with no options; directors receive nominal fees, no D&O insurance, and hold large personally-purchased stakes. "If you can't tell whose side someone is on, they are not on yours." See [[berkshire-2003-letter]].
+
 ## How it's discussed in sources
 
 - [[berkshire-1985-letter]] — debut; the savings-account analogy; the three structural fixes; Berkshire's six-feature alternative
 - [[berkshire-1991-letter]] — the H.H. Brown $7,800-base / capital-charged-bonus system; "stand in the shoes of owners"
 - [[berkshire-1992-letter]] — the stock-options-as-expense essay; the standing offer to buy options at fair value
-- [[berkshire-1994-letter]] — **the Schey-Scott Fetzer arrangement detailed**; symmetric incentives; "alignment in both directions, not just on the upside"
+- [[berkshire-1994-letter]] — the Schey-Scott Fetzer arrangement detailed; symmetric incentives; "alignment in both directions, not just on the upside"
+- [[berkshire-1998-letter]] — the General Re cash-comp swap as controlled experiment; the "Alice-in-Wonderland" accounting critique; Buffett's 5–10% portfolio discount for option-issuing companies
+- [[berkshire-1999-letter]] — GEICO's two-variable bonus scheme; new-business cost excluded; "we foot the bill"; long-duration customer value encoded into pay design
+- [[berkshire-2001-letter]] — MiTek coinvestment model as alternative to options; option-repricing attack; "shareholders as patsies, not partners"
+- [[berkshire-2002-letter]] — FASB/Andersen/Senate defeat of options-expensing documented; "compensation-hungry CEOs"; pro-forma earnings as cultural symptom
+- [[berkshire-2003-letter]] — CEO-pay contagion mechanism; consultants as "couriers for this epidemic of greed"; "play-money" framing of comp-committee negotiations
 
 ## Related
 

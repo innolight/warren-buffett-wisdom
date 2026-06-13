@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1987-letter, berkshire-1988-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1995-letter]
+updated: 2026-06-13
+sources: [berkshire-1987-letter, berkshire-1988-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter]
 tags: [investment-banking, convertible-preferred, reputation, mistake]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[john-gutfreund]], [[charlie-munger]], [[usair]]
 ---
@@ -74,6 +74,18 @@ The 1989 zero-coupon-bond essay's broader critique of investment-banking ethics 
 | 1991 | $700M conv. pfd. | $700.0M | $714.0M |
 | 1992 | $700M conv. pfd. | $700.0M | $756.0M |
 | 1995 | $560M conv. pfd. (post $140M redemption) | $560.0M | $588.0M (after redemption) |
+| 1996 | Conv. pfd.; partial monetization via exchangeable notes | $560.0M | ~par | Berkshire issued $500M of five-year notes exchangeable into 17.65 Salomon shares per $1,000 note; proceeds $447.1M; 3% yield to maturity if held |
+| 1997 | Travelers Group common (post Salomon–Travelers merger) | $604.4M | $1,278.6M | Salomon merged into Travelers; stake retained as Travelers common |
+
+## Exit: merger into Travelers Group (1997)
+
+In 1996, Berkshire partially monetized the Salomon position by issuing $500M of five-year notes exchangeable into Salomon common at 17.65 shares per $1,000 note — proceeds of $447.1M, with a 3% yield to maturity if held to term. See [[berkshire-1996-letter]].
+
+The full exit came in 1997, when Salomon merged with Travelers Group. Berkshire retained the resulting position as Travelers common (23.7M shares; $604.4M cost; $1.279B market at yearend 1997). Deryck Maughan and Bob Denham were credited in [[berkshire-1997-letter]] with saving Salomon after 1991 and restoring multi-year vitality, with Buffett describing "long-suffering shareholders rewarded." The Travelers position was subsequently sold.
+
+Buffett's relief at the conclusion was audible. He had spent ten months as Interim Chairman navigating the 1991 Treasury auction scandal — an engagement he described as "a play … I would have enjoyed except that I had an unfortunate seat. It faced the stage." His 1997 formulation on the difficulty of extricating himself from both Salomon and USAir: "How can I miss you if you won't go away?" (quoting a country song).
+
+The lesson Buffett drew: operating in an industry whose product is a non-proprietary promise, whose economics are opaque, and whose culture depends on individual integrity under aggressive compensation incentives is doubly difficult. The economics set the incentive structure; the incentive structure corrodes the culture. The Salomon episode validated his original confession in [[berkshire-1987-letter]] — "no special insights regarding the direction or future profitability of investment banking" — and reinforced the discipline of staying within [[circle-of-competence]]. The financial return was modest (the conversion option "must be graded as very poor" — [[berkshire-1995-letter]]); the reputational and time cost of the crisis intervention was significant.
 
 ## Sources discussing this entity
 
@@ -83,6 +95,8 @@ The 1989 zero-coupon-bond essay's broader critique of investment-banking ethics 
 - [[berkshire-1991-letter]] — Buffett elected Interim Chairman August 18; the personal cost of the engagement; Salomon's fragility candidly acknowledged
 - [[berkshire-1992-letter]] — post-crisis report; Maughan, Denham, Howard, Macfarlane credited; Ron Olson; *Fortune* reputation survey
 - [[berkshire-1995-letter]] — first scheduled $140M redemption; the retrospective grading of the conversion option as "very poor"
+- [[berkshire-1996-letter]] — partial monetization via $500M exchangeable notes ($447.1M proceeds); Bob Denham tribute on B-share offering structure
+- [[berkshire-1997-letter]] — merger with Travelers Group; Maughan and Denham credited; stake retained as Travelers common; relief at conclusion
 
 ## Related
 

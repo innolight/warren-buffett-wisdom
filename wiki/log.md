@@ -272,6 +272,70 @@ Focus: concepts only; entities and people skipped per user direction.
 - Updated `index.md`: 2 new sources, 4 new concepts, updated summaries for 5 existing concepts
 - Open threads: Entity and people pages (SAFECO, Buffalo Evening News, Associated Retail Stores, Ben Rosner, Jack Ringwalt, Phil Fisher, etc.) deferred — not prioritized per user direction. Warren Buffett and Charlie Munger pages not yet touched; Charlie Munger does not appear in 1977–1979 letters.
 
+## [2026-06-13] ingest | berkshire-1996-letter through berkshire-2003-letter (batch)
+
+Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages written, then 8 clustered production agents wrote/updated all target pages in parallel; (2) 8 review-and-fix agents verified every claim against raw letters, correcting 19 issues; (3) index and log updated by main agent.
+
+**Sources created (8):**
+- `sources/berkshire-1996-letter.md` — GEICO fully integrated and policies surging; FlightSafety acquired; Dexter Shoe stock-payment admission; float growth
+- `sources/berkshire-1997-letter.md` — General Re announced; Goizueta obituary; eight acquisitions; look-through earnings table
+- `sources/berkshire-1998-letter.md` — General Re closes; derivatives book concern first raised; stock-options FASB 7-0 vote; total float reaches $22.8B
+- `sources/berkshire-1999-letter.md` — 20th-century equity return framework; GEICO advertising stumble; circle of competence and tech abstention
+- `sources/berkshire-2000-letter.md` — Aesop bird-in-hand investment reformulation; eight new acquisitions; GEICO recovery; dot-com critique
+- `sources/berkshire-2001-letter.md` — 9/11 losses ($2.28B pretax); super-cat market hardens; Gen Re reserve shortfall ($800M); terrorism risk essay
+- `sources/berkshire-2002-letter.md` — "financial weapons of mass destruction" derivatives essay; corporate governance critique; "owner-capitalism" coined
+- `sources/berkshire-2003-letter.md` — McLane and Clayton acquisitions; foreign currency bonds; Noah Rule coined; Gen Re derivatives runoff nearing completion
+
+**New pages created (18):**
+- `entities/general-re.md` — global reinsurer acquired 1998 for stock; culture failure in underwriting; derivatives book runoff
+- `entities/shaw-industries.md` — world's largest carpet maker; acquired 2001; scale-and-distribution moat
+- `entities/fruit-of-the-loom.md` — apparel; acquired from bankruptcy 2002; Farley leveraged-buyout cautionary tale
+- `entities/netjets.md` — fractional aircraft ownership; Rich Santulli; acquired 1998
+- `entities/midamerican-energy.md` — regulated utility holding; Dave Sokol; acquired 2000
+- `entities/flightsafety.md` — aviation simulator training; Al Ueltschi; acquired 1996
+- `entities/clayton-homes.md` — manufactured housing; acquired 2003 via Tennessee students; disciplined loan-retention model
+- `entities/dexter-shoe.md` — worst acquisition admission; paid with Berkshire stock; canonical stock-as-currency cautionary tale
+- `people/rich-santulli.md` — NetJets founder; fractional aviation pioneer
+- `people/joe-brandon.md` — General Re CEO post-acquisition; led the cleanup
+- `people/al-ueltschi.md` — FlightSafety founder; safety-mission operator
+- `people/dave-sokol.md` — MidAmerican Energy CEO; the get-it-done utility operator
+- `people/tony-nicely.md` — GEICO CEO from 1993; virtuous-circle growth architect
+- `concepts/derivatives.md` — "financial weapons of mass destruction"; systemic counterparty risk; Gen Re Securities runoff
+- `concepts/underwriting-discipline.md` — profit over market share; multi-year cycle thinking; Gen Re failure case
+- `concepts/circle-of-competence.md` — boundary awareness; tech abstention rationale during dot-com
+- `concepts/noah-rule.md` — predicting rain vs. building arks; preparation over forecasting
+- `concepts/corporate-governance.md` — board independence failures; options-expensing fight; post-Enron restatement
+
+**Pages updated (32):**
+- Concepts: acquisition-criteria, capital-allocation, concentration-vs-diversification, economic-goodwill, float, franchise-vs-business, incentive-compensation, institutional-imperative, intrinsic-value-vs-book-value, mistakes-of-omission, moat, mr-market, owner-orientation, share-repurchases, stock-as-acquisition-currency, super-cat-insurance, volatility-as-opportunity
+- Entities: american-express, berkshire-hathaway, coca-cola, geico, gillette, salomon, scott-fetzer, sees-candies, usair
+- People: ajit-jain, ben-graham, lorimer-davidson, lou-simpson, ralph-schey, roberto-goizueta
+
+**Wave 2 review corrections (19 across 8 clusters):**
+- A: GEICO first visit corrected to January 1951; Jain float direction corrected (nearly *doubled* GEICO's $3.4B, not matched it); missing source frontmatter and body entries added to ajit-jain
+- B: Gen Re yearend 1997 float corrected $7.1B → $7.4B (prior figure was the 1997 *average* float, not yearend)
+- C1: "Sun Valley-style conference" label removed (raw 1999 letter says only "a conference in California"); fruit-of-the-loom arithmetic clarified; Clayton loan-retention shift placed post-acquisition (not pre); Sercer's role corrected to FlightSafety shareholder (not Berkshire); Buffett's NetJets join date corrected to 1995 (not "around 1994")
+- C2: Clayton loan-retention correctly framed as post-acquisition change; moat.md "substantially changed" quote re-attributed to 2002 letter (was mis-cited as 2001)
+- D: "seven common-stock positions" corrected to eight; Goizueta letter-reading paraphrase tightened to match source ("read every one of more than 100 letters and notes")
+- E: Book value claim removed (fell 6.2% in 2001, did not compound through period); "$2.275B" false-precision loss figure replaced with Buffett's actual range ($2B–$2.5B); 1988-letter citation removed from portfolio-insurance critique (belongs to 1987 letter)
+- F: Unverifiable "$100,000 salary" and "~30%+ ownership" figures removed from owner-orientation (zero matches in raw letters)
+- G: USAir $240.5M cumulative dividends re-attributed to 1996 letter (raw 1997 letter contains no such figure)
+
+**Deliberately skipped (per scope filter):**
+- Year-by-year operating metrics for wholly-owned subsidiaries — belong on source pages
+- Operating managers below shaping bar: Bob Shaw (Shaw Industries), Jim Clayton beyond founding story, John Holland (Fruit of the Loom), Chuck Huggins (See's post-2000)
+- Wesco Financial 1996–2003 updates — Munger covered via Berkshire context; Wesco standalone page not yet warranted
+- MidAmerican subsidiary detail (CalEnergy, Kern River pipeline, Yorkshire Electric) — covered on entity and source pages
+- Period-specific topics: SFAS 142 goodwill rule changes, Berkshire B-share split mechanics, specific policy-count tables
+
+**Open threads resolved from prior log:**
+- Dexter Shoe entity page now created — the admission of mistake appeared in 1996 letter; cleared the threshold
+- Tony Nicely standalone page now created — GEICO's 1996+ performance confirmed his shaping status
+
+**Net page count change:** 73 → 123 substantive pages (18 new + 8 new sources = 26 additions; no deletions).
+
+---
+
 ## [2026-05-24] ingest | berkshire-1977-letter
 
 - Created source: `sources/berkshire-1977-letter.md`

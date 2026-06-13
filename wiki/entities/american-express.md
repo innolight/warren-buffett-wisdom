@@ -2,10 +2,10 @@
 type: entity
 status: draft
 created: 2026-05-25
-updated: 2026-05-26
-sources: [berkshire-1980-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter]
+updated: 2026-06-13
+sources: [berkshire-1980-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [financial-services, brand, marketable-equities, perc]
-related: [[berkshire-hathaway]], [[warren-buffett]], [[franchise-vs-business]], [[geico]]
+related: [[berkshire-hathaway]], [[warren-buffett]], [[franchise-vs-business]], [[geico]], [[concentration-vs-diversification]]
 ---
 
 # American Express
@@ -46,6 +46,13 @@ The hybrid is mostly common-stock economics with a yield kicker rather than the 
 | 1993 | Common (post-conversion) | ~2.4% of company | — | — |
 | 1994 | Common | 27,759,941 | $723.9M | $818.9M |
 | 1995 | Common | 49,456,900 | $1,392.7M | $2,046.3M |
+| 1997 | Common | 49,456,900 | $1,392.7M | $4,414.0M |
+| 1998 | Common | 50,536,900 | $1,470.0M | $5,180.0M |
+| 1999 | Common | 50,536,900 | $1,470.0M | $8,402.0M |
+| 2000 | Common (post 3-for-1 split) | 151,610,700 | $1,470.0M | $8,329.0M |
+| 2001 | Common | 151,610,700 | $1,470.0M | $5,410.0M |
+| 2002 | Common | 151,610,700 | $1,470.0M | $5,359.0M |
+| 2003 | Common | 151,610,700 | $1,470.0M | $7,312.0M |
 
 Berkshire converted the PERC and meaningfully added in 1994; further large additions in 1995 took ownership to just under 10%.
 
@@ -58,6 +65,20 @@ The 1994 letter explains why Berkshire enlarged Amex into a top-tier position. T
 
 The 1994 letter's reflection: "I find that a long-term familiarity with a company and its products is often helpful in evaluating it." Decades-old observation translating into present-tense conviction — a recurring Buffett pattern that applies as much to Coca-Cola and Washington Post as to Amex. The willingness to add into a familiar franchise at scale, when the price is sensible, is the operational instinct.
 
+## The Prouts Neck moment (retold in 1997)
+
+In the 1997 letter, Buffett retroactively revealed the pivotal 1994 catalyst for the major position build. In August 1994 at Prouts Neck, Maine, Frank Olson — then CEO of Hertz — explained the American Express corporate-card franchise during a golf round. His description of the two-sided network (merchants accept because affluent cardholders use it; cardholders use it because merchants accept it) and the value to corporate customers turned Buffett from a potential seller of his PERC into an active buyer of common stock. By yearend 1997, Berkshire owned 10% of the company at a $1.39B cost against a $4.4B market value. Buffett's characterization: "110% luck, the balance skill." See [[berkshire-1997-letter]].
+
+Harvey Golub, Amex CEO from 1993, received praise in the 1997 letter for stabilizing and refocusing the franchise. By the late 1990s Buffett's framing was that American Express had rebuilt its brand credibility after the salad-oil crisis fully and was now operating its card franchise at durable high returns on the two-sided network advantage — the franchise that had been intact during the 1963 scandal was now running at its full potential.
+
+## 1997–2003: Look-through earnings and sustained holding
+
+The American Express position contributed growing look-through earnings throughout this period: $161M at 10.7% ownership (1997), $228M at 11.3% (1999), and $265M at 11.4% (2000). A 3-for-1 stock split during 2000 brought the share count from ~50.5M to ~151.6M without changing the cost basis of $1,470M. The 2003 letter confirmed that the last position change occurred in 1998 — a small addition that lifted shares from 49.5M to 50.5M and cost from $1,392.7M to $1,470M.
+
+The dot-com bubble years tested the conviction. American Express badly lagged the surging Nasdaq in 1999-2000, and the market value fell from the $8,402M peak (1999) to $5,359M (2002) during the post-bubble correction and 9/11 disruption. Berkshire made no sales. The 2002 framing applied directly: "earnings up, valuations down" — the card franchise's earnings were growing while market prices corrected from bubble excess. See [[concentration-vs-diversification]] for the underlying principle.
+
+By the 2003 letter the market value had recovered to $7,312M at 11.8% ownership. Buffett's summary: "We own pieces of excellent businesses — all of which had good gains in intrinsic value last year — but their current prices reflect their excellence." American Express had completed the arc from the salad-oil scandal of 1963 through the Shearson/IDS turbulence of the 1980s-1990s into a stable, high-return franchise fully exploiting its network moat.
+
 ## Sources discussing this entity
 
 - [[berkshire-1991-letter]] — PERC purchased; structure described; first appearance in fixed-income table
@@ -65,6 +86,13 @@ The 1994 letter's reflection: "I find that a long-term familiarity with a compan
 - [[berkshire-1993-letter]] — first appearance as common; 2.4% ownership; $16M look-through
 - [[berkshire-1994-letter]] — major addition to 27.8M shares; the partnership-era retrospective; "from $12.5 million to $1.4 billion"
 - [[berkshire-1995-letter]] — addition to 49.5M shares (just under 10%); included in the top portfolio holdings
+- [[berkshire-1997-letter]] — 49.5M shares; $4,414M market; 10.7% look-through contributing $161M undistributed; Prouts Neck origin story retold; Harvey Golub praised as CEO
+- [[berkshire-1998-letter]] — slight addition to 50.5M shares; cost $1,470M; $5,180M market; last position change per 2003 letter
+- [[berkshire-1999-letter]] — "badly lagged the market in 1999"; held for competitive-advantage conviction; look-through 11.3%, $228M undistributed
+- [[berkshire-2000-letter]] — 3-for-1 stock split to 151.6M shares; $8,329M market; look-through 11.4%, $265M; major positions "essentially unchanged"
+- [[berkshire-2001-letter]] — held through 9/11 downturn; $5,410M market
+- [[berkshire-2002-letter]] — "earnings up, valuations down"; $5,359M market
+- [[berkshire-2003-letter]] — "last position change in 1998"; $7,312M market; 11.8% ownership; position fully priced but business quality intact
 
 ## Related
 

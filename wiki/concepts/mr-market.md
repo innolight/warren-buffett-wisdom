@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1987-letter, berkshire-1993-letter]
+updated: 2026-06-13
+sources: [berkshire-1987-letter, berkshire-1993-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2002-letter]
 tags: [psychology, valuation, graham, market-behavior]
 related: [[ben-graham]], [[volatility-as-opportunity]], [[margin-of-safety]], [[intrinsic-value-vs-book-value]]
 ---
@@ -42,11 +42,25 @@ The Mr. Market frame replaces — and is intentionally a substitute for — the 
 
 See [[risk-vs-volatility]] for the parallel critique of beta as a measure of risk.
 
+## The dot-com bubble: Mr. Market's most extreme episode
+
+The 1999–2002 dot-com cycle provided the starkest real-world demonstration of the Mr. Market allegory since the 1970s bear market. In the [[berkshire-1999-letter]], Buffett explained Berkshire's abstention from technology stocks not as contrarianism but as a strict application of the Mr. Market frame: Berkshire's job is to evaluate businesses, not to play Mr. Market's enthusiasm. "If others claim predictive skill in those industries — and seem to have their claims validated by the behavior of the stock market — we neither envy nor emulate them."
+
+In the [[berkshire-2000-letter]], Buffett translated the allegory into the period's terms. The dot-com speculator was not investing but playing a different game entirely — betting on what the next fellow would pay, not on what the business would produce. The Cinderella metaphor updated for the bubble: "They know that overstaying the festivities … will eventually bring on pumpkins and mice. But they nevertheless hate to miss a single minute of what is one helluva party. Therefore, the giddy participants all plan to leave just seconds before midnight. There's a problem, though: They are dancing in a room in which the clocks have no hands." Mr. Market at his most manic; the rational investor's best posture is to watch and wait.
+
+The same letter introduced what amounts to Mr. Market's rational counterpart — Aesop's bird-in-hand formula: all investment is an exchange of current certainty for estimated future cash flows. The formula "is immutable. It applies to outlays for farms, oil royalties, bonds, stocks … And neither the advent of the steam engine, the harnessing of electricity nor the creation of the automobile changed the formula one iota — nor will the Internet." Where Mr. Market offers prices driven by emotion, Aesop's formula offers the invariant measure against which those prices should be evaluated. See [[capital-allocation]] for the full development of the Aesop framework.
+
+By 2002, with the NASDAQ down roughly 75% from its March 2000 peak, the [[berkshire-2002-letter]] documented the aftermath: "the insanity of valuations reached during The Great Bubble. Unfortunately, the hangover may prove to be proportional to the binge." The patient investor who declined Mr. Market's manic offers — and did not let his manic prices become the measure of value — emerged with capital intact and the opportunity to deploy at Mr. Market's newly depressed prices.
+
+The dot-com era enduring lesson: Mr. Market's most dangerous manifestation is not the panicked seller but the euphoric bidder. The allegory's warning runs both ways — the manic offer deserves no more credence than the depressed one.
+
 ## How it's discussed in sources
 
-- [[berkshire-1987-letter]] — canonical articulation; the full allegory; the Cinderella warning; "voting machine / weighing machine"
-- [[berkshire-1988-letter]] — Mr. Market implicit in the "portfolio insurance" critique (the October 1987 break is treated as Mr. Market in seizure)
+- [[berkshire-1987-letter]] — canonical articulation; the full allegory; the Cinderella warning; "voting machine / weighing machine"; portfolio-insurance critique post-October 1987 crash (Mr. Market in seizure; $60–90B of equities on hair-trigger sell programs)
 - [[berkshire-1993-letter]] — reprised in the risk-vs-beta essay; the "true investor welcomes volatility" passage; the Coca-Cola 1919–1920 history as empirical confirmation
+- [[berkshire-1999-letter]] — dot-com trough year; Berkshire's tech abstention framed explicitly as circle-of-competence, not contrarianism; the market as a "voting machine" running on speculation, not business value
+- [[berkshire-2000-letter]] — the "clocks have no hands" Cinderella update; Aesop's bird-in-hand as the invariant valuation formula Mr. Market's prices should be measured against; "nothing sedates rationality like large doses of effortless money"
+- [[berkshire-2002-letter]] — post-bubble reckoning; "the hangover may prove proportional to the binge"; the sustained three-year decline as Mr. Market's depressive phase creating opportunity for the patient investor
 
 ## Related
 

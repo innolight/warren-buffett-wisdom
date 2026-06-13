@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1991-letter]
+updated: 2026-06-13
+sources: [berkshire-1991-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-2003-letter]
 tags: [moat, competitive-advantage, business-quality, valuation]
 related: [[moat]], [[economic-goodwill]], [[commodity-business-economics]], [[capital-cities]], [[buffalo-evening-news]]
 ---
@@ -59,10 +59,26 @@ The asymmetry runs both directions:
 
 The framing is a useful purchase filter: pay a franchise multiple only when the franchise test is met; otherwise pay a business multiple regardless of management quality.
 
+## Process discipline as a franchise-like moat in a commodity industry: Clayton Homes
+
+The 2003 Clayton Homes acquisition adds a counterintuitive case to the franchise/business spectrum. Manufactured housing is structurally a commodity business — the product is largely substitutable, price competition is intense, and nothing inherent to the product creates switching costs or demand-side pricing power. The canonical behavior for such an industry is to compete on price, accept thin margins, and seek volume.
+
+What made Clayton different was not the product but its underwriting discipline. The rest of the manufactured-housing industry adopted an originate-and-distribute lending model during the 1990s securitization boom: retailers and manufacturers wrote loans, sold them to capital markets, and severed the connection between the originator's decision and its economic consequence. Bad underwriting was rewarded with volume; the losses landed on distant investors. Clayton also securitized loans — the 2003 letter notes that its earnings "significantly depended on securitizations" — but it underwrote more carefully than its major competitors, "behaved considerably better" (Buffett's words), and maintained stricter credit standards throughout. After the Berkshire acquisition, Berkshire directed Clayton to begin retaining its loans rather than securitizing them, reflecting a judgment that the economics of holding a soundly-selected loan portfolio were superior to securitization proceeds.
+
+The economic outcome was franchise-like: when the originate-and-distribute model collapsed in the early 2000s and competitors' loan books imploded, Clayton's superior underwriting left it comparatively intact. Its returns persisted while competitors' were destroyed. The differentiation was invisible in the product itself — a Clayton home is not obviously superior — but entirely real in the discipline applied to who was financed and on what terms.
+
+The key distinction from a conventional franchise: the "moat" here is not demand-side (customers do not prefer Clayton for non-price reasons) but supply-side discipline that competitors could theoretically replicate but chose not to because it required foregoing near-term volume. Once competitors had distributed the loans and taken the fees, the damage to their balance sheets was done and could not be undone.
+
+This case extends the franchise/business framework: underwriting discipline, consistently applied across a full credit cycle while competitors abandoned it, can generate durable differentiated returns in commodity industries. The discipline is durable only so long as management maintains it — which is the same fragility that afflicts any culture-based competitive advantage.
+
+See [[berkshire-2003-letter]] for the full manufactured-housing industry diagnosis.
+
 ## How it's discussed in sources
 
 - [[berkshire-1991-letter]] — canonical definition; the three-condition test; the media valuation math; the reclassification of media from franchise to business
 - [[berkshire-1995-letter]] — the "have-to-be-smart-once" vs. "have-to-be-smart-every-day" extension; retailing as the canonical "must-be-smart-every-day" business; TV station as the canonical "must-be-smart-once" franchise
+- [[berkshire-1996-letter]] — the "Inevitables" essay: the highest tier of the franchise category (Coca-Cola, Gillette) as businesses whose global dominance over an investment lifetime is near-certain; the framing that these two cases represent genuine certainty of dominance, not merely high probability
+- [[berkshire-2003-letter]] — Clayton Homes as process-discipline franchise in manufactured housing; the originate-and-distribute securitization collapse as the case study in what happens when competitive discipline is structurally removed; "buyers who shouldn't have bought, financed by lenders who shouldn't have lent"
 
 ## Related
 

@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1991-letter, berkshire-1993-letter]
+updated: 2026-06-13
+sources: [berkshire-1991-letter, berkshire-1993-letter, berkshire-1997-letter, berkshire-1999-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [portfolio-construction, risk, capital-allocation]
 related: [[risk-vs-volatility]], [[capital-allocation]], [[mistakes-of-omission]], [[passive-ownership-advantage]]
 ---
@@ -51,7 +51,7 @@ What is *not* on this list: the typical actively-managed mutual fund holding 80 
 
 ## Berkshire's practical implementation
 
-By yearend 1991 ([[berkshire-1991-letter]]): seven common-stock positions over $100M (Cap Cities, Coca-Cola, Freddie Mac, GEICO, Gillette, Guinness, Washington Post, Wells Fargo) account for the great majority of the equity portfolio. By 1993, top positions concentrated even further; Coca-Cola alone over $4B. Buffett's framing in 1993:
+By yearend 1991 ([[berkshire-1991-letter]]): eight common-stock positions over $100M (Cap Cities, Coca-Cola, Freddie Mac, GEICO, Gillette, Guinness, Washington Post, Wells Fargo) account for the great majority of the equity portfolio. By 1993, top positions concentrated even further; Coca-Cola alone over $4B. Buffett's framing in 1993:
 
 > Charlie and I decided long ago that in an investment lifetime it's just too hard to make hundreds of smart decisions. … Therefore, we adopted a strategy that required our being smart — and not too smart at that — only a very few times. Indeed, we'll now settle for one good idea a year.
 
@@ -61,12 +61,36 @@ A practical reason concentration works for the long-horizon investor: capital ga
 
 The mathematical edge of *not selling* a wonderful business reinforces concentration: each new position requires displacing or supplementing existing ones, and the tax cost of displacing is high.
 
+## Selection discipline: the Ted Williams principle (1997)
+
+The 1997 letter introduced the Ted Williams analogy as the canonical articulation of selection discipline for the concentrated investor. Williams described dividing the strike zone into 77 cells and knowing his batting average for balls in each: swinging only at pitches in his best zone, he could bat .400; reaching for the low outside corner, his average fell to .230.
+
+Buffett's direct application: "In his book *The Science of Hitting*, Ted explains that he carved the strike zone into 77 cells, each the size of a baseball. Swinging only at balls in his 'best' cell, he knew, would allow him to bat .400; reaching for balls in his 'worst' spot, the low outside corner of the strike zone, would reduce him to .230." The direct translation to capital deployment: "If they are in the strike zone at all, the business 'pitches' we now see are just catching the lower outside corner. If we swing, we will be locked into low returns." ([[berkshire-1997-letter]])
+
+The extension to the concentration doctrine: concentration is not merely a portfolio-construction principle (concentrate in what you know best) but also a selection standard (do not swing outside your best pitch zone, even when standing still is uncomfortable). The know-something investor concentrates *and* waits. A late-1990s market priced for perfection reduced the number of fat pitches without reducing the discipline to demand them. See [[capital-allocation]].
+
+## The dot-com bubble test (1999–2003)
+
+The late 1990s were the empirical proving ground for the concentration doctrine. Berkshire held large concentrated positions in [[coca-cola]], [[gillette]], [[american-express]], and [[wells-fargo]] through a period when all four badly underperformed the surging Nasdaq. Rather than diversifying into technology stocks or rotating to chase performance, Buffett held all four throughout.
+
+The 1999 explanation was not contrarianism but circle-of-competence reasoning: "Our lack of tech insights... does not distress us... We simply stick with what we understand." ([[berkshire-1999-letter]]) The principle in both its positive and negative forms: (a) the know-something investor concentrates in businesses they understand deeply; (b) the boundary of understanding is respected even when staying within it is temporarily costly.
+
+All four positions carried significant unrealized underperformance or drawdown from 1999 through 2002. Gillette's market value fell 40% from its 1997 level; American Express fell from $8,402M at the 1999 peak to $5,359M in 2002. Berkshire made no sales. The 2002 framing was "earnings up, valuations down": the businesses had not deteriorated, only the bubble-era prices had corrected. ([[berkshire-2002-letter]])
+
+The 2003 letter added a candid caveat: "I made a big mistake in not selling several of our larger holdings during The Great Bubble." But the directional principle held: selling excellent businesses requires finding better alternatives net of the full tax cost, and that bar is high. The appropriate response to holding known, excellent businesses at peak prices is to decline to add more and to hold — not to diversify away.
+
+The durable principle encoded by the bubble test: diversification protects against ignorance. If you genuinely understand what you own and its competitive position is intact, concentration is rational — and the test of whether you genuinely understand it is whether you can hold through a severe drawdown without the conviction wavering. ([[berkshire-2003-letter]])
+
 ## How it's discussed in sources
 
 - [[berkshire-1991-letter]] — Keynes citation; the "fifteen-year-old creed" extension of the 1977 statement of investment policy; portfolio focused on a few outstanding businesses
 - [[berkshire-1993-letter]] — canonical essay; know-nothing vs. know-something investor; Mae West quote; "one good idea a year"; explicit defense of concentration as risk-reducing for the know-something case
 - [[berkshire-1994-letter]] — Ted Williams' "happy zone" framing; "$100 million minimum" purchase threshold reinforces concentration mechanically
 - [[berkshire-1988-letter]] — "We continue to concentrate our investments in a very few companies that we try to understand well."
+- [[berkshire-1997-letter]] — Ted Williams 77-cell strike-zone discipline; canonical selection standard for the concentrated investor; standing with the bat on the shoulder as a positive discipline
+- [[berkshire-1999-letter]] — circle-of-competence explanation for tech abstention; concentration defended under duress during the dot-com mania; "we simply stick with what we understand"
+- [[berkshire-2002-letter]] — "earnings up, valuations down" framing for holding concentrated positions through the post-bubble decline without capitulating to performance pressure
+- [[berkshire-2003-letter]] — portfolio frozen; self-critical note on the bubble-top sell error; permanence of holding as the implicit concentration commitment
 
 ## Related
 
