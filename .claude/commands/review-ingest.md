@@ -1,5 +1,5 @@
 ---
-description: Review the quality of a completed ingestion — verify quotes, facts, cross-references, and coverage against the raw source
+description: Review the quality of a completed ingestion — verify that timeless wisdom is accurately captured, well-distilled, and not buried in ephemeral detail
 argument-hint: <source-slug or raw-path>
 ---
 
@@ -19,14 +19,23 @@ Do all reading before reporting. Findings must be grounded in what you actually 
 
 ## Checks
 
-### 1. Quote accuracy
-Every quoted passage in the source page and in any new or updated concept/entity pages that attribute to this source must be verified verbatim against the raw document. Check for: dropped opening or closing clauses, paraphrases presented as direct quotation, quotes transplanted from a different source.
+### 1. Distillation quality
+This is the primary check. For each new or updated concept/entity page and for the source page's `## Key themes`:
 
-### 2. Factual accuracy
-Every numerical figure, date, count, and named fact in the source page and in updated pages that cite this source: verify against the raw document. Flag mismatches.
+- **Chronicle vs. principle:** Does the writing read as timeless insight, or as a year-specific recap? Flag any passage that anchors the lesson to a particular year, quarter, or event without extracting the transferable principle (e.g. "In 1988, Berkshire earned X%" is chronicle; "Float-funded portfolios compound differently than equity-funded ones" is principle).
+- **Actionability:** Could a reader apply the insight to a new situation 20 years from now? Flag passages that document what happened without stating why it matters.
+- **Conciseness:** Flag sections padded with supporting detail that restates the same point without adding new depth. The test: if a paragraph were removed, would understanding of the concept suffer?
+- **Numbers as illustration vs. record-keeping:** A figure is justified when it anchors a principle (e.g., See's purchase price illustrating price-vs-value). Flag figures that appear as chronicle (annual earnings, one-time transaction amounts, period returns) with no attached lesson.
+
+### 2. Quote accuracy
+For quoted passages that carry conceptual weight — a principle, a mental model, a revealing analogy — verify verbatim against the raw document. Check for: dropped clauses, paraphrases presented as direct quotation, quotes transplanted from a different source.
+
+Skip verbatim verification of incidental quotes (color commentary, year-specific observations) — those don't warrant the same rigor.
 
 ### 3. Key themes coverage
 Read the raw source section by section. For each substantive theme present in the raw, ask: does it appear in the source page's `## Key themes`? Flag absent themes that (a) involve a timeless principle, a canonical entity, or a notable disclosure, **and** (b) are not explained as a deliberate skip in the log entry.
+
+Do not flag absent themes that are purely year-specific (market conditions, accounting rule changes, one-time events with no enduring lesson).
 
 ### 4. Cross-reference accuracy
 For each bullet in `## Connections to other sources`: read the referenced source page and verify that the description of what that source says is accurate. Flag any description that mischaracterizes the referenced page.
