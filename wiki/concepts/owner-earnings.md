@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-06-14
-sources: [berkshire-1986-letter, berkshire-2012-letter, berkshire-2013-letter]
+sources: [berkshire-1986-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter]
 tags: [accounting, valuation, cash-flow, capital-allocation]
 related: [[intrinsic-value-vs-book-value]], [[look-through-earnings]], [[economic-goodwill]]
 ---
@@ -92,6 +92,7 @@ Buffett's stance: "I would rather be vaguely right than precisely wrong." Owner 
 - [[berkshire-1987-letter]] — referenced repeatedly in the discussion of why Berkshire separately reports the earnings of operating businesses before purchase-price adjustments
 - [[berkshire-2012-letter]] — non-real vs. real amortization distinction; Wells Fargo's $1.5B "amortization of core deposits" as the canonical example of a GAAP charge with no economic content; IBM adjusted earnings as parallel; the practical investor framework for classifying amortization
 - [[berkshire-2013-letter]] — quantification of the real/non-real split: of $648M amortization in Berkshire's manufacturing/service/retail segment, ~20% real and ~80% not; the EBITDA critique at its sharpest: "When Wall Streeters tout EBITDA as a valuation guide, button your wallet"; every depreciation dollar is a real cost
+- [[berkshire-2014-letter]] — updated figures: $1.15B in total amortization charges in Manufacturing/Service/Retail, ~20% real (~$230M), ~80% non-real (~$920M); $7.4B total intangible assets remaining to amortize at yearend, $4.1B to be charged over the next five years; EBITDA critique restated: "When CEOs tout EBITDA as a valuation guide, wire them up for a polygraph test"; note that as non-real charges amortize off, reported GAAP earnings will increase even if true economic earnings are flat — the investor must add back non-real amortization to see through the noise
 
 ## Related
 

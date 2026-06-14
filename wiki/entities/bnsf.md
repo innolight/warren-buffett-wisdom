@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-06-14
 updated: 2026-06-14
-sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter]
+sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter]
 tags: [railroad, infrastructure, regulated, capital-intensive, acquisition]
 related: [[berkshire-hathaway]], [[midamerican-energy]], [[warren-buffett]], [[capital-allocation]], [[liquidity-fortress]], [[stock-as-acquisition-currency]]
 ---
@@ -98,6 +98,18 @@ BNSF carried approximately **15% of all U.S. inter-city freight by ton-miles** (
 
 The operations leadership transitioned from Matt Rose alone to **Matt Rose and Carl Ice** jointly — both cited alongside Greg Abel (MidAmerican) as extraordinary managers.
 
+## 2014: Service failures and the $6 billion response
+
+2014 was BNSF's first materially difficult year since the Berkshire acquisition. Service quality deteriorated significantly — "BNSF disappointed many of its customers." Severe weather was a contributing factor, but weather alone did not account for the gap: BNSF's service problems exceeded those of Union Pacific, its principal competitor, and BNSF lost market share as a result. Union Pacific's earnings beat BNSF's by a record margin despite similar revenue scales.
+
+The response was not defensive repositioning but increased capital commitment — the social compact in action. Berkshire committed to spending **$6 billion on plant and equipment in 2015**, approximately 26% of estimated revenues and "nearly 50% more than any other railroad has spent in a single year." This compares to BNSF's own prior average of 18% of revenues (2009–2013) and Union Pacific's projected near-term capex of 16–17% of revenues.
+
+Buffett: "Though weather, which was particularly severe last year, will always cause railroads a variety of operating problems, our responsibility is to do whatever it takes to restore our service to industry-leading levels." The investments increase system capacity, which temporarily disrupts operations while underway — but the result will be greater capacity and better service. "Improved profits should follow."
+
+2014 financial results despite the service difficulties: revenues **$23,239M** (up from $22,014M); net earnings **$3,869M** (up from $3,793M); interest coverage **8:1** in Buffett's preferred measure (pre-tax earnings / interest, not EBITDA / interest). BNSF remains Berkshire's most important non-insurance subsidiary. ([[berkshire-2014-letter]])
+
+The lesson for regulated infrastructure: temporary service failures do not impair the long-term thesis when the owner has both the financial strength and the incentive (through the social compact) to remedy them with massive capital investment rather than retrenchment.
+
 ## Sources discussing this entity
 
 - [[berkshire-2009-letter]] — full acquisition narrative; social compact framing; economic characteristics vs. utilities; Matt Rose noted; BNSF to join regulated-utility reporting segment
@@ -105,3 +117,4 @@ The operations leadership transitioned from Matt Rose alone to **Matt Rose and C
 - [[berkshire-2011-letter]] — record revenues ($19.548B), pre-tax ($4.741B), net ($2.972B); 37% of railroad ton-miles = ~15% of all U.S. inter-city freight; 9.5× interest coverage in weak economy; $1.8B above-depreciation capex; "circulatory system of our economy"
 - [[berkshire-2012-letter]] — revenues $20.835B, net $3.372B (new records); 9.6× interest coverage; 500K barrels oil/day (~10% of lower-48 production), expected to grow substantially; $4B capex committed for 2013 (more than any railroad in a single year)
 - [[berkshire-2013-letter]] — revenues $22.014B, net $3.793B (new records); 9:1 interest coverage; $4B capex delivered (record for any railroad, double depreciation); 15% of all U.S. inter-city freight by ton-miles; 500 miles/ton/gallon vs. trucks at 4× the fuel; operations leadership: Matt Rose and Carl Ice
+- [[berkshire-2014-letter]] — service failures and lost market share to Union Pacific (whose earnings beat BNSF by a record margin); $6B capex committed for 2015 (26% of revenues; ~50% more than any railroad in a single year); revenues $23.239B; net earnings $3.869B; 8:1 interest coverage; the social-compact response to adversity: massive capital commitment, not retrenchment

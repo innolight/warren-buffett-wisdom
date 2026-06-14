@@ -10,6 +10,21 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-06-14] ingest | berkshire-2014-letter
+
+- Created `sources/berkshire-2014-letter.md`
+- Created `concepts/berkshire-conglomerate-model.md` — new: 50th anniversary essays as primary source; Berkshire's structural advantages over other conglomerate forms; Munger's 15-point Berkshire System; four-factor diagnosis of why Berkshire succeeded; ABCs of business decay; post-Buffett succession architecture
+- Updated `concepts/cigar-butts-vs-wonderful-businesses.md` — added "origin story and limits of scale" section: the Stanton affair, the textile-mill mistake, the scalability limit of cigar-butt investing, Charlie's blueprint; See's figures updated to $1.9B / $40M; Dexter Shoe effective cost quantified as $5.7B; stock-for-bad-business as mechanism of irreversible value destruction
+- Updated `people/charlie-munger.md` — added "2014 retrospective" section: biographical portrait from "Charlie Straightens Me Out"; the Berkshire System codification; four-factor diagnosis of Berkshire's success; Roger Federer analogy; naming of Jain and Abel as "world-leading"
+- Updated `concepts/float.md` — added 2014 row to table ($83.9B, $2.668B, 12th consecutive year); added "revolving fund and GAAP distortion" 2014 section; added source bullet
+- Updated `concepts/owner-earnings.md` — 2014 amortization figures ($1.15B total, ~20% real, $7.4B remaining to amortize); EBITDA critique restated; source bullet added
+- Updated `entities/geico.md` — 2014 section: 10.8% market share, Nicely 53 years, float $13.6B, underwriting profit $1.16B; source bullet added
+- Updated `entities/bnsf.md` — 2014 section: service failures, lost market share to UP, $6B capex commitment for 2015; revenues $23.2B, net $3.9B; source bullet added
+- Updated `entities/midamerican-energy.md` — 2014 section: renamed BHE; AltaLink ($3B CAD); 6% wind / 7% solar; 11 states; 100% earnings retention; net earnings $2.1B; source bullet added
+- Updated `entities/general-re.md` — 2014: float $19.28B, underwriting profit $277M, Montross disciplines confirmed; source bullet added
+- Updated `wiki/index.md` — added berkshire-2014-letter (Sources); added berkshire-conglomerate-model (Concepts)
+- Deliberately skipped: Van Tuyl Automotive (one-time acquisition, no durable principle); 3G Capital / Heinz partnership (interesting but not yet a canonical case); Tesco mistake (instances covered by mistakes-of-omission framing; $444M after-tax loss documented on source page); Todd Combs / Ted Weschler / Greg Abel (insufficient standalone material for person pages); Big Four stake percentages (year-specific, no enduring principle)
+
 ## [2026-06-14] refactor | berkshire-2013-letter post-ingest quality fixes
 
 Six findings from review-ingest corrected:

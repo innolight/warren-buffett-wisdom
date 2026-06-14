@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-05-24
 updated: 2026-06-14
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter]
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter]
 tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities, wholly-owned]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]], [[jack-byrne]], [[lou-simpson]], [[lorimer-davidson]], [[franchise-vs-business]], [[tony-nicely]]
 ---
@@ -126,6 +126,16 @@ The economic goodwill estimate also advanced materially. When last explicitly qu
 
 The 2013 letter framing on GEICO's structural moat: "GEICO's cost advantage is the factor that has enabled the company to gobble up market share year after year. Its low costs create a moat — an enduring one — that competitors are unable to cross." ([[berkshire-2013-letter]])
 
+## 2014: 10.8% market share and the compounding moat
+
+By 2014, GEICO's market share reached **10.8%** — up from 2.5% at Berkshire's 1995 acquisition and from 2.0% at the start of Tony Nicely's CEO tenure in 1993. Tony Nicely completed **53 years** of service at GEICO in 2014.
+
+Float reached $13,569M (up from $12,566M in 2013); underwriting profit was $1,159M (up from $1,127M). The 2014 letter restates the structural moat in its clearest form: "GEICO's cost advantage is the factor that has enabled the company to gobble up market share year after year. The company's low costs create a moat — an enduring one — that competitors are unable to cross."
+
+The gecko advertisement campaign is now a permanent feature of the competitive position. "Our gecko never tires of telling Americans how GEICO can save them important money. … Unlike a human spokesperson, he never gets a swelled head from his fame nor does he have an agent to constantly remind us how valuable he is." ([[berkshire-2014-letter]])
+
+At least 40% of the U.S. driving population, in Buffett's estimate, can save money by insuring with GEICO — meaning the structural cost advantage still has years of compounding runway ahead at the time of the 2014 letter.
+
 ## Sources discussing this entity
 
 - [[berkshire-1977-letter]] — convertible preferred + common position established during crisis; largest equity holding by combined market value
@@ -153,6 +163,7 @@ The 2013 letter framing on GEICO's structural moat: "GEICO's cost advantage is t
 - [[berkshire-2011-letter]] — market share 9.3% (up from 2.0% at start of Nicely's tenure); premium volume $15.4B vs. $3.3B hypothetical-static; "more than 90% of the auto-insurance market left for GEICO to rake in"; float $11.169B; underwriting profit $576M; Tony Nicely completes 50 years of service at GEICO
 - [[berkshire-2012-letter]] — market share 9.7% (from 2.5% in 1995); premium volume $16.7B; float $11.578B; underwriting profit $680M GAAP (net of $410M non-cash accounting charge); Hurricane Sandy — 46,906 vehicles, largest single loss in GEICO history; persistency and closure both improved; Tony Nicely completes 51 years of service
 - [[berkshire-2013-letter]] — GEICO passes Allstate to become #2 U.S. auto insurer (was #7 in 1995); underwriting profit $1,127M; float $12,566M; economic goodwill "approaching $20 billion"; Tony Nicely 52 years of service; "its low costs create a moat — an enduring one — that competitors are unable to cross"
+- [[berkshire-2014-letter]] — market share 10.8% (from 2.5% at 1995 acquisition; from 2.0% at start of Nicely's tenure); underwriting profit $1,159M; float $13,569M; Tony Nicely 53 years; cost-moat language restated; at least 40% of U.S. drivers could save money by switching to GEICO
 
 ## 2012: 9.7% market share and the Hurricane Sandy test
 

@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-06-10
 updated: 2026-06-14
-sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2012-letter, berkshire-2013-letter]
+sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter]
 tags: [reinsurance, acquisition, underwriting, insurance]
 related: [[berkshire-hathaway]], [[float]], [[super-cat-insurance]], [[ajit-jain]], [[underwriting-discipline]], [[stock-as-acquisition-currency]]
 ---
@@ -50,3 +50,4 @@ By 2003, General Re's underwriting business was genuinely fixed — producing $1
 - [[berkshire-2003-letter]] — Gen Re Securities dithering confession; cleanup confirmed complete; float contributing $23.7B at underwriting profit
 - [[berkshire-2012-letter]] — Tad Montross confirmed as positive exemplar: all four underwriting disciplines maintained; float "better than cost-free under his leadership"; international life reinsurance achieving consistent profitable growth since 1998; float $20.128B, underwriting profit $355M — the turnaround arc complete
 - [[berkshire-2013-letter]] — "General Re is now a gem" — the definitive single-sentence verdict; international life reinsurance highlighted as "grown consistently and profitably since we acquired the company in 1998"; float $20.013B; underwriting profit $283M
+- [[berkshire-2014-letter]] — Tad Montross confirmed as observing all four underwriting disciplines; "we expect that, on average, to continue"; international life reinsurance growth reaffirmed; float $19,280M; underwriting profit $277M

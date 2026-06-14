@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1989-letter, berkshire-1992-letter]
+updated: 2026-06-14
+sources: [berkshire-1989-letter, berkshire-1992-letter, berkshire-2014-letter]
 tags: [valuation, business-quality, graham, evolution-of-buffett]
-related: [[economic-goodwill]], [[turnarounds-seldom-turn]], [[franchise-vs-business]], [[ben-graham]], [[charlie-munger]]
+related: [[economic-goodwill]], [[turnarounds-seldom-turn]], [[franchise-vs-business]], [[ben-graham]], [[charlie-munger]], [[stock-as-acquisition-currency]]
 ---
 
 # Cigar Butts vs. Wonderful Businesses
@@ -30,6 +30,28 @@ The "cigar butt" approach is named for [[ben-graham]]'s tangible-asset-discount 
 > Charlie understood this early; I was a slow learner. But now, when buying companies or common stocks, we look for first-class businesses accompanied by first-class managements. ([[berkshire-1989-letter]])
 
 The first acquisition of Berkshire itself (1965) is acknowledged as the founding mistake of the cigar-butt school — a textile business bought because it was cheap, not because it was good. Hochschild Kohn (a Baltimore department store, 1966) is the second example: "bought at a substantial discount from book value, the people were first-class, and the deal included some extras — unrecorded real estate values and a significant LIFO inventory cushion. How could I miss? So-o-o — three years later I was lucky to sell the business for about what I had paid."
+
+## The origin story in full, and the limits of scale (2014)
+
+The 2014 letter — the 50th anniversary retrospective — contains the richest single-source articulation of the cigar-butt error and the transition away from it. Three components make it the definitive account:
+
+**1. Why Berkshire itself was a mistake.** In May 1964, Seabury Stanton offered to buy Buffett's BPL shares at $11.375 — one eighth of a point below what Stanton had verbally promised. Buffett, irritated, refused to sell and instead began aggressively buying more Berkshire shares, taking control in 1965. The error was spectacular: "That was a monumentally stupid decision." Berkshire was a northern textile manufacturer in a structurally dying industry. Had Buffett taken Stanton's offer, BPL's weighted annual return on its Berkshire investment would have been approximately 40%. Instead he inherited 25% of BPL's capital locked in a terrible business about which he knew very little. "I became the dog who caught the car."
+
+**2. Cigar-butt investing is not scalable.** "My cigar-butt strategy worked very well while I was managing small sums. Indeed, the many dozens of free puffs I obtained in the 1950s made that decade by far the best of my life for both relative and absolute investment performance." But "a major weakness in this approach gradually became apparent: Cigar-butt investing was scalable only to a point. With large sums, it would never work well." And beyond scale: "though marginal businesses purchased at cheap prices may be attractive as short-term investments, they are the wrong foundation on which to build a large and enduring enterprise."
+
+**3. Charlie's blueprint.** "From my perspective, Charlie's most important architectural feat was the design of today's Berkshire. The blueprint he gave me was simple: Forget what you know about buying fair businesses at wonderful prices; instead, buy wonderful businesses at fair prices." The year 1972 — the See's Candy purchase — was the turning point. See's was then earning ~$4M pre-tax on $8M of net tangible assets and possessed "a huge asset that did not appear on its balance sheet: a broad and durable competitive advantage." Buffett almost refused to pay more than $25M (the family wanted $30M); the sellers accepted $25M. "My misguided caution could have scuttled a terrific purchase."
+
+To date, See's has earned **$1.9 billion pre-tax** on incremental investment of only **$40 million**. "See's has thus been able to distribute huge sums that have helped Berkshire buy other businesses that, in turn, have themselves produced large distributable profits. (Envision rabbits breeding.) Additionally, through watching See's in action, I gained a business education about the value of powerful brands that opened my eyes to many other profitable investments." ([[berkshire-2014-letter]])
+
+## The most expensive cigar butt: Dexter Shoe
+
+The 2014 letter delivers the sharpest quantification of how catastrophically wrong the cigar-butt approach goes when combined with stock-based acquisition currency:
+
+Berkshire paid $433 million for Dexter Shoe in 1993 — but paid in Berkshire shares, not cash. Dexter's competitive strengths "were soon to evaporate because of foreign competition. And I simply didn't see that coming." The GAAP cost was $433M. The true economic cost: the Berkshire shares issued for the purchase are now worth approximately **$5.7 billion**. "As a financial disaster, this one deserves a spot in the Guinness Book of World Records."
+
+The compounding mechanism: issuing shares in a wonderful business to acquire an inferior business is a permanent transfer of value. The shares do not depreciate when the acquired business proves disappointing — they keep appreciating as Berkshire competes. The gap between the original accounting cost and the economic cost widens every year the stock rises.
+
+The generalization: "Trading shares of a wonderful business — which Berkshire most certainly is — for ownership of a so-so business irreparably destroys value." And a structural critique of how such deals get done: investment bankers presenting stock-for-stock acquisitions never quantify this math. They focus on "customary premiums-to-market-price" and whether the deal will increase EPS — both of which are "absolutely asinine" ways to evaluate an acquisition. The intrinsic value of shares given must not exceed the intrinsic value of the business received. See [[stock-as-acquisition-currency]]. ([[berkshire-2014-letter]])
 
 ## The toad-kissing variant (1992)
 
@@ -68,6 +90,7 @@ The cigar-butt critique is aimed at (3), not at (1).
 - [[berkshire-1991-letter]] — the See's twenty-year retrospective is the canonical wonderful-business case study; pre-tax profits grew from $4.2M (1972) to $42.4M (1991) on only $18M of reinvested earnings
 - [[berkshire-1992-letter]] — toad-kissing acquirers; "buy good businesses at fair prices"; "growth and value are joined at the hip" companion essay
 - [[berkshire-1993-letter]] — the Coca-Cola compounding case study (1919 share at $40 → $2.1M by 1993 with reinvested dividends)
+- [[berkshire-2014-letter]] — the richest single-source articulation in the series: "Charlie Straightens Me Out" covers the full origin story (the Stanton affair; the textile-mill cigar butt; Charlie's blueprint); the scalability limit of cigar-butt investing; See's updated to $1.9B cumulative earnings on $40M incremental investment; Dexter Shoe's effective cost quantified as $5.7B in Berkshire shares; stock-for-bad-business as the mechanism of irreversible value destruction
 
 ## Related
 
