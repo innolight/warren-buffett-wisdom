@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-05-24
 updated: 2026-06-14
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter]
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter]
 tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities, wholly-owned]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]], [[jack-byrne]], [[lou-simpson]], [[lorimer-davidson]], [[franchise-vs-business]], [[tony-nicely]]
 ---
@@ -118,6 +118,14 @@ This episode is the inverse of the GEICO franchise lesson — the moat is in dir
 
 **2008: #3 and widening.** Market share reached 7.7% (up from 7.2% in 2007), cementing GEICO as the third-largest U.S. auto insurer — behind only State Farm and Allstate. This is the completion of a 13-year arc: #7 in 1995 when Berkshire acquired full control, #3 by 2008, with no sign of slowing. Productivity continued its remarkable trajectory: 439 policies per employee in 2008 vs. 299 five years prior — a 47% gain. GEICO launched commercial auto insurance in 2008, a large adjacent market. Motorcycle policies grew 23.4% (market share ~6% → over 7%). In January 2009, GEICO set a monthly record for policyholder growth — immediately broken by February 2009, as the recession sent price-conscious drivers to its low-cost model. Buffett's framing: "Tony and I feel like two hungry mosquitoes in a nudist camp." ([[berkshire-2008-letter]])
 
+## 2013: GEICO reaches #2 and economic goodwill approaches $20B
+
+By 2013 GEICO had **passed Allstate to become the #2 auto insurer in the United States** — a position that stood at #7 in 1995 when Berkshire acquired full control. Underwriting profit reached $1,127M (up from $680M GAAP in 2012, though the 2012 figure was depressed by a $410M accounting charge). Yearend float was $12,566M (up from $11,578M). Tony Nicely completed 52 years of service at GEICO in 2013.
+
+The economic goodwill estimate also advanced materially. When last explicitly quantified in the 2010 letter, Buffett estimated GEICO's economic goodwill at approximately $14B against a $1.4B book figure. In the 2013 letter, he noted the figure is "approaching $20 billion" — reflecting continued premium volume growth and the widening gap between the low-cost franchise's economic value and its unchanged accounting carrying value.
+
+The 2013 letter framing on GEICO's structural moat: "GEICO's cost advantage is the factor that has enabled the company to gobble up market share year after year. Its low costs create a moat — an enduring one — that competitors are unable to cross." ([[berkshire-2013-letter]])
+
 ## Sources discussing this entity
 
 - [[berkshire-1977-letter]] — convertible preferred + common position established during crisis; largest equity holding by combined market value
@@ -144,6 +152,7 @@ This episode is the inverse of the GEICO franchise lesson — the moat is in dir
 - [[berkshire-2010-letter]] — market share 8.8%; the 60-year retrospective and canonical goodwill illustration; Lorimer Davidson's 1996 videotape tribute; GEICO personal-lines agency (769,898 new homeowner policies, up 34%)
 - [[berkshire-2011-letter]] — market share 9.3% (up from 2.0% at start of Nicely's tenure); premium volume $15.4B vs. $3.3B hypothetical-static; "more than 90% of the auto-insurance market left for GEICO to rake in"; float $11.169B; underwriting profit $576M; Tony Nicely completes 50 years of service at GEICO
 - [[berkshire-2012-letter]] — market share 9.7% (from 2.5% in 1995); premium volume $16.7B; float $11.578B; underwriting profit $680M GAAP (net of $410M non-cash accounting charge); Hurricane Sandy — 46,906 vehicles, largest single loss in GEICO history; persistency and closure both improved; Tony Nicely completes 51 years of service
+- [[berkshire-2013-letter]] — GEICO passes Allstate to become #2 U.S. auto insurer (was #7 in 1995); underwriting profit $1,127M; float $12,566M; economic goodwill "approaching $20 billion"; Tony Nicely 52 years of service; "its low costs create a moat — an enduring one — that competitors are unable to cross"
 
 ## 2012: 9.7% market share and the Hurricane Sandy test
 

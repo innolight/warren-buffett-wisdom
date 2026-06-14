@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-13
 updated: 2026-06-14
-sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2011-letter, berkshire-2012-letter]
+sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter]
 tags: [insurance, underwriting, discipline]
 related: [[float]], [[ajit-jain]], [[super-cat-insurance]], [[institutional-imperative]], [[general-re]]
 ---
@@ -114,6 +114,7 @@ The accompanying anecdote sharpens the fourth test: a man driving the wrong way 
 - [[berkshire-2004-letter]] — NICO cultural model: no-layoff policy as the structural countermeasure to fear-driven rationalization; overstaffing discipline; Tom Murphy hiring lesson; four CEOs in 64 years, none bent; Don Wurster as "superstar"; $1.551B underwriting profit with all four Berkshire insurance segments positive
 - [[berkshire-2011-letter]] — four disciplines explicitly enumerated; the "Albert and Mabel" anecdote as illustration of why the fourth discipline (walk away) is the one most insurers flunk; General Re cited as the positive-turnaround example, now a "treasure" under Tad Montross
 - [[berkshire-2012-letter]] — 10th consecutive underwriting-profit year ($1.625B; $18.6B cumulative); General Re under Tad Montross explicitly confirmed as a second positive model: "float has been better than cost-free under his leadership"; four disciplines restated as the conditions for "a sound insurance operation"
+- [[berkshire-2013-letter]] — 11th consecutive underwriting-profit year ($3.089B); the four disciplines restated as Tad Montross's operating code; General Re named "a gem" after years of repair. The fourth-discipline failure mode stated most precisely: "Many insurers pass the first three tests and flunk the fourth. They simply can't turn their back on business that is being eagerly written by their competitors. That old line, 'The other guy is doing it, so we must as well,' spells trouble in any business, but in none more so than insurance."
 
 ## Related
 

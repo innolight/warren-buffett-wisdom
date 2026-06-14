@@ -2,8 +2,8 @@
 type: person
 status: draft
 created: 2026-05-25
-updated: 2026-06-13
-sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1997-letter, berkshire-2000-letter, berkshire-2001-letter]
+updated: 2026-06-14
+sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1997-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2013-letter]
 tags: [investor, author, teacher, value-investing]
 related: [[warren-buffett]], [[acquisition-criteria]], [[economic-goodwill]], [[david-dodd]]
 ---
@@ -40,6 +40,18 @@ The 1997 letter crystallized Graham's central gift as a single phrase: the margi
 
 In the 2001 letter, Buffett returned to the frontispiece of *Security Analysis*, where Graham and [[david-dodd]] quoted Horace: "Many shall be restored that now are fallen and many shall fall that are now in honor." His reflection: "Fifty-two years after I first read those lines, my appreciation for what they say about business and investments continues to grow" ([[berkshire-2001-letter]]).
 
+## The Intelligent Investor and what it produced (2013)
+
+The 2013 letter contains the most personal account Buffett has given of Graham's impact. He bought *The Intelligent Investor* in 1949 and says plainly: "My financial life changed with that purchase." Before reading it, he had tried charting, technical indicators, tape-watching — everything fascinated him but "I couldn't shake the feeling that I wasn't getting anywhere." Graham's ideas, by contrast, were "explained logically in elegant, easy-to-understand prose (without Greek letters or complicated formulas)."
+
+The key chapters he identifies: **8 and 20** (Mr. Market and margin of safety, respectively). "These points guide my investing decisions today." ([[berkshire-2013-letter]])
+
+Two historical footnotes from the 2013 letter add to Graham's legacy:
+
+**The GEICO connection.** A later edition of *The Intelligent Investor* includes a postscript describing an unnamed investment that was "a bonanza for Ben." Graham made the purchase in 1948 — while writing the first edition — and the mystery company was [[geico]]. Buffett: "If Ben had not recognized the special qualities of GEICO when it was still in its infancy, my future and Berkshire's would have been far different." The GEICO arc that defines Berkshire's insurance operation traces back to Graham's 1948 purchase and his 1951 referral of Buffett to the company.
+
+**The Northern Pacific → BNSF lineage.** The 1949 edition recommended a railroad stock then selling at $17 and earning ~$10 per share — Northern Pacific, whose most important affiliate was Chicago, Burlington and Quincy. "These railroads are now important parts of [[bnsf]], which is today fully owned by Berkshire." At the time of Graham's recommendation, Northern Pacific had a market value of about $40 million. "Now its successor (having added a great many properties, to be sure) earns that amount every four days." — a rough capsule of what a value investor's framework, patiently applied, eventually compounds into. ([[berkshire-2013-letter]])
+
 ## Direct citations
 
 > Investment is most intelligent when it is most businesslike. — Graham, *The Intelligent Investor*, final chapter; quoted in [[berkshire-1984-letter]] alongside Buffett's appraisal that *The Intelligent Investor* is "by far the best book on investing ever written."
@@ -53,6 +65,7 @@ In the 2001 letter, Buffett returned to the frontispiece of *Security Analysis*,
 - [[berkshire-1997-letter]] — margin of safety identified as "the cornerstone of intelligent investing"
 - [[berkshire-2000-letter]] — 50th-anniversary tribute; "a few hours spent at the feet of the master proved far more valuable to me than had ten years of supposedly original thinking"
 - [[berkshire-2001-letter]] — the Horace frontispiece of *Security Analysis*: "Fifty-two years after I first read those lines, my appreciation continues to grow"
+- [[berkshire-2013-letter]] — personal account of buying *The Intelligent Investor* in 1949 ("my financial life changed with that purchase"); chapters 8 and 20 as the enduring guide; the GEICO connection through Graham's 1948 purchase; the Northern Pacific → BNSF lineage ($40M market cap in 1949 → earns that amount every four days today)
 
 ## Related
 

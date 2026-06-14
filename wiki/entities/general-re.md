@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-06-10
 updated: 2026-06-14
-sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2012-letter]
+sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2012-letter, berkshire-2013-letter]
 tags: [reinsurance, acquisition, underwriting, insurance]
 related: [[berkshire-hathaway]], [[float]], [[super-cat-insurance]], [[ajit-jain]], [[underwriting-discipline]], [[stock-as-acquisition-currency]]
 ---
@@ -28,6 +28,8 @@ By 2003, General Re's underwriting business was genuinely fixed — producing $1
 
 **Turnaround confirmed (2012).** In the 2012 letter Buffett describes General Re in the same terms he reserves for Berkshire's best insurance operations: Tad Montross had "observed all four of the insurance commandments," and "General Re's huge float has been better than cost-free under his leadership." He added that he expected it "on average" to continue so. International life reinsurance — part of the original 1998 acquisition thesis — achieved "consistent and profitable growth since we acquired the company in 1998." The 2012 contribution: float of $20.128 billion and an underwriting profit of $355 million. The arc from "I was dead wrong" (2002) to explicit positive exemplar alongside [[ajit-jain]]'s BH Reinsurance (2012) is the complete General Re story as it stands in Buffett's public record.
 
+**"General Re is now a gem" (2013).** The 2013 letter delivers the bluntest possible verdict on the rehabilitation: "It can be remembered that soon after we purchased General Re, the company was beset by problems that caused commentators — and me as well, briefly — to believe I had made a huge mistake. That day is long gone. General Re is now a gem." ([[berkshire-2013-letter]]) Tad Montross's observance of all four underwriting disciplines is cited as the reason. International life reinsurance — "grown consistently and profitably since we acquired the company in 1998" — is specifically highlighted as a long-dated success within the original acquisition thesis. 2013 results: float $20,013M (modestly down from $20,128M in 2012); underwriting profit $283M.
+
 ## Why it matters
 
 **1. Cultural due diligence cannot be substituted with financial due diligence.** Buffett studied General Re for decades before the acquisition and saw consistent underwriting discipline and conservative reserving. He detected none of this degrading in the deal process — and he was wrong. The culture had shifted silently before the merger closed. No amount of financial modeling catches a change in institutional norms. For acquirers, this is the enduring lesson: assets transfer cleanly; culture does not. The market-share-over-profit drive that infected General Re's underwriting force — "it is difficult for able, hard-driving professionals to curb their urge to prevail over competitors" — is an instance of [[institutional-imperative]] that due diligence rarely surfaces.
@@ -47,3 +49,4 @@ By 2003, General Re's underwriting business was genuinely fixed — producing $1
 - [[berkshire-2002-letter]] — explicit accountability ("I was dead wrong"); $1.31B reserve charge; NCB aggregation reduced; Gen Re Securities wind-down begun; "Like Hell, both are easy to enter and almost impossible to exit"
 - [[berkshire-2003-letter]] — Gen Re Securities dithering confession; cleanup confirmed complete; float contributing $23.7B at underwriting profit
 - [[berkshire-2012-letter]] — Tad Montross confirmed as positive exemplar: all four underwriting disciplines maintained; float "better than cost-free under his leadership"; international life reinsurance achieving consistent profitable growth since 1998; float $20.128B, underwriting profit $355M — the turnaround arc complete
+- [[berkshire-2013-letter]] — "General Re is now a gem" — the definitive single-sentence verdict; international life reinsurance highlighted as "grown consistently and profitably since we acquired the company in 1998"; float $20.013B; underwriting profit $283M

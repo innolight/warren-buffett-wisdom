@@ -44,6 +44,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2010-letter]] — 2010 annual letter; BNSF first full year (40% earning-power increase, 500 miles/ton-gallon); GEICO goodwill case study ($1.4B book vs. ~$14B economic); "Life and Debt" leverage philosophy; Black-Scholes "approximately right vs. precisely wrong"; float $65.8B, eighth consecutive underwriting profit
 - [[berkshire-2011-letter]] — 2011 annual letter; three-investment-categories essay (currency/sterile/productive) with the gold vs. "pile B" illustration; IBM buyback math as the counter-intuitive case for wanting lower prices; four disciplines of sound underwriting; float $70.6B, ninth consecutive underwriting profit
 - [[berkshire-2012-letter]] — 2012 annual letter; most detailed dividend vs. sell-off mathematical comparison in the series; repurchase limit raised 110%→120% of book; float $73.1B, tenth consecutive underwriting profit; GEICO 9.7% market share
+- [[berkshire-2013-letter]] — 2013 annual letter; GEICO passes Allstate to #2; BNSF record $4B capex; MidAmerican acquires NV Energy; float $77.2B, eleventh consecutive underwriting profit; farm/real estate analogies as the clearest productive-asset investment essay; 90/10 will directive for non-professionals
 
 ## Entities
 

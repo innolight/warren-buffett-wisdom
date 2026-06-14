@@ -10,6 +10,32 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-06-14] refactor | berkshire-2013-letter post-ingest quality fixes
+
+Six findings from review-ingest corrected:
+
+- `concepts/float.md` — removed false superlative in 2013 source bullet: "best result in at least several years" was wrong (2006 yielded $3.838B vs. 2013's $3.089B); replaced with "second-best underwriting result in Berkshire's insurance history, after 2006's $3.838B"
+- `people/ben-graham.md` — restored dropped qualifying clause in Northern Pacific → BNSF quote: `(having added a great many properties, to be sure)` was omitted from "Now its successor... earns that amount every four days"
+- `people/ben-graham.md` — bumped `updated` frontmatter from 2026-06-13 to 2026-06-14 (stale after 2013 ingest)
+- `sources/berkshire-2013-letter.md` — added `[[circle-of-competence]]` to Concepts section (invoked in the investing essay, lines 1280–1283 of raw source)
+- `sources/berkshire-2013-letter.md` — added `[[look-through-earnings]]` to Concepts section (Big Four section states the principle directly: $4.4B look-through vs. $1.4B dividends)
+- `sources/berkshire-2013-letter.md` — added public-pension Key Theme bullet referencing the 1975 Buffett memo to Katharine Graham (reproduced in letter appendix, not yet separately ingested)
+
+## [2026-06-14] ingest | berkshire-2013-letter
+
+- Created `sources/berkshire-2013-letter.md`
+- Updated `concepts/float.md` — added 2013 row to cost-of-float table ($77.24B, $3.089B underwriting profit, 11th consecutive year, $22B cumulative); added 2013 source entry with revolving-fund framing quote; updated frontmatter
+- Updated `concepts/underwriting-discipline.md` — added 2013 source entry: "The other guy is doing it so we must as well" as the cleanest formulation of fourth-discipline failure; updated frontmatter
+- Updated `concepts/owner-earnings.md` — added "The EBITDA critique" section ("button your wallet"); extended amortization section with 2013 quantification ($648M / 20% real / 80% not); updated frontmatter
+- Updated `concepts/investment-categories.md` — added "Investing in productive assets: how to think about them (2013)" section with farm/NYU analogies, four rules (productivity focus, ignore macro, liquidity insight, speculation vs. investment), and 90/10 will directive; updated frontmatter
+- Updated `entities/geico.md` — added 2013 section: GEICO passes Allstate to #2; $1,127M underwriting profit; float $12,566M; economic goodwill "approaching $20 billion"; Tony Nicely 52 years; updated frontmatter
+- Updated `entities/bnsf.md` — added 2013 results section: revenues $22.014B, net $3.793B, $4B capex (record for any railroad), 15% of inter-city freight; corrected fuel efficiency stat from 3× to 4× trucks; updated frontmatter
+- Updated `entities/midamerican-energy.md` — added 2013 history entry: NV Energy acquisition ($5.6B), 7% of U.S. wind capacity, retained-earnings leadership, eleven states, $15B renewables portfolio; updated frontmatter
+- Updated `entities/general-re.md` — added "General Re is now a gem" paragraph with 2013 results; updated frontmatter
+- Updated `people/ben-graham.md` — added "The Intelligent Investor and what it produced (2013)" section: chapters 8 and 20, GEICO connection through Graham's 1948 purchase, Northern Pacific → BNSF lineage; updated frontmatter
+- Updated `wiki/index.md` — added berkshire-2013-letter entry
+- Deliberately skipped: H.J. Heinz / 3G Capital (new acquisition, no durable lessons yet); NV Energy as standalone entity; BHSI / Peter Eastwood (sub-unit, too early); Energy Future Holdings bond loss (one-off mistake, not a canonical entity); Todd Combs / Ted Weschler (no separate person pages yet warranted); NFM Texas expansion (operational news)
+
 ## [2026-06-14] refactor | berkshire-2012-letter post-ingest quality fixes
 
 Four findings from review-ingest corrected:

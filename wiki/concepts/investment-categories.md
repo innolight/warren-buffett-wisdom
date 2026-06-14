@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-14
 updated: 2026-06-14
-sources: [berkshire-2011-letter]
+sources: [berkshire-2011-letter, berkshire-2013-letter]
 tags: [investment-philosophy, asset-allocation, purchasing-power, gold, productive-assets]
 related: [[risk-vs-volatility]], [[bonds-and-inflation]], [[economic-goodwill]], [[intrinsic-value-vs-book-value]], [[equity-return-expectations]]
 ---
@@ -68,9 +68,36 @@ The insight connects directly to Berkshire's preference for owning productive bu
 
 It also links to the formal definition of risk offered in the same letter: risk is not beta, it is the probability of permanent loss of purchasing power over the contemplated holding period. Category 1 and Category 2 instruments carry this risk systematically, even when their price volatility is low. See [[risk-vs-volatility]].
 
+## Investing in productive assets: how to think about them (2013)
+
+The 2013 letter extends the productive-asset category with the most detailed practical exposition in the letters of *how* to approach investment in productive assets. Buffett describes two personal investments made decades apart — a 400-acre Nebraska farm purchased from the FDIC in 1986 for $280,000, and a share in a New York retail property adjacent to NYU purchased in 1993 — and uses them to derive a set of durable investing rules. ([[berkshire-2013-letter]])
+
+**Focus on future productivity, not price changes.** For both investments, Buffett calculated the normalized yield (approximately 10% unleveraged in each case) and projected that productivity would improve over time. He cared not at all about what the assets would be worth daily, monthly, or annually. Twenty-eight years later the farm had tripled its earnings and was worth five times or more what he paid; distributions from the NYU property now exceed 35% annually of the original equity investment.
+
+> Focus on the future productivity of the asset you are considering. If you don't feel comfortable making a rough estimate of the asset's future earnings, just forget it and move on.
+
+**Ignore macro entirely.** Buffett made the farm purchase in 1986 (before the 1987 stock crash) and the real estate investment in 1993, but at neither point did he give any thought to interest rates, the economy, or market conditions. "Whatever the chatter, corn would keep growing in Nebraska and students would flock to NYU."
+
+> Forming macro opinions or listening to the macro or market predictions of others is a waste of time. Indeed, it is dangerous because it may blur your vision of the facts that are truly important.
+
+**Liquidity is a benefit, not a curse — unless it induces irrational behavior.** Stocks offer minute-to-minute valuations that farms and real estate do not. This should be an advantage: you can buy when prices are depressed, sell when prices are absurd. But too often investors let the capriciousness of quoted prices prompt action when no action is warranted — because the implied message of continuous quotation is "don't just sit there, do something."
+
+> A "flash crash" or some other extreme market fluctuation can't hurt an investor any more than an erratic and mouthy neighbor can hurt my farm investment. Indeed, tumbling markets can be helpful to the true investor if he has cash available when prices get far out of line with values. A climate of fear is your friend when investing; a euphoric world is your enemy.
+
+> Games are won by players who focus on the playing field — not by those whose eyes are glued to the scoreboard.
+
+**Speculation vs. investment.** If the contemplated purchase is based on a projected price change rather than a projection of future earnings, it is speculation. There is nothing improper about that — but Buffett is explicit that he cannot speculate successfully and is skeptical of those who claim sustained success doing so. "Half of all coin-flippers will win their first toss; none of those winners has an expectation of profit if he continues to play the game."
+
+**The non-professional prescription.** The 2013 letter is the first to give Buffett's own personal estate directive as a practical recommendation:
+
+> My advice to the trustee could not be more simple: Put 10% of the cash in short-term government bonds and 90% in a very low-cost S&P 500 index fund. (I suggest Vanguard's.) I believe the trust's long-term results from this policy will be superior to those attained by most investors — whether pension funds, institutions or individuals — who employ high-fee managers.
+
+The underlying logic: most investors — even professionals — cannot predict which businesses will outperform. But American business in aggregate will do well over time. Owning the aggregate (via low-cost index fund) while retaining a cash buffer (short-term bonds) is the appropriate strategy for the investor who cannot sensibly evaluate individual businesses. "The know-nothing investor who both diversifies and keeps his costs minimal is virtually certain to get satisfactory results."
+
 ## How it's discussed in sources
 
 - [[berkshire-2011-letter]] — the definitive articulation; three categories fully developed; gold vs. Pile B thought experiment; purchasing-power context (dollar −86% since 1965)
+- [[berkshire-2013-letter]] — the farm and NYU real estate worked examples; focus-on-productivity rule; ignore-macro rule; liquidity-as-benefit-not-curse insight; 90/10 will directive as the distilled non-professional prescription
 
 ## Related
 

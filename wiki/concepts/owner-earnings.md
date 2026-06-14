@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-06-14
-sources: [berkshire-1986-letter, berkshire-2012-letter]
+sources: [berkshire-1986-letter, berkshire-2012-letter, berkshire-2013-letter]
 tags: [accounting, valuation, cash-flow, capital-allocation]
 related: [[intrinsic-value-vs-book-value]], [[look-through-earnings]], [[economic-goodwill]]
 ---
@@ -54,7 +54,7 @@ And on the popularity of the deficient number:
 
 The EBITDA critique (more pointed in the 1989 zero-coupon-bond essay) is a direct descendant. See [[berkshire-1989-letter]].
 
-## Non-real vs. real amortization (2012)
+## Non-real vs. real amortization (2012–2013)
 
 The 1986 formula treats (b) — depreciation and amortization — as a category to be partially added back. The 2012 letter refines this: within (b) itself, not all amortization is equal. Some represents genuine economic depletion; some is a pure accounting artifact.
 
@@ -68,6 +68,18 @@ IBM provides a parallel at smaller scale: many small acquisitions generate recur
 
 **The practical investor framework:** when evaluating an acquisition-heavy company, classify amortization charges as (1) charges on assets that are genuinely depleting — add back per the standard owner-earnings adjustment — and (2) charges on assets that retain economic value despite the accounting — add back entirely. GAAP provides no guidance on the distinction; the investor must apply judgment.
 
+The 2013 letter quantifies the split across Berkshire's Manufacturing, Service and Retailing segment: of $648 million in GAAP amortization charges, Buffett characterized approximately 20% as real and the remaining ~80% as not. "This difference has become significant because of the many acquisitions we have made. It will almost certainly rise further as we acquire more companies." The non-real charges disappear as fully amortized assets age out, but the timeline is long — typically 15 years. ([[berkshire-2013-letter]])
+
+## The EBITDA critique
+
+The sharpest formulation of the "cash flow" fallacy critique appears in the 2013 letter, in the context of distinguishing real from non-real depreciation:
+
+> Every dime of depreciation expense we report, however, is a real cost. And that's true at almost all other companies as well. When Wall Streeters tout EBITDA as a valuation guide, button your wallet. ([[berkshire-2013-letter]])
+
+EBITDA adds back both depreciation and amortization before interest and taxes. This conflates two different adjustments: (a) excluding amortization of intangibles that carry no economic cost — which is correct — with (b) excluding depreciation of fixed assets that carry a very real replacement cost — which is wrong. The owner-earnings formula handles this correctly: (b) non-cash charges are added back; (c) real maintenance capex is subtracted. EBITDA collapses (b) and (c) into a single addition, effectively pretending that fixed assets need not be replaced.
+
+The practical harm: junk bonds and leveraged transactions are often sold with EBITDA coverage ratios because EBITDA is the largest number available before reaching net income. Adding back real depreciation makes any deal look safer than it is.
+
 ## (c) is a guess
 
 The honest difficulty: (c) cannot be calculated from any single year's accounting. It is the long-run capex required to hold competitive position — which depends on industry dynamics, the maturity of the asset base, the rate of technological change, the elasticity of pricing power. Different observers will estimate (c) differently for the same business.
@@ -79,6 +91,7 @@ Buffett's stance: "I would rather be vaguely right than precisely wrong." Owner 
 - [[berkshire-1986-letter]] — debut; the canonical formula in the Appendix; the Scott Fetzer worked example; the cash-flow-fallacy critique
 - [[berkshire-1987-letter]] — referenced repeatedly in the discussion of why Berkshire separately reports the earnings of operating businesses before purchase-price adjustments
 - [[berkshire-2012-letter]] — non-real vs. real amortization distinction; Wells Fargo's $1.5B "amortization of core deposits" as the canonical example of a GAAP charge with no economic content; IBM adjusted earnings as parallel; the practical investor framework for classifying amortization
+- [[berkshire-2013-letter]] — quantification of the real/non-real split: of $648M amortization in Berkshire's manufacturing/service/retail segment, ~20% real and ~80% not; the EBITDA critique at its sharpest: "When Wall Streeters tout EBITDA as a valuation guide, button your wallet"; every depreciation dollar is a real cost
 
 ## Related
 

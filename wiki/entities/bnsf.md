@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-06-14
 updated: 2026-06-14
-sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter]
+sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter]
 tags: [railroad, infrastructure, regulated, capital-intensive, acquisition]
 related: [[berkshire-hathaway]], [[midamerican-energy]], [[warren-buffett]], [[capital-allocation]], [[liquidity-fortress]], [[stock-as-acquisition-currency]]
 ---
@@ -58,7 +58,7 @@ The 2010 letter is the first to report BNSF as a wholly-owned subsidiary for a f
 
 **Financial results:** revenues $16.85B; operating earnings $4.5B; pre-tax earnings $4.0B; net earnings $2.5B. The acquisition increased Berkshire's "normal" earning power by nearly 40% pre-tax and well over 30% after-tax. After spending $22B in cash (and 6% of shares), the cash was quickly replenished.
 
-**Fuel efficiency advantage.** BNSF moved each ton of freight a record 500 miles on a single gallon of diesel fuel in 2010 — three times more fuel-efficient than trucking. This is not a temporary edge; it is structural (steel wheels on steel rails vs. rubber tires on asphalt). The advantage has compounding implications: as diesel costs rise, rail becomes increasingly advantaged over trucking on fuel economics alone. The societal benefit — reduced greenhouse emissions and lower oil imports — is also explicit.
+**Fuel efficiency advantage.** BNSF moved each ton of freight a record 500 miles on a single gallon of diesel fuel in 2010 — more fuel-efficient than trucking by a wide margin (the 2013 letter specifies trucks use four times as much fuel for the same task). This is not a temporary edge; it is structural (steel wheels on steel rails vs. rubber tires on asphalt). The advantage has compounding implications: as diesel costs rise, rail becomes increasingly advantaged over trucking on fuel economics alone. The societal benefit — reduced greenhouse emissions and lower oil imports — is also explicit.
 
 **Scale.** BNSF moves approximately 28% of all U.S. railroad freight by ton-miles, and rail carries 42% of U.S. inter-city freight. BNSF alone therefore carries roughly **11% of all U.S. inter-city freight** by ton-miles — an essential circulatory function.
 
@@ -88,9 +88,20 @@ Oil transport emerged as a new dimension of BNSF's growth: BNSF was transporting
 
 Berkshire committed to spending approximately **$4 billion on BNSF in 2013** — roughly double BNSF's depreciation charge and more than any railroad had spent in a single year. This is the clearest single-year expression of the social-compact model: essential service, permanent capital commitment, regulated returns.
 
+## 2013 results: record on every line
+
+Revenues $22,014M (new record, up from $20,835M). Operating earnings $6,657M; net earnings $3,793M (new record, up from $3,372M). Interest coverage 9:1 in Buffett's preferred measure (pre-tax earnings / interest, not EBITDA / interest).
+
+Capital expenditure in 2013 reached **$4 billion** — double BNSF's depreciation charge and more than any railroad had spent in a single year in history. This is the most explicit single-year expression of the social-compact model: BNSF reinvested at a rate that far exceeded its own earnings needs because essential infrastructure requires constant improvement regardless of near-term returns. Buffett: "Like Noah, who foresaw early on the need for dependable transportation, we know it's our job to plan ahead." ([[berkshire-2013-letter]])
+
+BNSF carried approximately **15% of all U.S. inter-city freight by ton-miles** (measuring across truck, rail, water, air, and pipeline), moving more ton-miles than any other carrier. Its hold on the #1 position "strengthened in 2013." Fuel efficiency: one ton of freight moved approximately 500 miles on a single gallon of diesel fuel — trucks require four times as much fuel for the same task (updated from the 2010 figure of three times; this is the definitive formulation).
+
+The operations leadership transitioned from Matt Rose alone to **Matt Rose and Carl Ice** jointly — both cited alongside Greg Abel (MidAmerican) as extraordinary managers.
+
 ## Sources discussing this entity
 
 - [[berkshire-2009-letter]] — full acquisition narrative; social compact framing; economic characteristics vs. utilities; Matt Rose noted; BNSF to join regulated-utility reporting segment
 - [[berkshire-2010-letter]] — first full-year results: $16.85B revenue, $4.0B pre-tax, 40% earning-power increase; 500 miles/ton-gallon; 6:1 interest coverage; $2B above-depreciation capex planned for 2011
 - [[berkshire-2011-letter]] — record revenues ($19.548B), pre-tax ($4.741B), net ($2.972B); 37% of railroad ton-miles = ~15% of all U.S. inter-city freight; 9.5× interest coverage in weak economy; $1.8B above-depreciation capex; "circulatory system of our economy"
 - [[berkshire-2012-letter]] — revenues $20.835B, net $3.372B (new records); 9.6× interest coverage; 500K barrels oil/day (~10% of lower-48 production), expected to grow substantially; $4B capex committed for 2013 (more than any railroad in a single year)
+- [[berkshire-2013-letter]] — revenues $22.014B, net $3.793B (new records); 9:1 interest coverage; $4B capex delivered (record for any railroad, double depreciation); 15% of all U.S. inter-city freight by ton-miles; 500 miles/ton/gallon vs. trucks at 4× the fuel; operations leadership: Matt Rose and Carl Ice
