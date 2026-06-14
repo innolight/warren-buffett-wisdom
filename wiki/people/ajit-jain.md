@@ -2,8 +2,8 @@
 type: person
 status: draft
 created: 2026-05-25
-updated: 2026-06-12
-sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter]
+updated: 2026-06-14
+sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2008-letter]
 tags: [insurance, reinsurance, super-cat, operator]
 related: [[super-cat-insurance]], [[national-indemnity]], [[float]], [[berkshire-hathaway]]
 ---
@@ -86,6 +86,12 @@ The 1998 acquisition of General Re brought Berkshire a second major reinsurance 
 
 The contrast with Jain's operation is explicit: while General Re's underpricing accumulated over years before Berkshire's ownership and corrected slowly after it, Jain's reinsurance operation had generated cumulative underwriting profit from its founding in 1986 through at least 1999. The parallel operations illustrate the same principle Jain had demonstrated from the outset — accepting volume only at prices that genuinely compensate for risk, and shrinking volume when they do not. Earlier letters documented this discipline in the context of super-cat pricing cycles (see [[berkshire-1994-letter]] and [[berkshire-1997-letter]]'s catastrophe-bond critique); the General Re comparison from 1999-2000 provides a within-Berkshire reference point for what the opposite looks like.
 
+## Scale and span: 2008
+
+By 2008, Jain's reinsurance division at Stamford employed **31 people** while generating approximately $24B of [[float]] and hundreds of millions of underwriting profit annually. Buffett's comment on the BHAC assignment — "Sure, they were already generating $24 billion of float along with hundreds of millions of underwriting profit annually. But how busy can that keep a 31-person group?" — is deadpan, but the numbers are serious. No other comparable operation in the world produces that ratio of float-to-headcount. The 31-person figure puts a hard boundary on what "singular talent plus great judgment" means at scale: it is not an army, it is a small team executing at an exceptional rate per person.
+
+Jain also assumed management of Berkshire Hathaway Assurance Company (BHAC) in 2008 — Berkshire's newly activated tax-exempt bond insurer — in addition to his existing reinsurance and super-cat operation. ([[berkshire-2008-letter]])
+
 ## Sources discussing this person
 
 - [[berkshire-1988-letter]] — first mention as part of the insurance management team
@@ -101,6 +107,7 @@ The contrast with Jain's operation is explicit: while General Re's underpricing 
 - [[berkshire-1998-letter]] — annuity-products online launch; "personally accounted for a significant portion of Berkshire's operating earnings"
 - [[berkshire-1999-letter]] — canonical four-trait tribute (intelligence, realism, courage, discipline); $6.3B float with cumulative underwriting profit
 - [[berkshire-2000-letter]] — $2.4B U.K. retroactive reinsurance policy; A-Rod disability policy; Grab.com sweepstakes; "impossible to overstate how valuable Ajit is to Berkshire"
+- [[berkshire-2008-letter]] — 31 employees generating $24B float and hundreds of millions of underwriting profit; assumed management of BHAC (Berkshire's bond insurer) on top of existing operation; "how busy can that keep a 31-person group?"
 
 ## Related
 

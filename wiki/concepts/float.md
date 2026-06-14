@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-24
-updated: 2026-06-13
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter]
+updated: 2026-06-14
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter, berkshire-2008-letter]
 tags: [insurance, capital-allocation, berkshire]
 related: [[national-indemnity]], [[berkshire-hathaway]], [[geico]], [[super-cat-insurance]], [[ajit-jain]], [[underwriting-discipline]], [[general-re]]
 ---
@@ -33,6 +33,7 @@ It is the engine that converts a well-run insurance underwriter into a long-dura
 - [[berkshire-2003-letter]] — $44.2B float with $1.7B underwriting profit; "in 18 of the 37 years Berkshire has been in the insurance business, we have operated at an underwriting profit"; "Float is wonderful—if it doesn't come at a high price"
 - [[berkshire-2004-letter]] — $46.1B float with $1.551B underwriting profit across all four segments (Gen Re $23.1B, B-H Reinsurance $15.3B, GEICO $6.0B, Other Primary $1.7B); "In 2004 we were paid more than $1.5 billion to hold an average of about $45.2 billion"; float has grown from $20M at the 1967 NICO purchase to $46.1B
 - [[berkshire-2006-letter]] — $50.9B float plus $7B Equitas deal; $3.838B underwriting profit (best year ever); DCRA mechanics fully explicated; retroactive reinsurance hurdle now $450M/year; 40-year arc from $17M to $50.9B
+- [[berkshire-2008-letter]] — $58.5B float; sixth consecutive underwriting profit year; $2.8B positive carry (paid to hold); all four segments positive despite the Great Financial Crisis; insurance non-cyclicality as structural anchor demonstrated empirically
 
 ## What pressures the cost of float
 
@@ -138,6 +139,7 @@ Three consecutive years of positive cost of float broke the long negative-cost r
 | 2003 | $44,220M | <0% | $1.7B underwriting profit across all segments |
 | 2004 | $46,094M | <0% | $1.551B underwriting profit; all four segments positive |
 | 2006 | $50,887M | <0% | $3.838B underwriting profit — best year in Berkshire's 40-year insurance history |
+| 2008 | $58,488M | <0% | $2.792B underwriting profit; sixth consecutive year of positive underwriting; Berkshire was paid $2.8B to hold the float |
 
 The 1999 positive-cost note: $400M of the underwriting loss was "welcomed"—it came from policies that would deliver long-duration float with capped losses (retroactive reinsurance). The remaining losses were "decidedly unwelcome" and reflected General Re's failure to price adequately. Ajit Jain's "other reinsurance" segment had by 1999 accumulated $6.3B of float "from scratch since 1986 with cumulative underwriting profit"—the contrast to General Re was direct. ([[berkshire-1999-letter]])
 
@@ -163,6 +165,10 @@ The economic test: if annual investment income on the float exceeds the annual D
 The 2006 year itself was exceptional: total underwriting profit across all segments was $3.838B ($526M General Re, $1,658M B-H Reinsurance, $1,314M GEICO, $340M Other Primary). This is the best single-year result in Berkshire's 40-year insurance history and represents Berkshire being paid $3.8B to hold an average float base of ~$50B — effectively a −7.5% cost of float.
 
 The origin of the float business: when Berkshire acquired [[national-indemnity]] in March 1967 for $8.6M, float was $17M. By yearend 2006 it stood at $50.9B. That compounding — from $17M to $50.9B over 40 years — is the quantitative expression of what the float engine, deployed well, can accomplish.
+
+## Float as non-cyclical anchor: 2008
+
+By yearend 2008, float reached $58.5B and the underwriting profit streak extended to six consecutive years — generating $2.8B of positive carry. All four segments (General Re, BH Reinsurance, GEICO, Other Primary) ran positive underwriting despite the worst financial crisis since the Great Depression. This is perhaps the clearest empirical demonstration of the float engine's value: while Berkshire's equity portfolio declined with the market and its manufacturing businesses saw earnings fall, the insurance operation continued generating cash at a negative cost. The non-correlation of insurance earnings to the general economy is a structural feature, not a cyclical coincidence. The four-segment table: General Re ($342M underwriting profit, $21.1B float), BH Reinsurance ($1,324M, $24.2B), GEICO ($916M, $8.5B), Other Primary ($210M, $4.7B). ([[berkshire-2008-letter]])
 
 ## Related
 

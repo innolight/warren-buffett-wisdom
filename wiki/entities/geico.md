@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-05-24
-updated: 2026-06-13
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter]
+updated: 2026-06-14
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter]
 tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities, wholly-owned]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]], [[jack-byrne]], [[lou-simpson]], [[lorimer-davidson]], [[franchise-vs-business]], [[tony-nicely]]
 ---
@@ -112,6 +112,8 @@ Policy count grew from approximately two million at the time of acquisition to n
 
 The friendly-block-holder structural agreement that originated at GEICO — Berkshire's voting authority delegated to management for an extended period, with sale restrictions on the block — becomes the template Buffett later reapplies at [[washington-post]] and [[capital-cities]].
 
+**2008: #3 and widening.** Market share reached 7.7% (up from 7.2% in 2007), cementing GEICO as the third-largest U.S. auto insurer — behind only State Farm and Allstate. This is the completion of a 13-year arc: #7 in 1995 when Berkshire acquired full control, #3 by 2008, with no sign of slowing. Productivity continued its remarkable trajectory: 439 policies per employee in 2008 vs. 299 five years prior — a 47% gain. GEICO launched commercial auto insurance in 2008, a large adjacent market. Motorcycle policies grew 23.4% (market share ~6% → over 7%). In January 2009, GEICO set a monthly record for policyholder growth — immediately broken by February 2009, as the recession sent price-conscious drivers to its low-cost model. Buffett's framing: "Tony and I feel like two hungry mosquitoes in a nudist camp." ([[berkshire-2008-letter]])
+
 ## Sources discussing this entity
 
 - [[berkshire-1977-letter]] — convertible preferred + common position established during crisis; largest equity holding by combined market value
@@ -133,6 +135,7 @@ The friendly-block-holder structural agreement that originated at GEICO — Berk
 - [[berkshire-2004-letter]] — most complete GEICO history published: 1936 founding, State Farm/Allstate competitive arc, 1976 under-reserving failure, Byrne rescue (market share trough 1.8%), post-Byrne diversification detour (1.9% by 1993), Nicely era; New Jersey re-entry; $970M underwriting profit; ~6% market share projection
 - [[berkshire-2005-letter]] — 32% productivity gain (employment −4%, policies +26%); market share 5.6%→6.1%; advertising $502M (16× the 1996 level); $1,221M underwriting profit; record conversion rates; NJ projected to become #3 by 2007
 - [[berkshire-2006-letter]] — 47% productivity gain 2003-2006 (policies +42%, employees −3.5%); $631M advertising; $1,314M underwriting profit; $7.171B float; the "rename your children Tony" Keough tribute
+- [[berkshire-2008-letter]] — 7.7% market share (#3 nationally, up from #7 in 1995); 439 policies/employee vs. 299 five years prior; commercial auto launched; motorcycle share >7%; recession driving record new-policyholder growth
 
 ## Related
 

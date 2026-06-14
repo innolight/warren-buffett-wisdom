@@ -39,6 +39,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2005-letter]] — 2005 annual letter; Gotrocks investment-friction essay; Fred Futile CEO-compensation arithmetic; GEICO 32% productivity gain; Gillette→P&G closes; Gen Re derivatives to 741 contracts; PUHCA repeal and PacifiCorp
 - [[berkshire-2006-letter]] — 2006 annual letter; GEICO 47% productivity miracle; float $50.9B + Equitas deal; 2-and-20 arithmetic; Walter Schloss as EMT refutation; newspaper moat erosion essay; first international acquisition (ISCAR)
 - [[berkshire-2007-letter]] — 2007 annual letter; Great/Good/Gruesome business taxonomy; See's 35-year case study ($32M reinvested → $1.35B cumulative earnings); Dexter's $3.5B effective cost; passive-investing Dow-at-2,000,000 arithmetic
+- [[berkshire-2008-letter]] — 2008 annual letter; derivatives thesis validated by Bear Stearns; Black-Scholes critique for long-dated options; Clayton Homes lending principles under stress (FICO 644, 3.6% delinquency); MidAmerican wind leadership; float $58.5B, sixth consecutive underwriting profit
 
 ## Entities
 

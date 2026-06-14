@@ -59,7 +59,7 @@ investment-researches/
 | --- | --- | --- |
 | `entity` | `wiki/entities/` | Companies, industries, asset classes, financial instruments. **Things**, not people. |
 | `person` | `wiki/people/` | Individuals: investors, executives, analysts, authors. |
-| `concept` | `wiki/concepts/` | Principles, frameworks, accounting terms, methodologies. The **ideas**. |
+| `concept` | `wiki/concepts/` | Timeless principles and lessons, frameworks, taxonomy, accounting terms, methodologies. The **ideas**. |
 | `source` | `wiki/sources/` | One page per ingested raw document. Bridges `raw/` and the rest. |
 | `synthesis` | `wiki/synthesis/` | Theses, comparisons, themes, filed query answers, multi-source analyses. Longer-form derived work. |
 

@@ -415,6 +415,22 @@ Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages 
 - Derivatives page update — 2007 contract growth (62→94) and put-option category added to source page Concepts section; no new timeless principle beyond existing [[derivatives]] coverage
 - Investment succession update — four candidates now named; outcome (Combs/Weschler) not yet known; continuation of 2006 thread; no new concept warranted
 
+## [2026-06-14] ingest | berkshire-2008-letter
+
+- Created source: `sources/berkshire-2008-letter.md`
+- Updated concepts: `derivatives` (major — 2008 material is the largest single addition to this page: Bear Stearns as counterparty-daisy-chain case validated; Berkshire's 251 contracts explained in detail — equity puts $37.1B/$4.9B premiums, credit-index swaps, CDS on individual companies, bond insurance derivatives; Black-Scholes critique for long-dated options with 100-year put thought experiment; too-big-to-fail governance perversity; "beware of geeks bearing formulas" on structurally mismatched models), `float` ($58.5B; sixth consecutive underwriting profit; $2.8B paid to hold; all-four-segments-positive in crisis; non-cyclicality demonstrated)
+- Updated entities: `geico` (7.7% market share / #3 nationally; 439 policies/employee; commercial auto launched; motorcycle share >7%; recession as tailwind), `clayton-homes` (2008 stress test: 3.6% delinquency despite FICO 644 median; foreclosure-mechanics insight; Lending 101 distilled; 34% industry market share), `midamerican-energy` (#1 U.S. regulated-utility wind capacity; $1.8B wind investment vs. $1.1B combined earnings; Kern River #1 / Northern Natural #3 Mastio rankings from #9/#39 in 2002; Iowa electricity flat since 1995 through committed 2013; PacifiCorp 33MW → 794MW wind)
+- Updated people: `ajit-jain` (31 employees generating $24B float; BHAC assumed on top of reinsurance operation)
+- Updated index: added `berkshire-2008-letter` (Sources, chronological)
+- Deliberately skipped:
+  - BHAC / monolines — 2008-specific business; underlying moral-hazard-of-insurance lesson captured under derivatives "beware of geeks" section
+  - ConocoPhillips and Irish bank losses — transactional mistakes; not timeless lessons
+  - Goldman Sachs / GE / Wrigley fixed-income purchases — transactional
+  - Financial crisis government intervention commentary — period-specific framing
+  - Joe Brandon / Tad Montross succession at General Re — noted only in source page; minor personnel change, no new durable principle
+  - Clayton credit crisis funding model — government-backstop perversity captured in source page key themes and clayton entity page as a structural aside
+  - Private equity / LBO critique (raw pp. 307–323) — timeless principle (incentive misalignment of financial buyers vs. Berkshire's buy-and-hold model; leverage destroys acquirees) adequately captured on [[acquisition-criteria]]; no new concept or entity page warranted
+
 ## [2026-06-14] refactor | berkshire-2006-letter post-ingest quality fixes
 
 - `sources/berkshire-2006-letter.md` — split composite/reversed Notable Quote (float + parking meter story) into two correctly ordered verbatim quotes; added CEO/CIO succession structure as a key theme (search for younger CIO announced as separate from CEO succession; Lou Simpson framing; trait articulation)

@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-06-13
-updated: 2026-06-13
-sources: [berkshire-2003-letter, berkshire-2005-letter]
+updated: 2026-06-14
+sources: [berkshire-2003-letter, berkshire-2005-letter, berkshire-2008-letter]
 tags: [acquisition, manufactured-housing, consumer-finance, underwriting-discipline, originate-and-distribute]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[acquisition-criteria]]
 ---
@@ -40,7 +40,28 @@ Plant expansion accelerated: in 2004 Clayton added twelve plants through the Oak
 
 The "every tub on its own bottom" principle proved its importance here: a subsidiary with free access to a parent's balance sheet would have made sloppy loans. By pricing capital correctly, Berkshire preserved the incentive structure that made Clayton's underwriting discipline durable. ([[berkshire-2005-letter]])
 
+## 2008: The stress test — thesis validated under maximum pressure
+
+The housing crash of 2008 was the definitive trial of the Clayton thesis. Clayton's borrowers — median FICO score of 644, with approximately 35% below 620 (the conventional "subprime" threshold) — produced only a 3.6% delinquency rate and 3.0% foreclosure rate on originated loans. Many pools of conventional mortgage loans, held by borrowers with considerably better FICO scores, performed catastrophically worse. The explanation is not that Clayton's borrowers were creditworthy by traditional measures; by those measures, many were not. The explanation is that they were *operationally disciplined borrowers*:
+
+- They looked at actual monthly payments against actual (not hoped-for) income before signing.
+- They made real down payments from savings rather than borrowed funds.
+- They did not count on refinancing to sustain payments.
+- They did not use teaser rates that would reset beyond their means.
+- They did not assume home price appreciation would bail out an unaffordable purchase.
+
+"Simply put, they took out a mortgage with the intention of paying it off, whatever the course of home prices."
+
+**The foreclosure mechanics insight.** Buffett makes the observation that popular 2008 commentary missed: most foreclosures do not occur because a house is worth less than its mortgage. They occur because borrowers cannot make the monthly payment they agreed to make. A homeowner who made a meaningful down payment from savings — who has real equity rather than borrowed equity — does not walk away from a primary residence just because paper value has declined. They walk when they cannot service the debt. This means the relevant underwriting variables are payment-to-income ratio and down payment authenticity — not FICO score, not appraisal value.
+
+**Lending 101 distilled.** The three non-negotiable conditions for sound mortgage lending, as derived from the Clayton experience: (1) honest down payment of at least 10%, from actual savings not additional borrowing; (2) monthly payments clearly within the borrower's actual income; (3) that income carefully verified. "Putting people into homes, though a desirable goal, shouldn't be our country's primary objective. Keeping them in their homes should be the ambition."
+
+**Industry context.** Clayton delivered 27,499 units in 2008, representing approximately 34% of the industry's 81,889 total — a dramatic market-share concentration driven by the collapse of undisciplined competitors. The industry had peaked at 372,843 units in 1998; by 2008 it had contracted to a fraction of that. Clayton was positioned to grow further as a result of distress elsewhere.
+
+**The funding-cost reversal.** A period-specific but structurally instructive development: during the 2008 credit crisis, AAA-rated Berkshire found itself at a disadvantage in borrowing costs compared to less creditworthy entities with government guarantees. Government-backed banks and institutions with Federal Reserve commercial paper support could fund at near-zero; Berkshire could not match those terms despite holding the highest credit rating. "It is much better to be a financial cripple with a government guarantee than a Gibraltar without one." This threatened Clayton's ability to continue originating loans competitively — a reminder that credit quality and funding cost can diverge dramatically when government backstops distort the market.
+
 ## Sources discussing this entity
 
 - [[berkshire-2003-letter]] — the full acquisition story; industry diagnosis; originate-and-distribute critique; origin via Tennessee students and Jim Clayton's autobiography; "every tub on its own bottom" financing philosophy
 - [[berkshire-2005-letter]] — servicing portfolio to $17B (from $5.4B at acquisition); $9.6B owned; industry at 40-year lows, Clayton only participant earning significant money; Karsten acquisition; $416M earnings after $83M Berkshire interest charge
+- [[berkshire-2008-letter]] — the stress test: 3.6% delinquency and 3.0% foreclosure on originated loans despite subprime borrower profile; lending 101 principles distilled; foreclosure mechanics insight (payment inability, not being underwater, drives foreclosures); 34% industry market share; funding-cost reversal under government-backstop distortion
