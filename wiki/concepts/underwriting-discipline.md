@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-13
-updated: 2026-06-13
-sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter]
+updated: 2026-06-14
+sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2011-letter]
 tags: [insurance, underwriting, discipline]
 related: [[float]], [[ajit-jain]], [[super-cat-insurance]], [[institutional-imperative]], [[general-re]]
 ---
@@ -84,6 +84,19 @@ The 2001 letter identifies a specific failure mode that is both an underwriting-
 
 This applies beyond terrorism. Late-bull-market D&O insurance is Buffett's example: loss experience looks excellent precisely when exposure is expanding—boards are less challenged, executives are bolder, securities litigation risk is higher—but the historical record shows no losses yet. Pricing by experience when exposure has shifted is the same error in a different domain.
 
+## The four disciplines, enumerated (2011)
+
+The 2011 letter offers the most explicit and compact statement of what sound insurance underwriting requires — four sequential tests, each a necessary condition:
+
+1. **Understand all exposures** that might cause a policy to incur losses.
+2. **Conservatively evaluate** the likelihood of any exposure actually causing a loss, and the probable cost if it does.
+3. **Set a premium** that will deliver a profit, on average, after both prospective loss costs and operating expenses are covered.
+4. **Be willing to walk away** if the appropriate premium can't be obtained.
+
+The fourth discipline is where most insurers fail. The letter's analogy: "Many insurers pass the first three tests and flunk the fourth. They simply can't turn their back on business that their competitors are eagerly writing." The old line — "The other guy is doing it so we must as well" — spells trouble in any business, but nowhere more so than insurance.
+
+The accompanying anecdote sharpens the fourth test: a man driving the wrong way down the Interstate, who, when his wife calls to warn him, replies: "Mabel, they don't know the half of it — it's not just one car, there are hundreds of them." An underwriter writing at inadequate prices in a competitive market is the insurance analogue: the crowd going the same direction offers no comfort about whether the direction is right. ([[berkshire-2011-letter]])
+
 ## What counts
 
 > Just as is the case in investing, insurers produce outstanding long-term results primarily by avoiding dumb decisions, rather than by making brilliant ones. ([[berkshire-2001-letter]])
@@ -99,6 +112,7 @@ This applies beyond terrorism. Late-bull-market D&O insurance is Buffett's examp
 - [[berkshire-2002-letter]] — Gen Re cleanup essay; $1.31B additional reserve catch-up; three disciplines restated; "I was dead wrong"; by yearend Gen Re and National Indemnity are the only AAA-rated reinsurers among world majors
 - [[berkshire-2003-letter]] — $44.2B float with $1.7B underwriting profit after years of repair; "Float is wonderful—if it doesn't come at a high price"; discipline as the only moat when the product itself is non-proprietary
 - [[berkshire-2004-letter]] — NICO cultural model: no-layoff policy as the structural countermeasure to fear-driven rationalization; overstaffing discipline; Tom Murphy hiring lesson; four CEOs in 64 years, none bent; Don Wurster as "superstar"; $1.551B underwriting profit with all four Berkshire insurance segments positive
+- [[berkshire-2011-letter]] — four disciplines explicitly enumerated; the "Albert and Mabel" anecdote as illustration of why the fourth discipline (walk away) is the one most insurers flunk; General Re cited as the positive-turnaround example, now a "treasure" under Tad Montross
 
 ## Related
 

@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-05-31
 updated: 2026-06-14
-sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2009-letter, berkshire-2010-letter]
+sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter]
 tags: [fractional-ownership, aviation-services, category-creator, capital-light, flight-services]
 related: [[berkshire-hathaway]], [[acquisition-criteria]], [[moat]], [[capital-allocation]], [[dave-sokol]]
 ---
@@ -44,6 +44,7 @@ EJA offered jets from Boeing, Gulfstream, Falcon, Cessna and Raytheon; competito
 - **August 2009.** [[dave-sokol]] — the builder and operator of [[midamerican-energy]] — is named CEO. Quick management restructuring begins. Buffett's self-assessment on the situation: "It's clear that I failed you in letting NetJets descend into this condition. But, luckily, I have been bailed out."
 - **Yearend 2009.** NetJets records a $711M loss for the full year, but the Sokol-driven restructuring is already taking hold: debt reduced to $1.4B and the company is "now solidly profitable." Safety and service standards are explicitly cited as unchanged — Rich Santulli's legacy, and the reason Buffett and his family continue to use NetJets for "almost all of our flying," paying exactly the same prices as any other owner. See [[berkshire-2009-letter]].
 - **2010.** Pre-tax profit: $207M — even after paying a new, appropriate $38M annual fee to Berkshire for its credit guarantee (which had previously been provided free, inflating NetJets' apparent results). Sokol's rationalization of purchasing and spending policies, combined with the management restructuring from 2009, produced a $918M swing from the 2009 result. Industry market-share leadership — approximately 5× the nearest competitor — was maintained throughout. Buffett's framing: "Dave's quick restructuring of management and the company's rationalization of its purchasing and spending policies has ended the hemorrhaging of cash and turned what was Berkshire's only major business problem into a solidly profitable operation." The lesson: market dominance and financial performance are independent variables; you can be the clear industry leader while losing money for over a decade if your cost structure is wrong. See [[berkshire-2010-letter]].
+- **2011.** Jordan Hansell (who took over in April 2011) delivers $227M pre-tax. New-plane sales were slow for most of the year with a December uptick. Buffett's assessment of the turnaround's stakes: "A few years ago NetJets was my number one worry: Its costs were far out of line with revenues, and cash was hemorrhaging. Without Berkshire's support, NetJets would have gone broke." China expansion announced with first-class partners — explicitly framed as moat-widening. Buffett's competitive-position claim: "No other fractional-ownership operator has remotely the size and breadth of the NetJets operation, and none ever will." See [[berkshire-2011-letter]].
 
 ## Fractional-ownership economics
 
@@ -94,6 +95,7 @@ Like most Berkshire managers, Santulli had no economic need to work and "spends 
 - [[berkshire-2003-letter]] — $41M pre-tax loss; European 88/61/77% revenue growth but red ink uncured; Mayo Clinic Executive Travel Response benefit; "once a customer has tried us, going back to commercial aviation is like going back to holding hands"
 - [[berkshire-2009-letter]] — crisis fully documented: $157M aggregate loss over 11 years; debt $102M → $1.9B; Sokol arrives August 2009; $711M 2009 loss; turnaround to profitability; Buffett's admission of managerial failure; "we eat our own cooking" on safety
 - [[berkshire-2010-letter]] — turnaround complete: $207M pre-tax profit (vs. aggregate $157M loss over prior 11 years); $918M swing year-over-year; market share 5× nearest competitor maintained; safety and service standards held throughout
+- [[berkshire-2011-letter]] — Jordan Hansell's first year: $227M pre-tax; Buffett's explicit admission "without Berkshire's support, NetJets would have gone broke"; China expansion announced with strategic partners; competitive-position claim: "No other fractional-ownership operator has remotely the size and breadth of the NetJets operation, and none ever will"
 
 ## Related
 

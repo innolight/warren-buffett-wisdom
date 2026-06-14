@@ -517,6 +517,30 @@ Six findings from review-ingest corrected:
 
 ---
 
+## [2026-06-14] ingest | berkshire-2011-letter
+
+- Created `sources/berkshire-2011-letter.md`
+- Created `concepts/investment-categories.md` — three-tier taxonomy (currency/sterile/productive); gold vs. "pile B" thought experiment; purchasing-power-loss as organizing principle
+- Updated `concepts/share-repurchases.md` — two conditions made explicit; "what is smart at one price is dumb at another"; IBM buyback math (wanting lower prices as a long-term partial owner); Berkshire's 110%-of-book threshold and $20B cash floor
+- Updated `concepts/underwriting-discipline.md` — four disciplines explicitly enumerated; the "Albert and Mabel" anecdote illustrating why the fourth discipline (walk away) is the one most flunk
+- Updated `concepts/float.md` — added 2011 row ($70.571B, ninth consecutive underwriting-profit year, $17B cumulative); book-value-distortion analysis (float overstated as GAAP liability; insurance goodwill understated)
+- Updated `concepts/risk-vs-volatility.md` — sharpest formulation of risk as purchasing-power loss; link to investment-categories
+- Updated `entities/geico.md` — Nicely's 18-year CEO tenure quantified: market share 2.0%→9.3%; premium volume $15.4B vs. $3.3B hypothetical-static; 50 years of service milestone
+- Updated `entities/bnsf.md` — 2011 records: $19.548B revenue, $4.741B pre-tax; 37% of railroad ton-miles = ~15% of all U.S. inter-city freight; 9.5× interest coverage; "circulatory system of our economy"
+- Updated `entities/midamerican-energy.md` — 2011: $1.331B net; 3,316 MW wind; two solar projects (~$3B); Greg Abel named as co-operator; pipeline customer satisfaction: Northern Natural #2
+- Updated `entities/netjets.md` — Jordan Hansell's first year ($227M pre-tax); Buffett admits without Berkshire "NetJets would have gone broke"; China expansion; competitive-position permanence claim
+- Updated `wiki/index.md` — added berkshire-2011-letter; added investment-categories
+
+**Skipped (with rationale):**
+- Lubrizol — one acquisition; James Hambrick not a shaping figure; no enduring lesson beyond bolt-on-acquisition pattern already captured
+- Energy Future Holdings — one-year mistake (bonds written down); "unforced error" is color, not an enduring lesson requiring its own page
+- Todd Combs / Ted Weschler — too early to assess as shaping figures; mentioned as new investment-manager hires
+- Dave Sokol — resigned April 2011 over Lubrizol controversy; notably absent from the letter; no mention warranting an update
+- Marmon Group — mentioned but not canonical at the level this wiki tracks
+- Housing supply/demand analysis — period-specific economic commentary; useful framing but too tied to 2011 circumstances
+- Annual meeting logistics — entirely ephemeral
+- Subsidiary highlights (CTB, TTI, McLane, See's, NFM Texas store) — year-specific performance, no structural insight beyond what existing pages already hold
+
 ## [2026-06-14] ingest | berkshire-2010-letter
 
 - Created `sources/berkshire-2010-letter.md`

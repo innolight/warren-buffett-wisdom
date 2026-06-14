@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-24
-updated: 2026-05-26
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter]
+updated: 2026-06-14
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-2011-letter]
 tags: [accounting, equities, capital-allocation, intrinsic-value]
 related: [[warren-buffett]], [[acquisition-criteria]], [[intrinsic-value-vs-book-value]], [[owner-earnings]], [[coca-cola]]
 ---
@@ -99,6 +99,7 @@ See [[coca-cola]].
 - [[berkshire-1992-letter]] — $604M look-through; the "$1.8B by 2000" target
 - [[berkshire-1993-letter]] — $856M look-through; ~$439M from investees; Cap Cities retained-earnings illustration explicit
 - [[berkshire-1994-letter]] — $1,030M look-through (target met early); cautionary note that super-cat results lifted reported earnings above trend
+- [[berkshire-2011-letter]] — Big Four (AmEx, Coke, IBM, Wells Fargo): $862M dividends reported vs. $3.3B Berkshire's share of their earnings; Buffett projects the four could produce $7B in annual earnings a decade out; the gap is the structural reason reported Berkshire income understates intrinsic compounding
 
 ## Related
 

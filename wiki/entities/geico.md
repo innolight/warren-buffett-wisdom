@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-05-24
 updated: 2026-06-14
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter]
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter]
 tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities, wholly-owned]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]], [[jack-byrne]], [[lou-simpson]], [[lorimer-davidson]], [[franchise-vs-business]], [[tony-nicely]]
 ---
@@ -142,6 +142,13 @@ This episode is the inverse of the GEICO franchise lesson — the moat is in dir
 - [[berkshire-2008-letter]] — 7.7% market share (#3 nationally, up from #7 in 1995); 439 policies/employee vs. 299 five years prior; commercial auto launched; motorcycle share >7%; recession driving record new-policyholder growth
 - [[berkshire-2009-letter]] — market share 8.1% (up from 2.5% at the 1996 acquisition; net seven million policyholders added); 13 of 14 Berkshire years with underwriting profit; credit card fiasco documented (~$50M total loss); recession dynamics (lower vehicle registrations, higher uninsured rate) expected to slow 2010 growth
 - [[berkshire-2010-letter]] — market share 8.8%; the 60-year retrospective and canonical goodwill illustration; Lorimer Davidson's 1996 videotape tribute; GEICO personal-lines agency (769,898 new homeowner policies, up 34%)
+- [[berkshire-2011-letter]] — market share 9.3% (up from 2.0% at start of Nicely's tenure); premium volume $15.4B vs. $3.3B hypothetical-static; "more than 90% of the auto-insurance market left for GEICO to rake in"; float $11.169B; underwriting profit $576M; Tony Nicely completes 50 years of service at GEICO
+
+## Nicely's 18-year tenure crystallized (2011)
+
+The 2011 letter offers the most direct quantification of Tony Nicely's impact. In 18 years as CEO (from 1993), market share grew from 2.0% to 9.3%. The counterfactual: if share had remained static — as it had for more than a decade before Nicely — premium volume in 2011 would have been $3.3B. Actual 2011 premium volume: $15.4B. The $12.1B difference in annual premiums is the direct economic consequence of Nicely's leadership. Buffett: "The extra value created by Tony and his associates is a major element in Berkshire's excess of intrinsic value over book value." ([[berkshire-2011-letter]])
+
+At yearend 2011: float $11.169B (up from $10.272B); underwriting profit $576M. More than 90% of the U.S. auto-insurance market remains unconquered by GEICO — the runway for further compounding remains vast.
 
 ## The goodwill case study (2010)
 

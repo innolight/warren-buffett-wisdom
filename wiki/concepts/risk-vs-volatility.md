@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1993-letter]
+updated: 2026-06-14
+sources: [berkshire-1993-letter, berkshire-2011-letter]
 tags: [risk, beta, valuation, academic-finance, graham]
-related: [[mr-market]], [[volatility-as-opportunity]], [[concentration-vs-diversification]], [[margin-of-safety]]
+related: [[mr-market]], [[volatility-as-opportunity]], [[concentration-vs-diversification]], [[margin-of-safety]], [[investment-categories]]
 ---
 
 # Risk vs. Volatility
@@ -66,11 +66,20 @@ Buffett's 1988 framing in the Efficient Market Theory section is sharper: compli
 
 > Naturally the disservice done students and gullible investment professionals who have swallowed [Efficient Market Theory] has been an extraordinary service to us and other followers of Graham. In any sort of a contest — financial, mental, or physical — it's an enormous advantage to have opponents who have been taught that it's useless to even try. ([[berkshire-1988-letter]])
 
+## The purchasing-power formulation sharpened (2011)
+
+The 2011 letter offers the most direct single-sentence statement of Buffett's risk definition, embedded in the investment-categories essay:
+
+> The riskiness of an investment is not measured by beta (a Wall Street term encompassing volatility and often used in measuring risk) but rather by the **probability — the reasoned probability — of that investment causing its owner a loss of purchasing-power over his contemplated holding period.** Assets can fluctuate greatly in price and not be risky as long as they are reasonably certain to deliver increased purchasing power over their holding period. And as we will see, a non-fluctuating asset can be laden with risk.
+
+The last sentence is the key: currency-based instruments (bonds, cash) can have near-zero price volatility and yet carry enormous risk in the purchasing-power sense — especially at low interest rates when inflation runs ahead of nominal yields. This directly connects to [[investment-categories]]: "safe" Category 1 instruments are the most systematically risky in the purchasing-power sense, even though their beta is near zero. ([[berkshire-2011-letter]])
+
 ## How it's discussed in sources
 
 - [[berkshire-1988-letter]] — the Efficient Market Theory critique; 63-year arbitrage track record at Graham-Newman, Buffett Partnership, and Berkshire (~20% annual vs. ~10% market) as empirical refutation
 - [[berkshire-1993-letter]] — canonical essay on risk vs. beta; the five-factor framework; the Washington Post inversion-of-sign example; the pet-rocks-vs-Monopoly toy example; Coca-Cola/Gillette as illustration
 - [[berkshire-1994-letter]] — "Investors should remember that their scorecard is not computed using Olympic-diving methods: degree-of-difficulty doesn't count" — companion principle
+- [[berkshire-2011-letter]] — sharpest single-sentence formulation: risk = probability of loss of purchasing power over the holding period; explicitly links to why low-volatility bonds are the most dangerous long-term asset class
 
 ## Related
 
@@ -78,3 +87,4 @@ Buffett's 1988 framing in the Efficient Market Theory section is sharper: compli
 - [[volatility-as-opportunity]] — the constructive corollary
 - [[concentration-vs-diversification]] — the portfolio-construction implication
 - [[margin-of-safety]] — the discipline that compensates for the irreducible fuzziness of the five factors
+- [[investment-categories]] — the 2011 taxonomy that illustrates the risk-as-purchasing-power-loss framework across all asset classes

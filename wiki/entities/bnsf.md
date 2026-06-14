@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-06-14
 updated: 2026-06-14
-sources: [berkshire-2009-letter, berkshire-2010-letter]
+sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter]
 tags: [railroad, infrastructure, regulated, capital-intensive, acquisition]
 related: [[berkshire-hathaway]], [[midamerican-energy]], [[warren-buffett]], [[capital-allocation]], [[liquidity-fortress]], [[stock-as-acquisition-currency]]
 ---
@@ -68,7 +68,20 @@ The 2010 letter is the first to report BNSF as a wholly-owned subsidiary for a f
 
 **Operator: Matt Rose.** Berkshire cites Matt Rose alongside David Sokol and Greg Abel as exemplifying the manager-autonomy model. Rose runs an essential-infrastructure operation without headquarters interference.
 
+## 2011 results
+
+Revenues $19.548B (up from $16.85B); operating earnings $5.31B; pre-tax earnings $4.741B; net earnings $2.972B. A record year on all metrics.
+
+The 2011 letter updates BNSF's industry position: **37% of railroad industry ton-miles** — the most of any railroad — which translates to **approximately 15% of all U.S. inter-city ton-miles** (given that rail carries 42% of inter-city freight). The 2010 figure of 28% was understate or an older measurement; the 2011 letter's "15% of all inter-city ton-miles" is Buffett's own arithmetic.
+
+Interest coverage: **9.5×** in a below-trend economy. The social compact holds: even in adversity, BNSF's essential-service earnings amply cover interest requirements.
+
+Capital commitment: $1.8B above depreciation in 2011, maintaining and improving 23,000 miles of track, 13,000 bridges, 80 tunnels, 6,900 locomotives, and 78,600 freight cars. Private-sector capital flowing into public-serving infrastructure: "Though many people decry our country's inadequate infrastructure spending, that criticism cannot be levied against the railroad industry."
+
+The "circulatory system" framing, offered in the 2011 letter, is the most vivid statement of BNSF's role: "It is no exaggeration to characterize railroads as the circulatory system of our economy. Your railroad is the largest artery." ([[berkshire-2011-letter]])
+
 ## Sources discussing this entity
 
 - [[berkshire-2009-letter]] — full acquisition narrative; social compact framing; economic characteristics vs. utilities; Matt Rose noted; BNSF to join regulated-utility reporting segment
-- [[berkshire-2010-letter]] — first full-year results: $16.85B revenue, $4.0B pre-tax, 40% earning-power increase; 500 miles/ton-gallon; 11% of U.S. inter-city freight; 6:1 interest coverage; $2B above-depreciation capex in 2011
+- [[berkshire-2010-letter]] — first full-year results: $16.85B revenue, $4.0B pre-tax, 40% earning-power increase; 500 miles/ton-gallon; 6:1 interest coverage; $2B above-depreciation capex planned for 2011
+- [[berkshire-2011-letter]] — record revenues ($19.548B), pre-tax ($4.741B), net ($2.972B); 37% of railroad ton-miles = ~15% of all U.S. inter-city freight; 9.5× interest coverage in weak economy; $1.8B above-depreciation capex; "circulatory system of our economy"

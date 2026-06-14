@@ -42,6 +42,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2008-letter]] — 2008 annual letter; derivatives thesis validated by Bear Stearns; Black-Scholes critique for long-dated options; Clayton Homes lending principles under stress (FICO 644, 3.6% delinquency); MidAmerican wind leadership; float $58.5B, sixth consecutive underwriting profit
 - [[berkshire-2009-letter]] — 2009 annual letter; BNSF acquisition (Berkshire's largest); "What We Don't Do" inversion framework; liquidity fortress vindicated ($15.5B deployed in 2008 crisis); NetJets crisis and Sokol turnaround; float $62B, seventh consecutive underwriting profit
 - [[berkshire-2010-letter]] — 2010 annual letter; BNSF first full year (40% earning-power increase, 500 miles/ton-gallon); GEICO goodwill case study ($1.4B book vs. ~$14B economic); "Life and Debt" leverage philosophy; Black-Scholes "approximately right vs. precisely wrong"; float $65.8B, eighth consecutive underwriting profit
+- [[berkshire-2011-letter]] — 2011 annual letter; three-investment-categories essay (currency/sterile/productive) with the gold vs. "pile B" illustration; IBM buyback math as the counter-intuitive case for wanting lower prices; four disciplines of sound underwriting; float $70.6B, ninth consecutive underwriting profit
 
 ## Entities
 
@@ -127,6 +128,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[incentive-compensation]] — the option-critique and the savings-account analogy; Berkshire's unit-specific, uncapped, seniority-blind, symmetric alternative; stock-options expensing fight 1998–2003
 - [[institutional-imperative]] — corporate herd behavior; the structural force a disciplined allocator must resist; canonically named 1989; Gen Re as the real-world failure case
 - [[intrinsic-value-vs-book-value]] — book is financial input, intrinsic is future cash output; the gauge for capital-allocation decisions
+- [[investment-categories]] — three-tier taxonomy: currency-based (destroys purchasing power), sterile assets like gold (never productive), productive assets (businesses/farms/real estate); the gold vs. "pile B" thought experiment from the 2011 letter
 - [[investment-friction]] — Gotrocks allegory; four layers of Helpers erode aggregate investor returns; Newton's Fourth Law: returns decrease as motion increases; ~20% of business earnings going to intermediaries by 2005
 - [[investor-misery-index]] — real return = nominal − inflation − tax on the nominal; the lens that distinguishes apparent from actual wealth creation
 - [[lending-discipline]] — three non-negotiables for sound consumer lending; Clayton Homes proved the thesis under 2008 stress

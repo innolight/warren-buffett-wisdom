@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-13
-sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter]
+updated: 2026-06-14
+sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter, berkshire-2011-letter]
 tags: [capital-allocation, repurchases, signaling]
 related: [[stock-as-acquisition-currency]], [[intrinsic-value-vs-book-value]], [[dividend-policy]], [[washington-post]], [[incentive-compensation]], [[owner-orientation]]
 ---
@@ -78,6 +78,38 @@ Two specific failure modes Buffett identifies:
 
 This section of the framework completes the logical structure: the conditions under which repurchases *create* value (discount to intrinsic value + excess capital + full disclosure) are the exact mirror of the conditions under which they *destroy* it (premium to intrinsic value, or dilution-offset without independent value basis). The arithmetic is the same in both directions; only the sign changes.
 
+## The two conditions, sharpened (2011)
+
+The 2011 letter distills the repurchase framework to two explicit conditions:
+
+1. The company has **ample funds** to take care of operational and liquidity needs.
+2. The stock is selling at a **material discount** to intrinsic business value, conservatively calculated.
+
+Both must be present. The first without the second is capital misallocation; the second without the first creates fragility. Buffett's aphorism: "The first law of capital allocation — whether the money is slated for acquisitions or share repurchases — is that **what is smart at one price is dumb at another.**"
+
+The 2011 letter also names a non-obvious cost to buybacks at any price: cashing out partners at a discount produces a mixed emotion even when it benefits continuing holders. Buffett wants exiting shareholders to be fully informed of the value they are selling — so any bid at a discount is accompanied by explicit communication of intrinsic value.
+
+### Berkshire's 110% of book threshold
+
+In September 2011, Berkshire announced it would repurchase its own shares at up to 110% of book value. The brief window produced only $67M of buybacks before the price moved above the limit. The threshold is not arbitrary — at 110% of book, where Berkshire's intrinsic value substantially exceeds book value, repurchases clearly increase per-share intrinsic value for continuing shareholders. Berkshire also holds a hard floor: no repurchases if cash-equivalent holdings drop below $20B. "At Berkshire, financial strength that is unquestionable takes precedence over all else." ([[berkshire-2011-letter]])
+
+## The counter-intuitive case: wanting lower prices (IBM, 2011)
+
+The 2011 letter offers one of Buffett's most elegant teaching examples. When a company is spending large sums on buybacks, a **long-term partial owner should want the stock price to languish** — the lower the price, the more shares are retired per dollar, enlarging the partial owner's proportional claim on future earnings.
+
+The IBM illustration: IBM projected to spend ~$50B on buybacks over five years.
+
+| Avg. IBM price during 5 years | Shares acquired with $50B | Shares outstanding after | Berkshire's % ownership |
+|---|---|---|---|
+| $200 ("disappointing") | 250M | ~910M | ~7.0% |
+| $300 ("successful") | 167M | ~990M | ~6.5% |
+
+At $20B 5th-year earnings, the 0.5-percentage-point ownership difference represents **$100M more in Berkshire's share of earnings** under the "disappointing" price scenario. Over time, the lower-price scenario would leave Berkshire's shares worth ~$1.5B more.
+
+The logic generalizes: any net buyer of stocks — directly or through a company repurchasing — is hurt when prices rise and benefits when prices fall. The analogy: "Most people, including those who will be net buyers in the future, take comfort in seeing stock prices advance. These shareholders resemble a commuter who rejoices after the price of gas increases, simply because his tank contains a day's supply."
+
+This is the direct corollary of [[mr-market]]: the market's mood swings are irrelevant except insofar as they offer opportunities to buy or sell. For an investor who intends to keep buying — either directly or via a repurchasing company — lower prices are strictly better. ([[berkshire-2011-letter]])
+
 ## How it's discussed in sources
 
 - [[berkshire-1980-letter]] — debut as a recurring theme; the auction-vs-negotiated framing
@@ -85,6 +117,7 @@ This section of the framework completes the logical structure: the conditions un
 - [[berkshire-1984-letter]] — full canonical articulation; arithmetic *plus* signaling; greenmail explicitly distinguished
 - [[berkshire-1985-letter]] — the WPC "triple-dip" worked example: business-value gain + per-share-value compounding via repurchase + discount narrowing
 - [[berkshire-1999-letter]] — canonical post-bubble restatement; the two-condition framework restated; critique of price-support buybacks and option-offset buybacks as "buy high, sell low"; the Berkshire threshold (meaningful discount to intrinsic value); Berkshire's near-repurchase below $45K and the disclosure approach
+- [[berkshire-2011-letter]] — two conditions made explicit; "what is smart at one price is dumb at another"; IBM buyback math as the worked counter-intuitive example; Berkshire's 110%-of-book threshold and $20B cash floor
 
 ## Related
 
