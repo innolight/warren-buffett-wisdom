@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-06-12
 updated: 2026-06-14
-sources: [berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2005-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter]
+sources: [berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2005-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter]
 tags: [utility, regulated, infrastructure, capital-deployment, acquisition]
 related: [[berkshire-hathaway]], [[dave-sokol]], [[acquisition-criteria]], [[capital-allocation]]
 ---
@@ -57,3 +57,4 @@ This framing captures how Berkshire operates large subsidiaries: voting control 
 - [[berkshire-2009-letter]] — 89.5% stake; $2.5B earned / $3B spent on wind (prior 3 years); "social compact" framing for regulated businesses introduced; BNSF announced as future addition to this reporting segment; tens of billions of incremental equity capital flagged
 - [[berkshire-2010-letter]] — wind leadership: 2,909 MW by year-end 2011, most of any regulated electric utility; $5.4B committed to wind; Iowa rates flat since 1999 vs. competitor up 70%+; Northern Natural #2 (Kern River #1); net earnings $1.238B; Berkshire's stake 89.8%
 - [[berkshire-2011-letter]] — net earnings $1.331B (up from $1.238B); 3,316 MW of wind by end of 2012, still the most of any regulated electric utility; total wind committed $6B; two solar projects added (~$3B to construct: 100%-owned California, 49%-owned Arizona); Greg Abel cited alongside Matt Rose (BNSF) as exemplary regulated-infrastructure operators; 2.5M U.S. customers; pipelines carry 8% of U.S. natural gas; customer satisfaction: Northern Natural #2 in Mastio rankings (from dead last at 2002 acquisition)
+- [[berkshire-2012-letter]] — net earnings $1.472B (up from $1.331B); earnings applicable to Berkshire $1.323B; MidAmerican now accounts for 6% of U.S. wind generation capacity and, upon completing three projects under construction, will own ~14% of U.S. solar-generation capacity; total committed renewables portfolio will have cost $13B; Greg Abel and Matt Rose cited as "two outstanding CEOs"

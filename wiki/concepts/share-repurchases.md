@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-06-14
-sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter, berkshire-2011-letter]
+sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter, berkshire-2011-letter, berkshire-2012-letter]
 tags: [capital-allocation, repurchases, signaling]
 related: [[stock-as-acquisition-currency]], [[intrinsic-value-vs-book-value]], [[dividend-policy]], [[washington-post]], [[incentive-compensation]], [[owner-orientation]]
 ---
@@ -89,9 +89,11 @@ Both must be present. The first without the second is capital misallocation; the
 
 The 2011 letter also names a non-obvious cost to buybacks at any price: cashing out partners at a discount produces a mixed emotion even when it benefits continuing holders. Buffett wants exiting shareholders to be fully informed of the value they are selling — so any bid at a discount is accompanied by explicit communication of intrinsic value.
 
-### Berkshire's 110% of book threshold
+### Berkshire's buyback ceiling: 110% → 120% of book
 
-In September 2011, Berkshire announced it would repurchase its own shares at up to 110% of book value. The brief window produced only $67M of buybacks before the price moved above the limit. The threshold is not arbitrary — at 110% of book, where Berkshire's intrinsic value substantially exceeds book value, repurchases clearly increase per-share intrinsic value for continuing shareholders. Berkshire also holds a hard floor: no repurchases if cash-equivalent holdings drop below $20B. "At Berkshire, financial strength that is unquestionable takes precedence over all else." ([[berkshire-2011-letter]])
+In September 2011, Berkshire announced it would repurchase its own shares at up to 110% of book value. The brief window produced only $67M of buybacks before the price moved above the limit. Berkshire also holds a hard floor: no repurchases if cash-equivalent holdings drop below $20B. "At Berkshire, financial strength that is unquestionable takes precedence over all else." ([[berkshire-2011-letter]])
+
+In December 2012, the ceiling was raised to **120% of book**, when a large block became available at approximately 116% of book. The revised threshold reflects Buffett's view that at up to 120% of book, where Berkshire's intrinsic value substantially exceeds book value, repurchases still clearly increase per-share intrinsic value for continuing shareholders. The principle is unchanged — "what is smart at one price is dumb at another" — but the threshold was corrected upward from what proved to be an unrealistically tight prior limit. ([[berkshire-2012-letter]])
 
 ## The counter-intuitive case: wanting lower prices (IBM, 2011)
 
@@ -118,6 +120,7 @@ This is the direct corollary of [[mr-market]]: the market's mood swings are irre
 - [[berkshire-1985-letter]] — the WPC "triple-dip" worked example: business-value gain + per-share-value compounding via repurchase + discount narrowing
 - [[berkshire-1999-letter]] — canonical post-bubble restatement; the two-condition framework restated; critique of price-support buybacks and option-offset buybacks as "buy high, sell low"; the Berkshire threshold (meaningful discount to intrinsic value); Berkshire's near-repurchase below $45K and the disclosure approach
 - [[berkshire-2011-letter]] — two conditions made explicit; "what is smart at one price is dumb at another"; IBM buyback math as the worked counter-intuitive example; Berkshire's 110%-of-book threshold and $20B cash floor
+- [[berkshire-2012-letter]] — ceiling raised 110% → 120% of book; "disciplined repurchases are the surest way to use funds intelligently"; $1.3B of repurchases executed in 2012
 
 ## Related
 

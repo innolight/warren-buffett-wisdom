@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1986-letter]
+updated: 2026-06-14
+sources: [berkshire-1986-letter, berkshire-2012-letter]
 tags: [accounting, valuation, cash-flow, capital-allocation]
 related: [[intrinsic-value-vs-book-value]], [[look-through-earnings]], [[economic-goodwill]]
 ---
@@ -54,6 +54,20 @@ And on the popularity of the deficient number:
 
 The EBITDA critique (more pointed in the 1989 zero-coupon-bond essay) is a direct descendant. See [[berkshire-1989-letter]].
 
+## Non-real vs. real amortization (2012)
+
+The 1986 formula treats (b) — depreciation and amortization — as a category to be partially added back. The 2012 letter refines this: within (b) itself, not all amortization is equal. Some represents genuine economic depletion; some is a pure accounting artifact.
+
+**Real amortization:** Software amortization is real. Code has a finite economic life; it genuinely becomes obsolete. Amortizing it matches economic consumption.
+
+**Non-real amortization:** Purchase-price accounting generates amortization of customer relationships, non-compete agreements, and similar "identified intangibles" when an acquisition closes. GAAP requires amortization into expense over estimated useful lives — but where the underlying asset retains its economic value (a loyal customer base, an established brand relationship), no depletion is actually occurring. "GAAP accounting draws no distinction between the two types of charges. Both, that is, are recorded as expenses when calculating earnings — even though from an investor's viewpoint they could not be more different." ([[berkshire-2012-letter]])
+
+The Wells Fargo "amortization of core deposits" is the most extreme case. Wells Fargo's GAAP earnings are reduced each year by this charge — implying that core deposits are disappearing at a rapid clip. Yet core deposits regularly increase. In 2012, the charge was approximately $1.5 billion. In no sense except GAAP accounting is this an expense. It is not highlighted by the company and had not, at the time of the 2012 letter, been noted in any analyst report Buffett was aware of. An investor who reads Wells Fargo's GAAP earnings without adding back this charge is understating owner earnings by $1.5 billion annually.
+
+IBM provides a parallel at smaller scale: many small acquisitions generate recurring purchase-accounting adjustments, so IBM reports "adjusted operating earnings" that exclude them. Analysts correctly focus on the adjusted figure.
+
+**The practical investor framework:** when evaluating an acquisition-heavy company, classify amortization charges as (1) charges on assets that are genuinely depleting — add back per the standard owner-earnings adjustment — and (2) charges on assets that retain economic value despite the accounting — add back entirely. GAAP provides no guidance on the distinction; the investor must apply judgment.
+
 ## (c) is a guess
 
 The honest difficulty: (c) cannot be calculated from any single year's accounting. It is the long-run capex required to hold competitive position — which depends on industry dynamics, the maturity of the asset base, the rate of technological change, the elasticity of pricing power. Different observers will estimate (c) differently for the same business.
@@ -64,6 +78,7 @@ Buffett's stance: "I would rather be vaguely right than precisely wrong." Owner 
 
 - [[berkshire-1986-letter]] — debut; the canonical formula in the Appendix; the Scott Fetzer worked example; the cash-flow-fallacy critique
 - [[berkshire-1987-letter]] — referenced repeatedly in the discussion of why Berkshire separately reports the earnings of operating businesses before purchase-price adjustments
+- [[berkshire-2012-letter]] — non-real vs. real amortization distinction; Wells Fargo's $1.5B "amortization of core deposits" as the canonical example of a GAAP charge with no economic content; IBM adjusted earnings as parallel; the practical investor framework for classifying amortization
 
 ## Related
 

@@ -2,10 +2,10 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1984-letter]
+updated: 2026-06-14
+sources: [berkshire-1984-letter, berkshire-2012-letter]
 tags: [capital-allocation, dividends, retention]
-related: [[share-repurchases]], [[intrinsic-value-vs-book-value]], [[owner-orientation]]
+related: [[share-repurchases]], [[intrinsic-value-vs-book-value]], [[owner-orientation]], [[tax-deferral]]
 ---
 
 # Dividend Policy
@@ -58,9 +58,32 @@ Buffett's caution: "Nothing in this discussion is intended to argue for dividend
 
 Buffett applies the test to Berkshire itself in 1984: historically Berkshire has earned well above market rates on retained earnings, creating >$1 of market value per $1 retained. The five-year rolling test is the historical record; if prospective returns fall below the bar, unrestricted earnings will be distributed.
 
+## The sell-off vs. dividend comparison (2012)
+
+The 2012 letter provides the most mathematically complete treatment of the dividend question in the entire series — and the conclusion is that for companies earning good returns on equity whose shares trade above book, paying dividends is the *inferior* form of capital return. Buffett's worked example:
+
+Assume two equal owners of a business with $2M net worth earning 12% on equity ($240K annually), where outsiders always wish to buy at 125% of net worth. Each owner's stake is worth $1.25M.
+
+**Dividend policy** (one-third payout): Each shareholder receives $40K annually, growing at 8%/year (12% earned minus 4% of net worth paid out). After 10 years: company net worth $4.318M; each shareholder's shares worth $2.699M; annual dividend $86K.
+
+**Sell-off policy** (no dividends; each shareholder sells 3.2% of shares annually at 125% of book): Same initial $40K of cash. After 10 years: company net worth $6.212M (compounding at the full 12%); ownership falls to 36.12% each; but share of net worth is $2.244M, which at 125% of book is worth $2.804M — about **4% more** than the dividend approach — and annual cash receipts are also 4% higher.
+
+Two structural advantages of the sell-off policy:
+
+1. **Individual choice.** Dividends impose a uniform payout on all shareholders regardless of their cash needs. The sell-off policy lets each shareholder determine their own "payout rate" by selling more or fewer shares annually. A shareholder who reinvests dividends to buy more stock in a dividend-paying company incurs both taxes and the market premium — a double cost.
+
+2. **Tax advantage.** Dividends are fully taxable as ordinary income in the year received. Under the sell-off policy, only the *gain portion* of sales proceeds is taxed, and at capital-gains rates.
+
+The arithmetic assumes the company earns average returns on equity above the tax-adjusted passive return available to investors — which the S&P has historically met. The argument becomes stronger, not weaker, as this assumption is exceeded.
+
+**Buffett's own case.** Over the seven years preceding the 2012 letter, Buffett gave away approximately 4.25% of his Berkshire shares annually. His position fell from 712,497,000 B-equivalent shares to 528,525,623. Yet the book value attributable to his current holdings ($40.2B at yearend 2012) substantially exceeds the book value attributable to his original position seven years earlier ($28.2B at yearend 2005) — because Berkshire's per-share book value grew faster than the 4.25% he gave away each year. Ownership percentage fell; economic stake in the business grew.
+
+**The consistency constraint.** The 2012 letter adds a behavioral principle alongside the mathematics: "Dividend policy should always be clear, consistent and rational. A capricious policy will confuse owners and drive away would-be investors." Phil Fisher's formulation (citing *Common Stocks and Uncommon Profits*): you can run a successful hamburger restaurant or a successful Chinese food restaurant, but not both simultaneously. The shareholders you attract should be compatible with the policy you maintain. ([[berkshire-2012-letter]])
+
 ## How it's discussed in sources
 
 - [[berkshire-1984-letter]] — debut; the restricted/unrestricted distinction, the bond analogy, the schizoid manager, the camouflage problem, Berkshire's own application
+- [[berkshire-2012-letter]] — complete mathematical sell-off vs. dividend comparison; two structural advantages (individual choice + tax); Buffett's own giving-vs-growing case; consistency principle
 
 ## Related
 

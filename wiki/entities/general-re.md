@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-06-10
-updated: 2026-06-10
-sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+updated: 2026-06-14
+sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2012-letter]
 tags: [reinsurance, acquisition, underwriting, insurance]
 related: [[berkshire-hathaway]], [[float]], [[super-cat-insurance]], [[ajit-jain]], [[underwriting-discipline]], [[stock-as-acquisition-currency]]
 ---
@@ -26,6 +26,8 @@ The strategic rationale was clear. A publicly-held reinsurer is paid to absorb t
 
 By 2003, General Re's underwriting business was genuinely fixed — producing $145 million of underwriting profit after years of losses — and the float it contributed ($23.7 billion at yearend 2003) was earning its keep. The lesson, however, was written at significant cost.
 
+**Turnaround confirmed (2012).** In the 2012 letter Buffett describes General Re in the same terms he reserves for Berkshire's best insurance operations: Tad Montross had "observed all four of the insurance commandments," and "General Re's huge float has been better than cost-free under his leadership." He added that he expected it "on average" to continue so. International life reinsurance — part of the original 1998 acquisition thesis — achieved "consistent and profitable growth since we acquired the company in 1998." The 2012 contribution: float of $20.128 billion and an underwriting profit of $355 million. The arc from "I was dead wrong" (2002) to explicit positive exemplar alongside [[ajit-jain]]'s BH Reinsurance (2012) is the complete General Re story as it stands in Buffett's public record.
+
 ## Why it matters
 
 **1. Cultural due diligence cannot be substituted with financial due diligence.** Buffett studied General Re for decades before the acquisition and saw consistent underwriting discipline and conservative reserving. He detected none of this degrading in the deal process — and he was wrong. The culture had shifted silently before the merger closed. No amount of financial modeling catches a change in institutional norms. For acquirers, this is the enduring lesson: assets transfer cleanly; culture does not. The market-share-over-profit drive that infected General Re's underwriting force — "it is difficult for able, hard-driving professionals to curb their urge to prevail over competitors" — is an instance of [[institutional-imperative]] that due diligence rarely surfaces.
@@ -44,3 +46,4 @@ By 2003, General Re's underwriting business was genuinely fixed — producing $1
 - [[berkshire-2001-letter]] — September 11th exposure; ~$800M reserve shortfall; violations of underwriting rules 1 and 2; Joe Brandon appointed CEO
 - [[berkshire-2002-letter]] — explicit accountability ("I was dead wrong"); $1.31B reserve charge; NCB aggregation reduced; Gen Re Securities wind-down begun; "Like Hell, both are easy to enter and almost impossible to exit"
 - [[berkshire-2003-letter]] — Gen Re Securities dithering confession; cleanup confirmed complete; float contributing $23.7B at underwriting profit
+- [[berkshire-2012-letter]] — Tad Montross confirmed as positive exemplar: all four underwriting disciplines maintained; float "better than cost-free under his leadership"; international life reinsurance achieving consistent profitable growth since 1998; float $20.128B, underwriting profit $355M — the turnaround arc complete

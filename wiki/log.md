@@ -10,6 +10,37 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-06-14] refactor | berkshire-2012-letter post-ingest quality fixes
+
+Four findings from review-ingest corrected:
+
+- `sources/berkshire-2012-letter.md` — reframed "Investment managers" key theme from chronicle (who outperformed by how much) to principle (cultural and intellectual fit as primary succession criteria; growing autonomy model validated by real performance in real conditions)
+- `concepts/media-economics.md` — added "The viable remnant: local community monopoly (2012)" section: local primacy survived where national primacy collapsed; pay model as the only viable digital strategy; Arkansas Democrat-Gazette as the exemplar; content-quality-over-frequency prescription; "survival of the fattest" monopoly-formation mechanism named; community papers' revenue resilience vs. big-city decline; berkshire-2012-letter added to frontmatter and source bullet
+- `concepts/owner-earnings.md` — added "Non-real vs. real amortization (2012)" section: software amortization is real; purchase-accounting amortization of customer relationships is not; Wells Fargo's $1.5B "amortization of core deposits" as the canonical non-real amortization example; IBM adjusted earnings as parallel; investor framework for distinguishing the two types; berkshire-2012-letter added to frontmatter and source bullet
+- `entities/general-re.md` — added "Turnaround confirmed (2012)" history paragraph (Montross cited as positive exemplar; all four disciplines maintained; float $20.128B, underwriting profit $355M; international life reinsurance profitable since 1998); berkshire-2012-letter added to frontmatter and source bullet; updated date corrected
+
+## [2026-06-14] ingest | berkshire-2012-letter
+
+- Created `sources/berkshire-2012-letter.md`
+- Updated `concepts/dividend-policy.md` — major addition: the sell-off vs. dividend mathematical comparison (the most detailed treatment in the 48-year series); two structural advantages (individual choice, tax); Buffett's own giving-vs-growing case; Phil Fisher consistency principle; added berkshire-2012-letter to sources
+- Updated `concepts/share-repurchases.md` — repurchase ceiling raised 110% → 120% of book in December 2012; added source bullet; updated frontmatter
+- Updated `concepts/float.md` — 2012 row added ($73.125B, 10th consecutive underwriting profit, $1.625B gain, $18.6B cumulative 2003–2012); source bullet added; frontmatter updated
+- Updated `concepts/underwriting-discipline.md` — 10th consecutive underwriting-profit year; General Re under Tad Montross confirmed as second positive model; source bullet added; frontmatter updated
+- Updated `entities/geico.md` — 2012 section: market share 9.7% (from 2.5% in 1995); premium volume $16.7B; Hurricane Sandy (largest single loss in GEICO history, 46,906 vehicles); persistency and closure improvements ($1B/point persistency value); 51 years of Nicely service; source bullet added
+- Updated `entities/bnsf.md` — 2012 results: $20.835B revenue, $3.372B net, 9.6× coverage; oil transport 500K barrels/day (~10% of lower-48); $4B capex committed for 2013 (most by any railroad in a single year); source bullet and body section added
+- Updated `entities/midamerican-energy.md` — 2012: $1.472B net, $1.323B to Berkshire; 6% of U.S. wind capacity; ~14% of solar when three projects complete; $13B total renewables portfolio; source bullet added
+- Updated `wiki/index.md` — added berkshire-2012-letter (Sources section); updated dividend-policy summary
+
+**Deliberately skipped (per scope filter):**
+- Heinz acquisition — one deal; preferred structure with warrants is period-specific; no enduring lesson beyond what acquisition-criteria covers
+- Todd Combs / Ted Weschler investment manager performance — too early to assess as shaping figures; no person pages warranted
+- Marmon GAAP accounting discussion — accounting rule specific to the consolidation period; not timeless
+- Newspaper acquisitions / Stan Lipsey retirement — Buffett himself acknowledges declining sector economics; not a canonical investment case study
+- HomeServices real estate brokerage — incidental; covered on source page only
+- Capital expenditure enthusiasm / CEO uncertainty critique — well-made point on source page; no new concept page warranted
+- Non-real amortization lecture (Wells Fargo "amortization of core deposits") — interesting but adequately handled via existing pages; no new concept page needed
+- Annual meeting logistics — entirely ephemeral
+
 ## [2026-05-27] refactor | source page quality pass — quote audit + wikilinks + connections (1986–1995)
 
 Ten parallel agents, one per source page. Each read the raw letter and the wiki page, verified every quote verbatim, added body-text wikilinks on first substantive mention, and strengthened thematic cross-references.

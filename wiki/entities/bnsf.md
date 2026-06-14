@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-06-14
 updated: 2026-06-14
-sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter]
+sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter]
 tags: [railroad, infrastructure, regulated, capital-intensive, acquisition]
 related: [[berkshire-hathaway]], [[midamerican-energy]], [[warren-buffett]], [[capital-allocation]], [[liquidity-fortress]], [[stock-as-acquisition-currency]]
 ---
@@ -80,8 +80,17 @@ Capital commitment: $1.8B above depreciation in 2011, maintaining and improving 
 
 The "circulatory system" framing, offered in the 2011 letter, is the most vivid statement of BNSF's role: "It is no exaggeration to characterize railroads as the circulatory system of our economy. Your railroad is the largest artery." ([[berkshire-2011-letter]])
 
+## 2012 results and oil transport
+
+Revenues $20.835B (up from $19.548B); operating earnings $6.0B; net earnings $3.372B. Interest coverage 9.6× in a still-tepid economy. BNSF carries approximately 15% of all U.S. inter-city freight measured by ton-miles — "more ton-miles of goods than anyone else, a fact making BNSF the most important artery in our economy's circulatory system." Fuel efficiency: a ton of freight moved ~500 miles on a single gallon of diesel fuel (vs. four gallons for trucks). ([[berkshire-2012-letter]])
+
+Oil transport emerged as a new dimension of BNSF's growth: BNSF was transporting approximately **500,000 barrels of oil per day** in 2012 — roughly 10% of total lower-48 production. All indications were that oil shipments would grow substantially in coming years, driven by the resurgence in U.S. oil production (particularly Bakken shale).
+
+Berkshire committed to spending approximately **$4 billion on BNSF in 2013** — roughly double BNSF's depreciation charge and more than any railroad had spent in a single year. This is the clearest single-year expression of the social-compact model: essential service, permanent capital commitment, regulated returns.
+
 ## Sources discussing this entity
 
 - [[berkshire-2009-letter]] — full acquisition narrative; social compact framing; economic characteristics vs. utilities; Matt Rose noted; BNSF to join regulated-utility reporting segment
 - [[berkshire-2010-letter]] — first full-year results: $16.85B revenue, $4.0B pre-tax, 40% earning-power increase; 500 miles/ton-gallon; 6:1 interest coverage; $2B above-depreciation capex planned for 2011
 - [[berkshire-2011-letter]] — record revenues ($19.548B), pre-tax ($4.741B), net ($2.972B); 37% of railroad ton-miles = ~15% of all U.S. inter-city freight; 9.5× interest coverage in weak economy; $1.8B above-depreciation capex; "circulatory system of our economy"
+- [[berkshire-2012-letter]] — revenues $20.835B, net $3.372B (new records); 9.6× interest coverage; 500K barrels oil/day (~10% of lower-48 production), expected to grow substantially; $4B capex committed for 2013 (more than any railroad in a single year)

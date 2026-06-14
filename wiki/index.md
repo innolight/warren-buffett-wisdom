@@ -43,6 +43,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2009-letter]] — 2009 annual letter; BNSF acquisition (Berkshire's largest); "What We Don't Do" inversion framework; liquidity fortress vindicated ($15.5B deployed in 2008 crisis); NetJets crisis and Sokol turnaround; float $62B, seventh consecutive underwriting profit
 - [[berkshire-2010-letter]] — 2010 annual letter; BNSF first full year (40% earning-power increase, 500 miles/ton-gallon); GEICO goodwill case study ($1.4B book vs. ~$14B economic); "Life and Debt" leverage philosophy; Black-Scholes "approximately right vs. precisely wrong"; float $65.8B, eighth consecutive underwriting profit
 - [[berkshire-2011-letter]] — 2011 annual letter; three-investment-categories essay (currency/sterile/productive) with the gold vs. "pile B" illustration; IBM buyback math as the counter-intuitive case for wanting lower prices; four disciplines of sound underwriting; float $70.6B, ninth consecutive underwriting profit
+- [[berkshire-2012-letter]] — 2012 annual letter; most detailed dividend vs. sell-off mathematical comparison in the series; repurchase limit raised 110%→120% of book; float $73.1B, tenth consecutive underwriting profit; GEICO 9.7% market share
 
 ## Entities
 
@@ -118,7 +119,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[corporate-governance]] — Buffett's critique of board independence failures; collegiality-over-oversight; the stock-options expensing fight; post-Enron restatement
 - [[cost-of-float]] — underwriting loss ÷ average float; the financing-cost equivalent that benchmarks insurance value
 - [[derivatives]]  — "financial weapons of mass destruction"; systemic counterparty risk in long chains; the Gen Re Securities runoff as the cautionary case
-- [[dividend-policy]] — restricted vs. unrestricted earnings; the $1-of-market-value per $1-retained retention test
+- [[dividend-policy]] — restricted vs. unrestricted earnings; the $1-of-market-value per $1-retained retention test; sell-off vs. dividend mathematical comparison (2012)
 - [[economic-goodwill]] — durable competitive advantage producing high returns on tangible capital; Buffett's escape from Graham's tangible-asset bias
 - [[equity-return-expectations]] — GDP-tethered ceiling on long-run aggregate equity returns; Dow-at-2,000,000 arithmetic
 - [[float]] — premium-derived investable funds; the engine that converts an insurer into a compounder; cost-of-float framework from 1990; Gen Re adds ~$15B to float base
