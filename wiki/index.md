@@ -60,6 +60,8 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[geico]] — direct-to-consumer auto insurer; canonical low-cost-operator moat in financial services; 100%-owned from 1996; Tony Nicely's virtuous-circle growth
 - [[general-re]] — global reinsurer acquired 1998 for Berkshire stock; underwriting culture failure and derivatives book runoff; the post-acquisition cleanup case study
 - [[gillette]] — global razor/blade franchise; Berkshire's second great consumer brand; $600M preferred 1989 → $2.5B common 1995; moat sustained through 2003
+- [[helzbergs]] — Kansas City jewelry retailer; 1995 acquisition; sourced by Barnett Helzberg; referral-chain extension
+- [[h-h-brown]] — New England footwear manufacturer; 1991 acquisition; Frank Rooney; first in the Berkshire shoe group
 - [[midamerican-energy]] — regulated utility holding acquired 2000; Dave Sokol operator; capital-intensive with highly predictable earnings
 - [[national-indemnity]] — Berkshire's insurance flagship; the empirical basis of the float framework; super-cat platform
 - [[nebraska-furniture-mart]] — Mrs. B's home-furnishings retailer; canonical Berkshire low-cost operator; the $55M handshake deal
@@ -101,6 +103,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 ## Concepts
 
 - [[acquisition-criteria]] — the four-point principle plus the published six-point operational ad; the kissing-toads failure modes; refined by 2000 acquisition spree
+- [[arbitrage]] — Buffett's four-question risk-arbitrage framework; 63-year track record as the empirical EMT refutation
 - [[inversion]] — Jacobi/Munger "invert, always invert"; approach problems by defining what to avoid; the "What We Don't Do" four-pointer as worked example
 - [[liquidity-fortress]] — $20B+ cash permanently held as a strategic weapon; supplier not supplicant during crises; "never depend on the kindness of strangers"
 - [[bonds-and-inflation]] — fixing a price in one direction while costs move in the other destroys value; long-term bonds as the canonical case
@@ -111,21 +114,28 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[commodity-business-economics]] — over-capacity + undifferentiated product = poor profitability unless rescued by a wide and sustainable cost advantage
 - [[concentration-vs-diversification]] — know-nothing investor → index fund; know-something investor → concentrate; eight-position concentration sustained through dot-com peak
 - [[corporate-governance]] — Buffett's critique of board independence failures; collegiality-over-oversight; the stock-options expensing fight; post-Enron restatement
-- [[derivatives]] — "financial weapons of mass destruction"; systemic counterparty risk in long chains; the Gen Re Securities runoff as the cautionary case
+- [[cost-of-float]] — underwriting loss ÷ average float; the financing-cost equivalent that benchmarks insurance value
+- [[derivatives]]  — "financial weapons of mass destruction"; systemic counterparty risk in long chains; the Gen Re Securities runoff as the cautionary case
 - [[dividend-policy]] — restricted vs. unrestricted earnings; the $1-of-market-value per $1-retained retention test
 - [[economic-goodwill]] — durable competitive advantage producing high returns on tangible capital; Buffett's escape from Graham's tangible-asset bias
+- [[equity-return-expectations]] — GDP-tethered ceiling on long-run aggregate equity returns; Dow-at-2,000,000 arithmetic
 - [[float]] — premium-derived investable funds; the engine that converts an insurer into a compounder; cost-of-float framework from 1990; Gen Re adds ~$15B to float base
 - [[franchise-vs-business]] — the 1991 three-condition test; franchises tolerate mismanagement, businesses do not; the media reclassification
 - [[great-good-gruesome]] — three-tier business-quality taxonomy (2007); great = capital-light compounder (See's); good = capital-intensive but good returns (FlightSafety); gruesome = capital-hungry with poor returns (airlines)
+- [[growth-and-value]] — growth is a DCF variable, not a contrasting investment style; the false dichotomy demolished
 - [[incentive-compensation]] — the option-critique and the savings-account analogy; Berkshire's unit-specific, uncapped, seniority-blind, symmetric alternative; stock-options expensing fight 1998–2003
 - [[institutional-imperative]] — corporate herd behavior; the structural force a disciplined allocator must resist; canonically named 1989; Gen Re as the real-world failure case
 - [[intrinsic-value-vs-book-value]] — book is financial input, intrinsic is future cash output; the gauge for capital-allocation decisions
 - [[investment-friction]] — Gotrocks allegory; four layers of Helpers erode aggregate investor returns; Newton's Fourth Law: returns decrease as motion increases; ~20% of business earnings going to intermediaries by 2005
 - [[investor-misery-index]] — real return = nominal − inflation − tax on the nominal; the lens that distinguishes apparent from actual wealth creation
+- [[lending-discipline]] — three non-negotiables for sound consumer lending; Clayton Homes proved the thesis under 2008 stress
+- [[leverage-discipline]] — debt sized for adversity; EBITDA fallacy; "dagger on the steering wheel"; the gatekeeping failure
 - [[look-through-earnings]] — pro-rata earnings attributable to a partial stake vs. cash dividends actually received; explicit tabular calculation method 1990
 - [[margin-of-safety]] — Graham's three-word distillation; the gap between estimated intrinsic value and price paid; cornerstone of investment success
+- [[media-economics]] — distribution-based franchise economics; why newspaper monopoly moats collapsed structurally
 - [[mistakes-of-omission]] — the invisible mistakes that don't appear on financial statements; Fannie Mae $1.4B; Cap Cities; Disney 1967; circle-of-competence tech abstention 1999
 - [[moat]] — structural competitive advantage that resists erosion; the castle-and-moat metaphor canonized 1986; five empirical signatures including global brand
+- [[model-risk]] — quantitative models fail when structural conditions change; Black-Scholes critique; "beware of geeks bearing formulas"
 - [[mr-market]] — Graham's manic-depressive market allegory canonized by Buffett 1987; the Cinderella warning; most extreme manifestation since 1970s during dot-com
 - [[noah-rule]] — predicting rain vs. building arks; preparation over forecasting; Buffett's aphorism for acting on known risks without waiting for certainty
 - [[owner-earnings]] — Buffett's 1986 formula: reported earnings + non-cash charges − maintenance capex; the cash-flow fallacy critique
@@ -138,8 +148,10 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[stock-as-acquisition-currency]] — issuing undervalued stock is a partial sale at a discount; the linguistic reframe "Part of A sold to acquire B"; Dexter Shoe and Gen Re as cautionary cases
 - [[super-cat-insurance]] — catastrophe reinsurance written by Berkshire from 1989; "lumpy 15% vs. smooth 12%"; 9/11 as the stress test; Gen Re failure as the contrast
 - [[tailwinds-vs-headwinds]] — industry structure dominates managerial effort; TV station vs. textile mill as the extreme cases
+- [[tax-deferral]] — structural compounding advantage of long-hold strategies; Rip-Van-Winkle and Li'l Abner arithmetic
 - [[turnarounds-seldom-turn]] — statistically cheap bad businesses stay bad; good business at fair price dominates poor business at bargain price
 - [[underwriting-discipline]] — writing insurance for profit not market share; multi-year cycle thinking; the Gen Re culture failure as the cautionary case
+- [[valuation-framework]] — Aesop's three-question DCF framework; universally applicable; dissolves the growth/value dichotomy
 - [[volatility-as-opportunity]] — the constructive corollary of Mr. Market; the 1990 food-prices analogy; fear-is-friend-of-fundamentalist; dot-com as the ultimate test
 
 ## Synthesis

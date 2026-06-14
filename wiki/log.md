@@ -479,3 +479,29 @@ Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages 
 - Constellation Energy breakup fee — ephemeral
 - Clayton Homes / manufactured housing rate differential — year-specific policy argument; existing page covers the durable lending principles
 - Housing start statistics and 2010 outlook — macro/period commentary
+
+## [2026-06-14] note | concept gap remediation
+
+Full review of `wiki/sources/` (1977–2008, 32 letters) against `wiki/concepts/` identified 9 timeless concepts with substantive Buffett essays in the sources but no dedicated pages. All created via parallel subagent dispatch.
+
+**Created (concepts):**
+- `concepts/valuation-framework` — Aesop three-question DCF framework; the master valuation method (sources: 1992, 2000)
+- `concepts/arbitrage` — four-question risk-arbitrage framework; Rockwood/Arcata/RJR case studies; 63-year EMT refutation (source: 1988)
+- `concepts/growth-and-value` — growth as a DCF variable, not an opposing investment style; John Burr Williams foundation (sources: 1992, 2000)
+- `concepts/leverage-discipline` — junk bonds / EBITDA fallacy / "dagger on steering wheel" / gatekeeping failure (sources: 1989, 1990)
+- `concepts/model-risk` — back-tested models fail when structural conditions change; Black-Scholes critique; "beware of geeks" (sources: 2008, 2003)
+- `concepts/equity-return-expectations` — GDP-tethered return ceiling; Dow-at-2,000,000 arithmetic (sources: 1999, 2007)
+- `concepts/tax-deferral` — Rip-Van-Winkle and Li'l Abner arithmetic; deferred tax as interest-free government loan (sources: 1989, 1993)
+- `concepts/lending-discipline` — three non-negotiables; Clayton Homes 3.6% delinquency as stress-test proof (sources: 2008, 2003)
+- `concepts/media-economics` — distribution-based franchise economics and structural collapse (sources: 2006, 1991)
+- `concepts/cost-of-float` — redirect/definition page resolving 5 broken wikilinks; points to [[float]]
+
+**Created (entity stubs):**
+- `entities/h-h-brown` — 1991 footwear acquisition; resolved broken wikilink
+- `entities/helzbergs` — 1995 jewelry acquisition; resolved broken wikilink
+
+**Skipped:**
+- `ron-olson` — single mention as Munger Tolles partner in Salomon crisis; below canonical threshold
+- Re-sorting of existing misplaced index entries (`inversion`, `liquidity-fortress`) — left as-is to avoid noise
+
+**Updated:** `wiki/index.md` — 9 concept entries, 1 redirect entry, 2 entity stub entries
