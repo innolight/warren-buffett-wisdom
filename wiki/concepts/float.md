@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-24
 updated: 2026-06-14
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter]
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter]
 tags: [insurance, capital-allocation, berkshire]
 related: [[national-indemnity]], [[berkshire-hathaway]], [[geico]], [[super-cat-insurance]], [[ajit-jain]], [[underwriting-discipline]], [[general-re]]
 ---
@@ -35,6 +35,7 @@ It is the engine that converts a well-run insurance underwriter into a long-dura
 - [[berkshire-2006-letter]] — $50.9B float plus $7B Equitas deal; $3.838B underwriting profit (best year ever); DCRA mechanics fully explicated; retroactive reinsurance hurdle now $450M/year; 40-year arc from $17M to $50.9B
 - [[berkshire-2008-letter]] — $58.5B float; sixth consecutive underwriting profit year; $2.8B positive carry (paid to hold); all four segments positive despite the Great Financial Crisis; insurance non-cyclicality as structural anchor demonstrated empirically
 - [[berkshire-2009-letter]] — $62B float milestone ($61.9B across four segments); seventh consecutive underwriting-profit year ($1.56B); additionally ~$6.3B of "derivatives float" held separately from the insurance float total
+- [[berkshire-2010-letter]] — $65.8B float; eighth consecutive underwriting-profit year ($2.013B total across all segments); cumulative 8-year underwriting gain $17B; the 40-year arc from $17M (1967) to $65.8B cited in full
 
 ## What pressures the cost of float
 
@@ -142,6 +143,7 @@ Three consecutive years of positive cost of float broke the long negative-cost r
 | 2006 | $50,887M | <0% | $3.838B underwriting profit — best year in Berkshire's 40-year insurance history |
 | 2008 | $58,488M | <0% | $2.792B underwriting profit; sixth consecutive year of positive underwriting; Berkshire was paid $2.8B to hold the float |
 | 2009 | $61,911M | <0% | $1,559M underwriting profit; seventh consecutive year of positive underwriting |
+| 2010 | $65,832M | <0% | $2,013M underwriting profit; eighth consecutive year of positive underwriting |
 
 The 1999 positive-cost note: $400M of the underwriting loss was "welcomed"—it came from policies that would deliver long-duration float with capped losses (retroactive reinsurance). The remaining losses were "decidedly unwelcome" and reflected General Re's failure to price adequately. Ajit Jain's "other reinsurance" segment had by 1999 accumulated $6.3B of float "from scratch since 1986 with cumulative underwriting profit"—the contrast to General Re was direct. ([[berkshire-1999-letter]])
 

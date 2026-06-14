@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-14
 updated: 2026-06-14
-sources: [berkshire-2009-letter]
+sources: [berkshire-2009-letter, berkshire-2010-letter]
 tags: [financial-strength, capital-allocation, risk-management, berkshire]
 related: [[berkshire-hathaway]], [[capital-allocation]], [[inversion]], [[float]], [[volatility-as-opportunity]], [[derivatives]]
 ---
@@ -63,9 +63,26 @@ The liquidity fortress is not simply "holding a lot of cash." Three distinctions
 2. **Enabled by permanent-capital structure.** Unlike most investors, Berkshire cannot be forced to sell at bad times by redemptions, margin calls, or debt covenants. Permanence of capital turns the liquidity advantage into a structural competitive edge.
 3. **Self-replenishing via float.** Much of Berkshire's liquidity buffer is the insurance float — money that belongs to future claimants but can be invested for Berkshire's benefit in the meantime. The fortress rebuilds itself continuously, making the concept inseparable from Berkshire's insurance model.
 
+## The $10B pledge and Ernest's letter
+
+The 2010 letter gives the most explicit operational commitment in the entire series. Buffett's grandfather Ernest ran a grocery store in Omaha and wrote a letter in 1939 to his youngest son explaining the principle: always keep enough liquidity on hand to survive any foreseeable disruption. Buffett, having found an analogous letter in his Aunt Alice's safe deposit box in 1970, cites this as the foundation of his own philosophy.
+
+Berkshire has formalized it: **"we have pledged that we will hold at least $10 billion of cash, excluding that held at our regulated utility and railroad businesses."** In practice the customary holding is $20B — the higher amount required to simultaneously withstand an unprecedented insurance loss (the largest to date was ~$3B from Katrina) *and* remain ready to seize acquisition or investment opportunities during turmoil.
+
+Berkshire holds its cash **in U.S. Treasury bills only** — not commercial paper, not money market funds. This policy predated the 2008 crisis that revealed the fragility of those alternatives; Berkshire held to it throughout. The corollary: "no bank lines" and "no collateral contracts except for amounts tiny in relation to liquid assets." Each of these constraints removes a potential forced-sale or forced-cash-delivery trigger.
+
+The cumulative statement: in 40 years (as of 2010), not a single dollar left Berkshire as a dividend or share repurchase. All earnings were retained and reinvested. Net worth grew from $48M to $157B over those four decades. This is the structural source of the fortress — the compounding itself built the reserve.
+
+**"Credit is like oxygen."** Buffett's 2010 formulation:
+
+> Borrowers then learn that credit is like oxygen. When either is abundant, its presence goes unnoticed. When either is missing, that's all that is noticed. Even a short absence of credit can bring a company to its knees.
+
+This complements the 2009 "kindness of strangers" framing. September 2008 came "dangerously close to bringing our entire country to its knees" — the reference point for why this policy is not timid conservatism but structural preparation.
+
 ## How it's discussed in sources
 
 - [[berkshire-2009-letter]] — canonical "kindness of strangers" statement; $15.5B deployment during 2008 crisis; $20B+ customary holding; "supplier not supplicant" framing; "sleep well" close
+- [[berkshire-2010-letter]] — explicit $10B minimum pledge; customarily $20B; Treasury bills only, no commercial paper; no bank lines; no collateral contracts; "credit is like oxygen"; grandfather Ernest's 1939 letter; Lehman: $15.6B deployed in 25 panic days; 40 years without dividends or repurchases; net worth $48M → $157B
 
 ## Related
 

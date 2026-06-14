@@ -505,3 +505,34 @@ Full review of `wiki/sources/` (1977–2008, 32 letters) against `wiki/concepts/
 - Re-sorting of existing misplaced index entries (`inversion`, `liquidity-fortress`) — left as-is to avoid noise
 
 **Updated:** `wiki/index.md` — 9 concept entries, 1 redirect entry, 2 entity stub entries
+
+## [2026-06-14] refactor | berkshire-2010-letter post-ingest quality fixes
+
+Six findings from review-ingest corrected:
+
+- `sources/berkshire-2010-letter.md` — fixed BNSF key theme: "42% of U.S. inter-city freight" was the rail-industry total; BNSF's figure is 11% (28% of rail × 42% rail share); corrected to match entity page. Added float milestone as Key theme (8th consecutive underwriting profit, $65.8B, $17B cumulative gain). Removed misplaced quote ("A plan that requires dodging them all") — this is from the 1990 letter, not present in 2010 raw. Restored dropped opener on zero-multiplier quote ("And as we all learned in third grade – and some relearned in 2008 –").
+- `concepts/leverage-discipline.md` — restored same dropped opener on zero-multiplier quote.
+- `concepts/float.md` — added 2010 row to cost-of-float table ($65,832M, 8th consecutive underwriting profit, $2,013M gain); added berkshire-2010-letter source bullet; added berkshire-2010-letter to frontmatter sources list.
+- `people/ajit-jain.md` — added "Float milestone: 2010" section ($30B float from standing start 1985, cumulative underwriting profit, "no CEO of any other insurer has come close to matching"); added berkshire-2010-letter source bullet; added to frontmatter sources list.
+
+---
+
+## [2026-06-14] ingest | berkshire-2010-letter
+
+- Created `sources/berkshire-2010-letter.md`
+- Updated `entities/geico.md` — added 2010 results (market share 8.8%, underwriting profit $1,117M, float $10.3B); canonical goodwill case study ($1.4B carried vs. ~$14B economic at 97% of $14.3B premiums); Davidson 1996 video tribute; GEICO personal-lines agency growth
+- Updated `entities/bnsf.md` — first full year: $16.85B revenue, $4.0B pre-tax, 40% earning-power increase; 500 miles/ton-gallon (3× trucking); 11% of U.S. inter-city freight; 6:1 coverage in recession; $2B above-depreciation capex in 2011; Matt Rose named
+- Updated `entities/netjets.md` — turnaround complete: $207M pre-tax profit; $918M swing; 11-year $157M aggregate loss reversed; lesson: market leadership ≠ financial success
+- Updated `entities/midamerican-energy.md` — wind leadership 2,909 MW by 2011 (most of any regulated utility); $5.4B committed; Iowa rates flat since 1999 vs. competitor +70%; Northern Natural #2; net earnings $1.238B
+- Updated `concepts/liquidity-fortress.md` — added "Life and Debt" specifics: $10B minimum pledge; customarily $20B; Treasury bills only; no bank lines; "credit is like oxygen"; grandfather Ernest's 1939 letter; Lehman vindication ($15.6B in 25 days); 40 years without dividends; net worth $48M → $157B
+- Updated `concepts/leverage-discipline.md` — added zero-multiplier formulation; refinancing-risk articulation; leverage-addiction mechanism
+- Updated `concepts/derivatives.md` — equity put book status (39 contracts, $4.2B received, $3.8B settlement, $6.7B B-S liability); 8 contracts unwound for $222M gain; credit derivatives tracking to profit; Black-Scholes critique ("wildly inappropriate" / compliance-theater explanation / "approximately right vs. precisely wrong")
+- Updated `wiki/index.md` — added berkshire-2010-letter entry
+
+**Skipped:**
+- Todd Combs hiring — interesting succession narrative but investment-manager-evaluation principles implicit in existing pages; no new concept warranted
+- Lou Simpson retirement — page exists; minor update not made (retirement date can be noted if cross-referenced later)
+- Annual meeting logistics, capital spending enthusiasm, five-year performance tables — entirely ephemeral
+- TTI/Forest River/CTB/H.H. Brown record years — one-year performance, no enduring lesson
+- Clayton Homes 2010 loss rates — adds one data point to an existing table; no structural insight beyond what 2008 captured
+- Greg Abel — one brief mention at MidAmerican; not yet enough material for a page

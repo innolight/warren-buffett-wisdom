@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-12
 updated: 2026-06-14
-sources: [berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter]
+sources: [berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2010-letter]
 tags: [derivatives, risk, systemic-risk, financial-weapons]
 related: [[general-re]], [[float]], [[institutional-imperative]], [[underwriting-discipline]]
 ---
@@ -112,6 +112,26 @@ The same error applies to tax-exempt bond insurance: historical default rates fo
 
 The diagnostic question before applying any historical model: are the structural forces that generated the historical data still operative? If not, the model's output is a number searching for a justification.
 
+## 2010: Equity put book status and Black-Scholes sharpened
+
+By yearend 2010, Berkshire had unwound 8 of its original 47 equity put contracts (all due 2021–2028, at counterparty request). These 8 had generated $647M in premiums; Berkshire paid $425M to unwind them, realizing a $222M gain while having had use of the $647M for ~3 years interest-free. The remaining 39 contracts hold premiums received of $4.2B.
+
+The scoreboard on remaining contracts: if the relevant indices are at the same levels on their expiration dates (2018–2026) as on December 31, 2010, Berkshire would owe $3.8B — the "settlement value." The balance-sheet liability under Black-Scholes is $6.7B. If markets are flat, Berkshire will record a $2.9B gain over the coming years as the Black-Scholes liability compresses toward settlement value. Berkshire also continues to hold the $4.2B of float, earning investment income throughout.
+
+On the credit side: $3.4B in premiums received, $2.5B in losses paid as high-yield index defaults ran through the 2008–2009 recession. The contracts have largely expired; Berkshire expects to report an underwriting profit as originally projected — confirming that the premium was priced correctly for the actual level of defaults, even through a financial crisis.
+
+**The strongest Black-Scholes critique.** The 2010 letter's formulation goes beyond prior years:
+
+> Both Charlie and I believe that Black-Scholes produces wildly inappropriate values when applied to long-dated options.
+
+Berkshire continues using the formula anyway — not because it believes it, but because auditors require it: "We would be accused of shoddy accounting if we deviated from it. Moreover, we would present our auditors with an insurmountable problem were we to do that: They have clients who are our counterparties and who use Black-Scholes values for the same contracts we hold. It would be impossible for our auditors to attest to the accuracy of both their values and ours were the two far apart."
+
+The epistemological principle offered in its sharpest form:
+
+> Our inability to pinpoint a number doesn't bother us: We would rather be approximately right than precisely wrong.
+
+Buffett extends the critique to academia: "Academics' current practice of teaching Black-Scholes as revealed truth needs re-examination." Universities cling to models after contradicting evidence accumulates — the same pattern as efficient-market theory in the 1970s–80s. "I always love explanations of that kind: The Flat Earth Society probably views a ship's circling of the globe as an annoying, but inconsequential, anomaly." The practical lesson for students: option valuation is a minor skill; **business valuation is what investing is actually about**.
+
 ## How it's discussed in sources
 
 - [[berkshire-2002-letter]] — the canonical "financial weapons of mass destruction" essay; five structural mechanisms identified; Gen Re Securities mid-wind-down (14,384 contracts, 672 counterparties); LTCM 1998 as precedent; mark-to-myth coinage
@@ -120,6 +140,7 @@ The diagnostic question before applying any historical model: are the structural
 - [[berkshire-2005-letter]] — wind-down to 741 contracts; $104M 2005 loss; $404M aggregate; 100-year contract anecdote; "strange world" mutual-reporting-as-profitable quote; thumb-sucking self-indictment; canary-in-coal-mine systemic warning; described scenario largely materialized in 2008
 - [[berkshire-2006-letter]] — Gen Re Securities declared complete ($409M total, 197 contracts); explicit reconciliation of systemic critique with personal selective use (62 contracts, personally managed, counterparty-free, hundreds of millions in profits); "wildly mispriced like stocks and bonds" framing
 - [[berkshire-2008-letter]] — Bear Stearns as the counterparty-daisy-chain case in practice (Geithner quote); too-big-to-fail governance perversity ("mindboggling screw-ups required"); Berkshire's 251 contracts detailed (equity puts $37.1B / premiums $4.9B; credit indices; CDS; bond insurance derivatives); Black-Scholes critique for long-dated options (100-year put thought experiment; farm/neighbor volatility analogy); "beware of geeks bearing formulas" on back-tested models applied to structurally different universes
+- [[berkshire-2010-letter]] — equity put book: 39 contracts remaining, $4.2B premiums, $3.8B settlement value, $6.7B Black-Scholes liability; 8 contracts unwound for $222M gain; credit derivatives tracking to underwriting profit; Black-Scholes sharpest critique ("wildly inappropriate", compliance-theater explanation); "approximately right vs. precisely wrong"; academic-revealed-truth critique; business valuation vs. option valuation priority
 
 ## Related
 

@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-06-14
 updated: 2026-06-14
-sources: [berkshire-2009-letter]
+sources: [berkshire-2009-letter, berkshire-2010-letter]
 tags: [railroad, infrastructure, regulated, capital-intensive, acquisition]
 related: [[berkshire-hathaway]], [[midamerican-energy]], [[warren-buffett]], [[capital-allocation]], [[liquidity-fortress]], [[stock-as-acquisition-currency]]
 ---
@@ -52,6 +52,23 @@ The acquisition is as much about Berkshire's own capital constraint as it is abo
 
 See [[capital-allocation]].
 
+## First full year: 2010 results
+
+The 2010 letter is the first to report BNSF as a wholly-owned subsidiary for a full year. The thesis was confirmed immediately and exceeded expectations.
+
+**Financial results:** revenues $16.85B; operating earnings $4.5B; pre-tax earnings $4.0B; net earnings $2.5B. The acquisition increased Berkshire's "normal" earning power by nearly 40% pre-tax and well over 30% after-tax. After spending $22B in cash (and 6% of shares), the cash was quickly replenished.
+
+**Fuel efficiency advantage.** BNSF moved each ton of freight a record 500 miles on a single gallon of diesel fuel in 2010 — three times more fuel-efficient than trucking. This is not a temporary edge; it is structural (steel wheels on steel rails vs. rubber tires on asphalt). The advantage has compounding implications: as diesel costs rise, rail becomes increasingly advantaged over trucking on fuel economics alone. The societal benefit — reduced greenhouse emissions and lower oil imports — is also explicit.
+
+**Scale.** BNSF moves approximately 28% of all U.S. railroad freight by ton-miles, and rail carries 42% of U.S. inter-city freight. BNSF alone therefore carries roughly **11% of all U.S. inter-city freight** by ton-miles — an essential circulatory function.
+
+**Financial resilience.** In recessionary 2010, with car loadings far off peak levels, interest coverage was 6:1. The social-compact model means the business earns a fair return even in adversity, while being obligated to reinvest at all times.
+
+**Ongoing capital commitment.** BNSF will spend $2B above depreciation in 2011. This is not optionality — it is obligation. The social compact requires constant maintenance and improvement of 23,000 miles of track, bridges, tunnels, engines, and cars. Berkshire's permanent capital and financial strength make it the right owner: "However slow the economy, or chaotic the markets, our checks will clear."
+
+**Operator: Matt Rose.** Berkshire cites Matt Rose alongside David Sokol and Greg Abel as exemplifying the manager-autonomy model. Rose runs an essential-infrastructure operation without headquarters interference.
+
 ## Sources discussing this entity
 
 - [[berkshire-2009-letter]] — full acquisition narrative; social compact framing; economic characteristics vs. utilities; Matt Rose noted; BNSF to join regulated-utility reporting segment
+- [[berkshire-2010-letter]] — first full-year results: $16.85B revenue, $4.0B pre-tax, 40% earning-power increase; 500 miles/ton-gallon; 11% of U.S. inter-city freight; 6:1 interest coverage; $2B above-depreciation capex in 2011

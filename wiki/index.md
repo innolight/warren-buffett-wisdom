@@ -41,6 +41,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2007-letter]] — 2007 annual letter; Great/Good/Gruesome business taxonomy; See's 35-year case study ($32M reinvested → $1.35B cumulative earnings); Dexter's $3.5B effective cost; passive-investing Dow-at-2,000,000 arithmetic
 - [[berkshire-2008-letter]] — 2008 annual letter; derivatives thesis validated by Bear Stearns; Black-Scholes critique for long-dated options; Clayton Homes lending principles under stress (FICO 644, 3.6% delinquency); MidAmerican wind leadership; float $58.5B, sixth consecutive underwriting profit
 - [[berkshire-2009-letter]] — 2009 annual letter; BNSF acquisition (Berkshire's largest); "What We Don't Do" inversion framework; liquidity fortress vindicated ($15.5B deployed in 2008 crisis); NetJets crisis and Sokol turnaround; float $62B, seventh consecutive underwriting profit
+- [[berkshire-2010-letter]] — 2010 annual letter; BNSF first full year (40% earning-power increase, 500 miles/ton-gallon); GEICO goodwill case study ($1.4B book vs. ~$14B economic); "Life and Debt" leverage philosophy; Black-Scholes "approximately right vs. precisely wrong"; float $65.8B, eighth consecutive underwriting profit
 
 ## Entities
 

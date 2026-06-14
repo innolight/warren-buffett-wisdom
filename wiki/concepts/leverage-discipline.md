@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-14
 updated: 2026-06-14
-sources: [berkshire-1989-letter, berkshire-1990-letter]
+sources: [berkshire-1989-letter, berkshire-1990-letter, berkshire-2010-letter]
 tags: [leverage, debt, junk-bonds, ebitda, financial-engineering]
 related: [[derivatives]], [[owner-earnings]], [[institutional-imperative]], [[margin-of-safety]], [[noah-rule]]
 ---
@@ -94,10 +94,23 @@ This metaphor is more precise than it appears. It is not a metaphor about risk-a
 
 The connection to [[derivatives]] is direct: leveraged derivatives positions carry the same structural feature. A position that appears managed under normal markets can become unmanageable under stress — at precisely the moment when the market is most illiquid and the counterparty most likely to fail. The dagger metaphor extends naturally from 1980s LBO debt to 2000s derivative books.
 
+## The zero multiplier
+
+The 2010 "Life and Debt" section adds a compressed formulation of the core logic that complements the earlier LBO-focused essays:
+
+> And as we all learned in third grade – and some relearned in 2008 – any series of positive numbers, however impressive the numbers may be, evaporates when multiplied by a single zero. History tells us that leverage all too often produces zeroes, even when it is employed by very smart people.
+
+This is the asymmetry in its most distilled form. Ten years of 20% annual returns are erased by a single catastrophic outcome. The compounding argument for leverage — "I can generate 30% and my cost of debt is only 8%" — assumes the sequence of returns never includes a zero. History does not support that assumption.
+
+The companion observation on refinancing: companies with large debts routinely assume they can refinance at maturity. "That assumption is usually valid. Occasionally, though, either because of company-specific problems or a worldwide shortage of credit, maturities must actually be met by payment. For that, only cash will do the job." The 2008 crisis provided the definitive live demonstration. See [[liquidity-fortress]].
+
+The 2010 letter also names leverage's psychological mechanism: "Leverage is addictive. Once having profited from its wonders, very few people retreat to more conservative practices." The first leverage success produces confidence; confidence produces more leverage; the next turn of the cycle produces ruin.
+
 ## How it's discussed in sources
 
 - [[berkshire-1989-letter]] — the primary essay: zero-coupon debenture issuance and critique; EBITDA as a deceptive yardstick; the bezzle reframed; PIK and zero-coupon accrual as phantom income; bartender-morality and gatekeeping failure; Berkshire's own issuance defended
 - [[berkshire-1990-letter]] — the extended junk-bond critique; fallen-angel vs. newly-issued junk distinction; Tampa TV station kill-em-at-birth example; margin-of-safety reaffirmation (Graham quote); "mountains of junk bonds" indictment
+- [[berkshire-2010-letter]] — "zero multiplier" formulation; refinancing-risk articulation; leverage-addiction mechanism; personal rationale for aversion (fiduciary duty to shareholders, philanthropy, and disabled claimants)
 
 ## Notable quotes
 

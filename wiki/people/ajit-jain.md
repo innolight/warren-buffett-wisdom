@@ -3,7 +3,7 @@ type: person
 status: draft
 created: 2026-05-25
 updated: 2026-06-14
-sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2008-letter]
+sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2008-letter, berkshire-2010-letter]
 tags: [insurance, reinsurance, super-cat, operator]
 related: [[super-cat-insurance]], [[national-indemnity]], [[float]], [[berkshire-hathaway]]
 ---
@@ -92,6 +92,14 @@ By 2008, Jain's reinsurance division at Stamford employed **31 people** while ge
 
 Jain also assumed management of Berkshire Hathaway Assurance Company (BHAC) in 2008 — Berkshire's newly activated tax-exempt bond insurer — in addition to his existing reinsurance and super-cat operation. ([[berkshire-2008-letter]])
 
+## Float milestone: 2010
+
+The 2010 letter provides the definitive summary of Jain's 25-year achievement:
+
+> From a standing start in 1985, Ajit has created an insurance business with float of $30 billion and significant underwriting profits, a feat that no CEO of any other insurer has come close to matching. By his accomplishments, he has added a great many billions of dollars to the value of Berkshire. Even kryptonite bounces off Ajit.
+
+Float had grown from $0 (1985) to $30.4B (the BH Reinsurance segment alone) by yearend 2010 — all with cumulative underwriting profit. The 2008 entry noted 31 employees generating $24B of float; by 2010 that figure has grown to $30B, with a parallel life reinsurance expansion generating ~$2B of annual premium volume expected to repeat for decades. ([[berkshire-2010-letter]])
+
 ## Sources discussing this person
 
 - [[berkshire-1988-letter]] — first mention as part of the insurance management team
@@ -108,6 +116,7 @@ Jain also assumed management of Berkshire Hathaway Assurance Company (BHAC) in 2
 - [[berkshire-1999-letter]] — canonical four-trait tribute (intelligence, realism, courage, discipline); $6.3B float with cumulative underwriting profit
 - [[berkshire-2000-letter]] — $2.4B U.K. retroactive reinsurance policy; A-Rod disability policy; Grab.com sweepstakes; "impossible to overstate how valuable Ajit is to Berkshire"
 - [[berkshire-2008-letter]] — 31 employees generating $24B float and hundreds of millions of underwriting profit; assumed management of BHAC (Berkshire's bond insurer) on top of existing operation; "how busy can that keep a 31-person group?"
+- [[berkshire-2010-letter]] — $30B float from standing start in 1985 with cumulative underwriting profit; "a feat that no CEO of any other insurer has come close to matching"; life reinsurance expansion adding ~$2B annual premium volume expected to persist for decades; "Even kryptonite bounces off Ajit"
 
 ## Related
 

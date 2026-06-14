@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-05-24
 updated: 2026-06-14
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter]
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter]
 tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities, wholly-owned]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]], [[jack-byrne]], [[lou-simpson]], [[lorimer-davidson]], [[franchise-vs-business]], [[tony-nicely]]
 ---
@@ -141,13 +141,29 @@ This episode is the inverse of the GEICO franchise lesson — the moat is in dir
 - [[berkshire-2006-letter]] — 47% productivity gain 2003-2006 (policies +42%, employees −3.5%); $631M advertising; $1,314M underwriting profit; $7.171B float; the "rename your children Tony" Keough tribute
 - [[berkshire-2008-letter]] — 7.7% market share (#3 nationally, up from #7 in 1995); 439 policies/employee vs. 299 five years prior; commercial auto launched; motorcycle share >7%; recession driving record new-policyholder growth
 - [[berkshire-2009-letter]] — market share 8.1% (up from 2.5% at the 1996 acquisition; net seven million policyholders added); 13 of 14 Berkshire years with underwriting profit; credit card fiasco documented (~$50M total loss); recession dynamics (lower vehicle registrations, higher uninsured rate) expected to slow 2010 growth
+- [[berkshire-2010-letter]] — market share 8.8%; the 60-year retrospective and canonical goodwill illustration; Lorimer Davidson's 1996 videotape tribute; GEICO personal-lines agency (769,898 new homeowner policies, up 34%)
+
+## The goodwill case study (2010)
+
+The 2010 letter uses GEICO as the definitive illustration that intrinsic value can far exceed book value. The mechanics are clean:
+
+When Berkshire acquired the remaining 50% of GEICO in January 1996 for $2.3B, the implied 100% value was $4.6B against $1.9B of tangible net worth — a $2.7B premium representing GEICO's "goodwill." At the time, GEICO wrote $2.8B in annual premiums, so Berkshire paid ~97% of annual premium volume for the goodwill.
+
+By 2010, premium volume had grown to $14.3B. Under accounting rules, GEICO's goodwill remains on Berkshire's books at $1.4B — unchanged from the acquisition price, because accounting requires write-downs for impairment but prohibits write-ups for appreciation. Applying the same 97%-of-premium-volume yardstick: GEICO's economic goodwill is approximately **$14B**, against a $1.4B book figure. The gap — a 10-to-1 discrepancy between economic and book goodwill — is itself the argument for why Buffett uses intrinsic value rather than book value as the primary gauge. See [[intrinsic-value-vs-book-value]].
+
+The franchise architecture explains why the goodwill compounds rather than erodes: GEICO's low-cost distribution advantage gets stronger as scale increases (lower marketing cost per policy, better claims experience data, more efficient operations). Competitors cannot replicate it without dismantling their own agent networks.
+
+**2010 results:** underwriting profit $1,117M (up from $649M in 2009); yearend float $10,272M; market share 8.8%. GEICO also operates a growing personal-lines agency that sells homeowners policies to auto customers from non-affiliated insurers — 769,898 new policies in 2010, up 34%, generating commission revenue while deepening policyholder relationships.
+
+**The Davidson tribute.** When Berkshire acquired the final 50% in 1996, Lorimer Davidson — then 95 — made a videotape expressing his happiness that GEICO would permanently reside with Berkshire. ("Next time, Warren, please make an appointment.") Davidson died in November 1999; by 2010 GEICO is 60 years into Buffett's relationship with the company.
 
 ## Related
 
 - [[moat]] — GEICO is the canonical financial-services moat case
 - [[commodity-business-economics]] — GEICO is the rare textbook exception
+- [[intrinsic-value-vs-book-value]] — the 2010 goodwill quantification is the most concrete illustration in the letters of the gap between accounting and economic value
 - [[share-repurchases]] — GEICO's repurchase pattern through the 1980s is one of the cleanest case studies in shareholder-friendly capital allocation
 - [[look-through-earnings]] — GEICO is the single largest contributor in this era
-- [[lou-simpson]] — GEICO's investment manager from 1979; emerges as Berkshire investment-side successor
+- [[lou-simpson]] — GEICO's investment manager from 1979; emerges as Berkshire investment-side successor; retires 2010
 - [[lorimer-davidson]] — the 1951 mentor whose Saturday afternoon was the origin of the entire arc
 - [[franchise-vs-business]] — GEICO is the textbook low-cost-operator-as-business that has built moats sufficient to act as a franchise
