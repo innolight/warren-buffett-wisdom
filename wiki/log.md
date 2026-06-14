@@ -456,3 +456,26 @@ Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages 
   - Currency/trade-deficit analysis — macro commentary; period-specific argument; Noah Rule and other concepts not materially advanced
   - Lou Simpson succession discussion — CIO search announced but outcome (Combs/Weschler) comes in later letters; worth revisiting then, not now
   - Joe Brandon/General Re — derivatives wind-down closure noted on derivatives page; no update to person pages warranted
+
+---
+
+## [2026-06-14] ingest | berkshire-2009-letter
+
+- Created `sources/berkshire-2009-letter.md`
+- Created `entities/bnsf.md` — Berkshire's largest acquisition; social compact framing for regulated essential infrastructure
+- Created `concepts/inversion.md` — Jacobi/Munger "invert, always invert"; the "What We Don't Do" four-pointer as worked example
+- Created `concepts/liquidity-fortress.md` — "never depend on the kindness of strangers"; $15.5B deployed in 2008 crisis; supplier not supplicant
+- Updated `entities/netjets.md` — 2004-2009 history added; $157M aggregate loss over 11 years; Dave Sokol August 2009 turnaround; $711M 2009 loss then profitable
+- Updated `people/dave-sokol.md` — NetJets CEO role added; turnaround narrative; "builder and operator" framing extended
+- Updated `concepts/stock-as-acquisition-currency.md` — BNSF reluctant 30% stock component; Company A/B arithmetic illustration; counter-advisor structural fix; "barber" aphorism
+- Updated `entities/geico.md` — credit card fiasco (~$50M total loss; "I was just older"); market share 8.1% from 2.5% in 1996; 13/14 profitable years
+- Updated `concepts/float.md` — 2009 row added ($62B, seventh consecutive underwriting-profit year); derivatives float ($6.3B) noted separately
+- Updated `entities/midamerican-energy.md` — 2009 history; social compact framing; $3B wind investment vs. $2.5B earnings (3-year period); BNSF joining this segment
+- Updated `wiki/index.md` — three new entries (bnsf, inversion, liquidity-fortress); berkshire-2009-letter added to sources
+
+**Deliberately skipped:**
+- Berkadia Commercial Mortgage — 50% JV, one-time deal, no enduring lesson
+- Specific stock portfolio composition (BYD, ConocoPhillips trim) — year-specific
+- Constellation Energy breakup fee — ephemeral
+- Clayton Homes / manufactured housing rate differential — year-specific policy argument; existing page covers the durable lending principles
+- Housing start statistics and 2010 outlook — macro/period commentary

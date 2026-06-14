@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-12
-updated: 2026-06-13
-sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter]
+updated: 2026-06-14
+sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter, berkshire-2009-letter]
 tags: [governance, management, incentives, compensation, accountability]
 related: [[incentive-compensation]], [[owner-orientation]], [[institutional-imperative]]
 ---
@@ -111,6 +111,18 @@ The rental-car principle: "who ever washes a rental car?" ([[berkshire-2003-lett
 
 Beyond the board, the most powerful enforcement mechanism is institutional owner action. "Twenty, or even fewer, of the largest institutions, acting together, could effectively reform corporate governance at a given company, simply by withholding their votes for directors who were tolerating odious behavior" ([[berkshire-2002-letter]]). Rules written by regulators are less effective than large shareholders exercising existing voting rights with genuine purpose.
 
+## CEO accountability for risk control
+
+The 2009 letter contains Buffett's most direct statement on CEO-level accountability — distinct from the boardroom-dynamics critique above, which concerns governance over normal business decisions. Here the subject is *financial institution failure* and its consequences:
+
+> In my view a board of directors of a huge financial institution is derelict if it does not insist that its CEO bear full responsibility for risk control. If he's incapable of handling that job, he should look for other employment. And if he fails at it – with the government thereupon required to step in with funds or guarantees – the financial consequences for him and his board should be severe.
+
+The critique: in the 2008 crisis, shareholders of failed institutions lost 90% or more of their holdings — a collective $500B+ across the four largest failures. Yet the CEOs and directors "largely went unscathed." Their fortunes diminished but they continued to live well. The structural problem: financial carrots (compensation) for executives are enormous; financial sticks (personal loss from failure) are absent. The 2009 proposal reverses the asymmetry — executives who cause failures requiring government intervention should face personal financial consequences that cannot be indemnified by the company or covered by insurance.
+
+Buffett's application at Berkshire is direct: "It is my job to keep Berkshire far away from such problems. Charlie and I believe that a CEO must not delegate risk control. It's simply too important. At Berkshire, I both initiate and monitor every derivatives contract on our books." The structural model: Berkshire's exposure to derivatives and related counterparty risk is owned personally by the CEO — not managed by a Risk Committee or Chief Risk Officer. "If Berkshire ever gets in trouble, it will be my fault. It will not be because of misjudgments made by a Risk Committee or Chief Risk Officer." ([[berkshire-2009-letter]])
+
+This complements the board-independence critique: governance reforms that focus on who sits on the board are less important than whether personal financial consequences align with institutional outcomes. The 2002 essay established that rule-based independence fails; the 2009 essay establishes that rule-based risk oversight fails for the same reason — rules cannot substitute for a CEO whose personal financial exposure demands that the job be done correctly.
+
 ## How it's discussed in sources
 
 - [[berkshire-1998-letter]] — early articulation: earnings management ("Son of Gresham"); stock-options-as-expense (Part 1, sharpened by the General Re cash-comp swap); Arthur Levitt's September 1998 speech applauded
@@ -119,6 +131,7 @@ Beyond the board, the most powerful enforcement mechanism is institutional owner
 - [[berkshire-2003-letter]] — "owner-capitalism" coined; mutual-fund scandals (Spitzer era) as empirical vindication; concrete reform proposals; potted-plant directors; board restructuring
 - [[berkshire-2004-letter]] — three questions that truly count; Matthew 6:21 as the correct independence test; Berkshire board standard ($4M+ family ownership, no grants, nominal fees, no D&O insurance); acquisition-blocking directors anecdote; CEO-free board meetings and whistleblower line as post-bubble reforms; stock-option expensing fight update (312-111 House vote, Senate Shelby resistance)
 - [[berkshire-2006-letter]] — four board criteria articulated (owner-oriented, business-savvy, interested, truly independent); fee-dependent directors critique ($150-250K fees as the independence disqualifier); "Ratchet, Ratchet and Bingo" on compensation consultants; institutional shareholders as the only credible reform mechanism
+- [[berkshire-2009-letter]] — CEO must personally own risk control; board of a huge financial institution is "derelict" if it allows delegation; failed-institution shareholders lost $500B+ while CEOs went unscathed; personal financial sticks must accompany financial carrots; Berkshire's model: Buffett initiates and monitors every derivatives contract personally
 
 ## Related
 

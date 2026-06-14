@@ -2,10 +2,10 @@
 type: entity
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
-sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+updated: 2026-06-14
+sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2009-letter]
 tags: [fractional-ownership, aviation-services, category-creator, capital-light, flight-services]
-related: [[berkshire-hathaway]], [[acquisition-criteria]], [[moat]], [[capital-allocation]]
+related: [[berkshire-hathaway]], [[acquisition-criteria]], [[moat]], [[capital-allocation]], [[dave-sokol]]
 ---
 
 # NetJets
@@ -40,6 +40,9 @@ EJA offered jets from Boeing, Gulfstream, Falcon, Cessna and Raytheon; competito
 - **2001.** Small loss (vs. small profit in 2000): "We made a little money in the U.S., but these earnings were more than offset by European losses" ([[berkshire-2001-letter]]). Brief post-9/11 order spurt; then back to normal. Buffett family flies "in excess of 800" fractional hours that year — likely more than any other family in the program.
 - **2002.** Revenues set a record; company again loses money — small U.S. profit offset by European losses. Industry share 75% by aircraft value. "The bald fact is that airplanes are costly to operate." ([[berkshire-2002-letter]]) General Electric noted as NetJets' largest customer.
 - **2003.** $41M pre-tax loss: a modest U.S. operating profit, more than offset by a $32M aircraft-inventory loss and continued European losses. Industry share rises to 70% of net sales by value. European management-and-flying revenues had grown 88% / 61% / 77% in 2001–03, but the red ink had not yet been stemmed. "Any company that forsakes Europe, as all of our competitors have done, is destined for second-tier status" ([[berkshire-2003-letter]]).
+- **2004–2008.** Losses persist. Debt balloons from $102M at the time of the 1998 acquisition to $1.9B by April 2009. Over eleven years of Berkshire ownership the aggregate pre-tax loss reaches $157M. Without Berkshire's guarantee of NetJets' debt, the company would have been insolvent. Rich Santulli remains CEO throughout, maintaining the safety and service standards that defined the brand.
+- **August 2009.** [[dave-sokol]] — the builder and operator of [[midamerican-energy]] — is named CEO. Buffett's self-assessment on the situation: "It's clear that I failed you in letting NetJets descend into this condition. But, luckily, I have been bailed out."
+- **Yearend 2009.** NetJets records a $711M loss for the full year, but the Sokol-driven restructuring is already taking hold: debt reduced to $1.4B and the company is "now solidly profitable." Safety and service standards are explicitly cited as unchanged — Rich Santulli's legacy, and the reason Buffett and his family continue to use NetJets for "almost all of our flying," paying exactly the same prices as any other owner. See [[berkshire-2009-letter]].
 
 ## Fractional-ownership economics
 
@@ -88,6 +91,7 @@ Like most Berkshire managers, Santulli had no economic need to work and "spends 
 - [[berkshire-2001-letter]] — small loss; U.S. profit offset by European losses (recurring theme begins); post-9/11 order spurt; 300+ planes constantly aloft
 - [[berkshire-2002-letter]] — 75% industry share by aircraft value; revenues record but again unprofitable; GE as largest customer; "airplanes are costly to operate"
 - [[berkshire-2003-letter]] — $41M pre-tax loss; European 88/61/77% revenue growth but red ink uncured; Mayo Clinic Executive Travel Response benefit; "once a customer has tried us, going back to commercial aviation is like going back to holding hands"
+- [[berkshire-2009-letter]] — crisis fully documented: $157M aggregate loss over 11 years; debt $102M → $1.9B; Sokol arrives August 2009; $711M 2009 loss; turnaround to profitability; Buffett's admission of managerial failure; "we eat our own cooking" on safety
 
 ## Related
 

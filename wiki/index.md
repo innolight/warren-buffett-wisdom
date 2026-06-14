@@ -40,9 +40,11 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2006-letter]] — 2006 annual letter; GEICO 47% productivity miracle; float $50.9B + Equitas deal; 2-and-20 arithmetic; Walter Schloss as EMT refutation; newspaper moat erosion essay; first international acquisition (ISCAR)
 - [[berkshire-2007-letter]] — 2007 annual letter; Great/Good/Gruesome business taxonomy; See's 35-year case study ($32M reinvested → $1.35B cumulative earnings); Dexter's $3.5B effective cost; passive-investing Dow-at-2,000,000 arithmetic
 - [[berkshire-2008-letter]] — 2008 annual letter; derivatives thesis validated by Bear Stearns; Black-Scholes critique for long-dated options; Clayton Homes lending principles under stress (FICO 644, 3.6% delinquency); MidAmerican wind leadership; float $58.5B, sixth consecutive underwriting profit
+- [[berkshire-2009-letter]] — 2009 annual letter; BNSF acquisition (Berkshire's largest); "What We Don't Do" inversion framework; liquidity fortress vindicated ($15.5B deployed in 2008 crisis); NetJets crisis and Sokol turnaround; float $62B, seventh consecutive underwriting profit
 
 ## Entities
 
+- [[bnsf]] — Burlington Northern Santa Fe; Berkshire's largest acquisition; social compact framing for regulated essential infrastructure; economic characteristics similar to regulated utilities
 - [[american-express]] — financial services; the 1964 partnership precedent and the 1991 PERC → 1995 ~10% common position; lineage of "great franchise with localized fixable problem"
 - [[berkshire-hathaway]] — Buffett's diversified holding company; canonical case in capital allocation; transformed 1996–2003 from equity portfolio to acquisition-driven conglomerate
 - [[blue-chip-stamps]] — Berkshire affiliate through 1983; conduit through which See's, Wesco, and Buffalo News were held
@@ -99,6 +101,8 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 ## Concepts
 
 - [[acquisition-criteria]] — the four-point principle plus the published six-point operational ad; the kissing-toads failure modes; refined by 2000 acquisition spree
+- [[inversion]] — Jacobi/Munger "invert, always invert"; approach problems by defining what to avoid; the "What We Don't Do" four-pointer as worked example
+- [[liquidity-fortress]] — $20B+ cash permanently held as a strategic weapon; supplier not supplicant during crises; "never depend on the kindness of strangers"
 - [[bonds-and-inflation]] — fixing a price in one direction while costs move in the other destroys value; long-term bonds as the canonical case
 - [[bonds-as-a-business]] — applying business-valuation logic to fixed income; the WPPSS case study
 - [[capital-allocation]] — CEO's central skill; 60% of capital deployed in a decade for a 10%-retention business; Berkshire's opportunity-cost discipline; Aesop bird-in-hand reformulation 2000

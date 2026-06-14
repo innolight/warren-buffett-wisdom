@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-13
-sources: [berkshire-1982-letter, berkshire-1983-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter]
+updated: 2026-06-14
+sources: [berkshire-1982-letter, berkshire-1983-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2009-letter]
 tags: [acquisitions, mergers, dilution, capital-allocation]
 related: [[acquisition-criteria]], [[share-repurchases]], [[intrinsic-value-vs-book-value]]
 ---
@@ -78,6 +78,24 @@ The $22 billion General Re acquisition in 1998 was predominantly a stock deal. T
 
 The 1999 letter sharpens the structural analysis: a stock-for-stock acquisition is "the worst deal of all" from a tax perspective — no step-up in asset basis, large future capital-gains exposure on eventual sale of the acquired business, versus the 15-year goodwill amortization available on an asset purchase for cash. The tax disadvantage compounds the intrinsic-value-dilution problem.
 
+## BNSF (2009): the reluctant stock component
+
+The $44B BNSF acquisition required Berkshire to issue approximately 95,000 Class A equivalent shares — about 6.1% of shares previously outstanding. Buffett's framing: "Charlie and I enjoy issuing Berkshire stock about as much as we relish prepping for a colonoscopy."
+
+The deal structure: BNSF shareholders were offered $100/share, of which 40% was paid in Berkshire stock and 60% in cash. Since Berkshire already owned 22.5% of BNSF before the deal, the stock portion represented only ~30% of the *net* cost. Buffett concluded the trade-off was acceptable — deploying $22B of cash into a durable business they understood and liked for the long term — but was explicit that the decision was close: "If we had needed to use more stock to make the acquisition, it would in fact have made no sense. We would have then been giving up more than we were getting."
+
+The 2009 letter's Company A / Company B illustration clarifies the arithmetic: both companies are worth $100/share in intrinsic value but trade at $80. If A's CEO offers 1.25 A shares for each B share (market parity), he is actually transferring $125 of intrinsic value per B share to receive $100. B's shareholders end up owning 55.6% of the combined entity; A's shareholders own 44.4%. The CEO's personal incentive — now running a company twice as large — is not aligned with A's shareholders.
+
+## The structural fix: counter-advisor
+
+The 2009 letter contains the most practical reform proposal Buffett has offered for the stock-issuance problem in M&A boardrooms:
+
+> When stock is the currency being contemplated in an acquisition and when directors are hearing from an advisor, it appears to me that there is only one way to get a rational and balanced discussion. Directors should hire a second advisor to make the case against the proposed acquisition, with its fee contingent on the deal not going through.
+
+The diagnosis: in more than fifty years of board memberships, Buffett had never heard investment bankers discuss the *true value of what is being given* in a stock-funded deal. They assess the target carefully ("it's worth far more than market price") while using market price — not intrinsic value — to measure the acquirer's shares being given away. This is a structural conflict, not an ethical lapse: the banker's fee depends on the deal closing.
+
+The practical implication of the "barber" aphorism: "Don't ask the barber whether you need a haircut." A counter-advisor whose fee is contingent on *not* doing the deal is the only structural mechanism that corrects this bias.
+
 ## How it's discussed in sources
 
 - [[berkshire-1982-letter]] — debut; the $2-for-$1 framing, three escape routes, three rationalizations dismantled, the linguistic reframe
@@ -87,6 +105,7 @@ The 1999 letter sharpens the structural analysis: a stock-for-stock acquisition 
 - [[berkshire-1999-letter]] — "worst deal of all is a stock-for-stock acquisition": no asset step-up, large future capital-gains exposure; tax-structure hierarchy (cash purchase of assets > cash purchase of stock > stock-for-stock)
 - [[berkshire-2000-letter]] — Dexter Shoe goodwill written off; "compounded that mistake in a huge way by using Berkshire shares in payment"; canonical case of a bad acquisition made worse by stock currency
 - [[berkshire-2001-letter]] — Dexter triple-mistake: acquisition, stock currency, procrastination; all-cash acquisition policy reaffirmed as the default for all 2001 acquisitions
+- [[berkshire-2009-letter]] — BNSF: ~30% stock component reluctantly accepted; the Company A/B arithmetic illustration; counter-advisor structural fix proposed; "barber" aphorism; investment bankers never discuss the value of what's being given
 
 ## Related
 

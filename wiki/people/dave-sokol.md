@@ -2,10 +2,10 @@
 type: person
 status: draft
 created: 2026-06-10
-updated: 2026-06-10
-sources: [berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
-tags: [operator, utility, midamerican-energy, ceo]
-related: [[midamerican-energy]], [[berkshire-hathaway]], [[capital-allocation]]
+updated: 2026-06-14
+sources: [berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2009-letter]
+tags: [operator, utility, midamerican-energy, netjets, ceo, turnaround]
+related: [[midamerican-energy]], [[netjets]], [[berkshire-hathaway]], [[capital-allocation]]
 ---
 
 # Dave Sokol
@@ -21,6 +21,8 @@ CEO of [[midamerican-energy]] Holdings Company (MEHC) under Berkshire's ownershi
 **Growth of MidAmerican under Sokol.** The expansion of MidAmerican during 1999–2003 reflects Sokol and Abel's execution. From the initial Iowa utility base, MidAmerican grew to include Yorkshire Electricity and Northern Electric in the U.K. (3.7 million customers, third-largest UK electricity distributor), Kern River and Northern Natural gas pipelines (transporting ~7.8% of U.S. natural gas by 2003), and Home Services of America (second-largest U.S. residential real estate brokerage). The 2002 acquisitions of Kern River and Northern Natural — both bought opportunistically, Northern Natural from Dynegy during the Enron unwind — demonstrated the dealmaking capacity Buffett attributed to the Sokol-Abel team. See [[berkshire-2002-letter]].
 
 **Ownership stake and alignment.** By the 2003 letter, Sokol and Abel together owned a portion of MidAmerican's remaining 19.5% equity interest (alongside Walter Scott), meaning they were genuine co-owners rather than hired executives. Buffett described them as "the brilliant managers of the business" — an escalation from "talented and entrepreneurial" in 1999. Berkshire's arrangement — financing MidAmerican's growth through junior debt at 11% interest rather than diluting equity partners — was designed in part to preserve Sokol's and Abel's stakes.
+
+**NetJets turnaround (2009).** In August 2009 Buffett asked Sokol to take over as CEO of [[netjets]], which had accumulated an aggregate pre-tax loss of $157M across eleven years of Berkshire ownership and whose debt had ballooned from $102M at acquisition to $1.9B. Buffett's public acknowledgment: "It's clear that I failed you in letting NetJets descend into this condition. But, luckily, I have been bailed out." Within months Sokol restructured the operation: debt fell to $1.4B and the company moved to solid profitability despite recording a $711M loss for the full year 2009. Buffett credited Sokol with "transforming" leadership and specifically noted that none of the changes undercut the safety and service standards that Rich Santulli (founder and previous CEO) had built. The NetJets assignment established Sokol as the person Buffett turns to when a major subsidiary requires rescue — not just growth. See [[berkshire-2009-letter]].
 
 **Decentralized model in a capital-intensive industry.** MidAmerican illustrates how Berkshire's decentralized operating philosophy extends even into regulated utilities, a sector requiring heavy capital deployment and regulatory navigation. Buffett's role was capital provision and oversight at the holding-company level; Sokol ran the business. The PUHCA-limited voting structure (Berkshire capped at 9.9% of votes despite ~80% economic interest) meant Sokol and his team operated with significant autonomy, consistent with Berkshire's broader management approach. See [[capital-allocation]].
 
@@ -39,3 +41,4 @@ CEO of [[midamerican-energy]] Holdings Company (MEHC) under Berkshire's ownershi
 - [[berkshire-2001-letter]] — MidAmerican's 2001 operations noted; Sokol runs the business
 - [[berkshire-2002-letter]] — Sokol and Abel named explicitly as "huge assets for Berkshire," both dealmakers and managers; Kern River and Northern Natural acquisitions attributed to their work
 - [[berkshire-2003-letter]] — Named as one of three MidAmerican partners; described as one of the "brilliant managers of the business" alongside Abel
+- [[berkshire-2009-letter]] — Named NetJets CEO in August 2009; turnaround documented; "enormously talented builder and operator of MidAmerican Energy"; credited with transforming leadership while preserving safety and service standards
