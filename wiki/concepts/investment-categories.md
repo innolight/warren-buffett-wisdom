@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-14
 updated: 2026-06-14
-sources: [berkshire-2011-letter, berkshire-2013-letter]
+sources: [berkshire-2011-letter, berkshire-2013-letter, berkshire-2014-letter]
 tags: [investment-philosophy, asset-allocation, purchasing-power, gold, productive-assets]
 related: [[risk-vs-volatility]], [[bonds-and-inflation]], [[economic-goodwill]], [[intrinsic-value-vs-book-value]], [[equity-return-expectations]]
 ---
@@ -98,6 +98,7 @@ The underlying logic: most investors — even professionals — cannot predict w
 
 - [[berkshire-2011-letter]] — the definitive articulation; three categories fully developed; gold vs. Pile B thought experiment; purchasing-power context (dollar −86% since 1965)
 - [[berkshire-2013-letter]] — the farm and NYU real estate worked examples; focus-on-productivity rule; ignore-macro rule; liquidity-as-benefit-not-curse insight; 90/10 will directive as the distilled non-professional prescription
+- [[berkshire-2014-letter]] — 50-year empirical endorsement of the three-category framework across the full arc of Berkshire's history; productive assets confirmed as "far safer" than currency-denominated instruments over that span; the conclusion explicitly projected forward: "That was also true in the preceding half-century, a period including the Great Depression and two world wars. Investors should heed this history. To one degree or another it is almost certain to be repeated during the next century"; sharpens the Category 1 critique with the strongest retrospective evidence in the series
 
 ## Related
 

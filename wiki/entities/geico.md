@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-05-24
 updated: 2026-06-14
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter]
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter]
 tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities, wholly-owned]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]], [[jack-byrne]], [[lou-simpson]], [[lorimer-davidson]], [[franchise-vs-business]], [[tony-nicely]]
 ---
@@ -134,7 +134,21 @@ Float reached $13,569M (up from $12,566M in 2013); underwriting profit was $1,15
 
 The gecko advertisement campaign is now a permanent feature of the competitive position. "Our gecko never tires of telling Americans how GEICO can save them important money. … Unlike a human spokesperson, he never gets a swelled head from his fame nor does he have an agent to constantly remind us how valuable he is." ([[berkshire-2014-letter]])
 
-At least 40% of the U.S. driving population, in Buffett's estimate, can save money by insuring with GEICO — meaning the structural cost advantage still has years of compounding runway ahead at the time of the 2014 letter.
+At least 40% of Berkshire's letter readers, in Buffett's own words ("at least 40% of the people reading this letter"), can save money by insuring with GEICO — meaning the structural cost advantage still has years of compounding runway ahead at the time of the 2014 letter.
+
+## 2015: 11.4% market share, deepened founding history, declining underwriting profit
+
+By yearend 2015, GEICO's market share reached **11.4%** — up from 2.5% when Berkshire acquired control in 1995 and from 2.0% at the start of Tony Nicely's tenure in 1993. Tony Nicely completed **54 years** of service at GEICO in 2015. Buffett's verdict: "There is no better manager than Tony."
+
+**Float and underwriting:** Float grew to $15,148M (from $13,569M in 2014), reflecting continued policyholder growth. Underwriting profit, however, fell to $460M — down sharply from $1,159M in 2014 — likely reflecting elevated growth-related costs including record advertising spend. The float growth even as underwriting profit fell is consistent with the virtuous-circle model: aggressive growth investment pressures the underwriting line in the near term while building the durable low-cost franchise.
+
+**Underwriting expense ratio:** By 2015, GEICO's underwriting expenses were **14.7% of premiums** — approximately half the captive-agency model (State Farm, Allstate at ~25%) and one-third of the original independent-agency cartel (~40%). USAA is the only large company to achieve a lower percentage; GEICO deliberately spends more on advertising (aimed at growth) than USAA, hence the slight difference despite equal operational efficiency.
+
+**Scale:** GEICO employed approximately 34,000 people serving 14 million policyholders. Premium volume reached $22.6B — more than double USAA's volume, a reversal of their relative positions from the early years.
+
+**The founding history enriched.** The 2015 letter provides the most complete account of GEICO's competitive context. The three-stage disruption of auto insurance distribution: (1) the independent-agency cartel (~40¢ per premium dollar) dominated for decades until G.J. Mecherle's State Farm (1922) and Allstate (1931) introduced captive agencies, cutting expense ratios to ~25%; (2) USAA's direct model for military officers (early 1930s) went further still; (3) Leo and Lillian Goodwin — USAA employees — incorporated GEICO in 1936 with $100,000 of capital, extending the direct model beyond military officers to government employees and eventually the general public. GEICO did $238,000 of auto insurance in 1937, its first full year. See [[direct-distribution-moat]] for the framework this history exemplifies.
+
+**Climate and long-run pricing.** Buffett's climate change section in the 2015 letter uses GEICO as illustration: per-policy loss costs grew from ~$30 in 1951 to ~$1,000 in 2015. Rather than making insurance companies poorer, this inflation made them more valuable — premiums repriced annually to match rising costs, while the company that started with minimal premium volume now does $23B annually. Annual policy repricing is GEICO's structural hedge against any cost trend, including climate change. ([[berkshire-2015-letter]])
 
 ## Sources discussing this entity
 
@@ -163,7 +177,8 @@ At least 40% of the U.S. driving population, in Buffett's estimate, can save mon
 - [[berkshire-2011-letter]] — market share 9.3% (up from 2.0% at start of Nicely's tenure); premium volume $15.4B vs. $3.3B hypothetical-static; "more than 90% of the auto-insurance market left for GEICO to rake in"; float $11.169B; underwriting profit $576M; Tony Nicely completes 50 years of service at GEICO
 - [[berkshire-2012-letter]] — market share 9.7% (from 2.5% in 1995); premium volume $16.7B; float $11.578B; underwriting profit $680M GAAP (net of $410M non-cash accounting charge); Hurricane Sandy — 46,906 vehicles, largest single loss in GEICO history; persistency and closure both improved; Tony Nicely completes 51 years of service
 - [[berkshire-2013-letter]] — GEICO passes Allstate to become #2 U.S. auto insurer (was #7 in 1995); underwriting profit $1,127M; float $12,566M; economic goodwill "approaching $20 billion"; Tony Nicely 52 years of service; "its low costs create a moat — an enduring one — that competitors are unable to cross"
-- [[berkshire-2014-letter]] — market share 10.8% (from 2.5% at 1995 acquisition; from 2.0% at start of Nicely's tenure); underwriting profit $1,159M; float $13,569M; Tony Nicely 53 years; cost-moat language restated; at least 40% of U.S. drivers could save money by switching to GEICO
+- [[berkshire-2014-letter]] — market share 10.8% (from 2.5% at 1995 acquisition; from 2.0% at start of Nicely's tenure); underwriting profit $1,159M; float $13,569M; Tony Nicely 53 years; cost-moat language restated; at least 40% of letter readers could save money by switching to GEICO (Buffett's remark directed at his shareholder audience)
+- [[berkshire-2015-letter]] — market share 11.4%; Tony Nicely 54 years; float $15,148M; underwriting profit $460M (sharp drop from 2014, reflecting growth costs); underwriting expense ratio 14.7%; 34,000 employees / 14 million policyholders; clearest articulation of the three-stage insurance disruption (Mecherle/State Farm → USAA → GEICO Goodwins); $22.6B premium volume vs. $238,000 in 1937; annual repricing as hedge against any cost trend
 
 ## 2012: 9.7% market share and the Hurricane Sandy test
 

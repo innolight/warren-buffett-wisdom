@@ -22,8 +22,8 @@ The **50th anniversary** letter — fifty years since Buffett Partnership Ltd. t
 - **Conglomerate defense:** Why the Berkshire structure is superior for long-run capital allocation vs. stand-alone operators, private equity, or 1960s-style conglomerates
 - **The Berkshire System:** Munger's 15-point codification of how Berkshire is designed and run — the most explicit governance framework in the series
 - **Succession planning:** Howard Buffett as non-executive chairman; CEO selection criteria; "ABCs of business decay"; Greg Abel and Ajit Jain named by Munger as "world-leading" successors
-- **Float:** $83.9B; 12th consecutive underwriting profit year ($2.668B total across four segments)
-- **BNSF:** Service failures in 2014 and the $6B capex commitment for 2015
+- **Float:** $83.9B; 12th consecutive underwriting profit ($2.668B across four segments); key 2014 framing: the revolving-fund thesis (daily claim payments are offset by daily new business — float persists rather than depletes) and the GAAP-distortion thesis (float is overstated as an accounting liability while insurance goodwill is correspondingly understated), making Berkshire's intrinsic value materially higher than book value
+- **BNSF:** Service failures in 2014 and the $6B capex commitment for 2015 — illustrating the social-compact principle: regulated infrastructure businesses respond to adversity with capital commitment rather than retrenchment, because the compact demands it regardless of near-term earnings impact
 - **BHE** (formerly MidAmerican Energy): renamed; AltaLink acquisition; 6% wind and 7% solar national capacity; 100% earnings retention policy; 11 states served
 - **Risk vs. volatility:** Equity vs. bonds essay over a 50-year horizon — the most conclusive statement in the series
 
@@ -79,4 +79,4 @@ The **50th anniversary** letter — fifty years since Buffett Partnership Ltd. t
 
 - Continues [[berkshire-2013-letter]] — 11th consecutive underwriting profit; GEICO #2 nationally; BNSF record $4B capex
 - Munger's letter is his first major standalone essay in the annual report series; it anticipates the succession themes that become explicit in post-2015 letters
-- See's Candy figures updated from the 2007 letter's $1.35B / $32M to 2014 values of $1.9B / $40M — seventeen additional years of compounding
+- See's Candy figures updated from the 2007 letter's $1.35B / $32M to 2014 values of $1.9B / $40M — seven additional years of compounding

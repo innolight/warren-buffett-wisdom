@@ -1,6 +1,6 @@
 # Log
 
-Append-only chronological journal of wiki operations.
+Prepend-only (after this section) chronological journal of wiki operations.
 
 **Entry format:** `## [YYYY-MM-DD] <op> | <subject>`
 - `<op>` ∈ {`ingest`, `query`, `lint`, `refactor`, `note`}
@@ -9,6 +9,34 @@ Append-only chronological journal of wiki operations.
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
 ---
+
+## [2026-06-14] ingest | berkshire-2015-letter (deferred items completed)
+
+- Updated `entities/geico.md` — 2015 section: 11.4% market share, Tony Nicely 54 years, float $15.148B, underwriting profit $460M (sharp drop from $1.159B in 2014), underwriting expense ratio 14.7%, 34K employees / 14M policyholders, founding history (Mecherle/State Farm → USAA → GEICO Goodwins, $100K capital, $238K first full year); climate repricing mechanics; source bullet added
+- Updated `entities/bnsf.md` — 2015 section: service dramatically improved after $5.8B capex (record any railroad, ~3× depreciation); record pre-tax $6.8B; revenues $21.967B, net $4.248B; 17% of all U.S. intercity freight across all modes; 45% more ton-miles than closest competitor; revenue/ton-mile 3¢ vs. competitors' 4.2–5.3¢; productivity 702M ton-miles / 47K employees vs. 411M / 45K in 1996; railroad depreciation understates maintenance capex — GAAP overstates true owner earnings at all railroads; 2016 outlook lower; source bullet added
+- Updated `entities/midamerican-energy.md` — 2015 BHE section: 7% U.S. wind (4,423 MW, 6× runner-up) + 6% U.S. solar; $16B renewables; Iowa wind 47% of retail MWh (→58% 2017); Iowa rate 6.8¢ vs. 10.4¢ national; no rate increase in 16 years while industry up 44%; Iowa 3,500 employees / 29M MWh vs. 3,700 / 19M at 1999 acquisition; PacifiCorp headcount 6,750→5,700 / MWh 52.6M→56.3M; accident rate top-decile; net earnings $2.370B; no dividends since acquisition; source bullet added
+- Updated `concepts/float.md` — added 2015 row ($87.722B, $1.837B underwriting profit, 13th consecutive year, $26.2B cumulative over 13 years); added 2015 source entry with the double-GAAP-distortion deepening and "largest unrecorded wealth" quote; source slug added to frontmatter
+- Updated `concepts/owner-earnings.md` — added "railroad depreciation exception" section: (c) > (b) at BNSF; GAAP earnings overstate true owner earnings for all railroads; "watch their noses lengthen" EBITDA critique; stock-based compensation warning; updated source slug in frontmatter; updated 2015 source bullet
+
+## [2026-06-14] ingest | berkshire-2015-letter
+
+- Created `sources/berkshire-2015-letter.md` — organized by timeless lesson, not chronologically; key themes: direct-distribution moat, float's double GAAP distortion, capital flexibility, intrinsic-vs-book controlled-company asymmetry, BNSF social compact confirmed, underwriting-as-culture
+- Created `concepts/direct-distribution-moat.md` — new; the three-stage insurance disruption (independent agency → captive agency → direct); the incumbent's dilemma; the compounding advertising loop; preconditions (standardized product, non-advisory intermediary, permissive regulation)
+- Updated `wiki/index.md` — added berkshire-2015-letter (Sources); added direct-distribution-moat (Concepts)
+- Deferred to future ingests: BNSF update (2015 record earnings, productivity data), GEICO update (11.4% share, founding history detail), float table row ($87.7B, 13th consecutive year), midamerican-energy renewable stats, owner-earnings railroad depreciation note
+- Deliberately skipped: Kraft Heinz merger details (financial event, no durable principle); 3G Capital / Jorge Paulo Lemann (interesting partner model, not a shaping person); Todd Combs / Ted Weschler (mentioned favorably, insufficient standalone material); productivity-and-prosperity essay (social commentary; no new investment framework); climate change / insurance repricing (corollary of annual-repricing structure already in float and underwriting-discipline pages); Precision Castparts stub (mentioned in source page as [[precision-castparts]]; entity page deferred until more material available)
+
+## [2026-06-14] lint | berkshire-2014-letter post-ingest review
+
+Six corrections applied after /review-ingest audit:
+
+- **sources/berkshire-2014-letter.md** — Float key theme rewritten to lead with revolving-fund and GAAP-distortion principles (previously pure chronicle: $83.9B / 12th year, no principle extracted)
+- **sources/berkshire-2014-letter.md** — BNSF key theme rewritten to extract social-compact principle (previously pure event chronicle: "service failures and $6B capex", no principle extracted)
+- **sources/berkshire-2014-letter.md** — Connections: "seventeen additional years of compounding" corrected to "seven" (2014 − 2007 = 7 years; was a typo)
+- **people/charlie-munger.md** — "Buffett much out-Woodened Wooden" passage restored dropped closing clause: "instead of deteriorating like the skill of a basketball player does" (raw line 2394–2395)
+- **entities/geico.md** — "40% of the U.S. driving population" corrected to "40% of letter readers" / "40% of the people reading this letter" (Buffett's claim was about his shareholder audience, not a statistical claim about all U.S. drivers)
+- **concepts/risk-vs-volatility.md** — added berkshire-2014-letter source bullet and frontmatter entry (page was listed in source page Concepts section but not updated during ingest; 2014 essay is the most extensive empirical statement in the series)
+- **concepts/investment-categories.md** — added berkshire-2014-letter source bullet and frontmatter entry (same gap as above)
 
 ## [2026-06-14] ingest | berkshire-2014-letter
 

@@ -50,7 +50,7 @@ The 2014 letter contains two distinct Munger contributions — the richest treat
 
 **Munger's standalone letter** ("Vice Chairman's Thoughts — Past and Future"): The first time in the series that Munger has written separately. He codified the "Berkshire System" as 15 explicit principles (see [[berkshire-conglomerate-model]]) and offered his own four-factor diagnosis of why Berkshire did so well:
 
-1. Buffett's constructive peculiarities — specifically, the decision to limit activities to a few kinds and maximize attention to them for 50 years. "Buffett succeeded for the same reason Roger Federer became good at tennis. … Buffett much out-Woodened Wooden, because in his case the exercise of skill was concentrated in one person, not seven, and his skill improved and improved as he got older and older during 50 years."
+1. Buffett's constructive peculiarities — specifically, the decision to limit activities to a few kinds and maximize attention to them for 50 years. "Buffett succeeded for the same reason Roger Federer became good at tennis. … Buffett much out-Woodened Wooden, because in his case the exercise of skill was concentrated in one person, not seven, and his skill improved and improved as he got older and older during 50 years, instead of deteriorating like the skill of a basketball player does."
 2. The Berkshire System itself — structural elements that created a virtuous circle.
 3. Good luck.
 4. The "weirdly intense, contagious devotion" of some shareholders and admirers.

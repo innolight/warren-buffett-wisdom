@@ -46,6 +46,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2012-letter]] — 2012 annual letter; most detailed dividend vs. sell-off mathematical comparison in the series; repurchase limit raised 110%→120% of book; float $73.1B, tenth consecutive underwriting profit; GEICO 9.7% market share
 - [[berkshire-2013-letter]] — 2013 annual letter; GEICO passes Allstate to #2; BNSF record $4B capex; MidAmerican acquires NV Energy; float $77.2B, eleventh consecutive underwriting profit; farm/real estate analogies as the clearest productive-asset investment essay; 90/10 will directive for non-professionals
 - [[berkshire-2014-letter]] — 50th anniversary letter; Berkshire origin story and cigar-butt evolution; conglomerate defense; Munger's Berkshire System (15 principles); succession framework; float $83.9B, twelfth consecutive underwriting profit
+- [[berkshire-2015-letter]] — direct-distribution moat (clearest articulation); float's double GAAP distortion deepened; BNSF social compact vindicated after 2014 service failures; capital flexibility as structural advantage; Precision Castparts acquisition
 
 ## Entities
 
@@ -108,6 +109,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 ## Concepts
 
 - [[acquisition-criteria]] — the four-point principle plus the published six-point operational ad; the kissing-toads failure modes; refined by 2000 acquisition spree
+- [[direct-distribution-moat]] — structural moat from eliminating intermediaries; why incumbents can't respond without dismantling their own businesses; GEICO's three-stage insurance disruption as the canonical case
 - [[berkshire-conglomerate-model]] — why the Berkshire structure is the ideal capital allocation vehicle; Munger's 15-point Berkshire System; the ABCs of business decay; succession architecture
 - [[arbitrage]] — Buffett's four-question risk-arbitrage framework; 63-year track record as the empirical EMT refutation
 - [[inversion]] — Jacobi/Munger "invert, always invert"; approach problems by defining what to avoid; the "What We Don't Do" four-pointer as worked example

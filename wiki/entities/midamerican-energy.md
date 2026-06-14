@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-06-12
 updated: 2026-06-14
-sources: [berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2005-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter]
+sources: [berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2005-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter]
 tags: [utility, regulated, infrastructure, capital-deployment, acquisition]
 related: [[berkshire-hathaway]], [[dave-sokol]], [[acquisition-criteria]], [[capital-allocation]]
 ---
@@ -41,6 +41,20 @@ Key 2014 developments:
 
 Buffett's long-term framing: "We will continue to buy and build utility operations throughout the world for decades to come." ([[berkshire-2014-letter]])
 
+## 2015: Renewables leadership and the rate-price social compact
+
+By 2015, Berkshire Hathaway Energy had become the dominant U.S. utility investor in renewable energy.
+
+**Renewables scale:** BHE owns and operates 4,423 megawatts of wind generation — **six times the generation of the runner-up utility** — representing **7% of the country's wind generation capacity**. BHE also accounts for **6% of U.S. solar generation capacity**. Total renewables investment: $16B committed. In Iowa, wind-generated megawatt-hours equaled **47% of all megawatt-hours sold to retail customers** in 2015; committed projects will take that to **58% in 2017**. BHE made additional commitments at the Paris Climate Change Conference.
+
+**Rate leadership.** BHE's average Iowa retail rate was 6.8¢ per KWH — vs. Alliant (the other major Iowa utility) at 9.5¢, neighboring states averaging 9.0¢–9.7¢, and a national average of 10.4¢. This 35% price advantage against the national average is the economic expression of the social compact: maximize capital investment in capacity and efficiency, earn regulatory goodwill, maintain customer loyalty.
+
+**Operational efficiency evidence.** When BHE acquired its Iowa utility in 1999, it employed 3,700 people and produced 19 million megawatt-hours. By 2015: 3,500 employees and 29 million megawatt-hours — major output gain with a headcount reduction, achieved without a single rate increase in 16 years, while industry rates rose 44%. PacifiCorp (acquired 2006): employees fell from 6,750 to 5,700 while generation rose from 52.6M to 56.3M megawatt-hours; accident rate fell from 3.4 to 0.85 per 100 employees. BHE now ranks in the industry's top decile for safety.
+
+**No dividends, still.** BHE has never paid a dividend to Berkshire since Berkshire assumed ownership. No investor-owned utility comes close to BHE's reinvestment rate — a structural feature that enables perpetual expansion of the rate base.
+
+**Financial results:** Net earnings $2,370M (up from $2,095M in 2014); earnings applicable to Berkshire $2,132M (up from $1,882M). BHE and BNSF together invested $11.6B in plant and equipment in 2015. 2016 outlook: Buffett expects increased after-tax earnings at BHE. ([[berkshire-2015-letter]])
+
 ## Why it matters
 
 **Berkshire's entry into regulated capital-intensive businesses.** Regulated utilities earn defined returns on their rate bases — the capital invested in the infrastructure. The larger the rate base, the larger the permitted earnings. For a company like Berkshire facing the challenge of deploying ever-growing capital at reasonable returns, regulated utilities are an ideal receptacle: they absorb nearly unlimited capital, they earn predictable (if modest) returns set by regulators, and they are permanent businesses. The 1999 investment was Buffett's first recognition that this model suited Berkshire's scale constraints.
@@ -76,3 +90,4 @@ This framing captures how Berkshire operates large subsidiaries: voting control 
 - [[berkshire-2012-letter]] — net earnings $1.472B (up from $1.331B); earnings applicable to Berkshire $1.323B; MidAmerican now accounts for 6% of U.S. wind generation capacity and, upon completing three projects under construction, will own ~14% of U.S. solar-generation capacity; total committed renewables portfolio will have cost $13B; Greg Abel and Matt Rose cited as "two outstanding CEOs"
 - [[berkshire-2013-letter]] — NV Energy acquired for $5.6B (88% of Nevada population); 7% of U.S. wind generation capacity; retained more earnings than any other American electric utility; eleven states served; net earnings $1.636B; earnings to Berkshire $1.470B; total renewables portfolio to cost $15B when complete; "NV Energy will not be MidAmerican's last major acquisition"
 - [[berkshire-2014-letter]] — renamed Berkshire Hathaway Energy (BHE); AltaLink acquisition ($3B CAD, 85% of Alberta's electric transmission); 6% of U.S. wind capacity + 7% of U.S. solar capacity; regulated customers in 11 states (broadest of any U.S. utility); 8% of U.S. natural gas consumption via two pipelines; 100% earnings retention policy — more dollars retained than any other American electric utility; earnings diversity across multiple regulatory jurisdictions as structural shield; net earnings $2.095B; earnings to Berkshire $1.882B
+- [[berkshire-2015-letter]] — 7% U.S. wind capacity (4,423 MW, 6× the runner-up utility) + 6% U.S. solar capacity; $16B total renewables invested; Iowa wind = 47% of retail MWh sold (→58% by 2017); Iowa rate 6.8¢ vs. national average 10.4¢; Iowa utility: 3,500 employees producing 29M MWh vs. 3,700/19M MWh at 1999 acquisition, no rate increase in 16 years while industry rates rose 44%; PacifiCorp: employees 6,750→5,700, MWh 52.6M→56.3M; accident rate top-decile in industry; no dividends to Berkshire since acquisition; net earnings $2.370B; earnings to Berkshire $2.132B; 2016 outlook: higher earnings expected

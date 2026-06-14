@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-06-14
-sources: [berkshire-1993-letter, berkshire-2011-letter]
+sources: [berkshire-1993-letter, berkshire-2011-letter, berkshire-2014-letter]
 tags: [risk, beta, valuation, academic-finance, graham]
 related: [[mr-market]], [[volatility-as-opportunity]], [[concentration-vs-diversification]], [[margin-of-safety]], [[investment-categories]]
 ---
@@ -80,6 +80,7 @@ The last sentence is the key: currency-based instruments (bonds, cash) can have 
 - [[berkshire-1993-letter]] — canonical essay on risk vs. beta; the five-factor framework; the Washington Post inversion-of-sign example; the pet-rocks-vs-Monopoly toy example; Coca-Cola/Gillette as illustration
 - [[berkshire-1994-letter]] — "Investors should remember that their scorecard is not computed using Olympic-diving methods: degree-of-difficulty doesn't count" — companion principle
 - [[berkshire-2011-letter]] — sharpest single-sentence formulation: risk = probability of loss of purchasing power over the holding period; explicitly links to why low-volatility bonds are the most dangerous long-term asset class
+- [[berkshire-2014-letter]] — the most extensive empirical statement in the series: "the unconventional, but inescapable, conclusion to be drawn from the past fifty years is that it has been far safer to invest in a diversified collection of American businesses than to invest in securities — Treasuries, for example — whose values have been tied to American currency"; extends the purchasing-power-loss framework with 50 years of retrospective evidence and projects the same conclusion forward for the next century; included in the "Next 50 Years" essay as both a historical observation and a forward-looking prescription
 
 ## Related
 

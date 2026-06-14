@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-06-14
 updated: 2026-06-14
-sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter]
+sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter]
 tags: [railroad, infrastructure, regulated, capital-intensive, acquisition]
 related: [[berkshire-hathaway]], [[midamerican-energy]], [[warren-buffett]], [[capital-allocation]], [[liquidity-fortress]], [[stock-as-acquisition-currency]]
 ---
@@ -110,6 +110,20 @@ Buffett: "Though weather, which was particularly severe last year, will always c
 
 The lesson for regulated infrastructure: temporary service failures do not impair the long-term thesis when the owner has both the financial strength and the incentive (through the social compact) to remedy them with massive capital investment rather than retrenchment.
 
+## 2015: Social compact vindicated — record results after maximum capital commitment
+
+The 2015 letter is the payoff chapter for the 2014 service-failure story. After committing ~$5.8 billion in capital expenditures in 2015 — a sum far and away the record for any American railroad and nearly three times BNSF's annual depreciation charge — service "dramatically improved" and earnings hit new records.
+
+**Financial results:** Revenues $21,967M (down from $23,239M in 2014, reflecting railroads' 2015 freight-volume weakness); operating earnings $7,703M; net earnings **$4,248M** (up sharply from $3,869M); pre-tax income **$6.8B** (a $606M gain from 2014's record despite the revenue decline). Interest coverage: 8.3× in Buffett's preferred measure (pre-tax earnings / interest, not EBITDA / interest). Buffett's expectation for 2016: lower earnings, flagging cyclicality.
+
+**Market position.** BNSF moves approximately **17% of America's intercity freight** (by revenue ton-miles, measured across all modes: rail, truck, air, water, and pipeline) — the #1 position among the seven large American railroads, at 45% more ton-miles than the closest competitor. Revenue per ton-mile: just under 3¢, vs. competing railroads at 4.2¢ to 5.3¢ — a cost advantage that cements the social compact's value to shippers.
+
+**Productivity.** BNSF's first full year under Berkshire (1996, as Burlington Northern-Santa Fe merged): 411 million ton-miles with 45,000 employees. By 2015: 702 million ton-miles with 47,000 employees — a 71% gain in volume with only a 4% increase in headcount. This is the operational core of the social compact: customers get dramatically more freight movement at lower real cost; employees maintain steady employment; capital owners earn fair returns on growing infrastructure.
+
+**The depreciation understatement.** The 2015 letter flags a structural quirk of railroad accounting that qualifies how BNSF's GAAP earnings should be read: the depreciation charge falls far short of the capital outlays needed to merely keep the railroad running properly. "This overstatement of earnings exists at all railroads." Buffett's investor guidance: add back most amortization charges, but subtract something to reflect BNSF's inadequate depreciation. This is the owner-earnings principle applied specifically to infrastructure: (c) maintenance capex exceeds (b) depreciation for railroad assets, so GAAP earnings overstate true owner earnings. See [[owner-earnings]]. ([[berkshire-2015-letter]])
+
+**Fuel efficiency.** 1 gallon of diesel per ton per 500 miles — 4× more fuel-efficient than trucks. At $16B invested in plant and equipment across BHE and BNSF combined (2015), this scale of reinvestment is what earns the regulatory compact.
+
 ## Sources discussing this entity
 
 - [[berkshire-2009-letter]] — full acquisition narrative; social compact framing; economic characteristics vs. utilities; Matt Rose noted; BNSF to join regulated-utility reporting segment
@@ -118,3 +132,4 @@ The lesson for regulated infrastructure: temporary service failures do not impai
 - [[berkshire-2012-letter]] — revenues $20.835B, net $3.372B (new records); 9.6× interest coverage; 500K barrels oil/day (~10% of lower-48 production), expected to grow substantially; $4B capex committed for 2013 (more than any railroad in a single year)
 - [[berkshire-2013-letter]] — revenues $22.014B, net $3.793B (new records); 9:1 interest coverage; $4B capex delivered (record for any railroad, double depreciation); 15% of all U.S. inter-city freight by ton-miles; 500 miles/ton/gallon vs. trucks at 4× the fuel; operations leadership: Matt Rose and Carl Ice
 - [[berkshire-2014-letter]] — service failures and lost market share to Union Pacific (whose earnings beat BNSF by a record margin); $6B capex committed for 2015 (26% of revenues; ~50% more than any railroad in a single year); revenues $23.239B; net earnings $3.869B; 8:1 interest coverage; the social-compact response to adversity: massive capital commitment, not retrenchment
+- [[berkshire-2015-letter]] — service dramatically improved after $5.8B capex (record for any American railroad, ~3× depreciation); pre-tax income $6.8B (record, up $606M from 2014); net earnings $4.248B; 17% of all U.S. intercity freight by ton-miles (across all modes), 45% more than closest competitor; revenue/ton-mile under 3¢ vs. competitors' 4.2–5.3¢; 702M ton-miles with 47,000 employees (vs. 411M with 45,000 in 1996); railroad depreciation understates true maintenance capex — GAAP earnings overstate true owner earnings at all railroads; 2016 outlook: lower earnings expected

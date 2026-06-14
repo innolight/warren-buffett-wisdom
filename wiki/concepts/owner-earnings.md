@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-06-14
-sources: [berkshire-1986-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter]
+sources: [berkshire-1986-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter]
 tags: [accounting, valuation, cash-flow, capital-allocation]
 related: [[intrinsic-value-vs-book-value]], [[look-through-earnings]], [[economic-goodwill]]
 ---
@@ -72,13 +72,29 @@ The 2013 letter quantifies the split across Berkshire's Manufacturing, Service a
 
 ## The EBITDA critique
 
-The sharpest formulation of the "cash flow" fallacy critique appears in the 2013 letter, in the context of distinguishing real from non-real depreciation:
+The sharpest formulation of the "cash flow" fallacy critique appears in the 2013 letter:
 
 > Every dime of depreciation expense we report, however, is a real cost. And that's true at almost all other companies as well. When Wall Streeters tout EBITDA as a valuation guide, button your wallet. ([[berkshire-2013-letter]])
+
+The 2015 letter sharpens it further, in the context of railroad depreciation:
+
+> When CEOs or investment bankers tout pre-depreciation figures such as EBITDA as a valuation guide, watch their noses lengthen while they speak. ([[berkshire-2015-letter]])
 
 EBITDA adds back both depreciation and amortization before interest and taxes. This conflates two different adjustments: (a) excluding amortization of intangibles that carry no economic cost — which is correct — with (b) excluding depreciation of fixed assets that carry a very real replacement cost — which is wrong. The owner-earnings formula handles this correctly: (b) non-cash charges are added back; (c) real maintenance capex is subtracted. EBITDA collapses (b) and (c) into a single addition, effectively pretending that fixed assets need not be replaced.
 
 The practical harm: junk bonds and leveraged transactions are often sold with EBITDA coverage ratios because EBITDA is the largest number available before reaching net income. Adding back real depreciation makes any deal look safer than it is.
+
+## The railroad depreciation exception: when (c) > (b) at scale
+
+The 2015 letter introduces a specific, named case where GAAP earnings overstate true owner earnings: **railroad depreciation**. For most businesses, Buffett advises investors to add back most amortization charges. For BNSF specifically, a subtraction is needed instead:
+
+> "The depreciation charge we record in our railroad business falls far short of the capital outlays needed to merely keep the railroad running properly, a mismatch that leads to GAAP earnings that are higher than true economic earnings. (This overstatement of earnings exists at all railroads.) ... To embrace reality, however, you should remember to add back most of the amortization charges we report. You should also subtract something to reflect BNSF's inadequate depreciation charge." ([[berkshire-2015-letter]])
+
+This is the owner-earnings formula applied with precision. For BNSF: (c) maintenance capex significantly exceeds (b) depreciation, so true owner earnings are *below* reported GAAP earnings — even though Berkshire's purchase-price accounting has not inflated (b) as happened with Scott Fetzer. The reason is the nature of the asset: rail infrastructure requires more ongoing spending to maintain than the accountants' straight-line depreciation schedules capture.
+
+The implication for investors in capital-intensive infrastructure: the direction of the GAAP bias can go either way depending on the asset's maintenance profile. Accounting depreciation is an estimate of economic wear; at railroads, the estimate runs low.
+
+See [[bnsf]] for the operating context; see [[leverage-discipline]] for why EBITDA/interest coverage ratios are "seriously flawed" in Buffett's preferred measure (pre-tax earnings / interest is the correct denominator).
 
 ## (c) is a guess
 
@@ -93,6 +109,7 @@ Buffett's stance: "I would rather be vaguely right than precisely wrong." Owner 
 - [[berkshire-2012-letter]] — non-real vs. real amortization distinction; Wells Fargo's $1.5B "amortization of core deposits" as the canonical example of a GAAP charge with no economic content; IBM adjusted earnings as parallel; the practical investor framework for classifying amortization
 - [[berkshire-2013-letter]] — quantification of the real/non-real split: of $648M amortization in Berkshire's manufacturing/service/retail segment, ~20% real and ~80% not; the EBITDA critique at its sharpest: "When Wall Streeters tout EBITDA as a valuation guide, button your wallet"; every depreciation dollar is a real cost
 - [[berkshire-2014-letter]] — updated figures: $1.15B in total amortization charges in Manufacturing/Service/Retail, ~20% real (~$230M), ~80% non-real (~$920M); $7.4B total intangible assets remaining to amortize at yearend, $4.1B to be charged over the next five years; EBITDA critique restated: "When CEOs tout EBITDA as a valuation guide, wire them up for a polygraph test"; note that as non-real charges amortize off, reported GAAP earnings will increase even if true economic earnings are flat — the investor must add back non-real amortization to see through the noise
+- [[berkshire-2015-letter]] — railroad depreciation exception: BNSF's GAAP depreciation understates true maintenance capex, so GAAP earnings overstate true owner earnings (the reverse of the Scott Fetzer case); applies to all Class I railroads; $1.1B total Berkshire amortization charges in 2015, ~20% real; $6.8B intangible assets remaining to amortize, $4.1B over next five years; stock-based compensation warning: unlike most adjustments urged on investors, compensation is genuinely an expense and cannot be added back without deceiving oneself; "watch their noses lengthen" as the sharpest EBITDA-critique formulation yet
 
 ## Related
 
