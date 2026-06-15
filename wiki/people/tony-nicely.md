@@ -3,7 +3,7 @@ type: person
 status: draft
 created: 2026-06-12
 updated: 2026-06-15
-sources: [berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2006-letter, berkshire-2016-letter]
+sources: [berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2006-letter, berkshire-2016-letter, berkshire-2018-letter]
 tags: [geico, insurance, management, operator]
 related: [[geico]], [[warren-buffett]], [[lou-simpson]], [[incentive-compensation]]
 ---
@@ -34,6 +34,18 @@ CEO of [[geico]] through its post-acquisition growth era. Joined GEICO in the ea
 
 **2006: the 47% productivity milestone.** Between yearend 2003 and 2006, GEICO's policies grew from 5.7 million to 8.1 million (42%) while employees fell 3.5% — a 47% productivity gain. Advertising spend reached $631M, more than any competitor. Underwriting profit: $1,314M; float: $7.171B. Nicely joined GEICO at age 18 in 1961 — 45 years of tenure by 2006. Buffett relayed director Don Keough's reaction: "Forget births. Tell the shareholders to immediately change the names of their present children to Tony or Antoinette." Keough signed his letter "Tony." ([[berkshire-2006-letter]])
 
+## Career conclusion
+
+On June 30, 2018, Nicely retired as CEO and handed the position to **Bill Roberts**, his long-time partner. Buffett's assessment of the succession: "I've known and watched Bill operate for several decades, and once again Tony made the right move." Nicely remains Chairman — described as incapable of doing less than full engagement. ([[berkshire-2018-letter]])
+
+**Buffett's final tribute:** "By my estimate, Tony's management of GEICO has increased Berkshire's intrinsic value by more than $50 billion. On top of that, he is a model for everything a manager should be, helping his 40,000 associates to identify and polish abilities they didn't realize they possessed. All Berkshire shareholders owe Tony their thanks. I head the list."
+
+**Cumulative scorecard since the 1995 acquisition:**
+- Pre-tax underwriting profits: $15.5B
+- Float: $2.5B → $22.1B
+- Sales growth: 1,200%
+- Market position: America's #2 auto insurer
+
 ## Sources discussing this person
 
 - [[berkshire-1995-letter]] — canonical introduction; 34 years at GEICO; named operating leader for the wholly-owned subsidiary alongside Lou Simpson on investments
@@ -44,3 +56,4 @@ CEO of [[geico]] through its post-acquisition growth era. Joined GEICO in the ea
 - [[berkshire-2000-letter]] — advertising stumble post-mortem; four-factor analysis; structural moat reaffirmed despite campaign misfire
 - [[berkshire-2006-letter]] — 47% productivity gain 2003–2006; $631M advertising; 45 years at GEICO; "rename your children Tony" Keough tribute
 - [[berkshire-2016-letter]] — 55 years of service; CEO for 23 of them; Munger's soundness observation as the distilled lesson of his tenure: brilliance and dedication are necessary but not sufficient — a manager who overestimates his own IQ is dangerous regardless of its absolute level
+- [[berkshire-2018-letter]] — retirement and succession; cumulative tribute ($50B+ intrinsic value); final stats

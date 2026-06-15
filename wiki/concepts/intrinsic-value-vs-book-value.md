@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-13
-sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter]
+updated: 2026-06-15
+sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2018-letter]
 tags: [valuation, accounting, intrinsic-value]
 related: [[economic-goodwill]], [[look-through-earnings]], [[owner-orientation]], [[owner-earnings]], [[scott-fetzer]], [[ralph-schey]]
 ---
@@ -77,6 +77,22 @@ A 15–20× gap between carrying value and intrinsic value is the compound effec
 
 In 1998, the relationship ran the other way. Per-share book value rose 48.3%, but Buffett immediately qualified: "most of that 48.3% gain came from our issuing shares in acquisitions," meaning the per-share intrinsic value gain fell well short of the book-value figure ([[berkshire-1998-letter]]). Issuing Berkshire shares to acquire businesses at fair value does not destroy value, but it does not grow intrinsic value *per share* if the acquisition adds value proportional to the shares issued — the denominator grows alongside the numerator. The lesson: book-value-per-share growth is an unreliable proxy for intrinsic-value-per-share growth when significant share issuance is involved.
 
+## The 2018 farewell — book value abandoned as headline metric
+
+The 2018 letter is the formal close of a 35-year chapter. Buffett announced that the annual per-share book-value change table "makes its farewell appearance on page 2" — it had opened every Berkshire letter since 1983. He gave three reasons why book value had "lost the relevance it once had":
+
+**1. The asset mix has shifted to operating businesses.** "Berkshire has gradually morphed from a company whose assets are concentrated in marketable stocks into one whose major value resides in operating businesses." Marketable securities are easy to value at market; operating businesses are carried at historical cost plus accounting adjustments that bear little relation to current economic value. As the operating-business share grew, book value became an increasingly poor window into the enterprise.
+
+**2. The accounting treatment creates an asymmetric mismark.** Equity holdings are carried at market price — an accurate reflection. But operating companies are "included in book value at an amount far below their current value, a mismark that has grown in recent years." The very same two-column table used since 1996 to approximate intrinsic value (see above) was the vehicle through which Buffett disclosed this widening gap annually. By 2018, the gap had become so large that book value no longer served as a useful proxy in either direction.
+
+**3. Buybacks mathematically invert the proxy relationship.** When Berkshire repurchases shares at prices above book but below intrinsic value, each transaction simultaneously raises per-share intrinsic value and lowers per-share book value — the two measures move in opposite directions. "That combination causes the book-value scorecard to become increasingly out of touch with economic reality." At sufficient volume, book value becomes anti-correlated with what it once tracked.
+
+> "In future tabulations of our financial results, we expect to focus on Berkshire's market price." ([[berkshire-2018-letter]])
+
+The pivot from book value to market price as headline proxy is deliberate and carries its own caveat: market price fluctuates with sentiment and can depart materially from intrinsic value in either direction. But Buffett's implicit argument is that over long holding periods the market converges on intrinsic value well enough to be informative, while book value has become permanently decoupled for the structural reasons above.
+
+This is also the point where the two-column proxy table — per-share investments and per-share operating earnings — effectively becomes the primary public signal of intrinsic-value change, since market price is reported externally and neither column of the table is "book value" in the accounting sense.
+
 ## How it's discussed in sources
 
 - [[berkshire-1983-letter]] — debut; the formal definitions, the tuition analogy, the two-direction divergence framed via Berkshire's own history (1965 textile overstatement → 1983 economic-Goodwill understatement)
@@ -89,6 +105,7 @@ In 1998, the relationship ran the other way. Per-share book value rose 48.3%, bu
 - [[berkshire-1998-letter]] — explicit warning: the 48.3% book-value gain overstated per-share intrinsic-value gain because most came from share issuance
 - [[berkshire-1999-letter]] — negative per-share operating earnings due to ~$500M goodwill-amortization artifact; See's and Buffalo News "fifteen to twenty times" carrying value
 - [[berkshire-2000-letter]] — Aesop bird-in-hand framework restates intrinsic value as the discounted present value of future cash, independent of accounting conventions
+- [[berkshire-2018-letter]] — the formal retirement of book value as Berkshire's headline scorecard; the farewell appearance of the per-share book-value table after 35 years; three structural reasons why the proxy relationship has broken down (asset-mix shift to operating businesses, asymmetric accounting mismark, buyback math); pivot to market price as the public headline metric going forward
 
 ## Related
 

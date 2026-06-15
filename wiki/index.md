@@ -49,6 +49,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2015-letter]] — direct-distribution moat (clearest articulation); float's double GAAP distortion deepened; BNSF social compact vindicated after 2014 service failures; capital flexibility as structural advantage; Precision Castparts acquisition
 - [[berkshire-2016-letter]] — share-repurchases doctrine (three-partner analogy, 120%-of-book threshold); revolving-fund float framing ($100B milestone, 14 consecutive underwriting-profit years); The Bet nine-year proof (S&P +85.4% vs. ~2.2%); adjusted earnings critique; BNSF GAAP depreciation gap
 - [[berkshire-2017-letter]] — The Bet final 10-year tally (S&P +125.8% vs. funds-of-funds +2.8%–42.3%); GAAP unrealized-gains distortion warning; float at $114.5B (AIG deal + hurricane losses end 14-year streak); Jain and Abel named Vice Chairmen
+- [[berkshire-2018-letter]] — book value formally retired as headline scorecard (three-reasons framework); Five Groves valuation structure; American Tailwind essay; Tony Nicely retirement and GEICO 1995–2018 arc; Ajit Jain elevated to head all insurance; adjusted EBITDA Lincoln "dog's tail" critique; float $122.7B
 
 ## Entities
 
@@ -112,6 +113,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 ## Concepts
 
 - [[acquisition-criteria]] — the four-point principle plus the published six-point operational ad; the kissing-toads failure modes; refined by 2000 acquisition spree
+- [[american-tailwind]] — Buffett's name for the long-run national prosperity tailwind; 77-year S&P compounding case ($114.75 → $606,811); gold vs. American business; 1%-fee drag halving returns; bipartisan prosperity
 - [[direct-distribution-moat]] — structural moat from eliminating intermediaries; why incumbents can't respond without dismantling their own businesses; GEICO's three-stage insurance disruption as the canonical case
 - [[berkshire-conglomerate-model]] — why the Berkshire structure is the ideal capital allocation vehicle; Munger's 15-point Berkshire System; the ABCs of business decay; succession architecture
 - [[arbitrage]] — Buffett's four-question risk-arbitrage framework; 63-year track record as the empirical EMT refutation

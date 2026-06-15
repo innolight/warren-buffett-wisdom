@@ -10,6 +10,18 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-06-15] ingest | berkshire-2018-letter
+
+- Created `sources/berkshire-2018-letter.md` — key themes: GAAP vs. operating earnings (new mark-to-market rule); book value formally retired as headline metric; Five Groves valuation structure; adjusted EBITDA critique (Lincoln "dog's tail" analogy); American Tailwind essay; Tony Nicely retirement (June 2018); Ajit Jain elevated to head all insurance; float $122.7B, 15-of-16-year underwriting profit, $27B cumulative 16-year gain
+- Created `concepts/american-tailwind.md` — new; 1942 $114.75 → $606,811 compounding case; gold vs. American business; 1%-fee drag halving returns; bipartisan prosperity; Normandy humility point
+- Updated `concepts/intrinsic-value-vs-book-value.md` — "2018 farewell" section: book value abandoned as headline metric; three stated reasons; pivot to market price
+- Updated `concepts/earnings-quality.md` — Lincoln "dog's tail" / Adjusted EBITDA section; amortization-vs-depreciation split (acquisition amortization is a valid add-back; depreciation understates true economic cost)
+- Updated `people/tony-nicely.md` — career conclusion: June 30 2018 retirement; Bill Roberts succession; $50B+ intrinsic value tribute; cumulative 1995–2018 stats
+- Updated `entities/geico.md` — Tony's retirement; succession to Bill Roberts; cumulative 1995–2018 scorecard
+- Updated `people/ajit-jain.md` — 2018 elevation to head all insurance activities (from reinsurance only)
+- Updated `concepts/float.md` — 2018 figures: $122.7B; 15-of-16-year underwriting profit track; $27B cumulative 16-year pre-tax gain
+- Skipped: Greg Abel (page already exists from 2017 ingest); Five Groves framework (Berkshire-specific valuation structure, captured in source page only); investment holdings table (year-specific data); corporate tax cut discussion (ephemeral); Kraft Heinz impairment (passing mention)
+
 ## [2026-06-15] ingest | berkshire-2017-letter
 
 - Created `sources/berkshire-2017-letter.md` — key themes: GAAP unrealized-gains distortion (new FASB rule); Bet final 10-year tally (S&P +125.8% vs. funds-of-funds +2.8%–42.3%); float at $114.5B (AIG deal + hurricane losses ending 14-year streak); succession formalized (Jain + Abel as Vice Chairmen)

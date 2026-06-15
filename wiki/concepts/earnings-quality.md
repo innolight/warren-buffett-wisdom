@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-15
 updated: 2026-06-15
-sources: [berkshire-2016-letter, berkshire-2017-letter]
+sources: [berkshire-2016-letter, berkshire-2017-letter, berkshire-2018-letter]
 tags: [accounting, earnings, management-integrity]
 related: [[owner-earnings]], [[incentive-compensation]], [[underwriting-discipline]]
 ---
@@ -32,10 +32,29 @@ The rule compounds an existing problem: realized gains were already excluded fro
 
 Both produce the same effect — figures that mislead about underlying economic performance — but the remedies differ. For management-originated distortions, the fix is skepticism about adjustments. For rule-originated distortions, the fix is reading operating earnings rather than GAAP net income, and allowing analysis time before trading begins (Buffett's Friday-evening release practice). See [[berkshire-2017-letter]].
 
+## The 2018 sharpening — Lincoln's dog, EBITDA, and the amortization/depreciation split
+
+The 2018 letter returns to earnings-quality manipulation with two additions: a more withering rhetorical frame, and a precise analytical distinction that separates a legitimate add-back from an illegitimate one.
+
+**The Lincoln analogy.** Buffett opens the critique with Abraham Lincoln's riddle: "If you call a dog's tail a leg, how many legs does it have?" Lincoln's answer: four — "because calling a tail a leg doesn't make it one." The target is Adjusted EBITDA and its cousins on Wall Street, where cost items are routinely relabeled rather than eliminated. The implication is not merely that "adjusted earnings" figures are wrong — it is that the entire adjustment culture is a kind of naming game that Wall Street has institutionalized and that analysts, bankers, and boards have collectively agreed to accept.
+
+**Stock-based compensation revisited.** On SBC, the 2018 letter tightens the argument from the 2016 version: "managements sometimes assert that their company's stock-based compensation shouldn't be counted as an expense. (What else could it be — a gift from shareholders?)" The parenthetical cuts through the rationalizations: compensation is a cost to shareholders regardless of whether it takes the form of cash or equity. The 2016 letter's extended accounting-laboratory illustration had made the same point; the 2018 version reduces it to a single rhetorical question.
+
+**Restructuring exclusions.** The letter addresses restructurings directly: "restructurings of one sort or another are common in business — Berkshire has gone down that road dozens of times, and our shareholders have always borne the costs of doing so." The logic continues the 2016 argument: if restructurings recur year after year (which they do at many companies), excluding them from "recurring" earnings is not an adjustment but a systematic omission of real costs.
+
+**The amortization/depreciation split — the critical nuance.** The most analytically precise contribution of the 2018 letter is a distinction that runs against the usual "all non-cash charges are real" line:
+
+- *Acquisition-related amortization* ($1.4B for Berkshire in 2018) **is** a legitimate add-back. When Berkshire acquires a business, purchase-accounting rules require it to value the acquired intangibles and amortize them over time. But this amortization corresponds to no real economic cost — the underlying intangibles (customer relationships, brand, proprietary processes) are not shrinking. Buffett explicitly accepts this add-back; "adjusted" operating earnings that exclude acquisition amortization are, in his view, *more* accurate than GAAP earnings.
+
+- *Depreciation of physical assets* ($8.4B for Berkshire in 2018) is **not** a legitimate add-back — in fact, it *understates* true economic maintenance cost. EBITDA proponents treat depreciation as a non-cash proxy for capex that can be excluded from economic earnings. Buffett's counterpoint: "Berkshire actually needs to spend more than depreciation just to remain competitive." In capital-intensive businesses (railroads, utilities, manufacturers), maintenance capex consistently exceeds the accounting depreciation charge, which is based on historical cost at the time of asset acquisition. Over decades of inflation and rising replacement costs, the gap compounds. "D" in EBITDA is not a neutral placeholder — it systematically understates economic maintenance requirements.
+
+The resulting framework: not all non-cash charges are alike. Acquisition amortization is a bookkeeping artifact with no economic content and can reasonably be excluded. Depreciation is an *understatement* of real cost and cannot. EBITDA that eliminates both without distinction conflates two opposite cases. ([[berkshire-2018-letter]])
+
 ## How it's discussed in sources
 
 - [[berkshire-2016-letter]] — Buffett catalogs the two favorite techniques managements use to inflate "adjusted earnings": restructuring cost exclusions and stock-based compensation exclusions. On restructuring: Berkshire has been restructuring since 1965, yet every year managements tell owners to ignore these costs. On SBC: excluding stock compensation from earnings is equivalent to saying compensation paid in equity is not a cost — a claim no CEO can honestly defend. The letter illustrates the absurdity via a hypothetical Berkshire "accounting laboratory" that reclassifies cash pay as "cash paid in lieu of SBC" to produce identically inflated adjusted figures. Buffett and Munger treat "always makes the numbers" as a red flag, not a compliment: businesses are too unpredictable for numbers to always be met, and a CEO focused on Wall Street will be tempted to manufacture them when surprises occur. Bad behavior is described as contagious — CEOs who overtly seek to report high numbers tend to cultivate a culture in which subordinates try to be "helpful."
 - [[berkshire-2017-letter]] — a new FASB rule mandates unrealized investment gains/losses in net income; with $170B in equities, quarterly swings will produce "truly wild and capricious swings" in GAAP net income, rendering the bottom-line "useless for analytical purposes"; contrasted with the existing realized-gains exclusion already in place; the two-category framework (management-originated vs. rule-originated distortion)
+- [[berkshire-2018-letter]] — Lincoln's dog-tail riddle applied to Adjusted EBITDA as the sharpest rhetorical frame for the naming-game problem; SBC distilled to one parenthetical question; restructuring exclusions addressed directly with Berkshire's own history as evidence; the amortization/depreciation split: acquisition amortization ($1.4B) is a legitimate add-back, depreciation ($8.4B) is not merely irrelevant but actually understates true economic maintenance cost in capital-intensive businesses
 
 ## Related
 

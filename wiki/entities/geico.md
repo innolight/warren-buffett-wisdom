@@ -3,7 +3,7 @@ type: entity
 status: draft
 created: 2026-05-24
 updated: 2026-06-15
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter, berkshire-2016-letter]
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter, berkshire-2016-letter, berkshire-2018-letter]
 tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities, wholly-owned]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]], [[jack-byrne]], [[lou-simpson]], [[lorimer-davidson]], [[franchise-vs-business]], [[tony-nicely]]
 ---
@@ -162,6 +162,20 @@ By yearend 2016, GEICO's market share reached **~12%** — up from 2.5% when Ber
 
 **Tony Nicely at 55 years.** Nicely joined GEICO at age 18 and completed 55 years of service in 2016 — 23 of them as CEO. Buffett: "There is no better manager than Tony, who brings his combination of brilliance, dedication and soundness to the job." The soundness point echoes a Munger observation Buffett included: it's great to have a manager with a 160 IQ — unless he thinks it's 180. See [[tony-nicely]]. ([[berkshire-2016-letter]])
 
+## 2018: Tony Nicely retires; cumulative scorecard
+
+On June 30, 2018, [[tony-nicely]] retired as CEO after more than 25 years in the role, handing the position to **Bill Roberts**, his long-time partner. Nicely remains Chairman. Buffett: "I've known and watched Bill operate for several decades, and once again Tony made the right move. Tony remains Chairman and will be helpful to GEICO for the rest of his life. He's incapable of doing less."
+
+**Buffett's tribute to Nicely:** "By my estimate, Tony's management of GEICO has increased Berkshire's intrinsic value by more than $50 billion. On top of that, he is a model for everything a manager should be, helping his 40,000 associates to identify and polish abilities they didn't realize they possessed. All Berkshire shareholders owe Tony their thanks. I head the list."
+
+**Cumulative scorecard since the 1995 acquisition:**
+- Pre-tax underwriting profits: $15.5B
+- Float: $2.5B → $22.1B
+- Sales growth: 1,200%
+- Market position: America's #2 auto insurer
+
+([[berkshire-2018-letter]])
+
 ## Sources discussing this entity
 
 - [[berkshire-1977-letter]] — convertible preferred + common position established during crisis; largest equity holding by combined market value
@@ -192,6 +206,7 @@ By yearend 2016, GEICO's market share reached **~12%** — up from 2.5% when Ber
 - [[berkshire-2014-letter]] — market share 10.8% (from 2.5% at 1995 acquisition; from 2.0% at start of Nicely's tenure); underwriting profit $1,159M; float $13,569M; Tony Nicely 53 years; cost-moat language restated; at least 40% of letter readers could save money by switching to GEICO (Buffett's remark directed at his shareholder audience)
 - [[berkshire-2015-letter]] — market share 11.4%; Tony Nicely 54 years; float $15,148M; underwriting profit $460M (sharp drop from 2014, reflecting growth costs); underwriting expense ratio 14.7%; 34,000 employees / 14 million policyholders; clearest articulation of the three-stage insurance disruption (Mecherle/State Farm → USAA → GEICO Goodwins); $22.6B premium volume vs. $238,000 in 1937; annual repricing as hedge against any cost trend
 - [[berkshire-2016-letter]] — market share ~12% (from 2.5% in 1995); employment 8,575→36,085; $8M/3 hours vs. $8M/year in 1951 (65-year compounding made concrete); counter-cycle growth acceleration in H2 as competitors retreated; Tony Nicely 55 years / CEO since 1993; Munger's "soundness" observation on 160 vs. 180 IQ
+- [[berkshire-2018-letter]] — Tony Nicely retirement; Bill Roberts succession; cumulative 1995–2018 stats
 
 ## 2012: 9.7% market share and the Hurricane Sandy test
 
