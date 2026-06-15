@@ -1,409 +1,67 @@
 # CLAUDE.md — Investment Research Wiki Playbook
 
-This file is the schema and playbook for an LLM-maintained wiki of investment research. It is auto-loaded by Claude Code on every session in this repository.
+An LLM-maintained wiki that distills **timeless investment wisdom and lessons** from raw sources (initially Berkshire Hathaway letters, 1977–2024; the schema absorbs any source — other letters, 10-Ks, memos, articles, podcasts, books, talks). **Your role:** read raw sources, write and refactor `wiki/` pages, keep cross-references consistent. The user curates sources, asks questions, reviews. You do the bookkeeping.
 
-**Your role:** maintain a disciplined, current wiki. You read raw sources, write and update wiki pages, and keep cross-references consistent. The user curates sources, asks questions, and reviews. You do the bookkeeping.
+**Load on demand — don't inline these:**
+- **Page templates** → `.claude/rules/templates/` — one per page type: `concept.md`, `entity.md`, `person.md`, `source.md`, `synthesis.md`. Read the matching template before creating or updating a page; every page needs `type`, `status`, `created`, `updated` frontmatter.
+- **Workflow procedures** → the `/ingest`, `/query`, `/lint`, `/review-ingest` skills. The summaries below are enough to act even when a skill isn't invoked.
 
-The high-level concept this implements lives in [`LLM-wiki.md`](LLM-wiki.md) at the repo root — read it if you want context, but everything operational lives here.
+## Layout & ownership
 
----
+| Path | Owner | Rule |
+| --- | --- | --- |
+| `raw/` | User curates | **Immutable** — read only, never modify |
+| `wiki/` | You | Create, update, refactor |
+| `CLAUDE.md`, `.claude/` | Co-evolved | Update when conventions change |
 
-## 1. Project overview
+`wiki/` holds `index.md` (catalog), `log.md` (journal), and one folder per page type: `entities/`, `people/`, `concepts/`, `sources/`, `synthesis/`.
 
-| Layer | Path | Owner | Mutability |
-| --- | --- | --- | --- |
-| Raw sources | `raw/` | User curates | Immutable — read only, never modify |
-| Wiki | `wiki/` | LLM (you) | You create, update, refactor |
-| Playbook | `CLAUDE.md` | Co-evolved | Updated when conventions need to change |
-| Commands | `.claude/commands/` | LLM (you) | Updated when workflows change |
+## Editorial scope — what earns a page
 
-The wiki is **source-agnostic**. The initial content is Berkshire Hathaway shareholder letters (1977–2024), but the schema is designed to absorb any investment source: other shareholder letters, 10-Ks, memos (e.g. Howard Marks), articles, podcasts, books, talks. New source types extend section 10 below; they don't require schema changes elsewhere.
+The wiki is **opinionated, not comprehensive**: distill what will still matter in 20 years, don't mirror the sources. Content earns a page (or a material update to one) only by scoring high on at least one axis:
 
-### Scope and focus
+1. **Canonical entity** — a company, industry, or instrument that is a load-bearing case study (GEICO, See's Candies, Coca-Cola, Apple, BNSF, the textile business as cautionary tale). Skip passing mentions with no enduring lesson.
+2. **Shaping person** — someone who materially shaped the investor's thinking or is central to the story (Buffett, Munger, Graham, Fisher, key operators like Ajit Jain or Rose Blumkin). Skip transactional counterparties.
+3. **Timeless concept** — a durable principle or mental model (float, owner earnings, margin of safety, circle of competence, moats, look-through earnings, the institutional imperative). Skip ephemera: dead accounting rules, period tax quirks, year-bound market commentary unless it illustrates a timeless point.
 
-This wiki is **opinionated, not comprehensive**. The goal is to distill **timeless investment wisdom**, not to mirror the sources. When ingesting, filter aggressively for what will still matter in 20 years.
+**Prefer fewer pages, deeper** — a rich GEICO page beats five thin subsidiary stubs; a developed `moat` page beats a stub for every framework name-dropped once. **Year-specific detail belongs on the source page**, not in concept/entity pages — those read like distilled chapters in a timeless reference.
 
-Three priority axes — content earns a page (or material updates to one) by scoring high on at least one:
-
-1. **Canonical entities** — companies, industries, or instruments that are load-bearing case studies in the investor's thinking. For Berkshire: GEICO, See's Candies, Coca-Cola, American Express, Apple, BNSF, the insurance subs, the textile business as a cautionary tale. Skip entities mentioned in passing with no enduring lesson (a one-time bond purchase, a small subsidiary mentioned once).
-2. **Shaping people** — individuals who materially shaped the investor's thinking or are central to the story: Buffett, Munger, Ben Graham, Phil Fisher, key operators (Ajit Jain, Tony Nicely, Rose Blumkin), occasional foils. Skip people mentioned only as transactional counterparties or in passing.
-3. **Timeless concepts** — principles, mental models, and frameworks with durable applicability: float, owner earnings, margin of safety, circle of competence, moats, look-through earnings, the institutional imperative. Skip ephemera: accounting rule changes that no longer apply, period-specific tax quirks, market commentary tied to a particular year unless it illustrates a timeless point.
-
-**When in doubt, prefer fewer pages, deeper.** A rich GEICO page beats five thin pages on subsidiaries. A well-developed `moat` concept beats stubs for every framework Buffett name-drops once.
-
-**Year-specific detail belongs on the source page, not in concept/entity pages.** Concept and entity pages should read like distilled chapters in a timeless reference; source pages carry the raw chronology.
-
-## 2. Directory layout
-
-```
-investment-researches/
-  CLAUDE.md                # this file
-  LLM-wiki.md              # spec doc (reference only)
-  raw/                     # immutable sources
-    berkshire-letters/     # 1977.md … 2024.md
-  wiki/                    # LLM-owned
-    index.md               # catalog
-    log.md                 # journal
-    entities/              # companies, industries, asset classes
-    people/                # individuals
-    concepts/              # principles, frameworks, terms
-    sources/               # one page per ingested source
-    synthesis/             # theses, comparisons, filed query answers
-  .claude/commands/        # slash commands
-  scripts/                 # download/conversion tooling
-```
-
-## 3. Page types
+## Page types
 
 | Type | Folder | What goes here |
 | --- | --- | --- |
-| `entity` | `wiki/entities/` | Companies, industries, asset classes, financial instruments. **Things**, not people. |
-| `person` | `wiki/people/` | Individuals: investors, executives, analysts, authors. |
-| `concept` | `wiki/concepts/` | Timeless principles and lessons, frameworks, taxonomy, accounting terms, methodologies. The **ideas**. |
-| `source` | `wiki/sources/` | One page per ingested raw document. Bridges `raw/` and the rest. |
-| `synthesis` | `wiki/synthesis/` | Theses, comparisons, themes, filed query answers, multi-source analyses. Longer-form derived work. |
+| `entity` | `entities/` | Companies, industries, asset classes, instruments — **things**, not people |
+| `person` | `people/` | Investors, executives, analysts, authors — **individuals** |
+| `concept` | `concepts/` | Principles, frameworks, methods, accounting terms — the **ideas** |
+| `source` | `sources/` | One page per ingested raw document; home for year-specific chronology and figures |
+| `synthesis` | `synthesis/` | Theses, comparisons, filed query answers, multi-source analysis |
 
-**When in doubt:** a thing → `entity`; a person → `person`; an idea or method → `concept`. If an idea is strongly identified with an entity (e.g. "Berkshire's float strategy"), put the idea in `concepts/float.md` and cross-link from `entities/berkshire-hathaway.md`.
+When an idea is tied to an entity (e.g. Berkshire's float strategy), put the idea in `concepts/float.md` and cross-link from the entity page.
 
-## 4. Page templates
+## Conventions
 
-All pages start with YAML frontmatter. Use these as starting points; extend per-page as needed.
+**Slugs** — kebab-case ASCII, lowercase; the canonical short name (`geico` not `government-employees-insurance-company`; `float`; `margin-of-safety`). People as `firstname-lastname`. Sources as `<author>-<year>-<doctype>` (`berkshire-1977-letter`, `apple-2023-10k`, `howard-marks-2024-04-memo` — add month when multiple land in one year). Synthesis as a descriptive topic slug (`capital-allocation-thesis`). Disambiguate clashes with a qualifier (`apple-company` vs `apple-fruit`) and note it in the page's first paragraph.
 
-### Entity
+**Linking** — internal links are Obsidian wikilinks `[[slug]]` (filename without `.md`; resolves across folders). External links are normal markdown. Cite a source inline wherever a claim comes from it: "Buffett first discussed float in [[berkshire-1977-letter]]." Link the first mention per page, not every one. Every page links to ≥1 other (orphans are a lint signal). Don't hand-maintain backlinks — Obsidian shows them natively — but do curate the explicit "Sources discussing this …" lists.
 
-```markdown
----
-type: entity
-status: draft
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-sources: [<source-slug>, ...]
-tags: [<tag>, ...]
-related: [[other-page]], [[other-page]]
----
+**`index.md`** — the catalog. Sections in order: Sources, Entities, People, Concepts, Synthesis. Sort alphabetically by slug (sources chronologically by year then author). One line per page: `[[slug]] — the specific angle that makes the page relevant` (not a generic label). Update on every page create, rename, or merge.
 
-# <Display Name>
+**`log.md`** — append-only journal; never edit prior entries (except to fix your own typos). Header `## [YYYY-MM-DD] <op> | <subject>`, where `<op>` is `ingest | query | lint | refactor | note`, followed by a short bulleted list of what changed — including what was deliberately skipped, so editorial calls stay auditable.
 
-One-paragraph overview: what this entity is, why it matters in an investment context.
+**Status lifecycle** — `stub` (placeholder; use sparingly, only for clearly canonical items lacking material) → `draft` (real content, LLM-written; the default for new pages) → `reviewed` (user-approved; only the user sets this). When you substantively change a `reviewed` page, demote it to `draft` and note in the log that re-review is needed.
 
-## History
+**Supersession** — never silently overwrite an older claim; the wiki preserves the evolution of a view. Note both with sources ("In 1985 … ([[berkshire-1985-letter]]); by 2003 his view had shifted … ([[berkshire-2003-letter]])"), adding a `## Historical (superseded)` subsection for material shifts. For restated figures, update the number but flag it inline: "(restated in [[berkshire-1980-letter]] from $X)."
 
-Key dates, events, ownership changes. Cite sources inline: "Acquired in 1972 — see [[berkshire-1985-letter]]."
+## Workflows
 
-## Why it matters
+Full procedures live in the matching skills; these are the load-bearing rules that apply even without them.
 
-Investment relevance. Why a researcher would care.
+**Ingest** (`/ingest <path>`) — read the source in full; filter hard against the scope axes; **discuss takeaways with the user before writing**, naming explicitly what you'll skip and why; then create the source page (the home for chronology and figures) and create or update only in-scope pages — refining existing ones where the source adds **durable insight**, not year-by-year recaps. Update `index.md`, append a log entry. **Target 3–8 pages per source** — discipline over completeness.
 
-## Sources discussing this entity
+**Query** (`/query <question>`) — answer from wiki pages (drill into `raw/` only to verify a quote or figure), citing `[[slug]]`. File a `synthesis/` page only when the answer is genuinely novel (combines sources, traces an idea through time, draws a non-obvious connection) — and ask before filing.
 
-- [[<source-slug>]] — one-line note on what this source says about it
-```
-
-### Person
-
-```markdown
----
-type: person
-status: draft
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-sources: [<source-slug>, ...]
-tags: [<tag>, ...]
-related: [[other-page]]
----
-
-# <Display Name>
-
-Role, key dates, brief bio relevant to investing.
-
-## Views and contributions
-
-Key positions, philosophy, frameworks they're known for.
-
-## Notable quotes
-
-> Quote text. — [[source-page]]
-
-## Sources discussing this person
-
-- [[<source-slug>]] — context
-```
-
-### Concept
-
-```markdown
----
-type: concept
-status: draft
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-sources: [<source-slug>, ...]
-tags: [<tag>, ...]
-related: [[other-page]]
----
-
-# <Display Name>
-
-## Definition
-
-What this concept means in plain language.
-
-## Why it matters
-
-Why this concept is load-bearing for investing or analysis.
-
-## How it's discussed in sources
-
-- [[<source-slug>]] — the framing or angle in this source
-
-## Related
-
-- [[<other-concept>]] — how they connect
-```
-
-### Source
-
-```markdown
----
-type: source
-status: draft
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-source_type: <see section 10>
-author: <author-or-issuer-slug>
-year: YYYY
-raw_path: raw/<...>.md
-tags: [<tag>, ...]
-related: [[<author-page>]], [[<entity-page>]]
----
-
-# <Source Title>
-
-One-paragraph summary.
-
-## Key themes
-
-- Theme 1
-- Theme 2
-
-## Entities discussed
-
-- [[<entity-slug>]]
-
-## People mentioned
-
-- [[<person-slug>]]
-
-## Concepts introduced or discussed
-
-- [[<concept-slug>]]
-
-## Notable quotes
-
-> Direct quote, with enough context to be reusable.
-
-## Connections to other sources
-
-- References [[<source-slug>]] — e.g. continues a thread from the prior letter
-```
-
-### Synthesis
-
-```markdown
----
-type: synthesis
-status: draft
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-sources: [<source-slug>, ...]
-tags: [<tag>, ...]
-related: [[other-page]]
----
-
-# <Title or Question>
-
-## Question or thesis
-
-What this synthesis is exploring.
-
-## Evidence
-
-Claims with citations.
-
-## Analysis
-
-Synthesis across sources.
-
-## Open questions
-
-What's unresolved or worth investigating next.
-
-## Sources
-
-- [[<source-slug>]]
-```
-
-## 5. Naming conventions
-
-- **Slugs:** kebab-case ASCII, lowercase. No spaces, no underscores, no special characters.
-- **Entities:** the canonical short name. `geico` not `government-employees-insurance-company`. `sees-candies` not `see-s-candy-shops-inc`.
-- **People:** `firstname-lastname`. `warren-buffett`, `charlie-munger`.
-- **Concepts:** the short name. `float`, `owner-earnings`, `margin-of-safety`.
-- **Sources:** `<author>-<year>-<doctype>.md`. Examples:
-  - `berkshire-1977-letter.md`
-  - `berkshire-2023-letter.md`
-  - `apple-2023-10k.md`
-  - `howard-marks-2024-04-memo.md` (use month for multi-per-year sources)
-- **Synthesis:** descriptive slug for the topic. `capital-allocation-thesis.md`, `float-evolution-1977-2024.md`.
-- **Disambiguation:** when two things share a name, append a qualifier: `apple-company.md` vs `apple-fruit.md`. Note the disambiguation in each page's first paragraph.
-
-## 6. Linking rules
-
-- **Internal links:** Obsidian wikilinks `[[page-slug]]`. The slug is the filename without `.md`. Obsidian resolves across subdirectories, so `[[geico]]` works regardless of which folder it sits in.
-- **External links:** standard markdown `[text](https://...)`.
-- **Citations:** when a claim comes from a source, link the source page inline: "Buffett first discussed float in [[berkshire-1977-letter]]." The source page itself carries `raw_path` in frontmatter — that's the trail back to the raw document.
-- **Every page should link to ≥1 other page.** Orphan pages are a lint signal.
-- **Don't auto-link every mention.** Link the first occurrence per page; subsequent mentions can be plain text.
-- **Backlinks are emergent.** You don't maintain "what links here" sections by hand — Obsidian shows backlinks natively. But under headings like "Sources discussing this entity," you do list incoming source pages explicitly, since that's a curated catalog rather than raw backlink data.
-
-## 7. `index.md` format
-
-`wiki/index.md` is the LLM-and-human-readable catalog. Grouped by category. One line per page:
-
-```markdown
-## Entities
-
-- [[geico]] — auto insurer; canonical permanent-capital case study
-- [[sees-candies]] — confectioner; the great-business archetype
-```
-
-Rules:
-- Categories: Sources, Entities, People, Concepts, Synthesis (in that order).
-- Sort within category alphabetically by slug (with sources sorted chronologically by year-then-author).
-- One-line summary should be specific enough to be useful — not just "Insurance company." Aim for the angle that makes the page relevant.
-- Update on every page create, rename, or merge. Update summaries when a page's purpose shifts materially.
-
-## 8. `log.md` format
-
-Append-only journal of operations. Entry header format:
-
-```
-## [YYYY-MM-DD] <op> | <subject>
-```
-
-`<op>` is one of: `ingest`, `query`, `lint`, `refactor`, `note`. The prefix makes entries grep-able:
-
-```bash
-grep "^## \[" wiki/log.md | tail -10   # last 10 entries
-grep "^## \[.*ingest" wiki/log.md       # all ingests
-```
-
-Under each header, a short bulleted list of what changed:
-
-```markdown
-## [2026-05-20] ingest | berkshire-1977-letter
-- Created sources/berkshire-1977-letter.md
-- Created entities: berkshire-hathaway, geico
-- Created people: warren-buffett
-- Created concepts: textile-business, float (stub)
-- Updated index
-```
-
-Always append; never edit prior entries (except to fix typos in your own logging).
-
-## 9. Workflows
-
-### Ingest
-
-When `/ingest <path>` is invoked, or the user otherwise asks you to process a raw source:
-
-1. **Read the source in full.** Don't skim. For long PDFs, read all pages.
-2. **Identify metadata:** author, year, document type, date if applicable.
-3. **Filter against the scope axes** (section 1.1 above). For each candidate entity/person/concept, ask: is this a canonical entity, a shaping person, or a timeless concept? If none of the three, do not create a page — at most mention it on the source page.
-4. **Discuss takeaways with the user before writing.** A 2–3 paragraph summary covering: the timeless wisdom on offer, which canonical entities/shaping people/durable concepts this source meaningfully advances, anything surprising or contradicting earlier sources. Explicitly call out what you're choosing **not** to create pages for, and why. Then wait for the user's direction.
-5. **Create the source page** at `wiki/sources/<slug>.md` using the source template. The source page is the right home for year-specific detail, figures, and chronology.
-6. **For each in-scope entity, person, concept:**
-   - If a page exists: update it — add this source to the `sources:` frontmatter list, append a line under "Sources discussing this …", and refine the body **only where the new source adds durable insight** (a sharper articulation of the moat, a clarifying anecdote, a revised principle). Resist padding pages with year-by-year recaps; that's what the source page is for.
-   - If no page exists and the item clears the scope filter: create a new page using the appropriate template, starting as `draft`. Aim for a page that would still be useful in 20 years, not a chronicle of one letter's mentions.
-   - Prefer `stub` status sparingly — only when you're confident the item is canonical/shaping/timeless but you don't have enough material yet. Don't stub items that merely *might* matter later.
-7. **Update `wiki/index.md`:** add entries for new pages, update summaries where the page's role has shifted.
-8. **Append a log entry** to `wiki/log.md` summarizing what was created/updated — and what was deliberately skipped, so the editorial decisions are auditable.
-9. **Report back to the user:** what was created, what was updated, what was deliberately skipped, what's open (e.g. "GEICO page is currently a stub — flesh out as we ingest later letters").
-
-A single source typically touches **3–8 wiki pages under this filter**, not 5–15. Discipline over completeness: the wiki's value is in what it leaves out.
-
-### Query
-
-When `/query <question>` is invoked, or the user otherwise asks a question against the wiki:
-
-1. **Read `wiki/index.md`** to scan available pages.
-2. **Read relevant wiki pages.** Drill into raw sources only when you need to verify a quote or pull a specific figure.
-3. **Compose the answer** with citations. Use `[[page-slug]]` for wiki references. Quote sparingly and accurately.
-4. **Judge whether the answer is novel synthesis worth filing.**
-   - **File it** if: it combines multiple sources in a new way, traces an idea through time, draws a non-obvious connection, or otherwise produces something the wiki doesn't already contain.
-   - **Don't file** if: trivial lookup, restating a single page, opinion the user didn't ask for.
-5. **If filing is warranted:** propose a path under `wiki/synthesis/<slug>.md` and ask the user "File this synthesis as `synthesis/<slug>.md`?" before writing.
-6. **If user confirms:** create the synthesis page using the synthesis template, update `wiki/index.md`, append a log entry (`query` op with the question as subject).
-
-### Lint
-
-When `/lint` is invoked, run a health check and produce a checklist. **Never fix without user confirmation.**
-
-Checks:
-1. **Orphan pages** — pages with no inbound wikilinks. `grep -rL "\[\[<slug>\]\]" wiki/` per page, or simpler: list pages whose slug doesn't appear as `[[slug]]` anywhere else in the wiki.
-2. **Stub pages** — `grep -l "status: stub" wiki/`. List them and suggest which to flesh out next based on how often they're mentioned in other pages.
-3. **Missing concept pages** — concepts referenced in body text (e.g. `[[some-concept]]`) but no file exists at that slug. List these as gaps.
-4. **Index consistency** — every wiki page (except `index.md`, `log.md`) should appear in `index.md`; every entry in `index.md` should point to an existing file.
-5. **Frontmatter validity** — every page has required fields (`type`, `status`, `created`, `updated`).
-6. **Stale claims** — flag pages where the body says "as of <year>" and a newer source has since been ingested.
-7. **Suggested questions** — based on patterns in the wiki, suggest 2–5 questions or sources worth investigating.
-
-Output as a markdown checklist. End with: "Apply fixes? Reply with the items to address."
-
-## 10. Source types
-
-`source_type` values (extend this list as new sources arrive):
-
-- `annual-letter` — yearly shareholder letter (Berkshire, Apple, etc.)
-- `10k` — annual report
-- `10q` — quarterly report
-- `memo` — investment memo (Howard Marks, etc.)
-- `article` — published article or essay
-- `podcast` — podcast episode
-- `book` — book or excerpt
-- `talk` — speech, lecture, fireside chat
-- `transcript` — earnings call or interview transcript
-- `presentation` — slide deck
-- `paper` — academic or working paper
-- `note` — short note or essay (no formal source type)
-
-If a new source doesn't fit, add a new value here and use it.
-
-## 11. Supersession and contradictions
-
-When a newer source contradicts or revises an older one (e.g. Buffett changes his view on derivatives, or restates a figure):
-
-- **Never silently overwrite the older claim.** The wiki preserves the historical view.
-- **Note both, with sources:** "In 1985, Buffett described X as Y ([[berkshire-1985-letter]]). By 2003, his view had shifted: Z ([[berkshire-2003-letter]])."
-- For material shifts, add a `## Historical (superseded)` subsection on the relevant page if needed.
-- **For corrected figures** (e.g. restatements): update the figure in the body, but add a footnote or inline note: "(restated in [[berkshire-1980-letter]] from prior $X)."
-- The goal is that a reader can always trace the evolution of a view, not just see its latest form.
-
-## 12. Status lifecycle
-
-- `stub` — placeholder. Just a name and maybe a one-line definition. Created when something is mentioned in a source but not central enough to flesh out yet.
-- `draft` — LLM-written, has real body content, not yet reviewed by the user. This is the default for new pages.
-- `reviewed` — the user has explicitly approved this page. You don't set this; only the user does (or asks you to set it).
-
-When updating a `reviewed` page substantively, demote to `draft` and note in the log that user re-review is needed.
+**Lint** (`/lint`) — health check only; **never fix without explicit user confirmation.**
 
 ---
 
-## Quick reference
-
-- Page templates: section 4
-- Slug rules: section 5
-- Workflow steps: section 9
-- Source types: section 10
-
-When in doubt about a convention, check this file first. When this file is silent on something, ask the user and update this file with the decided convention.
+When this file is silent on a convention, ask the user and record the decision here.

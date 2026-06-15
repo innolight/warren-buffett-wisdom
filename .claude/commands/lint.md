@@ -2,7 +2,7 @@
 description: Run a wiki health check
 ---
 
-Run the **Lint workflow** defined in `CLAUDE.md` (section 9) on the wiki. Report findings as a checklist. **Do not fix anything without explicit user confirmation.**
+Run the **Lint workflow** defined in `CLAUDE.md` (Workflows → Lint) on the wiki. Report findings as a checklist. **Do not fix anything without explicit user confirmation.**
 
 Checks to perform:
 

@@ -44,7 +44,7 @@ For each bullet in `## Connections to other sources`: read the referenced source
 For each `[[slug]]` in the `## Related` sections of newly created pages: read the opening paragraph of that page and check whether the description given in the new page accurately reflects what the linked page is actually about. Flag mismatches.
 
 ### 6. Deliberate skips review
-Read the `Deliberately skipped` section of the log entry. For each skipped item, apply the three scope axes from CLAUDE.md section 1 (canonical entity, shaping person, timeless concept). Flag any skip that plausibly clears an axis and whose absence leaves a gap that no other page fills.
+Read the `Deliberately skipped` section of the log entry. For each skipped item, apply the three scope axes from CLAUDE.md (Editorial scope: canonical entity, shaping person, timeless concept). Flag any skip that plausibly clears an axis and whose absence leaves a gap that no other page fills.
 
 ### 7. Structural completeness
 - Every new page appears in `wiki/index.md` with an accurate one-line summary
