@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-24
 updated: 2026-06-15
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter, berkshire-2016-letter]
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter, berkshire-2016-letter, berkshire-2017-letter]
 tags: [insurance, capital-allocation, berkshire]
 related: [[national-indemnity]], [[berkshire-hathaway]], [[geico]], [[super-cat-insurance]], [[ajit-jain]], [[underwriting-discipline]], [[general-re]]
 ---
@@ -156,6 +156,7 @@ Three consecutive years of positive cost of float broke the long negative-cost r
 | 2014 | $83,921M | <0% | $2,668M underwriting profit (BH Reinsurance $606M, General Re $277M, GEICO $1,159M, Other Primary $626M); twelfth consecutive year; cumulative underwriting profit 2003–2014 now exceeds $24B |
 | 2015 | $87,722M | <0% | $1,837M underwriting profit (BH Reinsurance $421M, General Re $132M, GEICO $460M, Other Primary $824M); thirteenth consecutive year; cumulative underwriting profit over 13 years: $26.2B |
 | 2016 | ~$91,600M | <0% | fourteenth consecutive year; cumulative pre-tax underwriting profit 2003–2016: $28B; float briefly crossed $100B during the year aided by a single large policy |
+| 2017 | $114,500M | >0% | AIG retroactive deal ($10.2B premium for up to $20B long-tail coverage — world-record premium) inflates float; three hurricanes (Harvey, Irma, Maria) produce $3.2B pre-tax underwriting loss; 14-year consecutive underwriting-profit streak ends |
 
 The 1999 positive-cost note: $400M of the underwriting loss was "welcomed"—it came from policies that would deliver long-duration float with capped losses (retroactive reinsurance). The remaining losses were "decidedly unwelcome" and reflected General Re's failure to price adequately. Ajit Jain's "other reinsurance" segment had by 1999 accumulated $6.3B of float "from scratch since 1986 with cumulative underwriting profit"—the contrast to General Re was direct. ([[berkshire-1999-letter]])
 
@@ -219,6 +220,14 @@ On why GAAP mischaracterizes float as a liability:
 The letter also quantifies the goodwill gap with precision. GAAP places $15.5B of insurance goodwill on the asset side as a partial offset to the float liability. But this figure reflects acquisition cost, not economic value, and has barely moved since 2000 — while float grew by $64B over the same period. The unrecorded increment in float-generating capability accumulates off-balance-sheet and is a structural, compounding reason why intrinsic value far exceeds book value. "If our revolving float is both costless and long-enduring… the true value of this liability is dramatically less than the accounting liability." See [[intrinsic-value-vs-book-value]].
 
 Underwriting discipline, the engine that keeps the float costless, earns its strongest characterization: "At Berkshire it is a religion, Old Testament style." ([[berkshire-2016-letter]])
+
+## Float at $114.5B: AIG deal and hurricane losses (2017)
+
+Two exceptional events defined 2017 float and underwriting. First, Berkshire agreed to reinsure up to $20B of long-tail losses already incurred by AIG, for a premium of $10.2B — a world record for a single insurance transaction, and one Buffett acknowledged "we won't come close to repeating." The AIG deal inflated 2017 premium volume substantially; normalized 2018 volume will fall accordingly.
+
+Second, three major hurricanes — Harvey (Texas), Irma (Florida), Maria (Puerto Rico) — generated estimated insured industry losses of roughly $100B. Berkshire's share: $3.2B pre-tax ($2B after tax), approximately 3% of the industry total. That 3% share — consistent with Berkshire's expected proportion of future American mega-catastrophes — ended 14 consecutive years of underwriting profit.
+
+Buffett had long warned that catastrophe years would arrive: "My warning became fact in 2017, as we lost $3.2 billion pre-tax from underwriting." The structural case for Berkshire's catastrophe resilience sharpened materially. For a $400B U.S. mega-catastrophe (estimated annual probability ~2%), Berkshire's share would be roughly $12B — "far below the annual earnings we expect from our non-insurance activities" — while much of the P&C world would be insolvent. This asymmetry is precisely why other P&C insurers come to Berkshire when they need large reinsurance coverages: it is the only company that can credibly commit to paying. Float expected to increase slowly for a few more years; any future decline will be modest ("at most 3% or so in any single year"). Unlike bank deposits or life insurance with surrender options, P&C float cannot be withdrawn — no runs during financial stress. See [[berkshire-2017-letter]].
 
 ## Related
 

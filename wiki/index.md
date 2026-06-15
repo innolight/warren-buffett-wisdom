@@ -48,6 +48,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2014-letter]] — 50th anniversary letter; Berkshire origin story and cigar-butt evolution; conglomerate defense; Munger's Berkshire System (15 principles); succession framework; float $83.9B, twelfth consecutive underwriting profit
 - [[berkshire-2015-letter]] — direct-distribution moat (clearest articulation); float's double GAAP distortion deepened; BNSF social compact vindicated after 2014 service failures; capital flexibility as structural advantage; Precision Castparts acquisition
 - [[berkshire-2016-letter]] — share-repurchases doctrine (three-partner analogy, 120%-of-book threshold); revolving-fund float framing ($100B milestone, 14 consecutive underwriting-profit years); The Bet nine-year proof (S&P +85.4% vs. ~2.2%); adjusted earnings critique; BNSF GAAP depreciation gap
+- [[berkshire-2017-letter]] — The Bet final 10-year tally (S&P +125.8% vs. funds-of-funds +2.8%–42.3%); GAAP unrealized-gains distortion warning; float at $114.5B (AIG deal + hurricane losses end 14-year streak); Jain and Abel named Vice Chairmen
 
 ## Entities
 
@@ -92,6 +93,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[colman-mockler]] — Gillette CEO 1975-91; quality-first product culture; the 1990 obituary tribute
 - [[dave-sokol]] — MidAmerican Energy CEO; the get-it-done utility operator; key to the 2000 MidAmerican acquisition
 - [[david-dodd]] — Buffett's second teacher; co-author of *Security Analysis*; the 1988 obituary tribute
+- [[greg-abel]] — Berkshire Vice Chairman (non-insurance), named 2018; BHE builder; succession architecture made concrete alongside Ajit Jain
 - [[jack-byrne]] — the GEICO turnaround surgeon (1976–85); afterwards CEO of Fireman's Fund; the franchise-rescue-as-recognition exemplar
 - [[joe-brandon]] — General Re CEO post-acquisition; led the underwriting culture cleanup and derivatives book runoff
 - [[john-gutfreund]] — Salomon CEO 1981-91; the personal bet in the 1987 preferred investment; resigned in the 1991 crisis

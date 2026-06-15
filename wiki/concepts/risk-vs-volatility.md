@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-14
-sources: [berkshire-1993-letter, berkshire-2011-letter, berkshire-2014-letter]
+updated: 2026-06-15
+sources: [berkshire-1993-letter, berkshire-2011-letter, berkshire-2014-letter, berkshire-2017-letter]
 tags: [risk, beta, valuation, academic-finance, graham]
 related: [[mr-market]], [[volatility-as-opportunity]], [[concentration-vs-diversification]], [[margin-of-safety]], [[investment-categories]]
 ---
@@ -74,6 +74,26 @@ The 2011 letter offers the most direct single-sentence statement of Buffett's ri
 
 The last sentence is the key: currency-based instruments (bonds, cash) can have near-zero price volatility and yet carry enormous risk in the purchasing-power sense — especially at low interest rates when inflation runs ahead of nominal yields. This directly connects to [[investment-categories]]: "safe" Category 1 instruments are the most systematically risky in the purchasing-power sense, even though their beta is near zero. ([[berkshire-2011-letter]])
 
+## Horizon-dependence and the purchasing-power standard (2017)
+
+The 2017 letter, in the epilogue to the completed Bet, offers the cleanest single statement of the purchasing-power risk definition in the series:
+
+> Investing is an activity in which consumption today is foregone in an attempt to allow greater consumption at a later date. "Risk" is the possibility that this objective won't be attained.
+
+Applied directly to the 2012 Bet episode: "By that standard, purportedly 'risk-free' long-term bonds in 2012 were a far riskier investment than a long-term investment in common stocks." A bond yielding 0.88% virtually guaranteed purchasing-power loss against any realistic inflation assumption; equities offered the prospect of purchasing-power growth.
+
+The 2017 letter then makes explicit what prior letters left implied — that risk is **horizon-dependent**:
+
+> I want to quickly acknowledge that in any upcoming day, week or even year, stocks will be riskier — far riskier — than short-term U.S. bonds. As an investor's investment horizon lengthens, however, a diversified portfolio of U.S. equities becomes progressively less risky than bonds, assuming that the stocks are purchased at a sensible multiple of earnings relative to then-prevailing interest rates.
+
+This is the most direct statement in the letter series that the same asset has different risk profiles at different time horizons — and that for long-horizon investors, the conventional bonds-as-safe / stocks-as-risky framing has the relationship backwards.
+
+The portfolio-construction implication follows:
+
+> It is a terrible mistake for investors with long-term horizons — among them, pension funds, college endowments and savings-minded individuals — to measure their investment "risk" by their portfolio's ratio of bonds to stocks. Often, high-grade bonds in an investment portfolio increase its risk.
+
+For a 20- or 30-year investor, maintaining a heavy bond allocation is not risk management — it is the principal source of purchasing-power risk. The conventional risk gauge (bonds-to-stocks ratio) is precisely wrong for anyone whose actual objective is purchasing-power preservation over time. See [[berkshire-2017-letter]].
+
 ## How it's discussed in sources
 
 - [[berkshire-1988-letter]] — the Efficient Market Theory critique; 63-year arbitrage track record at Graham-Newman, Buffett Partnership, and Berkshire (~20% annual vs. ~10% market) as empirical refutation
@@ -81,6 +101,7 @@ The last sentence is the key: currency-based instruments (bonds, cash) can have 
 - [[berkshire-1994-letter]] — "Investors should remember that their scorecard is not computed using Olympic-diving methods: degree-of-difficulty doesn't count" — companion principle
 - [[berkshire-2011-letter]] — sharpest single-sentence formulation: risk = probability of loss of purchasing power over the holding period; explicitly links to why low-volatility bonds are the most dangerous long-term asset class
 - [[berkshire-2014-letter]] — the most extensive empirical statement in the series: "the unconventional, but inescapable, conclusion to be drawn from the past fifty years is that it has been far safer to invest in a diversified collection of American businesses than to invest in securities — Treasuries, for example — whose values have been tied to American currency"; extends the purchasing-power-loss framework with 50 years of retrospective evidence and projects the same conclusion forward for the next century; included in the "Next 50 Years" essay as both a historical observation and a forward-looking prescription
+- [[berkshire-2017-letter]] — cleanest single-sentence risk definition ("risk is the possibility that [the objective of greater future consumption] won't be attained"); horizon-dependence made explicit (stocks riskier short-term, bonds riskier long-term); bonds-to-stocks ratio named as the wrong risk gauge for long-horizon investors; applied to the 2012 Bet bond-to-Berkshire swap as a concrete episode
 
 ## Related
 

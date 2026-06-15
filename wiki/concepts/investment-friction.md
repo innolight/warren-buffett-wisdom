@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-13
 updated: 2026-06-15
-sources: [berkshire-2005-letter, berkshire-2006-letter, berkshire-2007-letter, berkshire-2016-letter]
+sources: [berkshire-2005-letter, berkshire-2006-letter, berkshire-2007-letter, berkshire-2016-letter, berkshire-2017-letter]
 tags: [investing, fees, passive-investing, active-management, aggregate-returns]
 related: [[passive-ownership-advantage]], [[concentration-vs-diversification]], [[capital-allocation]], [[mr-market]], [[walter-schloss]]
 ---
@@ -115,12 +115,23 @@ Buffett estimated that in the decade prior to the 2016 letter, this search for s
 
 The wealthy-investor paradox closes the loop on the Gotrocks narrative: the helpers could not have grown so large without demand from people who should know better. Status and wealth create demand for premium investment services precisely where premium investment services are least likely to outperform their fees. See [[berkshire-2016-letter]].
 
+## The Bet — final verdict (2017)
+
+The 2017 letter delivers the complete ten-year tally. The S&P 500 index fund: +125.8% cumulative, 8.5% annualized. The five funds-of-funds: cumulative gains of 21.7%, 42.3%, 87.7%, 2.8%, and 27.0% — or 2.0%, 3.6%, 7.1%, 0.3%, and 2.4% annualized. The best single fund-of-funds (C, at 7.1% annualized) still trailed the index by more than a third in total-return terms.
+
+Buffett's verdict: *"Performance comes, performance goes. Fees never falter."*
+
+**The one-decision sub-lesson.** During the ten years, the 200-plus hedge fund managers almost certainly made tens of thousands of buy and sell decisions. Buffett and Protégé made exactly one: in November 2012, when their zero-coupon Treasuries were trading at 95.7 cents on the dollar and yielding 0.88% to maturity, they recognized that bonds priced at roughly 100× earnings were absurdly expensive relative to American equities likely to compound at 8%+ in earnings. They sold the bonds and bought 11,200 Berkshire B shares. Girls Inc. of Omaha received $2,222,279 rather than the $1M originally expected.
+
+The one-decision contrast is the one-activity contrast: the managers made decisions because decision-making was what they were paid for. Buffett and Protégé acted only when the facts were overwhelmingly in favor of one choice and sat still otherwise. "A final lesson from our bet: Stick with big, 'easy' decisions and eschew activity." The structural logic mirrors the Gotrocks allegory — more motion means more fees, not more returns. See [[berkshire-2017-letter]].
+
 ## How it's discussed in sources
 
 - [[berkshire-2005-letter]] — the Gotrocks allegory in full; the four-layer Helper taxonomy; the 20% friction estimate; Newton's Fourth Law; the Dow century arithmetic
 - [[berkshire-2006-letter]] — 2-and-20 arithmetic (10% gross → 6.4% net → $108M manager fee on a $3B fund); Walter Schloss as the counter-example (47 years, fee only on profit, S&P-beating record)
 - [[berkshire-2007-letter]] — sharpest Dow century arithmetic: Dow at 2,000,000 needed by 2099 to repeat 5.3% rate; only ~2,000 of 1,988,000 points gained in first 8 years; 10% forecasts imply Dow at 24,000,000; pension 8% assumption arithmetic dissected; "Beware the glib helper who fills your head with fantasies while he fills his pockets with fees"
 - [[berkshire-2016-letter]] — nine-year Bet results (S&P +85.4% vs. funds-of-funds +~22%); Group A/B mathematical identity; ~60% of active gains captured by two manager layers; $100B+ cost to the elite over the prior decade; Jack Bogle tribute; wealthy-investor paradox
+- [[berkshire-2017-letter]] — final ten-year Bet tally (S&P +125.8% at 8.5% annualized; best fund-of-funds +42.3% at 3.6%); "Performance comes, performance goes. Fees never falter."; the one-decision vs. tens-of-thousands-of-decisions contrast; the 2012 bond-to-Berkshire B swap as the single bet-period decision
 
 ## Related
 

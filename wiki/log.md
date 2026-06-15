@@ -10,6 +10,17 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-06-15] ingest | berkshire-2017-letter
+
+- Created `sources/berkshire-2017-letter.md` — key themes: GAAP unrealized-gains distortion (new FASB rule); Bet final 10-year tally (S&P +125.8% vs. funds-of-funds +2.8%–42.3%); float at $114.5B (AIG deal + hurricane losses ending 14-year streak); succession formalized (Jain + Abel as Vice Chairmen)
+- Created `people/greg-abel.md` — new; Vice Chairman (non-insurance) appointed early 2018; BHE background; succession architecture made concrete
+- Updated `concepts/investment-friction.md` — added "The Bet — final verdict (2017)": complete 10-year scorecard; "performance comes, performance goes, fees never falter"; the one-decision vs. tens-of-thousands contrast; the 2012 bond-to-Berkshire B swap
+- Updated `concepts/float.md` — added 2017 row to table (AIG deal, hurricane losses, 14-year streak broken); added "Float at $114.5B: AIG deal and hurricane losses (2017)" section; catastrophe resilience framing ($400B mega-cat → ~$12B Berkshire share, far below annual non-insurance earnings)
+- Updated `concepts/earnings-quality.md` — added "When GAAP itself misleads" section: new FASB rule mandates unrealized-gains inclusion in net income; GAAP bottom-line "useless for analytical purposes"; contrasted with the 2016 letter's management-manipulation category
+- Updated `concepts/risk-vs-volatility.md` — added "Horizon-dependence and the purchasing-power standard (2017)": cleanest single-sentence risk definition; stocks riskier short-term, bonds riskier long-term; bonds-to-stocks ratio as the wrong risk gauge for long-horizon investors
+- Updated `wiki/index.md` — added berkshire-2017-letter (Sources); added greg-abel (People)
+- Deliberately skipped: Tax reform / $29B windfall (period-specific); PFJ acquisition (too early to assess as load-bearing case study); Clayton/Shaw/HomeServices bolt-on details (incremental); CEO acquisition psychology (fully covered in acquisition-criteria/institutional-imperative); Berkshire price-decline table (4 crashes of 59%/37%/49%/51%) — vivid but no new conceptual content beyond leverage-discipline; annual meeting logistics
+
 ## [2026-06-15] ingest | berkshire-2016-letter
 
 - Created `sources/berkshire-2016-letter.md` — key themes: share-repurchases doctrine (three-partner analogy, two exceptions, 120%-of-book threshold); revolving-fund float framing and GAAP distortion; The Bet nine-year empirical proof; adjusted earnings critique; BNSF depreciation gap
