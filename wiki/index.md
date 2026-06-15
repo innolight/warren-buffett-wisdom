@@ -8,48 +8,48 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 
 ## Sources
 
-- [[berkshire-1977-letter]] — Buffett's 1977 annual letter; establishes ROE-as-yardstick, the four-point acquisition test, and the tailwinds-vs-headwinds framing
-- [[berkshire-1978-letter]] — 1978 annual letter; SAFECO as the paradigm passive-ownership case; look-through earnings elevated to core framework; concentration policy stated explicitly
-- [[berkshire-1979-letter]] — 1979 annual letter; investor's misery index; bonds as obsolete in inflation; "turnarounds seldom turn" via Waumbec; long-run 20.5% compound since 1964
-- [[berkshire-1980-letter]] — 1980 annual letter; canonical look-through-earnings articulation ("tree in the forest"); GEICO as franchise-not-turnaround; share repurchases as canonical capital allocation
-- [[berkshire-1981-letter]] — 1981 annual letter; kissing-toads acquisition critique; passive-return crossbar and inflation-as-tapeworm; Munger first explicit credit
-- [[berkshire-1982-letter]] — 1982 annual letter; beginning-ROE yardstick discarded; commodity-business framework; stock-as-acquisition-currency essay; six-point acquisition ad first published
-- [[berkshire-1983-letter]] — 1983 annual letter; owner's manual (13 principles); intrinsic vs. book value; economic-Goodwill appendix; Nebraska Furniture Mart acquired; shareholder-eugenics on stock splits
-- [[berkshire-1984-letter]] — 1984 annual letter; share-repurchases canonical doctrine; dividend-policy framework; bonds-as-a-business via WPPSS; loss-reserving uncertainty; Cap Cities/ABC announced
-- [[berkshire-1985-letter]] — 1985 annual letter; textile shutdown obituary and Burlington case; incentive-compensation essay; Cap Cities $172.50 closes; Scott & Fetzer acquired; Fireman's Fund quota-share; WPC triple-dip
-- [[berkshire-1986-letter]] — 1986 annual letter; canonical owner-earnings Appendix and cash-flow fallacy critique; Fechheimer; Scott Fetzer first full year; Tax Reform Act of 1986
-- [[berkshire-1987-letter]] — 1987 annual letter; Mr. Market allegory canonized; Sainted Seven coined; $700M Salomon convertible preferred; capital-allocation-as-CEO-skill essay; "carry a loaded gun"
-- [[berkshire-1988-letter]] — 1988 annual letter; Coca-Cola first major purchase; Borsheim's announced; arbitrage essay (Rockwood/Arcata/RJR); EMT critique; NYSE listing; David Dodd obituary
-- [[berkshire-1989-letter]] — 1989 annual letter; Mistakes of the First Twenty-five Years; Coca-Cola enlarged; three convertible preferreds; zero-coupon debentures + critique; super-cat reinsurance debut
-- [[berkshire-1990-letter]] — 1990 annual letter; cost-of-float framework canonized; Wells Fargo panic accumulation; food-prices analogy; super-cat formal framework; junk-bond critique
-- [[berkshire-1991-letter]] — 1991 annual letter; franchise-vs-business canonical essay; See's 20-year retrospective; Fannie Mae Mistake Du Jour ($1.4B); H.H. Brown; Salomon Interim Chairman
-- [[berkshire-1992-letter]] — 1992 annual letter; growth-and-value-joined-at-the-hip essay; Salomon post-crisis; stock-options-as-expense essay; Central States Indemnity; Mrs. B returns
-- [[berkshire-1993-letter]] — 1993 annual letter; risk-vs-beta canonical essay; concentration-vs-diversification essay; corporate-governance three modes; Dexter Shoe; Cap Cities partial sale
-- [[berkshire-1994-letter]] — 1994 annual letter; Scott Fetzer intrinsic-value-vs-book-value case study; compensation essay (Schey); capital-allocation essay (MBA/day-laborer); USAir post-mortem
-- [[berkshire-1995-letter]] — 1995 annual letter; GEICO 100% acquisition for $2.3B; Helzberg's + R.C. Willey + Disney/Cap Cities; float-as-equity; convertible-preferred retrospective; Class B share recap; the Davidson tribute
-- [[berkshire-1996-letter]] — 1996 annual letter; GEICO fully integrated and policies surging; FlightSafety acquired; Dexter Shoe stock-payment admission; float growth
-- [[berkshire-1997-letter]] — 1997 annual letter; General Re announced; Goizueta obituary; eight acquisitions; look-through earnings table
-- [[berkshire-1998-letter]] — 1998 annual letter; General Re closes; derivatives book concern first raised; stock-options FASB 7-0 vote; total float reaches $22.8B
-- [[berkshire-1999-letter]] — 1999 annual letter; 20th-century equity return framework; GEICO advertising stumble; circle of competence and tech abstention
-- [[berkshire-2000-letter]] — 2000 annual letter; Aesop bird-in-hand investment reformulation; eight new acquisitions; GEICO recovery; dot-com critique
-- [[berkshire-2001-letter]] — 2001 annual letter; 9/11 losses ($2.28B pretax); super-cat market hardens; Gen Re reserve shortfall ($800M); terrorism risk essay
-- [[berkshire-2002-letter]] — 2002 annual letter; "financial weapons of mass destruction" derivatives essay; corporate governance critique; "owner-capitalism" coined
-- [[berkshire-2003-letter]] — 2003 annual letter; McLane and Clayton acquisitions; foreign currency bonds; Noah Rule coined; Gen Re derivatives runoff nearing completion
-- [[berkshire-2004-letter]] — 2004 annual letter; definitive GEICO founding-to-2004 history; NICO cultural model and fear-factor countermeasure; Lou Simpson as the cleanest second-Buffett track record; Matthew 6:21 director independence test
-- [[berkshire-2005-letter]] — 2005 annual letter; Gotrocks investment-friction essay; Fred Futile CEO-compensation arithmetic; GEICO 32% productivity gain; Gillette→P&G closes; Gen Re derivatives to 741 contracts; PUHCA repeal and PacifiCorp
-- [[berkshire-2006-letter]] — 2006 annual letter; GEICO 47% productivity miracle; float $50.9B + Equitas deal; 2-and-20 arithmetic; Walter Schloss as EMT refutation; newspaper moat erosion essay; first international acquisition (ISCAR)
-- [[berkshire-2007-letter]] — 2007 annual letter; Great/Good/Gruesome business taxonomy; See's 35-year case study ($32M reinvested → $1.35B cumulative earnings); Dexter's $3.5B effective cost; passive-investing Dow-at-2,000,000 arithmetic
-- [[berkshire-2008-letter]] — 2008 annual letter; derivatives thesis validated by Bear Stearns; Black-Scholes critique for long-dated options; Clayton Homes lending principles under stress (FICO 644, 3.6% delinquency); MidAmerican wind leadership; float $58.5B, sixth consecutive underwriting profit
-- [[berkshire-2009-letter]] — 2009 annual letter; BNSF acquisition (Berkshire's largest); "What We Don't Do" inversion framework; liquidity fortress vindicated ($15.5B deployed in 2008 crisis); NetJets crisis and Sokol turnaround; float $62B, seventh consecutive underwriting profit
-- [[berkshire-2010-letter]] — 2010 annual letter; BNSF first full year (40% earning-power increase, 500 miles/ton-gallon); GEICO goodwill case study ($1.4B book vs. ~$14B economic); "Life and Debt" leverage philosophy; Black-Scholes "approximately right vs. precisely wrong"; float $65.8B, eighth consecutive underwriting profit
-- [[berkshire-2011-letter]] — 2011 annual letter; three-investment-categories essay (currency/sterile/productive) with the gold vs. "pile B" illustration; IBM buyback math as the counter-intuitive case for wanting lower prices; four disciplines of sound underwriting; float $70.6B, ninth consecutive underwriting profit
-- [[berkshire-2012-letter]] — 2012 annual letter; most detailed dividend vs. sell-off mathematical comparison in the series; repurchase limit raised 110%→120% of book; float $73.1B, tenth consecutive underwriting profit; GEICO 9.7% market share
-- [[berkshire-2013-letter]] — 2013 annual letter; GEICO passes Allstate to #2; BNSF record $4B capex; MidAmerican acquires NV Energy; float $77.2B, eleventh consecutive underwriting profit; farm/real estate analogies as the clearest productive-asset investment essay; 90/10 will directive for non-professionals
-- [[berkshire-2014-letter]] — 50th anniversary letter; Berkshire origin story and cigar-butt evolution; conglomerate defense; Munger's Berkshire System (15 principles); succession framework; float $83.9B, twelfth consecutive underwriting profit
-- [[berkshire-2015-letter]] — direct-distribution moat (clearest articulation); float's double GAAP distortion deepened; BNSF social compact vindicated after 2014 service failures; capital flexibility as structural advantage; Precision Castparts acquisition
-- [[berkshire-2016-letter]] — share-repurchases doctrine (three-partner analogy, 120%-of-book threshold); revolving-fund float framing ($100B milestone, 14 consecutive underwriting-profit years); The Bet nine-year proof (S&P +85.4% vs. ~2.2%); adjusted earnings critique; BNSF GAAP depreciation gap
-- [[berkshire-2017-letter]] — The Bet final 10-year tally (S&P +125.8% vs. funds-of-funds +2.8%–42.3%); GAAP unrealized-gains distortion warning; float at $114.5B (AIG deal + hurricane losses end 14-year streak); Jain and Abel named Vice Chairmen
-- [[berkshire-2018-letter]] — book value formally retired as headline scorecard (three-reasons framework); Five Groves valuation structure; American Tailwind essay; Tony Nicely retirement and GEICO 1995–2018 arc; Ajit Jain elevated to head all insurance; adjusted EBITDA Lincoln "dog's tail" critique; float $122.7B
+- [[berkshire-1977-letter]] — ROE-as-yardstick, the four-point acquisition test, and the tailwinds-vs-headwinds framing
+- [[berkshire-1978-letter]] — SAFECO as the paradigm passive-ownership case; look-through earnings elevated to core framework; explicit concentration policy
+- [[berkshire-1979-letter]] — investor's misery index; bonds as obsolete in inflation; "turnarounds seldom turn" via Waumbec
+- [[berkshire-1980-letter]] — canonical look-through-earnings articulation ("tree in the forest"); GEICO as franchise-not-turnaround; share repurchases as capital allocation
+- [[berkshire-1981-letter]] — kissing-toads acquisition critique; passive-return crossbar and inflation-as-tapeworm; Munger first explicitly credited
+- [[berkshire-1982-letter]] — beginning-ROE yardstick discarded; commodity-business framework; stock-as-acquisition-currency essay; six-point acquisition ad
+- [[berkshire-1983-letter]] — owner's manual (13 principles); intrinsic vs. book value; economic-Goodwill appendix; shareholder-eugenics on stock splits
+- [[berkshire-1984-letter]] — share-repurchases doctrine; dividend-policy framework; bonds-as-a-business via WPPSS; loss-reserving uncertainty
+- [[berkshire-1985-letter]] — textile shutdown obituary; incentive-compensation essay; the Washington Post triple-dip
+- [[berkshire-1986-letter]] — canonical owner-earnings appendix and cash-flow fallacy critique
+- [[berkshire-1987-letter]] — Mr. Market allegory canonized; Sainted Seven coined; capital-allocation-as-CEO-skill essay; "carry a loaded gun"
+- [[berkshire-1988-letter]] — Coca-Cola first major purchase; arbitrage essay (Rockwood/Arcata/RJR); efficient-market critique; David Dodd tribute
+- [[berkshire-1989-letter]] — Mistakes of the First Twenty-five Years; zero-coupon debenture critique; super-cat reinsurance debut
+- [[berkshire-1990-letter]] — cost-of-float framework canonized; Wells Fargo panic accumulation; food-prices analogy; junk-bond critique
+- [[berkshire-1991-letter]] — franchise-vs-business canonical essay; See's retrospective; the Fannie Mae Mistake Du Jour
+- [[berkshire-1992-letter]] — growth-and-value-joined-at-the-hip essay; stock-options-as-expense essay
+- [[berkshire-1993-letter]] — risk-vs-beta canonical essay; concentration-vs-diversification essay; corporate-governance three modes; Dexter Shoe mistake
+- [[berkshire-1994-letter]] — Scott Fetzer intrinsic-value-vs-book-value case study; capital-allocation essay (MBA/day-laborer); USAir post-mortem
+- [[berkshire-1995-letter]] — GEICO taken to full ownership; float-as-equity; the Davidson tribute
+- [[berkshire-1996-letter]] — GEICO fully integrated; Dexter Shoe stock-payment admission
+- [[berkshire-1997-letter]] — General Re announced; Goizueta tribute; look-through earnings table
+- [[berkshire-1998-letter]] — General Re closes; derivatives-book concern first raised; stock-options expensing fight
+- [[berkshire-1999-letter]] — 20th-century equity return framework; circle of competence and tech abstention
+- [[berkshire-2000-letter]] — Aesop bird-in-hand investment reformulation; dot-com critique
+- [[berkshire-2001-letter]] — super-cat market hardens; Gen Re reserve shortfall; terrorism risk essay
+- [[berkshire-2002-letter]] — "financial weapons of mass destruction" derivatives essay; corporate governance critique; "owner-capitalism" coined
+- [[berkshire-2003-letter]] — McLane and Clayton acquisitions; the Noah Rule coined; Gen Re derivatives runoff
+- [[berkshire-2004-letter]] — definitive GEICO founding history; NICO cultural model and fear-factor countermeasure; Lou Simpson as the cleanest second-Buffett record; Matthew 6:21 director independence test
+- [[berkshire-2005-letter]] — Gotrocks investment-friction essay; Fred Futile CEO-compensation arithmetic
+- [[berkshire-2006-letter]] — 2-and-20 arithmetic; Walter Schloss as efficient-market refutation; newspaper moat erosion essay; first international acquisition (ISCAR)
+- [[berkshire-2007-letter]] — Great/Good/Gruesome business taxonomy; See's as the capital-light compounder case; passive-investing arithmetic
+- [[berkshire-2008-letter]] — derivatives thesis validated by Bear Stearns; Black-Scholes critique for long-dated options; Clayton Homes lending principles under stress
+- [[berkshire-2009-letter]] — BNSF acquisition; "What We Don't Do" inversion framework; liquidity fortress vindicated
+- [[berkshire-2010-letter]] — GEICO goodwill case study (book vs. economic value); "Life and Debt" leverage philosophy; Black-Scholes "approximately right vs. precisely wrong"
+- [[berkshire-2011-letter]] — three-investment-categories essay (currency/sterile/productive) with the gold vs. "pile B" illustration; IBM buyback math as the case for wanting lower prices; four disciplines of sound underwriting
+- [[berkshire-2012-letter]] — the dividend vs. sell-off mathematical comparison; intrinsic-value test for raising the repurchase limit
+- [[berkshire-2013-letter]] — farm/real estate analogies as the clearest productive-asset essay; 90/10 will directive for non-professionals
+- [[berkshire-2014-letter]] — 50th anniversary letter; Berkshire origin story and cigar-butt evolution; conglomerate defense; Munger's Berkshire System (15 principles); succession framework
+- [[berkshire-2015-letter]] — direct-distribution moat (clearest articulation); float's double GAAP distortion; BNSF social compact vindicated; capital flexibility as structural advantage
+- [[berkshire-2016-letter]] — share-repurchases doctrine (three-partner analogy); revolving-fund float framing; The Bet as index-fund proof; adjusted-earnings critique
+- [[berkshire-2017-letter]] — The Bet's final tally as index-fund proof; GAAP unrealized-gains distortion warning; Jain and Abel named Vice Chairmen
+- [[berkshire-2018-letter]] — book value formally retired as headline scorecard; Five Groves valuation structure; American Tailwind essay; adjusted-EBITDA "dog's tail" critique
 
 ## Entities
 
@@ -135,6 +135,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[equity-return-expectations]] — GDP-tethered ceiling on long-run aggregate equity returns; Dow-at-2,000,000 arithmetic
 - [[float]] — premium-derived investable funds; the engine that converts an insurer into a compounder; cost-of-float framework from 1990; Gen Re adds ~$15B to float base
 - [[franchise-vs-business]] — the 1991 three-condition test; franchises tolerate mismanagement, businesses do not; the media reclassification
+- [[gaap-distortion]] — which specific GAAP rules create rule-mandated gaps between reported figures and economic reality; unrealized investment gains/losses as the primary example; Buffett's operating earnings and normalized per-share earning power as the remedy
 - [[great-good-gruesome]] — three-tier business-quality taxonomy (2007); great = capital-light compounder (See's); good = capital-intensive but good returns (FlightSafety); gruesome = capital-hungry with poor returns (airlines)
 - [[growth-and-value]] — growth is a DCF variable, not a contrasting investment style; the false dichotomy demolished
 - [[incentive-compensation]] — the option-critique and the savings-account analogy; Berkshire's unit-specific, uncapped, seniority-blind, symmetric alternative; stock-options expensing fight 1998–2003
@@ -155,6 +156,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[noah-rule]] — predicting rain vs. building arks; preparation over forecasting; Buffett's aphorism for acting on known risks without waiting for certainty
 - [[owner-earnings]] — Buffett's 1986 formula: reported earnings + non-cash charges − maintenance capex; the cash-flow fallacy critique
 - [[owner-orientation]] — the 13-principle owner's manual; partnership attitude over corporate-form mechanics; "owner-capitalism" coined 2003
+- [[passive-investing]] — low-cost index funds outperform active management over long horizons; the ten-year Bet final scorecard (S&P 125.8% vs. FoF 0.3%–6.5% annualized); the 2012 bond swap as the purchasing-power risk sub-lesson
 - [[passive-ownership-advantage]] — minority stakes in excellent businesses at public-market discounts can outperform control of mediocre businesses at negotiated premiums
 - [[passive-return-crossbar]] — after-tax passive returns set the bar equity capital must clear; inflation as corporate tapeworm
 - [[return-on-equity-yardstick]] — ROE on beginning equity, not EPS, as the right managerial scorecard; the "stopped clock" corollary

@@ -10,6 +10,15 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-06-15] note | concept pages: gaap-distortion, passive-investing
+
+- Created `concepts/gaap-distortion.md` — rule-mandated GAAP gaps between reported and economic figures; four specific rules (unrealized gains/losses, realized gains/losses, acquisition amortization, depreciation shortfall); Buffett's three-part remedy (operating earnings, normalized per-share earning power, Friday-evening releases); cross-links to `earnings-quality.md` for overlapping analytical content rather than duplicating it
+- Created `concepts/passive-investing.md` — strategy and empirical case for index investing; centerpiece is the ten-year Bet (setup 2007, nine-year update 2016, final tally 2017: S&P 125.8% vs. FoF 0.3%–6.5% annualized); the 2012 bond swap sub-lesson on purchasing-power risk; one-decision vs. tens-of-thousands contrast; estate prescription (90% S&P / 10% short-term bonds); cross-links to `investment-friction.md` for the theoretical mechanism
+- Updated `concepts/earnings-quality.md` — added `[[gaap-distortion]]` to Related section with management-originated vs. rule-mandated distinction
+- Updated `concepts/investment-friction.md` — added `[[passive-investing]]` to Related section as the empirical proof to investment-friction's theory
+- Updated `sources/berkshire-2017-letter.md` — added `[[gaap-distortion]]` and `[[passive-investing]]` to Concepts section; `[[investment-friction]]` demoted to supporting role
+- Updated `wiki/index.md` — added both new concepts alphabetically
+
 ## [2026-06-15] ingest | berkshire-2018-letter
 
 - Created `sources/berkshire-2018-letter.md` — key themes: GAAP vs. operating earnings (new mark-to-market rule); book value formally retired as headline metric; Five Groves valuation structure; adjusted EBITDA critique (Lincoln "dog's tail" analogy); American Tailwind essay; Tony Nicely retirement (June 2018); Ajit Jain elevated to head all insurance; float $122.7B, 15-of-16-year underwriting profit, $27B cumulative 16-year gain

@@ -61,3 +61,4 @@ The resulting framework: not all non-cash charges are alike. Acquisition amortiz
 - [[owner-earnings]] — the positive framing of economic earnings (GAAP earnings adjusted for non-cash charges and true maintenance capex). Earnings quality is the inverse problem: identifying when reported or adjusted figures overstate what the business actually earns.
 - [[incentive-compensation]] — SBC exclusions and earnings manipulation frequently originate from the same CEO orientation: optimizing personal compensation and public perception over honest accounting.
 - [[underwriting-discipline]] — the most dangerous downstream consequence of a number-manufacturing culture in insurance is the systematic underestimation of loss reserves, which has proven existential for many carriers.
+- [[gaap-distortion]] — the narrower reference focused on which specific GAAP rules create rule-mandated (not management-originated) distortions in reported figures

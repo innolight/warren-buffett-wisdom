@@ -135,6 +135,7 @@ The one-decision contrast is the one-activity contrast: the managers made decisi
 
 ## Related
 
+- [[passive-investing]] — the empirical case: the 10-year Bet final tally (S&P 125.8% vs. FoF average ~3%) as proof that fee drag determines long-run outcomes
 - [[passive-ownership-advantage]] — passive minority stakes in excellent businesses outperform active control of mediocre ones; low frictional cost is one structural reason why passivity wins at the aggregate level
 - [[mr-market]] — the behavioral complement: Mr. Market creates the price volatility that tempts investors into more motion, and therefore more friction
 - [[incentive-compensation]] — the Helper layer's incentive design is the same problem at the firm level: fees paid to managers without commensurate value creation

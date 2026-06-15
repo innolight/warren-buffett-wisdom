@@ -45,8 +45,10 @@ Published February 24, 2018. The letter closes three major threads: the 10-year 
 ## Concepts introduced or discussed
 
 - [[float]] — AIG deal; hurricane losses; $114.5B milestone; 14-year streak broken; catastrophe resilience quantified
-- [[investment-friction]] — ten-year Bet final tally; "performance comes, performance goes, fees never falter"; the 2012 bond-to-Berkshire B swap as the one decision made during the bet
-- [[earnings-quality]] — new GAAP unrealized-gains rule; GAAP net income vs. operating earnings distinction sharpened; realized gains already excluded for the same reason
+- [[gaap-distortion]] — new FASB rule requiring unrealized equity gains/losses in net income; $170B in equities, potential $10B+ quarterly swings; GAAP bottom-line "useless for analytical purposes"; Friday-evening release as the practical remedy
+- [[passive-investing]] — ten-year Bet final tally (S&P 125.8% vs. FoF 0.3%–6.5% annualized); "performance comes, performance goes, fees never falter"; the 2012 bond-to-Berkshire B swap as the one decision made during the bet; purchasing-power risk argument; estate prescription (90% S&P / 10% short-term bonds)
+- [[investment-friction]] — underpins the Bet's result; fee-drag arithmetic as the structural reason the index fund won
+- [[earnings-quality]] — new GAAP unrealized-gains rule compounds the pre-existing realized-gains exclusion problem; two categories of earnings-quality failure distinguished
 - [[risk-vs-volatility]] — purchasing-power risk definition; horizon-dependence (stocks riskier short-term, bonds riskier long-term); bonds-to-stocks ratio is the wrong risk gauge for long-horizon investors
 - [[acquisition-criteria]] — all-equity evaluation; no leverage-induced math; M&A frenzy and CEO psychology critique
 - [[leverage-discipline]] — four major Berkshire price declines (59%, 37%, 49%, 51%) as the argument against borrowing to own stocks
