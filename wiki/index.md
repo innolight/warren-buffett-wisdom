@@ -47,6 +47,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2013-letter]] — 2013 annual letter; GEICO passes Allstate to #2; BNSF record $4B capex; MidAmerican acquires NV Energy; float $77.2B, eleventh consecutive underwriting profit; farm/real estate analogies as the clearest productive-asset investment essay; 90/10 will directive for non-professionals
 - [[berkshire-2014-letter]] — 50th anniversary letter; Berkshire origin story and cigar-butt evolution; conglomerate defense; Munger's Berkshire System (15 principles); succession framework; float $83.9B, twelfth consecutive underwriting profit
 - [[berkshire-2015-letter]] — direct-distribution moat (clearest articulation); float's double GAAP distortion deepened; BNSF social compact vindicated after 2014 service failures; capital flexibility as structural advantage; Precision Castparts acquisition
+- [[berkshire-2016-letter]] — share-repurchases doctrine (three-partner analogy, 120%-of-book threshold); revolving-fund float framing ($100B milestone, 14 consecutive underwriting-profit years); The Bet nine-year proof (S&P +85.4% vs. ~2.2%); adjusted earnings critique; BNSF GAAP depreciation gap
 
 ## Entities
 
@@ -125,6 +126,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[cost-of-float]] — underwriting loss ÷ average float; the financing-cost equivalent that benchmarks insurance value
 - [[derivatives]]  — "financial weapons of mass destruction"; systemic counterparty risk in long chains; the Gen Re Securities runoff as the cautionary case
 - [[dividend-policy]] — restricted vs. unrestricted earnings; the $1-of-market-value per $1-retained retention test; sell-off vs. dividend mathematical comparison (2012)
+- [[earnings-quality]] — why "adjusted earnings" excluding restructuring costs and SBC mislead shareholders; the number-manufacturing culture risk; insurer reserve underestimation as the downstream failure mode
 - [[economic-goodwill]] — durable competitive advantage producing high returns on tangible capital; Buffett's escape from Graham's tangible-asset bias
 - [[equity-return-expectations]] — GDP-tethered ceiling on long-run aggregate equity returns; Dow-at-2,000,000 arithmetic
 - [[float]] — premium-derived investable funds; the engine that converts an insurer into a compounder; cost-of-float framework from 1990; Gen Re adds ~$15B to float base

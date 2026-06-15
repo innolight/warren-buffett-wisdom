@@ -10,6 +10,18 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-06-15] ingest | berkshire-2016-letter
+
+- Created `sources/berkshire-2016-letter.md` — key themes: share-repurchases doctrine (three-partner analogy, two exceptions, 120%-of-book threshold); revolving-fund float framing and GAAP distortion; The Bet nine-year empirical proof; adjusted earnings critique; BNSF depreciation gap
+- Created `concepts/earnings-quality.md` — new; restructuring and SBC exclusions from "adjusted earnings"; culture-of-number-manufacturing downstream risk; insurer reserve underestimation as existential failure mode; cross-linked to [[owner-earnings]], [[incentive-compensation]], [[underwriting-discipline]]
+- Updated `concepts/share-repurchases.md` — three-partner analogy (sharpest concrete illustration in series); two legitimate exceptions; "What is smart at one price is stupid at another"; Berkshire's 120%-of-book authorization explained; missing price-ceiling critique; "un-American" objection rebutted
+- Updated `concepts/float.md` — revolving-fund framing (most explicit articulation); GAAP overstates float liability ("owing $1 that will never leave the premises"); $100B milestone; 14 consecutive underwriting-profit years ($28B pre-tax); $64B goodwill gap quantification
+- Updated `entities/geico.md` — 12% market share (from 2.5% in 1995); employment 8,575→36,085; $8M annual (1951) → $8M every 3 hours (2016); counter-cycle growth in H2 2016 as moat reinforcing under stress; Tony Nicely 55 years
+- Updated `entities/bnsf.md` — GAAP depreciation ($2.1B) vs. true maintenance capex; structural cause (historical cost vs. replacement cost, multi-decade gap); industry-wide effect on reported earnings; cross-linked to [[owner-earnings]]; competitive benchmarks: 3¢/ton-mile, 6:1 interest coverage, 4× fuel advantage over trucks
+- Updated `concepts/investment-friction.md` — Group A/B mathematical identity (active and passive must average before costs; lower cost wins); The Bet nine-year scorecard (S&P +85.4% vs. ~2.2% average); ~60% of active gains captured by fee layers; Jack Bogle tribute; wealthy-investor paradox ($100B+ waste estimate)
+- Updated `wiki/index.md` — added berkshire-2016-letter (Sources); added earnings-quality (Concepts)
+- Deliberately skipped: MidAmerican Energy stats (Iowa wind 55%, rates locked to 2029 — time-bound figures, no new durable principle beyond what 2015 letter captured); Ajit Jain (origin story retold but no new insight beyond existing page); Kara Raiguel as new General Re CEO (transactional personnel change); Clayton Homes details (foreclosure rates, loss-mitigation programs — year-specific); investment portfolio table (year-specific; Apple position noted on source page only); tax treatment of dividends vs. capital gains (2016 tax-code specific); annual meeting logistics (pure ephemera)
+
 ## [2026-06-14] ingest | berkshire-2015-letter (deferred items completed)
 
 - Updated `entities/geico.md` — 2015 section: 11.4% market share, Tony Nicely 54 years, float $15.148B, underwriting profit $460M (sharp drop from $1.159B in 2014), underwriting expense ratio 14.7%, 34K employees / 14M policyholders, founding history (Mecherle/State Farm → USAA → GEICO Goodwins, $100K capital, $238K first full year); climate repricing mechanics; source bullet added

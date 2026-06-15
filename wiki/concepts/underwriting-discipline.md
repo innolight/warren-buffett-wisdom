@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-13
-updated: 2026-06-14
-sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter]
+updated: 2026-06-15
+sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2016-letter]
 tags: [insurance, underwriting, discipline]
 related: [[float]], [[ajit-jain]], [[super-cat-insurance]], [[institutional-imperative]], [[general-re]]
 ---
@@ -115,6 +115,7 @@ The accompanying anecdote sharpens the fourth test: a man driving the wrong way 
 - [[berkshire-2011-letter]] — four disciplines explicitly enumerated; the "Albert and Mabel" anecdote as illustration of why the fourth discipline (walk away) is the one most insurers flunk; General Re cited as the positive-turnaround example, now a "treasure" under Tad Montross
 - [[berkshire-2012-letter]] — 10th consecutive underwriting-profit year ($1.625B; $18.6B cumulative); General Re under Tad Montross explicitly confirmed as a second positive model: "float has been better than cost-free under his leadership"; four disciplines restated as the conditions for "a sound insurance operation"
 - [[berkshire-2013-letter]] — 11th consecutive underwriting-profit year ($3.089B); the four disciplines restated as Tad Montross's operating code; General Re named "a gem" after years of repair. The fourth-discipline failure mode stated most precisely: "Many insurers pass the first three tests and flunk the fourth. They simply can't turn their back on business that is being eagerly written by their competitors. That old line, 'The other guy is doing it, so we must as well,' spells trouble in any business, but in none more so than insurance."
+- [[berkshire-2016-letter]] — 14th consecutive underwriting-profit year ($2.131B across four segments; $28B cumulative since 2003). The sharpest characterization of Berkshire's underwriting culture anywhere in the letter series: "At Berkshire it is a religion, Old Testament style." That discipline is also the lesson of succession: Kara Raiguel replaces Tad Montross at General Re, and Buffett's assurance is cultural, not personal — "Tad never listened to that nonsensical excuse for sloppy underwriting, and neither will Kara." The implication: the test for an insurance successor is not credentials but demonstrated refusal to rationalize inadequate pricing.
 
 ## Related
 

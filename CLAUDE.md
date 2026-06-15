@@ -46,7 +46,7 @@ When an idea is tied to an entity (e.g. Berkshire's float strategy), put the ide
 
 **`index.md`** — the catalog. Sections in order: Sources, Entities, People, Concepts, Synthesis. Sort alphabetically by slug (sources chronologically by year then author). One line per page: `[[slug]] — the specific angle that makes the page relevant` (not a generic label). Update on every page create, rename, or merge.
 
-**`log.md`** — append-only journal; never edit prior entries (except to fix your own typos). Header `## [YYYY-MM-DD] <op> | <subject>`, where `<op>` is `ingest | query | lint | refactor | note`, followed by a short bulleted list of what changed — including what was deliberately skipped, so editorial calls stay auditable.
+**`log.md`** — prepend-only journal; never edit prior entries (except to fix your own typos). Header `## [YYYY-MM-DD] <op> | <subject>`, where `<op>` is `ingest | query | lint | refactor | note`, followed by a short bulleted list of what changed — including what was deliberately skipped, so editorial calls stay auditable.
 
 **Status lifecycle** — `stub` (placeholder; use sparingly, only for clearly canonical items lacking material) → `draft` (real content, LLM-written; the default for new pages) → `reviewed` (user-approved; only the user sets this). When you substantively change a `reviewed` page, demote it to `draft` and note in the log that re-review is needed.
 

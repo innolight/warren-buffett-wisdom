@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-13
-updated: 2026-06-14
-sources: [berkshire-2005-letter, berkshire-2006-letter, berkshire-2007-letter]
+updated: 2026-06-15
+sources: [berkshire-2005-letter, berkshire-2006-letter, berkshire-2007-letter, berkshire-2016-letter]
 tags: [investing, fees, passive-investing, active-management, aggregate-returns]
 related: [[passive-ownership-advantage]], [[concentration-vs-diversification]], [[capital-allocation]], [[mr-market]], [[walter-schloss]]
 ---
@@ -82,11 +82,45 @@ Buffett closes the investment-friction section of the 2006 letter with a tribute
 
 The contrast with the 2-and-20 Hyper-Helper is exact: Schloss aligned himself completely with his investors (fee only on profit), spent nothing on the apparatus of active management, and used methods available to anyone willing to do the work. The implication is not that skill is impossible but that the combination of true alignment and low friction is vanishingly rare — and that most intermediaries claiming to add value do not.
 
+## The Group A/B identity
+
+Before framing the Bet, Buffett laid out the arithmetic that makes the outcome structurally inevitable. The entire investing universe can be divided into Group A (active investors — those who trade, pick stocks, and pay helpers) and Group B (passive / do-nothing investors). Together they hold the entire market. Group B is by construction destined to earn the market return before costs. But that means Group A must also earn the market return before costs — they hold whatever B does not. The group with lower costs wins. This is a mathematical identity, not a prediction. No redistribution of capital among active managers changes the aggregate active-investor return; it only changes who among them wins. The friction argument follows directly: the sole variable is how much of the total return leaks to helpers at each layer. See [[berkshire-2016-letter]].
+
+## The Bet — nine years of empirical proof (2016)
+
+The Gotrocks allegory and the Group A/B identity are theoretical. In 2007, Buffett put money on them. He offered $500,000 that no investment professional could select five or more hedge funds that would, net of all fees and expenses, outperform an unmanaged S&P 500 index fund over ten years beginning January 1, 2008. The bet's origin is [[berkshire-2005-letter]] and [[berkshire-2007-letter]]; the nine-year results appear in [[berkshire-2016-letter]].
+
+One challenger accepted: Ted Seides of Protégé Partners, who selected five funds-of-funds, each itself holding roughly 200 underlying hedge funds, giving the pro-active side broad diversification and deep manager selection.
+
+After nine years (2008–2016):
+
+- **Vanguard S&P 500 index fund:** +85.4% cumulative (~7.1% compounded annually)
+- **Five funds-of-funds (average):** roughly +22% cumulative (~2.2% compounded annually)
+
+In Buffett's own terms: "$1 million invested in those funds would have gained $220,000. The index fund would meanwhile have gained $854,000."
+
+The culprit was not deficient stock-picking at the underlying level. The roughly 200 hedge funds in aggregate almost certainly produced returns that approximated the market — Group A's iron law. The culprit was costs extracted at two layers: the underlying hedge funds (typically "2 and 20" — 2% annual management fee plus 20% of profits, with no clawback on losses) and the fund-of-funds layer atop them (another ~1% plus performance fees). Together, approximately 60% of all gains achieved by the five funds-of-funds were diverted to the two levels of managers rather than compounding for investors. "Fees never sleep."
+
+The structural logic of the Hyper-Helper in the Gotrocks allegory — "heads, the Helper takes much of the winnings; tails, the Gotrocks lose and pay dearly for the privilege" — is confirmed numerically here.
+
+**The Bogle tribute.** Buffett reserved some of his highest praise for Jack Bogle, who built the low-cost index fund mechanism that lets investors bypass the Helper layer entirely: "If a statue is ever erected to honor the person who has done the most for American investors, the hands-down choice should be Jack Bogle." Bogle accumulated only modest personal wealth in doing so — precisely because he was not extracting it from investors. His managers' fees were tiny and his results for investors correspondingly large. The contrast with the 2-and-20 Hyper-Helper is exact.
+
+## The wealthy-investor paradox
+
+The 2016 letter adds a behavioral layer that cuts against the intuition that money buys superior service. The wealthy consistently seek out and pay for "sophisticated" investment counsel — hedge funds, funds-of-funds, private equity, consultants. Their reasoning feels natural: money should purchase something better than what the masses can access.
+
+The result is the opposite. The expectation that "elite" advice justifies "elite" fees draws the wealthy away from the demonstrably superior index fund and into structures that extract extraordinary compensation for ordinary or sub-par results. Each individual hire of a smart manager feels rational in isolation. The problem only becomes visible in aggregate, where the Group A/B identity guarantees that the collective active-investor result must be below-average after fees.
+
+Buffett estimated that in the decade prior to the 2016 letter, this search for superior advice cost the elite more than $100 billion — a pure transfer to the Helper layer. Much of the damage fell on public pension funds, whose beneficiaries had no say in the matter and bore the consequences through shortfalls in funded status.
+
+The wealthy-investor paradox closes the loop on the Gotrocks narrative: the helpers could not have grown so large without demand from people who should know better. Status and wealth create demand for premium investment services precisely where premium investment services are least likely to outperform their fees. See [[berkshire-2016-letter]].
+
 ## How it's discussed in sources
 
 - [[berkshire-2005-letter]] — the Gotrocks allegory in full; the four-layer Helper taxonomy; the 20% friction estimate; Newton's Fourth Law; the Dow century arithmetic
 - [[berkshire-2006-letter]] — 2-and-20 arithmetic (10% gross → 6.4% net → $108M manager fee on a $3B fund); Walter Schloss as the counter-example (47 years, fee only on profit, S&P-beating record)
 - [[berkshire-2007-letter]] — sharpest Dow century arithmetic: Dow at 2,000,000 needed by 2099 to repeat 5.3% rate; only ~2,000 of 1,988,000 points gained in first 8 years; 10% forecasts imply Dow at 24,000,000; pension 8% assumption arithmetic dissected; "Beware the glib helper who fills your head with fantasies while he fills his pockets with fees"
+- [[berkshire-2016-letter]] — nine-year Bet results (S&P +85.4% vs. funds-of-funds +~22%); Group A/B mathematical identity; ~60% of active gains captured by two manager layers; $100B+ cost to the elite over the prior decade; Jack Bogle tribute; wealthy-investor paradox
 
 ## Related
 

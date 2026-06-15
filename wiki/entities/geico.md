@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-05-24
-updated: 2026-06-14
-sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter]
+updated: 2026-06-15
+sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter, berkshire-2016-letter]
 tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities, wholly-owned]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[commodity-business-economics]], [[jack-byrne]], [[lou-simpson]], [[lorimer-davidson]], [[franchise-vs-business]], [[tony-nicely]]
 ---
@@ -150,6 +150,18 @@ By yearend 2015, GEICO's market share reached **11.4%** — up from 2.5% when Be
 
 **Climate and long-run pricing.** Buffett's climate change section in the 2015 letter uses GEICO as illustration: per-policy loss costs grew from ~$30 in 1951 to ~$1,000 in 2015. Rather than making insurance companies poorer, this inflation made them more valuable — premiums repriced annually to match rising costs, while the company that started with minimal premium volume now does $23B annually. Annual policy repricing is GEICO's structural hedge against any cost trend, including climate change. ([[berkshire-2015-letter]])
 
+## 2016: 12% market share and the virtuous circle at scale
+
+By yearend 2016, GEICO's market share reached **~12%** — up from 2.5% when Berkshire acquired control in 1995. Employment over the same period grew from 8,575 to 36,085. The numbers illustrate the virtuous circle running to scale: low costs → competitive pricing → market share growth → scale → lower per-unit costs → still-lower prices.
+
+**The compounding of scale.** In 1951, GEICO's annual sales were $8M. By 2016, GEICO was doing $8M in business every three hours of the year. The same dollar figure that once represented a full year's work now transacts in less time than a lunch break — the concrete arithmetic of what a structural low-cost moat compounding over 65 years produces.
+
+**The moat restated.** Buffett's most direct formulation from the 2016 letter: "GEICO's low costs create a moat — an enduring one — that competitors are unable to cross." The mechanism: at least 40% of people reading the letter could save money by insuring with GEICO. The only competitive response available to incumbents is to match costs, which requires dismantling their own higher-cost agent distribution infrastructure — a self-defeating proposition. See [[direct-distribution-moat]].
+
+**Counter-cycle growth.** In H2 2016, loss costs rose industry-wide and competitors pulled back from new-customer acquisition. GEICO accelerated its new-business efforts instead. Buffett: "We like to make hay while the sun sets, knowing that it will surely rise again." When prices rise, price-sensitive drivers shop more aggressively; when they shop, GEICO's cost advantage converts comparisons into customers. Competitive stress reinforces rather than erodes the moat.
+
+**Tony Nicely at 55 years.** Nicely joined GEICO at age 18 and completed 55 years of service in 2016 — 23 of them as CEO. Buffett: "There is no better manager than Tony, who brings his combination of brilliance, dedication and soundness to the job." The soundness point echoes a Munger observation Buffett included: it's great to have a manager with a 160 IQ — unless he thinks it's 180. See [[tony-nicely]]. ([[berkshire-2016-letter]])
+
 ## Sources discussing this entity
 
 - [[berkshire-1977-letter]] — convertible preferred + common position established during crisis; largest equity holding by combined market value
@@ -179,6 +191,7 @@ By yearend 2015, GEICO's market share reached **11.4%** — up from 2.5% when Be
 - [[berkshire-2013-letter]] — GEICO passes Allstate to become #2 U.S. auto insurer (was #7 in 1995); underwriting profit $1,127M; float $12,566M; economic goodwill "approaching $20 billion"; Tony Nicely 52 years of service; "its low costs create a moat — an enduring one — that competitors are unable to cross"
 - [[berkshire-2014-letter]] — market share 10.8% (from 2.5% at 1995 acquisition; from 2.0% at start of Nicely's tenure); underwriting profit $1,159M; float $13,569M; Tony Nicely 53 years; cost-moat language restated; at least 40% of letter readers could save money by switching to GEICO (Buffett's remark directed at his shareholder audience)
 - [[berkshire-2015-letter]] — market share 11.4%; Tony Nicely 54 years; float $15,148M; underwriting profit $460M (sharp drop from 2014, reflecting growth costs); underwriting expense ratio 14.7%; 34,000 employees / 14 million policyholders; clearest articulation of the three-stage insurance disruption (Mecherle/State Farm → USAA → GEICO Goodwins); $22.6B premium volume vs. $238,000 in 1937; annual repricing as hedge against any cost trend
+- [[berkshire-2016-letter]] — market share ~12% (from 2.5% in 1995); employment 8,575→36,085; $8M/3 hours vs. $8M/year in 1951 (65-year compounding made concrete); counter-cycle growth acceleration in H2 as competitors retreated; Tony Nicely 55 years / CEO since 1993; Munger's "soundness" observation on 160 vs. 180 IQ
 
 ## 2012: 9.7% market share and the Hurricane Sandy test
 

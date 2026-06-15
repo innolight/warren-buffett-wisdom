@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-14
-sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter, berkshire-2011-letter, berkshire-2012-letter]
+updated: 2026-06-15
+sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2016-letter]
 tags: [capital-allocation, repurchases, signaling]
 related: [[stock-as-acquisition-currency]], [[intrinsic-value-vs-book-value]], [[dividend-policy]], [[washington-post]], [[incentive-compensation]], [[owner-orientation]]
 ---
@@ -15,6 +15,8 @@ related: [[stock-as-acquisition-currency]], [[intrinsic-value-vs-book-value]], [
 When a company's stock trades at a meaningful discount to intrinsic value, repurchasing its own shares is among the most certain wealth-enhancing uses of corporate capital. The mechanism is arithmetic: a dollar deployed to retire equity worth more than a dollar increases the per-share value of the remaining shares immediately.
 
 Buffett's 1980 articulation: "if a fine business is selling in the market place for far less than intrinsic value, what more certain or more profitable utilization of capital can there be than significant enlargement of the interests of all owners at that bargain price?"
+
+The 2016 letter offers the clearest concrete illustration of the arithmetic: "If there are three equal partners in a business worth $3,000 and one is bought out by the partnership for $900, each of the remaining partners realizes an immediate gain of $50. If the exiting partner is paid $1,100, however, the continuing partners each suffer a loss of $50." The same math governs any corporation and its shareholders — the direction and magnitude of the wealth transfer depend entirely on whether the buyback price is below or above intrinsic value. ([[berkshire-2016-letter]])
 
 ## Why it matters
 
@@ -95,6 +97,21 @@ In September 2011, Berkshire announced it would repurchase its own shares at up 
 
 In December 2012, the ceiling was raised to **120% of book**, when a large block became available at approximately 116% of book. The revised threshold reflects Buffett's view that at up to 120% of book, where Berkshire's intrinsic value substantially exceeds book value, repurchases still clearly increase per-share intrinsic value for continuing shareholders. The principle is unchanged — "what is smart at one price is dumb at another" — but the threshold was corrected upward from what proved to be an unrealistically tight prior limit. ([[berkshire-2012-letter]])
 
+The 2016 letter adds a behavioral nuance to the 120%-of-book authorization: it does not mean Berkshire will "prop" its stock. Berkshire aims to blend meaningful purchase volume with care not to over-influence the market. The spread between the authorization ceiling and 100% of book exists precisely because intrinsic value cannot be calculated with precision — the ceiling is set conservatively enough that any repurchase within the range still unambiguously benefits continuing shareholders. ([[berkshire-2016-letter]])
+
+### Two exceptions: when underpriced shares should still not be bought
+
+Even when shares trade at a material discount to intrinsic value, the 2016 letter identifies two situations where repurchases remain inappropriate:
+
+1. **The business needs its capital.** If the company requires all available funds to protect or expand its operations — and is uncomfortable adding debt — repurchases must wait.
+2. **A better use exists.** If a business acquisition or other investment opportunity offers far greater value than the underpriced shares, that opportunity takes precedence.
+
+These are not loopholes; they reflect the same capital-allocation hierarchy that governs all deployment decisions: repurchases are only right when no superior use of capital exists *and* the balance sheet can absorb them. ([[berkshire-2016-letter]])
+
+### The CEO declaration
+
+The 2016 letter suggests that before any discussion of repurchases, every CEO and Board should be required to declare jointly: *"What is smart at one price is stupid at another."* This is the canonical encapsulation of the entire doctrine — no formula, no fixed ratio, only the recognition that price changes the character of the transaction completely. ([[berkshire-2016-letter]])
+
 ## The counter-intuitive case: wanting lower prices (IBM, 2011)
 
 The 2011 letter offers one of Buffett's most elegant teaching examples. When a company is spending large sums on buybacks, a **long-term partial owner should want the stock price to languish** — the lower the price, the more shares are retired per dollar, enlarging the partial owner's proportional claim on future earnings.
@@ -112,6 +129,18 @@ The logic generalizes: any net buyer of stocks — directly or through a company
 
 This is the direct corollary of [[mr-market]]: the market's mood swings are irrelevant except insofar as they offer opportunities to buy or sell. For an investor who intends to keep buying — either directly or via a repurchasing company — lower prices are strictly better. ([[berkshire-2011-letter]])
 
+## The missing price ceiling
+
+A discipline any buyer of an outside business would apply automatically is almost universally absent from corporate repurchase announcements: a stated price above which buybacks will stop. Most programs name a dollar amount or share count to be repurchased but set no upper price limit — implicitly treating a $30 stock and a $90 stock as equally attractive targets for the same program.
+
+Buffett finds this omission puzzling, and notes it plainly in the 2016 letter. Its absence signals that many repurchase programs are not driven by the value logic described above, but by other motivations — supporting the stock price, absorbing option dilution, or deploying excess cash on autopilot. The moment a clear price ceiling is stated and honored, the economic logic becomes transparent and auditable. ([[berkshire-2016-letter]])
+
+## The "un-American" objection, dismissed
+
+Critics sometimes argue that share repurchases divert capital from productive endeavors, starving the economy of resources that should fund hiring or expansion. Buffett dismisses the charge in the 2016 letter: both American corporations and private investors hold ample funds; no genuinely attractive project has died for want of capital.
+
+The objection conflates financial-market activity with real-economy investment. When a company repurchases shares, it does not destroy capital — it returns it to shareholders who redeploy it elsewhere. Whether that redeployment is more or less productive than what the original company would have done with the funds is an empirical question in each case, but the capital itself continues to circulate. ([[berkshire-2016-letter]])
+
 ## How it's discussed in sources
 
 - [[berkshire-1980-letter]] — debut as a recurring theme; the auction-vs-negotiated framing
@@ -121,6 +150,7 @@ This is the direct corollary of [[mr-market]]: the market's mood swings are irre
 - [[berkshire-1999-letter]] — canonical post-bubble restatement; the two-condition framework restated; critique of price-support buybacks and option-offset buybacks as "buy high, sell low"; the Berkshire threshold (meaningful discount to intrinsic value); Berkshire's near-repurchase below $45K and the disclosure approach
 - [[berkshire-2011-letter]] — two conditions made explicit; "what is smart at one price is dumb at another"; IBM buyback math as the worked counter-intuitive example; Berkshire's 110%-of-book threshold and $20B cash floor
 - [[berkshire-2012-letter]] — ceiling raised 110% → 120% of book; "disciplined repurchases are the surest way to use funds intelligently"; $1.3B of repurchases executed in 2012
+- [[berkshire-2016-letter]] — the three-partner arithmetic illustration; the CEO declaration ("what is smart at one price is stupid at another"); two exceptions when underpriced shares should still not be repurchased; the 120%-of-book authorization interpreted (not "propping"; blend meaningful volume with market restraint); the missing price-ceiling discipline in most corporate announcements; the "un-American" charge rebutted
 
 ## Related
 
