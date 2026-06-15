@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-24
 updated: 2026-06-15
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter, berkshire-2016-letter, berkshire-2017-letter, berkshire-2018-letter]
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter, berkshire-2016-letter, berkshire-2017-letter, berkshire-2018-letter, berkshire-2019-letter]
 tags: [insurance, capital-allocation, berkshire]
 related: [[national-indemnity]], [[berkshire-hathaway]], [[geico]], [[super-cat-insurance]], [[ajit-jain]], [[underwriting-discipline]], [[general-re]]
 ---
@@ -158,6 +158,8 @@ Three consecutive years of positive cost of float broke the long negative-cost r
 | 2015 | $87,722M | <0% | $1,837M underwriting profit (BH Reinsurance $421M, General Re $132M, GEICO $460M, Other Primary $824M); thirteenth consecutive year; cumulative underwriting profit over 13 years: $26.2B |
 | 2016 | ~$91,600M | <0% | fourteenth consecutive year; cumulative pre-tax underwriting profit 2003–2016: $28B; float briefly crossed $100B during the year aided by a single large policy |
 | 2017 | $114,500M | >0% | AIG retroactive deal ($10.2B premium for up to $20B long-tail coverage — world-record premium) inflates float; three hurricanes (Harvey, Irma, Maria) produce $3.2B pre-tax underwriting loss; 14-year consecutive underwriting-profit streak ends |
+| 2018 | $122,732M | <0% | $2B pre-tax underwriting profit; 15 of 16 years profitable (exception: 2017 at −$3.2B); cumulative 16-year (2002–2018) pre-tax underwriting gain $27B |
+| 2019 | $129,423M | <0% | $400M pre-tax underwriting profit; 16 of 17 years profitable; cumulative 17-year pre-tax underwriting gain $27.5B |
 
 The 1999 positive-cost note: $400M of the underwriting loss was "welcomed"—it came from policies that would deliver long-duration float with capped losses (retroactive reinsurance). The remaining losses were "decidedly unwelcome" and reflected General Re's failure to price adequately. Ajit Jain's "other reinsurance" segment had by 1999 accumulated $6.3B of float "from scratch since 1986 with cumulative underwriting profit"—the contrast to General Re was direct. ([[berkshire-1999-letter]])
 
@@ -229,6 +231,16 @@ Two exceptional events defined 2017 float and underwriting. First, Berkshire agr
 Second, three major hurricanes — Harvey (Texas), Irma (Florida), Maria (Puerto Rico) — generated estimated insured industry losses of roughly $100B. Berkshire's share: $3.2B pre-tax ($2B after tax), approximately 3% of the industry total. That 3% share — consistent with Berkshire's expected proportion of future American mega-catastrophes — ended 14 consecutive years of underwriting profit.
 
 Buffett had long warned that catastrophe years would arrive: "My warning became fact in 2017, as we lost $3.2 billion pre-tax from underwriting." The structural case for Berkshire's catastrophe resilience sharpened materially. For a $400B U.S. mega-catastrophe (estimated annual probability ~2%), Berkshire's share would be roughly $12B — "far below the annual earnings we expect from our non-insurance activities" — while much of the P&C world would be insolvent. This asymmetry is precisely why other P&C insurers come to Berkshire when they need large reinsurance coverages: it is the only company that can credibly commit to paying. Float expected to increase slowly for a few more years; any future decline will be modest ("at most 3% or so in any single year"). Unlike bank deposits or life insurance with surrender options, P&C float cannot be withdrawn — no runs during financial stress. See [[berkshire-2017-letter]].
+
+## P/C industry structural headwind: the low-rate investment trap (2019)
+
+A structural disadvantage for the broader P/C insurance industry surfaced clearly in the 2019 letter. Standard P/C strategy allocates float heavily — and properly — into high-grade bonds. As interest rates declined over the decade following 2008, P/C insurers were forced, through bond maturities and issuer-call provisions, to recycle their "old" portfolios into new holdings with dramatically lower yields. Investment income per dollar of float dropped from 5–6 cents to 2–3 cents, or even less for insurers operating in negative-rate environments.
+
+This dynamic compresses the insurance business model at scale: float that once earned 5–6¢ per dollar now earns 2–3¢, while the actuarial liability (the promise to pay future claims) hasn't changed. Some insurers respond by reaching for yield in lower-quality bonds or non-liquid "alternative" investments — which Buffett characterizes as "dangerous games" that most institutions are "ill-equipped to play."
+
+Berkshire's structural advantage in this environment is threefold. First, unrivaled capital (the largest P/C net worth in the world) gives investment options unavailable to peers. Second, a large and diverse stream of non-insurance operating earnings provides an alternative source of income that insulates the company from investment yield pressure. Third, the size and quality of Berkshire's equity portfolio means float is not constrained to bond-market returns. "The many choices open to us are always advantageous — and sometimes have presented us with major opportunities."
+
+The lesson generalizes: an insurer's value is not just the cost and amount of float — it is the quality of the investment options available to deploy that float. The P/C rate-headwind episode illustrates that a well-run float machine can be economically strangled if its capital base forces it into a narrow and yield-compressed asset class. Berkshire's structural escape from this trap is a source of durable competitive advantage in insurance. ([[berkshire-2019-letter]])
 
 ## Related
 

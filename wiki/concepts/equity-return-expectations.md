@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-14
-updated: 2026-06-14
-sources: [berkshire-1999-letter, berkshire-2007-letter]
+updated: 2026-06-15
+sources: [berkshire-1999-letter, berkshire-2007-letter, berkshire-2019-letter]
 tags: [equity-returns, market-valuation, gdp, long-run, expectations]
 related: [[investment-friction]], [[mr-market]], [[passive-return-crossbar]], [[volatility-as-opportunity]]
 ---
@@ -93,6 +93,7 @@ The companion concept for investors who have accepted this ceiling is [[passive-
 
 - [[berkshire-1999-letter]] — the 1999 *Fortune* article framework; GDP-tethered corporate profit growth; the December 1999 Paine Webber-Gallup survey (19% expectation at bubble peak); the warning that adjustment will be "severe"
 - [[berkshire-2007-letter]] — the Dow century arithmetic in its sharpest form; 5.3% compounded; 2,000,000 by 2099 to match; 24,000,000 implied by 10% forecasts; helpers must underperform as a class; pension-fund 8% assumption dissected
+- [[berkshire-2019-letter]] — real-portfolio illustration: Berkshire's equity holdings earn more than 20% on net tangible equity capital, "truly mind-blowing" compared to 2.5% or less on 30-year U.S. Treasuries; framed alongside Smith's retained-earnings compounding insight as the structural case for equities over fixed income at current rate levels
 
 ## Related
 

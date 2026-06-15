@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-15
 updated: 2026-06-15
-sources: [berkshire-2017-letter, berkshire-2018-letter, berkshire-2016-letter]
+sources: [berkshire-2016-letter, berkshire-2017-letter, berkshire-2018-letter, berkshire-2019-letter]
 tags: [accounting, gaap, reporting, operating-earnings]
 related: [[earnings-quality]], [[owner-earnings]], [[look-through-earnings]]
 ---
@@ -35,6 +35,7 @@ The analytical response Buffett articulates is threefold. First, use **operating
 - [[berkshire-2017-letter]] — the central source; new FASB rule introduced; $170B equity portfolio at yearend; potential for $10B+ quarterly swings; GAAP bottom-line described as "useless for analytical purposes"; compounds the existing realized-gains problem; "normalized per-share earning power" named as the right scorecard; Friday-evening release rationale explained; amortization charges ($1.3B) flagged as "in large part not a true economic cost"; BNSF depreciation shortfall noted
 - [[berkshire-2016-letter]] — documents the existing realized-gains problem (already excluded from Berkshire's operating earnings before 2017); BNSF GAAP depreciation ($2.1B) shown to understate true maintenance cost; background context for the distortions the 2017 rule compounded
 - [[berkshire-2018-letter]] — first year the new unrealized-gains rule appears in reported results; actual swings of $25.4B (Q4 loss) to $18.5B (Q3 profit) in GAAP net income; "Our advice? Focus on operating earnings, paying little attention to gains or losses of any variety"; amortization vs. depreciation distinction drawn precisely ($1.4B acquisition amortization as legitimate exclusion; $8.4B depreciation as understatement)
+- [[berkshire-2019-letter]] — the clearest two-year illustration of the rule's distorting power: 2018 GAAP earnings $4B (down market; unrealized losses of $20.6B ran through income); 2019 GAAP earnings $81.4B (up market; unrealized gains of $53.7B ran through income) — a "crazy 1,900% increase in GAAP earnings" from accounting mechanics while operating earnings were "little changed"; the rule described as a "monumental shift" in accounting thinking that requires enshrinement of "capricious fluctuations" in quarterly and annual reported earnings; Buffett and Munger reiterate: focus on operating earnings and ignore both realized and unrealized investment gains or losses
 
 ## Related
 

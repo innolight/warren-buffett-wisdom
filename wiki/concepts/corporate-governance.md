@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-12
-updated: 2026-06-14
-sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter, berkshire-2009-letter]
+updated: 2026-06-15
+sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter, berkshire-2009-letter, berkshire-2019-letter]
 tags: [governance, management, incentives, compensation, accountability]
 related: [[incentive-compensation]], [[owner-orientation]], [[institutional-imperative]]
 ---
@@ -89,6 +89,32 @@ The four criteria are presented not as ideals but as a minimum: "Over the years 
 
 **On compensation reform.** Irrational compensation practices will not be corrected by disclosure requirements or by "independent" compensation committee members under current definitions. Structural change requires action by large institutional shareholders — "it would only take a few" — demanding a genuine review rather than deferring to peer-benchmarking consultants. "The consultants' present drill of deftly selecting 'peer' companies to compare with their clients will only perpetuate present excesses." ([[berkshire-2006-letter]])
 
+## Board compensation, the NWD dynamic, and M&A process failure (2019)
+
+The 2019 letter is the richest governance essay in the series since 2002–2004, adding three structural observations that deepen the earlier analysis.
+
+### The non-wealthy director (NWD) fee trap
+
+Director fees have escalated dramatically. A non-wealthy director (NWD) now earns $250,000–$300,000 for board meetings consuming "a pleasant couple of days six or so times a year" — three to four times the annual median U.S. household income. The Matthew 6:21 logic from [[berkshire-2004-letter]] applies in reverse: these directors have *financial treasure at risk* from challenging management. If an NWD seriously challenges a current CEO's compensation or acquisition plans, that CEO will not recommend the NWD for future board seats elsewhere. "If the NWD has seriously challenged his/her present CEO's compensation or acquisition dreams, his or her candidacy will silently die."
+
+An NWD hoping to add a second directorship (vaulting to $500,000–$600,000 class) therefore cannot afford to be seen as a troublemaker at his/her current board. This incentive structure is systemic, not personal — directors "may not know their own motivations" but the outcome is predictable: deference.
+
+The independence paradox is sharpened here. Directors whose fees represent a significant share of their income are classed as legally "independent" under SEC definitions. Directors with substantial stakes acquired in the open market — whose financial welfare is genuinely linked to the company — are often classified as lacking independence. "The director for whom fees are important — indeed, craved — is almost universally classified as 'independent.'" The legal definition measures the wrong thing. ([[berkshire-2019-letter]])
+
+### The cocker-spaniel selection dynamic
+
+Board composition is self-reinforcing. When a company searches for new directors, the CEO almost certainly checks with existing directors' current or past CEOs about whether the candidate is a "good" director. "Good" in this context is a code word: it describes a director who does not challenge or embarrass management. Pit bulls don't get rehired; cocker spaniels do.
+
+The resulting board is composed of pleasant, agreeable people who are "decent, likable and intelligent" — good neighbors and fine citizens — but not people optimized for critical business judgment. A board member skilled in business analysis who is willing to challenge management publicly will not clear the informal vetting process. This dynamic has no villain; it is a structural outcome. Buffett's observation across 62 years and 21 boards.
+
+### M&A advisory capture and the acquisition process failure
+
+The most persistent governance failure in normal (non-crisis) operating conditions is the acquisition process. No CEO presenting a desired acquisition has ever, in Buffett's experience, brought in an informed critic to argue against it. The deal's proponents dominate the room; the adversarial voice is absent.
+
+This is not merely a failure of individual judgment. The advisory system is structurally captured: advisors are hired and paid by the company pursuing the deal, and their fees depend on the deal closing. The principle: "Don't ask the barber whether you need a haircut." An expert advocate for the deal is not a disinterested analyst.
+
+Buffett's proposed reform — never implemented — would pit two expert advisors against each other, with the winning advisor earning ten times the token sum paid to the loser. The incentive structure would at least introduce a financially motivated critic. "Don't hold your breath awaiting this reform: The current system, whatever its shortcomings for shareholders, works magnificently for CEOs and the many advisors and other professionals who feast on deals." ([[berkshire-2019-letter]])
+
 ## Post-bubble governance reforms
 
 Two specific changes enacted at Berkshire after the Enron/WorldCom era, both of which Buffett says he should have put in place years earlier:
@@ -132,6 +158,7 @@ This complements the board-independence critique: governance reforms that focus 
 - [[berkshire-2004-letter]] — three questions that truly count; Matthew 6:21 as the correct independence test; Berkshire board standard ($4M+ family ownership, no grants, nominal fees, no D&O insurance); acquisition-blocking directors anecdote; CEO-free board meetings and whistleblower line as post-bubble reforms; stock-option expensing fight update (312-111 House vote, Senate Shelby resistance)
 - [[berkshire-2006-letter]] — four board criteria articulated (owner-oriented, business-savvy, interested, truly independent); fee-dependent directors critique ($150-250K fees as the independence disqualifier); "Ratchet, Ratchet and Bingo" on compensation consultants; institutional shareholders as the only credible reform mechanism
 - [[berkshire-2009-letter]] — CEO must personally own risk control; board of a huge financial institution is "derelict" if it allows delegation; failed-institution shareholders lost $500B+ while CEOs went unscathed; personal financial sticks must accompany financial carrots; Berkshire's model: Buffett initiates and monitors every derivatives contract personally
+- [[berkshire-2019-letter]] — NWD fee analysis: $250-300K/year (3-4x median household income) creates structural deference; cocker-spaniel director selection: CEO vetting ensures challengers don't get second board seats; M&A advisory capture: "don't ask the barber whether you need a haircut"; independence paradox sharpened: fee-dependent directors classified "independent," stake-aligned classified "not independent"; 62 years across 21 boards as empirical basis
 
 ## Related
 

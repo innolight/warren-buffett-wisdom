@@ -50,6 +50,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2016-letter]] — share-repurchases doctrine (three-partner analogy); revolving-fund float framing; The Bet as index-fund proof; adjusted-earnings critique
 - [[berkshire-2017-letter]] — The Bet's final tally as index-fund proof; GAAP unrealized-gains distortion warning; Jain and Abel named Vice Chairmen
 - [[berkshire-2018-letter]] — book value formally retired as headline scorecard; Five Groves valuation structure; American Tailwind essay; adjusted-EBITDA "dog's tail" critique
+- [[berkshire-2019-letter]] — Smith/Keynes retained-earnings origin story; 1,900% GAAP swing illustration; richest board governance essay in the series (NWD fees, cocker-spaniel dynamics, M&A advisory capture)
 
 ## Entities
 

@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-24
-updated: 2026-06-14
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-2011-letter]
+updated: 2026-06-15
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-2011-letter, berkshire-2019-letter]
 tags: [accounting, equities, capital-allocation, intrinsic-value]
 related: [[warren-buffett]], [[acquisition-criteria]], [[intrinsic-value-vs-book-value]], [[owner-earnings]], [[coca-cola]]
 ---
@@ -15,6 +15,18 @@ related: [[warren-buffett]], [[acquisition-criteria]], [[intrinsic-value-vs-book
 The earnings *attributable* to a partial-equity stake — the holder's pro-rata share of the underlying business's earnings — as distinct from the dividend income that actually shows up in the holder's reported P&L. The gap between the two is not an accounting problem; it is a feature. When the underlying company retains earnings and deploys them well, the holder benefits even without receiving a check.
 
 Buffett's later formal label: **"economic earnings"** vs. **"accounting earnings"** ([[berkshire-1982-letter]]). Economic earnings include all undistributed earnings attributable to the ownership stake, regardless of accounting threshold; accounting earnings include only dividends below 20% ownership.
+
+## The 1924 intellectual origin: Edgar Lawrence Smith and Keynes
+
+The concept that retained earnings create durable value was not obvious before 1924. Investors of the era generally thought of stocks as short-term gambles on market movements; "gentlemen preferred bonds." Edgar Lawrence Smith's *Common Stocks as Long Term Investments* (1924) documented, empirically, that stocks outperformed bonds across historical periods — and forced Smith himself to abandon his original thesis (that stocks were better in inflation, bonds better in deflation, as both proved wrong).
+
+The durable insight Smith arrived at is captured in John Maynard Keynes' review of the book:
+
+> "Well-managed industrial companies do not, as a rule, distribute to the shareholders the whole of their earned profits. In good years, if not in all years, they retain a part of their profits and put them back into the business. Thus there is an element of compound interest (Keynes' italics) operating in favour of a sound industrial investment. Over a period of years, the real value of the property of a sound industrial is increasing at compound interest, quite apart from the dividends paid out to the shareholders."
+
+Buffett's commentary in [[berkshire-2019-letter]]: "It's difficult to understand why retained earnings were unappreciated by investors before Smith's book was published. After all, it was no secret that mind-boggling wealth had earlier been amassed by such titans as Carnegie, Rockefeller and Ford, all of whom had retained a huge portion of their business earnings to fund growth and produce ever-greater profits." The insight was there in every great industrialist's record; what Smith did was name it and make it general.
+
+This historical observation matters for look-through earnings because it establishes that the concept Buffett deploys is not a financial abstraction but the oldest verifiable mechanism of wealth creation in modern capitalism. The reason Buffett prefers look-through earnings to accounting earnings is precisely Keynes' point: the compound-interest effect of well-deployed retained earnings accrues to the owner whether or not it appears in the owner's reported income.
 
 ## The retained-earnings corollary
 
@@ -100,6 +112,7 @@ See [[coca-cola]].
 - [[berkshire-1993-letter]] — $856M look-through; ~$439M from investees; Cap Cities retained-earnings illustration explicit
 - [[berkshire-1994-letter]] — $1,030M look-through (target met early); cautionary note that super-cat results lifted reported earnings above trend
 - [[berkshire-2011-letter]] — Big Four (AmEx, Coke, IBM, Wells Fargo): $862M dividends reported vs. $3.3B Berkshire's share of their earnings; Buffett projects the four could produce $7B in annual earnings a decade out; the gap is the structural reason reported Berkshire income understates intrinsic compounding
+- [[berkshire-2019-letter]] — the Smith/Keynes intellectual genealogy; 10-company table showing Berkshire's share of dividends ($3,798M) vs. retained earnings ($8,332M) from the top holdings (AmEx, Apple, BofA, BNY Mellon, Coke, Delta, JPMorgan, Moody's, US Bancorp, Wells Fargo); retained earnings exceed dividends by more than 2:1; "Mr. Smith got it right"
 
 ## Related
 

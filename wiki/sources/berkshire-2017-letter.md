@@ -18,7 +18,7 @@ Published February 24, 2018. The letter closes three major threads: the 10-year 
 ## Key themes
 
 - **GAAP unrealized-gains distortion**: A new FASB rule requires unrealized gains/losses on equity holdings to appear in net income. With $170B in equities that can swing $10B+ in a quarter, GAAP net income will produce "truly wild and capricious swings" that swamp operating performance. Buffett commits to emphasizing "normalized per-share earning power" as the right scorecard.
-- **The Bet final tally**: Ten-year bet concluded. S&P 500 index fund returned 125.8% (8.5% annualized); five funds-of-funds ranged from 2.8% to 42.3% cumulative (0.3%–3.6% annualized). "Performance comes, performance goes. Fees never falter." An embedded sub-lesson: in 2012 Buffett and Protégé swapped their zero-coupon Treasuries (yielding 0.88%) for Berkshire B shares — recognizing bonds priced at ~100× earnings as the riskier long-term asset; Girls Inc. of Omaha received $2,222,279 rather than the $1M originally intended.
+- **The Bet final tally**: Ten-year bet concluded. S&P 500 index fund returned 125.8% (8.5% annualized); five funds-of-funds ranged from 2.8% to 87.7% cumulative (0.3%–6.5% annualized). "Performance comes, performance goes. Fees never falter." An embedded sub-lesson: in 2012 Buffett and Protégé swapped their zero-coupon Treasuries (yielding 0.88%) for Berkshire B shares — recognizing bonds priced at ~100× earnings as the riskier long-term asset; Girls Inc. of Omaha received $2,222,279 rather than the $1M originally intended.
 - **Insurance and float**: Float reached $114.5B. The AIG retroactive reinsurance deal ($10.2B premium for up to $20B of long-tail losses — a world-record single premium) inflated 2017 premium volume. Three hurricanes (Harvey, Irma, Maria) produced a $3.2B pre-tax underwriting loss, ending 14 consecutive years of underwriting profit.
 - **Acquisitions**: Market prices too high for new stand-alone deals. Bolt-ons completed: PFJ (38.6% stake), Clayton Homes (Oakwood + Harris Doyle), Shaw (U.S. Floors), HomeServices (Long and Foster, Houlihan Lawrence, Gloria Nilson). All-equity acquisition discipline held — no leverage-induced math.
 - **Succession formalized**: Ajit Jain (insurance) and Greg Abel (non-insurance) named Vice Chairmen in early 2018. Buffett and Munger focus on investments and capital allocation. "The character of each man matches his talents."
@@ -27,20 +27,20 @@ Published February 24, 2018. The letter closes three major threads: the 10-year 
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[bnsf]]
-- [[geico]]
-- [[midamerican-energy]]
-- [[clayton-homes]]
-- [[shaw-industries]]
-- [[national-indemnity]]
+- [[berkshire-hathaway]] — $116B cash and T-bills at yearend; $170B equity portfolio; GAAP net income rendered "useless" by new unrealized-gains rule; $20B pre-tax non-insurance operating income
+- [[bnsf]] — BNSF + BHE together = 44% of 2017 non-insurance pre-tax profit; primary infrastructure pillar alongside BHE
+- [[geico]] — part of the insurance empire that produced $114.5B float; endured hurricane losses alongside BH Reinsurance
+- [[midamerican-energy]] — (Berkshire Hathaway Energy) BNSF + BHE = 44% of non-insurance profit; anchor of the regulated-utility/energy segment
+- [[clayton-homes]] — bolt-on acquisitions in 2017: Oakwood Homes and Harris Doyle added to manufactured-housing footprint
+- [[shaw-industries]] — bolt-on: acquired U.S. Floors (luxury vinyl plank) in 2017 to broaden flooring offerings
+- [[national-indemnity]] — wrote world-record single-premium reinsurance deal: $10.2B from AIG for up to $20B of long-tail losses; central to the float milestone
 
 ## People mentioned
 
-- [[warren-buffett]]
-- [[charlie-munger]]
-- [[ajit-jain]]
-- [[greg-abel]]
+- [[warren-buffett]] — author; focuses on investments and capital allocation; warns on new GAAP unrealized-gains rule; closes the ten-year Bet
+- [[charlie-munger]] — vice chairman; co-focuses on investments and capital allocation with Buffett; praised in letter closing
+- [[ajit-jain]] — named Vice Chairman of insurance operations in early 2018; architect of the AIG reinsurance deal; "the character of each man matches his talents"
+- [[greg-abel]] — named Vice Chairman of non-insurance operations in early 2018; oversees BNSF, BHE, manufacturing, retail, and services
 
 ## Concepts introduced or discussed
 
@@ -53,6 +53,7 @@ Published February 24, 2018. The letter closes three major threads: the 10-year 
 - [[acquisition-criteria]] — all-equity evaluation; no leverage-induced math; M&A frenzy and CEO psychology critique
 - [[leverage-discipline]] — four major Berkshire price declines (59%, 37%, 49%, 51%) as the argument against borrowing to own stocks
 - [[underwriting-discipline]] — hurricane losses; catastrophe resilience; 14-year streak context
+- [[liquidity-fortress]] — restatement of the "never depend on the kindness of strangers" principle; T-bill holdings as protection against needing external funding even during extended market closures
 
 ## Notable quotes
 
@@ -62,7 +63,7 @@ Published February 24, 2018. The letter closes three major threads: the 10-year 
 
 > "It is a terrible mistake for investors with long-term horizons — among them, pension funds, college endowments and savings-minded individuals — to measure their investment 'risk' by their portfolio's ratio of bonds to stocks. Often, high-grade bonds in an investment portfolio increase its risk."
 
-> "It is insane to risk what you have and need in order to obtain what you don't need."
+> "Both of us believe it is insane to risk what you have and need in order to obtain what you don't need."
 
 > "The less the prudence with which others conduct their affairs, the greater the prudence with which we must conduct our own."
 

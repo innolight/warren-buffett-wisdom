@@ -10,6 +10,33 @@ Under each header, a short bulleted list of what changed: pages created, pages u
 
 ---
 
+## [2026-06-15] lint | berkshire-2019-letter post-ingest quality fixes
+
+Three findings from review-ingest corrected:
+
+- `sources/berkshire-2019-letter.md` — Keynes Notable Quote restored to full version: dropped opening sentences ("Well-managed industrial companies do not, as a rule, distribute to the shareholders the whole of their earned profits. In good years, if not in all years, they retain a part of their profits and put them back into the business. Thus there is an element of compound interest (Keynes' italics)…") had been truncated to start at "There is an element of compound interest…", omitting the mechanism (retained earnings reinvested) that causes the compound-interest effect
+- `sources/berkshire-2019-letter.md` — Connections: "first articulated in [[berkshire-1980-letter]]" corrected to "canonically articulated" (the look-through concept was introduced in 1977, deepened in 1978; 1980 is where the canonical articulation appears, per `look-through-earnings.md`)
+- `concepts/equity-return-expectations.md` — added `berkshire-2019-letter` to frontmatter sources list and "How it's discussed" source bullet; the 2019 letter makes a substantive real-portfolio comparison (20%+ on net tangible equity vs. 2.5% on 30-year Treasuries) that was listed as a concept in the source page but absent from the concept page itself; updated `updated` date to 2026-06-15
+
+## [2026-06-15] lint | berkshire-2017-letter post-ingest review
+
+Four corrections from /review-ingest audit:
+
+- **sources/berkshire-2017-letter.md** — Bet range in Key themes corrected: "2.8% to 42.3% cumulative (0.3%–3.6% annualized)" → "2.8% to 87.7% cumulative (0.3%–6.5% annualized)"; Fund B had been taken as the best performer, omitting Fund C (87.7% / 6.5% annualized)
+- **sources/berkshire-2017-letter.md** — Notable quote restored: "Both of us believe it is insane to risk what you have and need in order to obtain what you don't need." (dropped "Both of us believe" and capitalized "It", misattributing a joint Buffett+Munger statement as an impersonal declaration)
+- **sources/berkshire-2017-letter.md** — Added `[[liquidity-fortress]]` to Concepts section (raw letter lines 265–269 explicitly invoke the principle; concept page exists but was unlinked)
+- **concepts/investment-friction.md** — Fund C ten-year annualized corrected 7.1% → 6.5% in "The Bet — final verdict (2017)"; the 7.1% figure is the S&P's nine-year annualized rate from the 2016 update, misapplied to Fund C's ten-year result
+
+## [2026-06-15] ingest | berkshire-2019-letter
+
+- Created `sources/berkshire-2019-letter.md` — key themes: GAAP 1,900% swing (2018 $4B vs. 2019 $81.4B); Smith/Keynes retained-earnings intellectual origin; 10-company look-through table ($3.8B dividends + $8.3B retained); richest board governance essay in the series; P/C rate headwinds; float $129.4B; BHE 20-year retrospective; succession/will framing
+- Updated `concepts/look-through-earnings.md` — added "The 1924 intellectual origin: Smith and Keynes" section with Keynes' compound-interest quote; added 2019 entry to sources discussion (10-company retained-earnings table)
+- Updated `concepts/corporate-governance.md` — added "Board compensation, the NWD dynamic, and M&A process failure (2019)" section: fee-trap analysis, cocker-spaniel selection dynamic, M&A advisory capture, "barber" aphorism; updated sources list
+- Updated `concepts/float.md` — added 2018 and 2019 rows to cost-of-float table; added "P/C industry structural headwind: the low-rate investment trap (2019)" section; updated sources list
+- Updated `concepts/gaap-distortion.md` — added 2019 entry illustrating the two-year 1,900% GAAP swing as the clearest distortion example
+- Updated `wiki/index.md` — added berkshire-2019-letter entry
+- Skipped: GUARD Insurance (subsidiary success story, no standalone page; covered in source page); BHE wind/Iowa rates (year-specific; source page only); Buffett will/succession specifics (source page only; succession framing already in berkshire-conglomerate-model); share repurchases (criteria reiterated, nothing new; source page only); acquisition marriage analogy (evocative but not adding a new concept; source page only)
+
 ## [2026-06-15] note | concept pages: gaap-distortion, passive-investing
 
 - Created `concepts/gaap-distortion.md` — rule-mandated GAAP gaps between reported and economic figures; four specific rules (unrealized gains/losses, realized gains/losses, acquisition amortization, depreciation shortfall); Buffett's three-part remedy (operating earnings, normalized per-share earning power, Friday-evening releases); cross-links to `earnings-quality.md` for overlapping analytical content rather than duplicating it

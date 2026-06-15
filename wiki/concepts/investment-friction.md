@@ -117,7 +117,7 @@ The wealthy-investor paradox closes the loop on the Gotrocks narrative: the help
 
 ## The Bet — final verdict (2017)
 
-The 2017 letter delivers the complete ten-year tally. The S&P 500 index fund: +125.8% cumulative, 8.5% annualized. The five funds-of-funds: cumulative gains of 21.7%, 42.3%, 87.7%, 2.8%, and 27.0% — or 2.0%, 3.6%, 7.1%, 0.3%, and 2.4% annualized. The best single fund-of-funds (C, at 7.1% annualized) still trailed the index by more than a third in total-return terms.
+The 2017 letter delivers the complete ten-year tally. The S&P 500 index fund: +125.8% cumulative, 8.5% annualized. The five funds-of-funds: cumulative gains of 21.7%, 42.3%, 87.7%, 2.8%, and 27.0% — or 2.0%, 3.6%, 6.5%, 0.3%, and 2.4% annualized. The best single fund-of-funds (C, at 7.1% annualized) still trailed the index by more than a third in total-return terms.
 
 Buffett's verdict: *"Performance comes, performance goes. Fees never falter."*
 
