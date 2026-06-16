@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-06-15
-updated: 2026-06-15
-sources: [berkshire-2020-letter]
+updated: 2026-06-16
+sources: [berkshire-2020-letter, berkshire-2021-letter]
 tags: [technology, consumer-products, equity-investment, repurchases, moat]
 related: [[share-repurchases]], [[passive-ownership-advantage]], [[look-through-earnings]], [[berkshire-hathaway]], [[berkshire-2020-letter]]
 ---
@@ -54,11 +54,18 @@ The Apple investment therefore marks a meaningful expansion in Berkshire's publi
 | Ownership at yearend 2020 | 5.4% (higher than peak, despite the sale) |
 | Cost basis at yearend 2020 | $31,089M |
 | Market value at yearend 2020 | $120,424M |
-| Berkshire ranking | One of the "Big Four" most valuable assets; second or third in value, essentially tied with BNSF |
+| Shares at yearend 2021 | 907,559,761 (unchanged) |
+| Ownership at yearend 2021 | 5.55% (up from 5.39%, costlessly via Apple buybacks) |
+| Cost basis at yearend 2021 | $31,089M (unchanged) |
+| Market value at yearend 2021 | $161,155M |
+| GAAP dividends received (2021) | $785M |
+| Look-through share of Apple 2021 earnings | $5.6B (each 0.1% of Apple earnings = $100M) |
+| Berkshire ranking | "Runner-up Giant" by yearend 2021 market value |
 
 ## Sources discussing this entity
 
 - [[berkshire-2020-letter]] — the primary and most detailed treatment: Apple named as one of Berkshire's "Big Four" jewels; the full worked case for share-repurchase compounding across two levels (Apple and Berkshire simultaneously); investment figures as of yearend 2020
+- [[berkshire-2021-letter]] — Apple named "runner-up Giant" by yearend market value; 2021 figures: 907,559,761 shares at 5.55% ownership (up from 5.39%), cost basis $31,089M unchanged, market value $161,155M; the clearest look-through-earnings illustration in the series: GAAP records $785M in dividends while Berkshire's actual share of Apple's earnings was $5.6B; "each 0.1% of Apple's 2021 earnings amounted to $100 million"; Tim Cook singled out as a "brilliant CEO" who treats Apple product users as his first constituency
 
 ## Related
 

@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-24
 updated: 2026-06-16
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-2011-letter, berkshire-2019-letter, berkshire-2020-letter]
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-2011-letter, berkshire-2019-letter, berkshire-2020-letter, berkshire-2021-letter]
 tags: [accounting, equities, capital-allocation, intrinsic-value]
 related: [[warren-buffett]], [[acquisition-criteria]], [[intrinsic-value-vs-book-value]], [[owner-earnings]], [[coca-cola]]
 ---
@@ -114,6 +114,7 @@ See [[coca-cola]].
 - [[berkshire-2011-letter]] — Big Four (AmEx, Coke, IBM, Wells Fargo): $862M dividends reported vs. $3.3B Berkshire's share of their earnings; Buffett projects the four could produce $7B in annual earnings a decade out; the gap is the structural reason reported Berkshire income understates intrinsic compounding
 - [[berkshire-2019-letter]] — the Smith/Keynes intellectual genealogy; 10-company table showing Berkshire's share of dividends ($3,798M) vs. retained earnings ($8,332M) from the top holdings (AmEx, Apple, BofA, BNY Mellon, Coke, Delta, JPMorgan, Moody's, US Bancorp, Wells Fargo); retained earnings exceed dividends by more than 2:1; "Mr. Smith got it right"
 - [[berkshire-2020-letter]] — brief restatement of the retained-earnings doctrine at the letter's opening ($281B equity portfolio); "the huge sums that investees retain on our behalf become invisible" under GAAP; no new content beyond 2019, but Buffett explicitly cross-references: "as we pointed out in these pages last year"; the Apple repurchase compounding example (see [[share-repurchases]]) is the worked application of how retained-earnings deployment — via buybacks — enlarges Berkshire's look-through claim on Apple's future earnings without additional outlay
+- [[berkshire-2021-letter]] — the sharpest Apple look-through illustration in the series: GAAP records only $785M in Apple dividends received; Berkshire's 5.55% share of Apple's 2021 earnings was $5.6B — more than 7× the reported figure; "each 0.1% of Apple's 2021 earnings amounted to $100 million" gives the unit rate of look-through value invisible to GAAP; the stake itself grew costlessly from 5.39% to 5.55% via Apple's ongoing buybacks, so the look-through claim expanded without any additional Berkshire outlay
 
 ## Related
 

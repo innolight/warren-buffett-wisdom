@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-14
-updated: 2026-06-14
-sources: [berkshire-2000-letter, berkshire-1992-letter]
+updated: 2026-06-16
+sources: [berkshire-1992-letter, berkshire-2000-letter, berkshire-2021-letter]
 tags: [valuation, dcf, aesop, intrinsic-value]
 related: [[intrinsic-value-vs-book-value]], [[capital-allocation]], [[mr-market]], [[growth-and-value]], [[margin-of-safety]]
 ---
@@ -37,6 +37,7 @@ The three questions map directly onto the components of any discounted-cash-flow
 - [[berkshire-1992-letter]] — **the Williams formula foundation.** The essay that explicitly dissolves the growth/value dichotomy: "Growth is always a component in the calculation of value, constituting a variable whose importance can range from negligible to enormous and whose impact can be negative as well as positive." Restates the definition of investing as seeking value at least sufficient to justify price paid; labels the opposite (consciously paying more than calculated value, hoping to sell higher) as speculation. The Williams citation establishes the theoretical lineage.
 
 - [[berkshire-2000-letter]] — **the canonical Aesop formulation.** The 2000 letter is where Buffett reduces the framework to its three-question irreducible form and names Aesop as the source. The dot-com bubble is the foil: promoters were selling "birdless bushes" — confident assertions about cash flow timing and magnitude that the underlying businesses could not support. The same letter introduces Buffett's tongue-in-cheek name for the practical opportunity the framework creates: the **Inefficient Bush Theory (IBT)** — finding situations where even conservative answers to all three questions reveal that the current price is well below value. The IBT is not a competing theory; it is the framework applied in a market where Mr. Market occasionally misprices severely.
+- [[berkshire-2021-letter]] — the discount-rate variable restated in its most universal form: "Long-term interest rates that are low push the prices of all productive investments upward, whether these are stocks, apartments, farms, oil wells, whatever. Other factors influence valuations as well, but interest rates will always be important." This is Aesop's third question — the risk-free rate — applied simultaneously to every asset class. When the denominator falls, the present value of any future cash flow rises, which is why low rates make it structurally difficult to find attractive prices anywhere; Berkshire's 2021 finding of "little that excites us" in minority stakes is the direct practical consequence.
 
 ## Notable quotes
 

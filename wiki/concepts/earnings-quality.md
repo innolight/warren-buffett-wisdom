@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-15
-updated: 2026-06-15
-sources: [berkshire-2016-letter, berkshire-2017-letter, berkshire-2018-letter]
+updated: 2026-06-16
+sources: [berkshire-2016-letter, berkshire-2017-letter, berkshire-2018-letter, berkshire-2021-letter]
 tags: [accounting, earnings, management-integrity]
 related: [[owner-earnings]], [[incentive-compensation]], [[underwriting-discipline]]
 ---
@@ -55,6 +55,7 @@ The resulting framework: not all non-cash charges are alike. Acquisition amortiz
 - [[berkshire-2016-letter]] — Buffett catalogs the two favorite techniques managements use to inflate "adjusted earnings": restructuring cost exclusions and stock-based compensation exclusions. On restructuring: Berkshire has been restructuring since 1965, yet every year managements tell owners to ignore these costs. On SBC: excluding stock compensation from earnings is equivalent to saying compensation paid in equity is not a cost — a claim no CEO can honestly defend. The letter illustrates the absurdity via a hypothetical Berkshire "accounting laboratory" that reclassifies cash pay as "cash paid in lieu of SBC" to produce identically inflated adjusted figures. Buffett and Munger treat "always makes the numbers" as a red flag, not a compliment: businesses are too unpredictable for numbers to always be met, and a CEO focused on Wall Street will be tempted to manufacture them when surprises occur. Bad behavior is described as contagious — CEOs who overtly seek to report high numbers tend to cultivate a culture in which subordinates try to be "helpful."
 - [[berkshire-2017-letter]] — a new FASB rule mandates unrealized investment gains/losses in net income; with $170B in equities, quarterly swings will produce "truly wild and capricious swings" in GAAP net income, rendering the bottom-line "useless for analytical purposes"; contrasted with the existing realized-gains exclusion already in place; the two-category framework (management-originated vs. rule-originated distortion)
 - [[berkshire-2018-letter]] — Lincoln's dog-tail riddle applied to Adjusted EBITDA as the sharpest rhetorical frame for the naming-game problem; SBC distilled to one parenthetical question; restructuring exclusions addressed directly with Berkshire's own history as evidence; the amortization/depreciation split: acquisition amortization ($1.4B) is a legitimate add-back, depreciation ($8.4B) is not merely irrelevant but actually understates true economic maintenance cost in capital-intensive businesses
+- [[berkshire-2021-letter]] — BNSF's record $6B earnings cited as "the old-fashioned sort of earnings that we favor: a figure calculated after interest, taxes, depreciation, amortization and all forms of compensation"; immediately followed by a warning that "deceptive 'adjustments' to earnings — to use a polite description — have become both more frequent and more fanciful as stocks have risen"; the sharpest one-liner in the series: "Speaking less politely, I would say that bull markets breed bloviated bull"; no new analytical content beyond 2016–2018, but the juxtaposition — good earnings defined right next to bad earnings defined wrong — is the cleanest teaching moment in the letter series
 
 ## Related
 

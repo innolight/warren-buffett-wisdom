@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-15
-sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2016-letter, berkshire-2020-letter]
+updated: 2026-06-16
+sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2016-letter, berkshire-2020-letter, berkshire-2021-letter]
 tags: [capital-allocation, repurchases, signaling]
 related: [[stock-as-acquisition-currency]], [[intrinsic-value-vs-book-value]], [[dividend-policy]], [[washington-post]], [[incentive-compensation]], [[owner-orientation]]
 ---
@@ -141,6 +141,14 @@ The broader takeaway: "The math of repurchases grinds away slowly, but can be po
 
 The Apple example also anchors a pointed indictment of standard CEO repurchase behavior: "American CEOs have an embarrassing record of devoting more company funds to repurchases when prices have risen than when they have tanked. Our approach is exactly the reverse." Berkshire's $24.7 billion in 2020 buybacks — executed as markets were dislocated — is the demonstration, not a declaration. ([[berkshire-2020-letter]])
 
+## The float-per-share multiplier (2021)
+
+The 2021 letter adds a Berkshire-specific compounding mechanism that does not appear in prior letters: buybacks automatically increase float *per share*. Float is roughly constant in total (determined by insurance policy volume and reserves), but as the share count shrinks, each remaining share represents a larger claim on that total float. Over 2019–2021, Berkshire repurchased 9% of its shares ($51.7B total), and float-per-"A"-share rose 25% — from $79,387 to $99,497. ([[berkshire-2021-letter]])
+
+The mechanism stacks on the standard repurchase arithmetic: a buyback at a discount to intrinsic value increases per-share business value *and* simultaneously increases per-share float. Because float that costs nothing is economically equivalent to low-cost leverage, increasing it per share is equivalent to expanding per-share equity without issuing any stock. Both effects compound together in the holding company that owns both the operating businesses and the insurance operation generating the float.
+
+The 2021 letter also restates the three-path capital allocation hierarchy: (1) internal growth, (2) minority stakes in excellent public companies, (3) share repurchases. Repurchases are not the preferred or primary path — they are the appropriate destination for capital when both better alternatives are either unavailable (no internal opportunities large enough) or priced away (low interest rates have driven productive-asset prices across all classes higher). "Long-term interest rates that are low push the prices of all productive investments upward, whether these are stocks, apartments, farms, oil wells, whatever." In 2021, this dynamic left repurchases as the "mildly attractive alternative."
+
 ## The missing price ceiling
 
 A discipline any buyer of an outside business would apply automatically is almost universally absent from corporate repurchase announcements: a stated price above which buybacks will stop. Most programs name a dollar amount or share count to be repurchased but set no upper price limit — implicitly treating a $30 stock and a $90 stock as equally attractive targets for the same program.
@@ -164,6 +172,7 @@ The objection conflates financial-market activity with real-economy investment. 
 - [[berkshire-2012-letter]] — ceiling raised 110% → 120% of book; "disciplined repurchases are the surest way to use funds intelligently"; $1.3B of repurchases executed in 2012
 - [[berkshire-2016-letter]] — the three-partner arithmetic illustration; the CEO declaration ("what is smart at one price is stupid at another"); two exceptions when underpriced shares should still not be repurchased; the 120%-of-book authorization interpreted (not "propping"; blend meaningful volume with market restraint); the missing price-ceiling discipline in most corporate announcements; the "un-American" charge rebutted
 - [[berkshire-2020-letter]] — the Apple double-compounding example (5.2% → 5.4% despite selling a portion); CEOs' anti-pattern of buying high rather than low; $24.7B Berkshire buybacks (~5% of shares)
+- [[berkshire-2021-letter]] — the float-per-share multiplier: buybacks automatically increase float per share; 9% share-count reduction over 2019–2021 produced 25% float-per-"A"-share growth ($79,387 → $99,497); the three-path hierarchy (internal growth > minority stakes > buybacks) with 2021's explicit ranking; $51.7B of repurchases over 2020–2021 retiring 9% of outstanding shares; the high-class investor base noted as a natural structural limiter on buyback volume (low turnover means fewer sellers at discounted prices)
 
 ## Related
 

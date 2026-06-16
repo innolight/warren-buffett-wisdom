@@ -52,6 +52,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2018-letter]] — book value formally retired as headline scorecard; Five Groves valuation structure; American Tailwind essay; adjusted-EBITDA "dog's tail" critique
 - [[berkshire-2019-letter]] — Smith/Keynes retained-earnings origin story; 1,900% GAAP swing illustration; richest board governance essay in the series (NWD fees, cocker-spaniel dynamics, M&A advisory capture)
 - [[berkshire-2020-letter]] — "Two Strings to Our Bow" conglomerate failure essay; Apple double-compounding as the definitive repurchase illustration; $24.7B Berkshire buybacks; PCC write-down as transparent valuation-mistake admission
+- [[berkshire-2021-letter]] — three-path capital allocation hierarchy; float-per-share compounding via buybacks; Apple as the definitive look-through-earnings illustration ($785M GAAP vs. $5.6B look-through); infrastructure scale ($158B PP&E); "bull markets breed bloviated bull"
 
 ## Entities
 

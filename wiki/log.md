@@ -8,6 +8,30 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-16] lint | berkshire-2021-letter post-ingest review
+
+Two quote corrections from /review-ingest audit:
+
+- `sources/berkshire-2021-letter.md` — **Ajit Jain hiring quote restored to full version**: quote ended at "That was my lucky day." — dropped continuation "Ajit actually was as perfect a choice as could have been made. Better yet, he continues to be – 35 years later." The dropped text shifts the framing from pure luck to validated enduring excellence, which is the more load-bearing claim
+- `sources/berkshire-2021-letter.md` — **Paul Andrews/TTI paraphrase attribution added**: quote "After a year of pondering the alternatives, I want to sell to Berkshire because you are the only guy left." was presented as verbatim; raw letter explicitly flags it as a paraphrase ("in far more tactful phrasing than this"); attribution clause added
+
+---
+
+## [2026-06-16] ingest | berkshire-2021-letter
+
+- **Created** `wiki/sources/berkshire-2021-letter.md` — year-specific chronology; key themes: three-path value-creation hierarchy, $51.7B repurchases retiring 9% of shares, float-per-share compounding via buybacks, Apple look-through earnings ($785M GAAP vs. $5.6B), infrastructure scale ($158B PP&E), TTI→BNSF "preferred home" acquisition chain
+- **Updated** `wiki/concepts/float.md` — 2021 source entry: float at $147B (+$9B), 55-year arc complete, stickiness reaffirmed, Ajit Jain luck story, float-per-share/repurchase connection (first appearance in letters)
+- **Updated** `wiki/concepts/share-repurchases.md` — new "float-per-share multiplier" body section; 2021 source entry: 9% share-count reduction → 25% float-per-share growth; three-path hierarchy; $51.7B total; high-class investor base as natural limiter
+- **Updated** `wiki/concepts/look-through-earnings.md` — 2021 source entry: Apple GAAP $785M vs. $5.6B look-through (7×); 5.39%→5.55% stake growth costlessly; each 0.1% of Apple earnings = $100M unit rate
+- **Updated** `wiki/entities/apple.md` — added 2021 investment figures (5.55% stake, $161,155M market value, $785M GAAP/$5.6B look-through); "runner-up Giant" designation; 2021 source entry
+- **Updated** `wiki/concepts/berkshire-conglomerate-model.md` — 2021 source entry: $158B PP&E infrastructure scale; TTI "preferred home" story and BNSF chain as the most vivid illustration of reputation-as-deal-sourcing-advantage
+- **Updated** `wiki/concepts/earnings-quality.md` — 2021 source entry: BNSF earnings as the "old-fashioned sort we favor"; "bull markets breed bloviated bull"; good earnings defined right next to bad earnings defined wrong
+- **Updated** `wiki/concepts/capital-allocation.md` — 2021 source entry: three-path hierarchy ranked; interest-rate mechanism closing the minority-stakes path; repurchases as the 2020–2021 alternative
+- **Updated** `wiki/concepts/valuation-framework.md` — 2021 source entry: discount-rate universality restated; low rates push all productive-asset prices higher simultaneously
+- **Skipped:** BNSF entity update (record $6B earnings quantitative only; no new enduring principle), BHE entity page (record $4B earnings and renewable energy angle — quantitative milestone, no page created), Greg Abel / Tim Cook / Paul Andrews people pages (no shaping new content), TTI entity page (illustrative case, not a canonical entity)
+
+---
+
 ## [2026-06-16] lint | berkshire-2020-letter post-ingest review
 
 Six findings from /review-ingest corrected:

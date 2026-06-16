@@ -12,7 +12,7 @@ Follow the **Ingest workflow** defined in `CLAUDE.md` (Workflows → Ingest). Th
 3. **Filter against the scope axes** (CLAUDE.md → Editorial scope) — keep only canonical entities, shaping people, and timeless concepts. Be willing to skip aggressively.
 4. **Discuss takeaways with the user before writing** — pause and wait for direction. Explicitly call out what you're choosing *not* to create pages for, and why.
 5. Create the source page in `wiki/sources/<slug>.md` — this is the home for year-specific detail and chronology.
-6. Create or update in-scope entity, person, and concept pages. Update existing pages only where the new source adds **durable insight**, not year-by-year recaps.
+6. Create or update in-scope entity, person, and concept pages. Update existing pages only where the new source adds **durable insight**, not year-by-year recaps. For every concept or entity page touched, add an entry to its **"How it's discussed in sources"** section — even if no other section of that page changes.
 7. Update `wiki/index.md`
 8. Append a log entry to `wiki/log.md` (`## [YYYY-MM-DD] ingest | <slug>`), noting what was deliberately skipped.
 9. Report what was created, updated, and skipped.

@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-14
-updated: 2026-06-14
-sources: [berkshire-2014-letter, berkshire-2020-letter]
+updated: 2026-06-16
+sources: [berkshire-2014-letter, berkshire-2020-letter, berkshire-2021-letter]
 tags: [capital-allocation, governance, berkshire, conglomerate, management-system, succession]
 related: [[berkshire-hathaway]], [[capital-allocation]], [[owner-orientation]], [[institutional-imperative]], [[charlie-munger]], [[ajit-jain]], [[stock-as-acquisition-currency]], [[liquidity-fortress]]
 ---
@@ -126,6 +126,7 @@ The person built the system — but the system outlasts the person.
 
 - [[berkshire-2014-letter]] — the primary and most systematic treatment: Buffett's "Berkshire Today" and "The Next 50 Years" essays; Munger's standalone "Vice Chairman's Thoughts — Past and Future"; all fifteen Berkshire System principles; the four-factor diagnosis of why Berkshire succeeded; the succession architecture
 - [[berkshire-2020-letter]] — "Two Strings to Our Bow" essay: the access-failure chain (best businesses won't sell → adverse selection into mediocre targets → control premiums → overvalued-stock currency → deceptive accounting → collapse); the non-controlling minority stake as the structural solution; "owning a non-controlling portion of a wonderful business is more profitable, more enjoyable and far less work than struggling with 100% of a marginal enterprise"
+- [[berkshire-2021-letter]] — two reinforcing data points: (1) infrastructure scale — Berkshire owns more U.S.-based property, plant, and equipment ($158B at yearend 2021) than any other American corporation, an unintended but now definitive consequence of compounding capital into productive assets for decades; (2) Paul Andrews / TTI as the most vivid "preferred home" illustration in the series — Andrews chose Berkshire after a year of weighing competitors (would fire associates) and LBO firms (would flip the business), concluding Berkshire was "the only guy left"; that reputation compounded: TTI led to the BNSF acquisition four years later, Berkshire's largest-ever deal
 
 ## Related
 
