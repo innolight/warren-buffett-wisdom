@@ -2,9 +2,21 @@
 
 A curated, cross-linked wiki that distills **timeless investment lessons** distilled from 48 Berkshire Hathaway shareholder letters (1977–2024) authored by Warrant Buffet.
 
-This is **not** a comprehensive transcript of the letters. It is opinionated: it captures the principles and mental models that will still matter in 20 years — the *how to think* of value investing — and deliberately skips year-bound market commentary, dead accounting rules, and passing mentions. Each idea lives on one page, cross-linked to the entities, people, and source documents that illustrate it.
-
 The wiki is written for **retail investors learning to invest like Warren Buffett**: someone with a brokerage account who wants the durable principles, not the insurance-conglomerate machinery they can't directly use.
+
+## Highlights by era
+
+**1977–1985 — The foundation years**: What a business is worth, what to pay for it, and the insurance float that funds the rest.
+
+**1986–1995 — The compounding years**: Coca-Cola, the moat, Mr. Market, and the pivot from cheap "cigar butts" to wonderful businesses.
+
+**1996–2003 — The bubble and aftermath**: Sitting out the dot-com mania, surviving 9/11, and calling derivatives "financial weapons of mass destruction."
+
+**2004–2010 — Scale and crisis**: Great/Good/Gruesome businesses, the cost of Wall Street's "helpers," and buying boldly through the 2008 panic.
+
+**2011–2019 — Legacy and succession**: Why productive assets beat gold and cash, winning The Bet against hedge funds, and building Berkshire to outlast its founder.
+
+**2020–2024 — Late Buffett**: Doing nothing through COVID, Apple as the textbook buyback, a record cash pile, and farewell to Charlie Munger.
 
 ## How to read this wiki
 
