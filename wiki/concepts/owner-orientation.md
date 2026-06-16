@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-06-16
-sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2020-letter]
+sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2020-letter, berkshire-2024-letter]
 tags: [governance, ownership, capital-allocation, communication]
 related: [[acquisition-criteria]], [[stock-as-acquisition-currency]], [[dividend-policy]], [[incentive-compensation]], [[institutional-imperative]]
 ---
@@ -88,8 +88,17 @@ The 2020 letter traces the partnership ethos to its roots most completely. Befor
 
 When BPL dissolved in 1969, partners received Berkshire shares pro-rata. The 1983 merger of Berkshire and Blue Chip Stamps doubled the shareholder base (1,900 to 2,900) and introduced the partnership principles formally: "Although our form is corporate, our attitude is partnership." "That defined our relationship in 1983; it defines it today." ([[berkshire-2020-letter]])
 
+## The "report" ethic and candor about mistakes (2024)
+
+The 2024 letter is, among other things, the clearest late-period statement of owner's-manual principle #12 (candor). Buffett opens by distinguishing a mandated public filing from a *report*: "'Report' … implies a greater responsibility … we owe you additional commentary about what you own and how we think. Our goal is to communicate with you in a manner that we would wish you to use if our positions were reversed." This is the partnership inversion of principle #1 — write to owners as you would want a manager to write to you.
+
+Candor is operationalized as the willingness to name mistakes. Buffett follows Tom Murphy's rule — "praise by name, criticize by category" — and observes that across his 2019–23 letters he used "mistake" or "error" 16 times, "while many other huge companies have never used either word over that span." He flags the cost of the opposite taboo: he has sat on boards where "'mistake' or 'wrong' were forbidden words," a posture "implying managerial perfection" that "always made me nervous." The deeper hazard is self-deception, and it is why candor is a *governance* discipline rather than a courtesy — the same point principle #12 made in 1983 ("The CEO who misleads others in public may eventually mislead himself in private"), now restated for the succession: Greg Abel "understands that if you start fooling your shareholders, you will soon believe your own baloney and be fooling yourself as well."
+
+Candor about mistakes implies acting on them. Buffett invokes Munger's term for the failure to do so — **"thumb-sucking"** — and calls delay "the cardinal sin": "Problems … cannot be wished away. They require action, however uncomfortable that may be." The owner-oriented manager not only reports errors honestly but corrects them promptly; an offsetting consolation is that "mistakes fade away; winners can forever blossom" (see [[cigar-butts-vs-wonderful-businesses]]). The succession passage closes the loop: an owner-oriented culture is durable only if the next CEO shares "the Berkshire creed that a 'report' is what a Berkshire CEO annually owes to owners." See [[greg-abel]]. ([[berkshire-2024-letter]])
+
 ## How it's discussed in sources
 
+- [[berkshire-2024-letter]] — the "report" vs. mandated-filing distinction ("as we would wish you to use if our positions were reversed"); candor about mistakes as governance ("praise by name, criticize by category"; "mistake/error" used 16 times in 2019–23; the forbidden-word boardroom taboo); Munger's "thumb-sucking" as the cardinal sin of delay; fooling shareholders → fooling yourself; the creed carried forward to Greg Abel
 - [[berkshire-1983-letter]] — debut; the 13 principles published as the introduction to the doubled shareholder base after the Blue Chip merger
 - [[berkshire-1984-letter]] — repeated emphasis on the owner-as-manager identity ("we receive our rewards as owners, not managers"); the dividend-policy framework operationalizes principle #9; the repurchase doctrine operationalizes principle #10's signaling dimension
 - [[berkshire-1998-letter]] — the operating-manager mandate in its canonical three-part form ("own 100% / sole family asset / no sale for a century"); applied to Berkshire's operating CEOs; the GEICO pitch to acquiree CEOs

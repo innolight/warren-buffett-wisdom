@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-13
-updated: 2026-06-15
-sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2016-letter]
+updated: 2026-06-16
+sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2016-letter, berkshire-2024-letter]
 tags: [insurance, underwriting, discipline]
 related: [[float]], [[ajit-jain]], [[super-cat-insurance]], [[institutional-imperative]], [[general-re]]
 ---
@@ -97,6 +97,14 @@ The fourth discipline is where most insurers fail. The letter's analogy: "Many i
 
 The accompanying anecdote sharpens the fourth test: a man driving the wrong way down the Interstate, who, when his wife calls to warn him, replies: "Mabel, they don't know the half of it — it's not just one car, there are hundreds of them." An underwriter writing at inadequate prices in a competitive market is the insurance analogue: the crowd going the same direction offers no comfort about whether the direction is right. ([[berkshire-2011-letter]])
 
+## Disciplined pessimism: "nervous, but not paralyzed" (2024)
+
+The 2024 letter distills underwriting discipline into a temperament rather than a checklist, and states the walk-away rule in its sharpest moral terms. Mike Goldberg — the Berkshire executive who recruited [[ajit-jain]] — supplies the standard: "We want our underwriters to daily come to work nervous, but not paralyzed." Buffett generalizes it: "Properly pricing P/C insurance is part art, part science and is definitely not a business for optimists." Pessimism is a job qualification here precisely because of the long-tail lag — the cost of the product is unknown for years or decades, so an optimistic (or dishonest) underwriter can report "large but fictitious profits … even decades" before the truth arrives.
+
+The fourth discipline — willingness to walk away — is restated as a survival rule: "we also need to shrink when prices are inadequate. We must never write inadequately-priced policies in order to stay in the game. **That policy is corporate suicide.**" The duty runs in both directions: "It's our job to price to absorb these [losses] and unemotionally take our lumps when surprises develop. It's also our job to contest 'runaway' verdicts, spurious litigation and outright fraudulent behavior."
+
+The letter also names the structural advantages that let Berkshire hold the line where others can't: it "can financially and psychologically handle extreme losses without blinking," is "not dependent on reinsurers" (a "material and enduring cost advantage"), employs "outstanding managers (no optimists)," and can offer capacity "no private insurer has the willingness to take on." Crucially, the discipline is paired with owner-aligned incentives — "if you lose money, so do we" — which "encourages caution but does not ensure foresight." See [[incentive-compensation]]. ([[berkshire-2024-letter]])
+
 ## What counts
 
 > Just as is the case in investing, insurers produce outstanding long-term results primarily by avoiding dumb decisions, rather than by making brilliant ones. ([[berkshire-2001-letter]])
@@ -115,6 +123,7 @@ The accompanying anecdote sharpens the fourth test: a man driving the wrong way 
 - [[berkshire-2011-letter]] — four disciplines explicitly enumerated; the "Albert and Mabel" anecdote as illustration of why the fourth discipline (walk away) is the one most insurers flunk; General Re cited as the positive-turnaround example, now a "treasure" under Tad Montross
 - [[berkshire-2012-letter]] — 10th consecutive underwriting-profit year ($1.625B; $18.6B cumulative); General Re under Tad Montross explicitly confirmed as a second positive model: "float has been better than cost-free under his leadership"; four disciplines restated as the conditions for "a sound insurance operation"
 - [[berkshire-2013-letter]] — 11th consecutive underwriting-profit year ($3.089B); the four disciplines restated as Tad Montross's operating code; General Re named "a gem" after years of repair. The fourth-discipline failure mode stated most precisely: "Many insurers pass the first three tests and flunk the fourth. They simply can't turn their back on business that is being eagerly written by their competitors. That old line, 'The other guy is doing it, so we must as well,' spells trouble in any business, but in none more so than insurance."
+- [[berkshire-2024-letter]] — discipline framed as temperament: "not a business for optimists"; Mike Goldberg's "nervous, but not paralyzed"; the walk-away rule as survival ("shrink when prices are inadequate … never write inadequately-priced policies … corporate suicide"); long-tail accounting danger "if the CEO is an optimist or a crook"; structural advantages (extreme-loss capacity, no reinsurer dependence, owner-aligned "if you lose money, so do we")
 - [[berkshire-2016-letter]] — 14th consecutive underwriting-profit year ($2.131B across four segments; $28B cumulative since 2003). The sharpest characterization of Berkshire's underwriting culture anywhere in the letter series: "At Berkshire it is a religion, Old Testament style." That discipline is also the lesson of succession: Kara Raiguel replaces Tad Montross at General Re, and Buffett's assurance is cultural, not personal — "Tad never listened to that nonsensical excuse for sloppy underwriting, and neither will Kara." The implication: the test for an insurance successor is not credentials but demonstrated refusal to rationalize inadequate pricing.
 
 ## Related

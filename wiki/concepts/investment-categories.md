@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-14
-updated: 2026-06-14
-sources: [berkshire-2011-letter, berkshire-2013-letter, berkshire-2014-letter]
+updated: 2026-06-16
+sources: [berkshire-2011-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2024-letter]
 tags: [investment-philosophy, asset-allocation, purchasing-power, gold, productive-assets]
 related: [[risk-vs-volatility]], [[bonds-and-inflation]], [[economic-goodwill]], [[intrinsic-value-vs-book-value]], [[equity-return-expectations]]
 ---
@@ -94,8 +94,15 @@ The 2013 letter extends the productive-asset category with the most detailed pra
 
 The underlying logic: most investors — even professionals — cannot predict which businesses will outperform. But American business in aggregate will do well over time. Owning the aggregate (via low-cost index fund) while retaining a cash buffer (short-term bonds) is the appropriate strategy for the investor who cannot sensibly evaluate individual businesses. "The know-nothing investor who both diversifies and keeps his costs minimal is virtually certain to get satisfactory results."
 
+## Productive assets over cash, permanently (2024)
+
+The 2024 letter applies the three-category framework as a statement of permanent policy in response to commentary about Berkshire's large cash balance. "Despite what some commentators currently view as an extraordinary cash position … the great majority of your money remains in equities. That preference won't change." The marketable portfolio fell from $354B to $272B during 2024, but the value of the controlled (non-quoted) businesses rose and "remains far greater than the value of the marketable portfolio." The settled rule: "Berkshire will never prefer ownership of cash-equivalent assets over the ownership of good businesses, whether controlled or only partially owned."
+
+The justification is pure Category-3 reasoning. Category-1 currency-based instruments offer no real safety: "Paper money can see its value evaporate if fiscal folly prevails … Fixed-coupon bonds provide no protection against runaway currency." Productive assets do, because their output is desired regardless of the monetary medium: "Businesses, as well as individuals with desired talents … will usually find a way to cope with monetary instability as long as their goods or services are desired by the country's citizenry." Buffett extends the test to human capital — lacking "athletic excellence, a wonderful voice, medical or legal skills," he "had to rely on equities throughout my life. In effect, I have depended on the success of American businesses." The cash Berkshire does hold is the operational-necessity exception the framework already allows, not a preference — consistent with [[liquidity-fortress]]. ([[berkshire-2024-letter]])
+
 ## How it's discussed in sources
 
+- [[berkshire-2024-letter]] — the framework as permanent policy: equities (controlled + marketable) over cash "forever"; Category-1 critique restated ("paper money can … evaporate if fiscal folly prevails"; "fixed-coupon bonds provide no protection against runaway currency"); productive businesses and talented people "cope with monetary instability"; cash as necessity, not preference
 - [[berkshire-2011-letter]] — the definitive articulation; three categories fully developed; gold vs. Pile B thought experiment; purchasing-power context (dollar −86% since 1965)
 - [[berkshire-2013-letter]] — the farm and NYU real estate worked examples; focus-on-productivity rule; ignore-macro rule; liquidity-as-benefit-not-curse insight; 90/10 will directive as the distilled non-professional prescription
 - [[berkshire-2014-letter]] — 50-year empirical endorsement of the three-category framework across the full arc of Berkshire's history; productive assets confirmed as "far safer" than currency-denominated instruments over that span; the conclusion explicitly projected forward: "That was also true in the preceding half-century, a period including the Great Depression and two world wars. Investors should heed this history. To one degree or another it is almost certain to be repeated during the next century"; sharpens the Category 1 critique with the strongest retrospective evidence in the series

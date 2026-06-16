@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-15
 updated: 2026-06-16
-sources: [berkshire-2016-letter, berkshire-2017-letter, berkshire-2018-letter, berkshire-2019-letter, berkshire-2020-letter, berkshire-2023-letter]
+sources: [berkshire-2016-letter, berkshire-2017-letter, berkshire-2018-letter, berkshire-2019-letter, berkshire-2020-letter, berkshire-2023-letter, berkshire-2024-letter]
 tags: [accounting, gaap, reporting, operating-earnings]
 related: [[earnings-quality]], [[owner-earnings]], [[look-through-earnings]]
 ---
@@ -38,6 +38,7 @@ The analytical response Buffett articulates is threefold. First, use **operating
 - [[berkshire-2019-letter]] — the clearest two-year illustration of the rule's distorting power: 2018 GAAP earnings $4B (down market; unrealized losses of $20.6B ran through income); 2019 GAAP earnings $81.4B (up market; unrealized gains of $53.7B ran through income) — a "crazy 1,900% increase in GAAP earnings" from accounting mechanics while operating earnings were "little changed"; the rule described as a "monumental shift" in accounting thinking that requires enshrinement of "capricious fluctuations" in quarterly and annual reported earnings; Buffett and Munger reiterate: focus on operating earnings and ignore both realized and unrealized investment gains or losses
 - [[berkshire-2023-letter]] — the most rhetorically forceful restatement of the unrealized-gains distortion: GAAP net income of $90B (2021), –$23B (2022), $96B (2023) versus operating earnings of $27.6B / $30.9B / $37.4B; the mandated figure called "worse-than-useless," sanctified by FASB, SEC, and Deloitte yet useless "in evaluating a business"; unrealized gains "at times can exceed $5 billion a day"; the pre-2018 convention noted as the prior rule ("the 'improvement' was mandated" in 2018; "Galileo's experience … should have taught us not to mess with mandates from on high"); operating earnings offered "only as a starting point"; **EBITDA declared "a banned measurement at Berkshire."** A late-period summary, not a new framework
 - [[berkshire-2020-letter]] — introduces a fifth distortion type: the $11B after-tax PCC goodwill write-down passes through GAAP net income as a loss but signals a *valuation error*, not a business failure; "I was wrong, however, in judging the average amount of future earnings and, consequently, wrong in my calculation of the proper price to pay for the business" — the impairment diagnoses the acquisition price, not the business quality; a large write-down can dominate GAAP net income and be mistaken for operating deterioration; complete 2020 GAAP breakdown: $21.9B operating + $4.9B realized gains + $26.7B unrealized gains − $11B write-down = $42.5B
+- [[berkshire-2024-letter]] — a one-line late-period restatement: record operating earnings ($47.4B) "endlessly" emphasized over the GAAP figure because operating earnings exclude capital gains/losses (realized or unrealized) that "swing wildly and unpredictably" year to year; "EBITDA, a flawed favorite of Wall Street, is not for us"
 
 ## Related
 

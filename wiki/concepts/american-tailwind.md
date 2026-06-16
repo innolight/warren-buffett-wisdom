@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-15
 updated: 2026-06-16
-sources: [berkshire-2018-letter, berkshire-2023-letter]
+sources: [berkshire-2018-letter, berkshire-2023-letter, berkshire-2024-letter]
 tags: [investing, long-term, america, compounding, optimism]
 related: [[warren-buffett]], [[investment-friction]], [[tailwinds-vs-headwinds]], [[berkshire-2018-letter]]
 ---
@@ -68,8 +68,17 @@ The argument is that the institutional, legal, and social conditions that make c
 
 The statement is prospective. The 11.8% historical compound rate is not a promise; the claim is only that the directional force — an economy that grows in aggregate as population, productivity, and ingenuity compound over time — is likely to persist. The practical implication is that investors who hold diversified American equity over long periods and minimize friction (fees, taxes, transaction costs) will likely benefit from this force regardless of the wisdom of their individual stock selections.
 
+## The tax record as a compounding parable (2024)
+
+The 2024 letter expresses the American Tailwind from an unusual angle — not portfolio return, but the cumulative *tax* a relentlessly reinvesting company throws off. Sixty years after Buffett took control of a dying textile mill that "in 1965 … did not pay a dime of income tax," Berkshire made four 2024 payments to the IRS totaling **$26.8 billion** — "about 5% of what all of corporate America paid," and more than the U.S. Treasury "had ever received from any company — even the American tech titans." Cumulative payments since 1965 now exceed **$101 billion**, "miniscule in the first decade."
+
+The enabling mechanism is the same one that drives the equity-compounding case: relentless reinvestment. Across 1965–2024, Berkshire paid **exactly one cash dividend** — $101,755 (10¢ per A share) on January 3, 1967, which Buffett calls "a bad dream." "For sixty years, Berkshire shareholders endorsed continuous reinvestment and that enabled the company to build its taxable income." The growth came from "a sustained culture of savings, combined with the magic of long-term compounding" — reinvestment that "originally … was tiny, almost meaningless, but over time … mushroomed."
+
+Buffett generalizes the micro-story into the macro one. "America is Exhibit A": over a "mere 235 years," from "a base of only four million people," the willingness of Americans "to consistently save and then … wisely deploy the capital thus made available" produced "a quantity and quality of output beyond the dreams of any colonist." Berkshire "participated in the American miracle … by foregoing dividends." The humility note from 2018 recurs in a new form: "America would have been every bit the success it has been if Berkshire had never existed," whereas "Berkshire would not have achieved its results in any locale except America." And the tailwind's precondition is named — a stable currency: it "requires both wisdom and vigilance" from government, because "paper money can see its value evaporate if fiscal folly prevails." ([[berkshire-2024-letter]])
+
 ## How it's discussed in sources
 
+- [[berkshire-2024-letter]] — the American Tailwind told through the tax ledger: 60 years of reinvestment (one dividend ever, 1967) compounding into a record $26.8B 2024 tax payment / $101B+ cumulative; "America is Exhibit A"; reinvestment "mushroomed" via "a sustained culture of savings … and the magic of long-term compounding"; the Berkshire-needed-America (not vice versa) humility note; stable currency as the tailwind's precondition ("fiscal folly")
 - [[berkshire-2023-letter]] — a compact restatement: the March 11, 1942 first stock purchase reprised (Dow below 100 that day, "now … around 38,000"); "America has been a terrific country for investors. All they have needed to do is sit quietly, listening to no one"; "the American tailwind and the power of compound interest" named as the force that rewards "a couple of good decisions during a lifetime"; sister Bertie's 43-year buy-and-hold as the behavioral embodiment
 - [[berkshire-2018-letter]] — the primary source, where the concept is named and developed; introduced as the culminating section of Buffett's investing essay; the 1942 Cities Service investment as the autobiographical entry point; the 77-year S&P compounding case; the fee-drag calculation; gold vs. American business; the debt-hysteria check; bipartisan prosperity across 14 presidencies; the Wren epitaph; the Normandy humility point; the prospective forward claim
 

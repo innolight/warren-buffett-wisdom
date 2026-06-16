@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-06-16
-sources: [berkshire-1987-letter, berkshire-1994-letter, berkshire-2000-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2021-letter]
+sources: [berkshire-1987-letter, berkshire-1994-letter, berkshire-2000-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2021-letter, berkshire-2024-letter]
 tags: [capital-allocation, ceo-skill, management, intrinsic-value]
 related: [[intrinsic-value-vs-book-value]], [[share-repurchases]], [[stock-as-acquisition-currency]], [[institutional-imperative]], [[acquisition-criteria]]
 ---
@@ -117,6 +117,7 @@ Both moves illustrate a core capital-allocation principle: the relevant question
 - [[berkshire-2002-letter]] — junk-bond deployment at scale; 10% pre-tax hurdle made explicit; "successful investing requires inactivity" except when conditions genuinely warrant action
 - [[berkshire-2003-letter]] — junk-bond round-trip vindicated; foreign-currency position introduced as asset-class-agnostic capital deployment; "our capital is underutilized now, but that will happen periodically — it's painful, but not as painful as doing something stupid"
 - [[berkshire-2021-letter]] — the three-path hierarchy made explicit and ranked: (1) internal growth in controlled businesses ("far better returns than acquisitions" but "small compared to Berkshire's resources"), (2) minority stakes in excellent public companies (offer "little that excites us" because low interest rates have pushed prices across all productive-asset classes higher), (3) share repurchases (the "mildly attractive alternative" that absorbed $51.7B over 2020–2021); the interest-rate mechanism is stated directly: "Long-term interest rates that are low push the prices of all productive investments upward, whether these are stocks, apartments, farms, oil wells, whatever" — low rates close the minority-stakes path while making repurchases more attractive by comparison
+- [[berkshire-2024-letter]] — mistakes defined as "capital allocation gone wrong," in two forms: misjudging "the future economics of a business" and misjudging "the abilities or fidelity of the managers"; the correct-them-quickly imperative restated as Munger's "thumb-sucking" (the cardinal sin of delay) — see [[owner-orientation]]; a late-period restatement, not a new framework
 
 ## Related
 

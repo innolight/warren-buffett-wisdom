@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-13
-sources: [berkshire-1985-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1994-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2005-letter]
+updated: 2026-06-16
+sources: [berkshire-1985-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1994-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2005-letter, berkshire-2024-letter]
 tags: [compensation, options, capital-allocation, agency, owner-orientation]
 related: [[owner-orientation]], [[share-repurchases]], [[stock-as-acquisition-currency]], [[institutional-imperative]], [[ralph-schey]], [[scott-fetzer]], [[geico]]
 ---
@@ -195,8 +195,23 @@ Buffett identified a systemic contagion mechanism for compensation escalation. C
 
 The "play-money" framing captures the board-room dynamic: in a compensation negotiation where neither side's personal finances are at stake, neither party has a personal incentive to say "Less!" Berkshire's counter-structure is designed to restore that incentive: the CEO takes a nominal salary with no options; directors receive nominal fees, no D&O insurance, and hold large personally-purchased stakes. "If you can't tell whose side someone is on, they are not on yours." See [[berkshire-2003-letter]].
 
+## The Pete Liegl deal: pay on incremental earnings (2024)
+
+The 2024 letter supplies the simplest possible illustration of the principle, struck in a single meeting at the 2005 acquisition of Forest River. Pete Liegl, the company's 100% owner, set his own terms — and they happened to encode every feature Buffett had been arguing for since 1985:
+
+> Well, I looked at Berkshire's proxy statement and I wouldn't want to make more than my boss, so pay me $100,000 per year. … But we will earn X (he named a number) this year, and I would like an annual bonus of 10% of any earnings above what the company is now delivering. ([[berkshire-2024-letter]])
+
+Three structural features make it textbook:
+
+1. **The bonus is paid only on *incremental* earnings** — above what the business was already delivering — so the manager is rewarded for value he actually adds, not for the run-rate he inherited. This is the same logic as the GEICO "seasoned business" formula and the Schey-Scott Fetzer hurdle: applause only for genuine improvement.
+2. **A capital-charge offset.** Buffett added one term: "if Forest River makes any significant acquisitions we will make an appropriate adjustment for the additional capital thus employed." Incremental earnings bought with incremental capital don't count for free — the symmetric capital-charge that distinguishes the H.H. Brown and Schey arrangements. ("I didn't define 'appropriate' or 'significant,' but those vague terms never caused a problem.")
+3. **Local to the manager's bailiwick**, uncapped, and unchanged for 19 years until Liegl's death in 2024.
+
+The letter ties the same symmetry to Berkshire's own leadership: "Greg, our directors and I all have a very large investment in Berkshire in relation to any compensation we receive. We do not use options or other one-sided forms of compensation; if you lose money, so do we. This approach encourages caution but does not ensure foresight." The Liegl anecdote also carries the letter's talent thesis — Buffett "never look[s] at where a candidate has gone to school," and "a very large portion of business talent is innate with nature swamping nurture" — a reminder that compensation design rewards demonstrated value-creation, not credentials. (Buffett's caveat on letting a hire name his own pay: "This, I should add, is not an approach I recommend for general use.")
+
 ## How it's discussed in sources
 
+- [[berkshire-2024-letter]] — the Pete Liegl / Forest River deal ($100K salary + 10% of earnings *above* the inherited run-rate, with a capital-charge adjustment for acquisitions); "if you lose money, so do we"; no options or "one-sided forms of compensation"; talent as innate, credentials irrelevant
 - [[berkshire-1985-letter]] — debut; the savings-account analogy; the three structural fixes; Berkshire's six-feature alternative
 - [[berkshire-1991-letter]] — the H.H. Brown $7,800-base / capital-charged-bonus system; "stand in the shoes of owners"
 - [[berkshire-1992-letter]] — the stock-options-as-expense essay; the standing offer to buy options at fair value

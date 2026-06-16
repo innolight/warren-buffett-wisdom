@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-06-16
-sources: [berkshire-1989-letter, berkshire-1992-letter, berkshire-2014-letter, berkshire-2023-letter]
+sources: [berkshire-1989-letter, berkshire-1992-letter, berkshire-2014-letter, berkshire-2023-letter, berkshire-2024-letter]
 tags: [valuation, business-quality, graham, evolution-of-buffett]
 related: [[economic-goodwill]], [[turnarounds-seldom-turn]], [[franchise-vs-business]], [[ben-graham]], [[charlie-munger]], [[stock-as-acquisition-currency]]
 ---
@@ -71,6 +71,12 @@ The implicit corollary: in liquid public markets, *fairly priced* wonderful busi
 
 This is the central premise behind Berkshire's Coca-Cola purchase in 1988-89 ([[coca-cola]]): not a bargain at the time of purchase, but a wonderful business at a sensible price, with the business itself doing the compounding. By yearend 1991 — three years in — Coke's earnings had grown 38% per share while the stock price had risen far more, but Buffett's framing was unchanged: the long-run return depends on the business's earnings trajectory, not on the entry multiple.
 
+## The asymmetry: winners blossom, mistakes fade (2024)
+
+The 2024 letter states the practical payoff of the wonderful-business approach as an asymmetry of consequences. Because a wonderful business compounds internally for decades while a mistake's damage is bounded, "a single winning decision can make a breathtaking difference over time." Buffett's exhibits span the three kinds of decision Berkshire makes: "GEICO as a business decision, Ajit Jain as a managerial decision and my luck in finding Charlie Munger as a one-of-a-kind partner." The conclusion is the consoling counterpart to the 1989 "Mistakes" essay: **"Mistakes fade away; winners can forever blossom."**
+
+This is why a "decent batting average" is all Buffett hopes for in both business and personnel selection — the math of compounding means the rare blossoming winner overwhelms the many faded errors. It is the same lesson the 2023 letter drew from Coke and AMEX ("one wonderful business can offset the many mediocre decisions that are inevitable"), here generalized beyond marketable equities to acquisitions and hiring. The asymmetry does not excuse delay in *correcting* a known mistake — Munger's "thumb-sucking" remains the cardinal sin (see [[owner-orientation]]) — but it does explain why an investor or operator should weight the search toward potential winners rather than toward avoiding every possible error. ([[berkshire-2024-letter]])
+
 ## What this is not
 
 This is *not* a license to overpay. The 1992 articulation includes the disciplined modifier: "an attractive price." A wonderful business bought at a manifestly stupid price is also a mistake. The hierarchy is:
@@ -91,6 +97,7 @@ The cigar-butt critique is aimed at (3), not at (1).
 - [[berkshire-1992-letter]] — toad-kissing acquirers; "buy good businesses at fair prices"; "growth and value are joined at the hip" companion essay
 - [[berkshire-1993-letter]] — the Coca-Cola compounding case study (1919 share at $40 → $2.1M by 1993 with reinvested dividends)
 - [[berkshire-2014-letter]] — the richest single-source articulation in the series: "Charlie Straightens Me Out" covers the full origin story (the Stanton affair; the textile-mill cigar butt; Charlie's blueprint); the scalability limit of cigar-butt investing; See's updated to $1.9B cumulative earnings on $40M incremental investment; Dexter Shoe's effective cost quantified as $5.7B in Berkshire shares; stock-for-bad-business as the mechanism of irreversible value destruction
+- [[berkshire-2024-letter]] — the asymmetry restated as a rule for the search: "a single winning decision can make a breathtaking difference over time" (GEICO / Ajit Jain / Munger as the business-, managerial-, and partner-decision exhibits); "Mistakes fade away; winners can forever blossom"; justifies a "decent batting average" rather than error-avoidance
 - [[berkshire-2023-letter]] — the Coca-Cola and American Express retrospective as a late-period restatement of the holding-period corollary: neither share bought or sold in 2023, "extending our own Rip Van Winkle slumber that has now lasted well over two decades"; Berkshire's share of AMEX 2023 earnings "considerably exceeded the $1.3 billion cost of our long-ago purchase"; both businesses "tried expanding into unrelated areas" and "were even mismanaged" in the past yet endured because their products "traveled" (global brands meeting "timeless essentials"). The distilled lesson: **"When you find a truly wonderful business, stick with it. Patience pays, and one wonderful business can offset the many mediocre decisions that are inevitable."** Paired with the price-dependent-buyback caveat: "What is sensible at a discount to business-value becomes stupid if done at a premium" (see [[share-repurchases]])
 
 ## Related

@@ -8,6 +8,52 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-16] lint | berkshire-2024-letter post-ingest review
+
+Findings from /review-ingest audit of the 2024 ingest, applied after user confirmation.
+
+**Quote accuracy:**
+- `sources/berkshire-2024-letter.md` + `concepts/incentive-compensation.md` — restored dropped parenthetical inside the Pete Liegl quote: "we will earn X **(he named a number)** this year" (was silently tidied to "we will earn X this year")
+
+**Distillation / characterization:**
+- `sources/berkshire-2024-letter.md` — National Indemnity entity bullet rephrased: the 2024 letter never names NICO and discusses P/C broadly as "Berkshire's core business"; clarified that the $32B / $46B→$171B figures are firm-wide P/C (NICO as flagship), not NICO-specific
+- `sources/berkshire-2024-letter.md` — added the secular-insurance-growth point to the float key theme ("No risk – no need for insurance"; economies manufacture insurable risk continuously — 300M U.S. vehicles), a timeless structural theme previously omitted
+
+**Attribution gaps closed (concepts the source page lists as discussed but that carried no 2024 entry):**
+- `concepts/passive-ownership-advantage.md` — added "Ambidextrous ownership: the two equity vehicles and their trade-offs (2024)" section (control vs. minority as equally legitimate; the reversibility trade-off, size eroding the exit option; steadfastness as deal-sourcing edge; the negotiated-vs-public-market discount restated) + frontmatter source + "How it's discussed" bullet; this was the substantive "ambidextrous" key theme left unlinked on the concept page
+- `concepts/capital-allocation.md` — added a one-line 2024 bullet (mistakes = "capital allocation gone wrong" in two forms; correct-them-quickly / "thumb-sucking") + frontmatter source; brief late-period restatement
+- `concepts/gaap-distortion.md` — added a one-line 2024 bullet (operating earnings emphasized over GAAP; "EBITDA … is not for us") + frontmatter source; brief restatement of the 2023 position
+
+**Structural:**
+- `index.md` — appended the 2024 relaxed-ceiling / "many decades" angle to the `japanese-trading-houses` entity line
+
+**Reviewed, no change needed:** all 15 notable quotes verbatim-accurate; all seven `## Connections to other sources` bullets accurate (incl. the 2023 "underwriters can't be optimists at the office" link, verified against the 2023 source page); deliberate skips (Pete Liegl / Todd Combs / Ben Rosner person pages, GEICO edit, standalone "talent-is-innate" concept) hold up against the scope axes — Todd Combs noted as a defensible deferral given only year-bound operational detail in this letter.
+
+## [2026-06-16] ingest | berkshire-2024-letter
+
+Ingested the 2024 letter (dated Feb 22, 2025; Buffett at 94, Greg Abel succession imminent). Focus per user: summarize enduring lessons and pay tribute on the relevant concept pages. Scope confirmed with user before writing; both optional concept tributes (investment-categories, cigar-butts) approved → 9 pages total.
+
+**Created** `wiki/sources/berkshire-2024-letter.md` — home for year-specific detail: record $47.4B operating earnings (53% of 189 operating businesses down); GEICO/Todd Combs repolishing; BHE 92%→100% buy-in (~$3.9B); record $26.8B IRS payment / $101B+ cumulative / one dividend ever (1967); float $46B→$171B and $32B 2-decade after-tax underwriting profit; the Pete Liegl/Forest River story; equities-over-cash; Japan ($13.8B cost/$23.5B value, ceiling relaxed); EBITDA "flawed favorite."
+
+**Updated (concept/entity tributes, each with a dedicated section + "How it's discussed" bullet + frontmatter source/date):**
+- `concepts/float.md` — new "two-decade scorecard and 'money-up-front' model restated (2024)" section ($32B underwriting profit ~3.3¢/$; $46B→$171B; long-tail danger; one-year→six-month auto shift)
+- `concepts/underwriting-discipline.md` — new "disciplined pessimism: 'nervous, but not paralyzed' (2024)" section (Goldberg quote; "corporate suicide"; not-for-optimists; no-reinsurer-dependence cost advantage; "if you lose money, so do we")
+- `concepts/incentive-compensation.md` — new "Pete Liegl deal (2024)" section (bonus on *incremental* earnings + capital-charge for acquisitions; no one-sided comp; talent innate, credentials irrelevant)
+- `concepts/american-tailwind.md` — new "tax record as a compounding parable (2024)" section (60yr reinvestment → $26.8B/$101B taxes; "America is Exhibit A"; Berkshire-needed-America humility; fiscal-folly currency warning)
+- `concepts/owner-orientation.md` — new "'report' ethic and candor about mistakes (2024)" section ("praise by name, criticize by category"; 16 mistake/error uses; Munger's "thumb-sucking"; fooling shareholders→fooling yourself; creed carried to Greg Abel)
+- `concepts/investment-categories.md` — new "productive assets over cash, permanently (2024)" section (equities-over-cash forever; paper money/fixed-coupon bonds no protection vs. "runaway currency"; cash as necessity not preference)
+- `concepts/cigar-butts-vs-wonderful-businesses.md` — new "asymmetry: winners blossom, mistakes fade (2024)" section ("single winning decision … breathtaking difference"; GEICO/Ajit/Munger; "decent batting average")
+- `entities/japanese-trading-houses.md` — new "relaxed ceiling and yen-balanced math (2024)" section + 2024 History entry (10% cap relaxed; $13.8B/$23.5B; 2025 ~$812M dividends vs. ~$135M interest; $2.3B cumulative yen-debt gains; held "many decades")
+
+**Updated** `wiki/index.md` — added the 2024 source line.
+
+**Deliberately skipped (per scope filter):**
+- **No Pete Liegl / Todd Combs / Ben Rosner person pages** — one-time operator/anecdote figures; the durable lessons (innate talent, owner-aligned comp, GEICO repolishing) live in the concepts and the GEICO/source pages.
+- **No GEICO page edit** — the Todd Combs "repolishing" is year-bound operational detail → source page only; GEICO's moat pages already rich.
+- **No standalone "talent is innate / never look at school" concept** — folded into incentive-compensation and the source page rather than spun into a thin page.
+- **Ephemera** — annual-meeting logistics, Bertie, the Carrie Sova "60 Years"/Charlie book, the operating-earnings table mechanics, $1M-every-20-minutes visualization → source page or omitted.
+- Note: 9 pages slightly exceeds the 3–8 target; the two extra concept tributes were explicitly user-approved.
+
 ## [2026-06-16] lint | berkshire-2022/2023-letter post-ingest review + new concept page
 
 Findings from /review-ingest audit of the 2022 and 2023 ingests, applied after user confirmation.
