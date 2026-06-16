@@ -5,7 +5,7 @@ created: 2026-06-13
 updated: 2026-06-13
 sources: [berkshire-2006-letter]
 tags: [value-investing, graham, partnership, emt-refutation]
-related: [ben-graham](ben-graham.md), [warren-buffett](warren-buffett.md), [investment-friction](../concepts/investment-friction.md), [margin-of-safety](../concepts/margin-of-safety.md)
+related: [ben-graham, warren-buffett, investment-friction, margin-of-safety]
 ---
 
 # Walter Schloss

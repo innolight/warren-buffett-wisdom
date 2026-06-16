@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-16
 sources: [berkshire-1989-letter, berkshire-1992-letter, berkshire-2014-letter, berkshire-2023-letter, berkshire-2024-letter]
 tags: [valuation, business-quality, graham, evolution-of-buffett]
-related: [economic-goodwill](economic-goodwill.md), [turnarounds-seldom-turn](turnarounds-seldom-turn.md), [franchise-vs-business](franchise-vs-business.md), [ben-graham](../people/ben-graham.md), [charlie-munger](../people/charlie-munger.md), [stock-as-acquisition-currency](stock-as-acquisition-currency.md)
+related: [economic-goodwill, turnarounds-seldom-turn, franchise-vs-business, ben-graham, charlie-munger, stock-as-acquisition-currency]
 ---
 
 # Cigar Butts vs. Wonderful Businesses

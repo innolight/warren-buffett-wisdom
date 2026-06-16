@@ -5,7 +5,7 @@ created: 2026-06-12
 updated: 2026-06-16
 sources: [berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2005-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter, berkshire-2023-letter]
 tags: [utility, regulated, infrastructure, capital-deployment, acquisition]
-related: [berkshire-hathaway](berkshire-hathaway.md), [dave-sokol](../people/dave-sokol.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [capital-allocation](../concepts/capital-allocation.md)
+related: [berkshire-hathaway, dave-sokol, acquisition-criteria, capital-allocation]
 ---
 
 # MidAmerican Energy

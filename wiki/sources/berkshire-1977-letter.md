@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1977
 raw_path: raw/berkshire-letters/1977.md
 tags: [berkshire, insurance, textiles, capital-allocation]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md)
+related: [warren-buffett, berkshire-hathaway]
 ---
 
 # Berkshire Hathaway 1977 Shareholder Letter

@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2011
 raw_path: raw/berkshire-letters/2011.md
 tags: [insurance, float, share-repurchases, investment-philosophy, regulated-infrastructure]
-related: [warren-buffett](../people/warren-buffett.md), [geico](../entities/geico.md), [bnsf](../entities/bnsf.md), [midamerican-energy](../entities/midamerican-energy.md), [netjets](../entities/netjets.md)
+related: [warren-buffett, geico, bnsf, midamerican-energy, netjets]
 ---
 
 # Berkshire Hathaway 2011 Annual Letter

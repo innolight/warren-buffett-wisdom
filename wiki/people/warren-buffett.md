@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-05-26
 sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter]
 tags: [investor, berkshire, ceo]
-related: [berkshire-hathaway](../entities/berkshire-hathaway.md), [charlie-munger](charlie-munger.md), [ben-graham](ben-graham.md), [david-dodd](david-dodd.md), [lorimer-davidson](lorimer-davidson.md), [salomon](../entities/salomon.md)
+related: [berkshire-hathaway, charlie-munger, ben-graham, david-dodd, lorimer-davidson, salomon]
 ---
 
 # Warren E. Buffett

@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-05-24
 sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter]
 tags: [accounting, capital-allocation, performance-measurement]
-related: [warren-buffett](../people/warren-buffett.md), [acquisition-criteria](acquisition-criteria.md)
+related: [warren-buffett, acquisition-criteria]
 ---
 
 # Return on Equity as the Managerial Yardstick

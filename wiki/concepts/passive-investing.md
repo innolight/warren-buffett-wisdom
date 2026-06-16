@@ -5,7 +5,7 @@ created: 2026-06-15
 updated: 2026-06-15
 sources: [berkshire-2007-letter, berkshire-2016-letter, berkshire-2017-letter]
 tags: [investing, passive-investing, index-funds, fees, active-management]
-related: [investment-friction](investment-friction.md), [risk-vs-volatility](risk-vs-volatility.md), [concentration-vs-diversification](concentration-vs-diversification.md), [leverage-discipline](leverage-discipline.md)
+related: [investment-friction, risk-vs-volatility, concentration-vs-diversification, leverage-discipline]
 ---
 
 # Passive Investing

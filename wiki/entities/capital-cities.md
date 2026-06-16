@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-05-26
 sources: [berkshire-1977-letter, berkshire-1981-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter]
 tags: [media, broadcasting, exemplary-management, marketable-equities, disney]
-related: [berkshire-hathaway](berkshire-hathaway.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [share-repurchases](../concepts/share-repurchases.md), [geico](geico.md), [washington-post](washington-post.md), [tom-murphy](../people/tom-murphy.md), [disney](disney.md), [franchise-vs-business](../concepts/franchise-vs-business.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md)
+related: [berkshire-hathaway, acquisition-criteria, share-repurchases, geico, washington-post, tom-murphy, disney, franchise-vs-business, mistakes-of-omission]
 ---
 
 # Capital Cities Communications

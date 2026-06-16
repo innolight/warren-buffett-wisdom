@@ -6,8 +6,6 @@ This is **not** a comprehensive transcript of the letters. It is opinionated: it
 
 The wiki is written for **retail investors learning to invest like Warren Buffett**: someone with a brokerage account who wants the durable principles, not the insurance-conglomerate machinery they can't directly use.
 
-> Pages are written as [Obsidian](https://obsidian.md) notes and use `[[wikilinks]]` internally. The links below are standard relative links so they work on GitHub too.
-
 ## How to read this wiki
 
 There are ~60 concept pages. Reading them front to back is the wrong move — they don't carry equal weight, and some build on others. Below are three ways to prioritize. **Start with Approach 1**; the other two are alternate lenses for when you want them.

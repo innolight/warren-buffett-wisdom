@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2013
 raw_path: raw/berkshire-letters/2013.md
 tags: [berkshire, annual-letter, 2013]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [bnsf](../entities/bnsf.md), [midamerican-energy](../entities/midamerican-energy.md), [general-re](../entities/general-re.md)
+related: [warren-buffett, berkshire-hathaway, geico, bnsf, midamerican-energy, general-re]
 ---
 
 # Berkshire Hathaway 2013 Annual Letter

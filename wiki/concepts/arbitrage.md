@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-1988-letter]
 tags: [arbitrage, risk-arbitrage, emt, special-situations]
-related: [concentration-vs-diversification](concentration-vs-diversification.md), [margin-of-safety](margin-of-safety.md), [volatility-as-opportunity](volatility-as-opportunity.md), [ben-graham](../people/ben-graham.md)
+related: [concentration-vs-diversification, margin-of-safety, volatility-as-opportunity, ben-graham]
 ---
 
 # Arbitrage (Risk Arbitrage)

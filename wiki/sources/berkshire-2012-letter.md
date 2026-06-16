@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2012
 raw_path: raw/berkshire-letters/2012.md
 tags: [berkshire, annual-letter, 2012]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [bnsf](../entities/bnsf.md), [midamerican-energy](../entities/midamerican-energy.md), [float](../concepts/float.md), [dividend-policy](../concepts/dividend-policy.md), [share-repurchases](../concepts/share-repurchases.md), [underwriting-discipline](../concepts/underwriting-discipline.md)
+related: [warren-buffett, charlie-munger, berkshire-hathaway, geico, bnsf, midamerican-energy, float, dividend-policy, share-repurchases, underwriting-discipline]
 ---
 
 # Berkshire Hathaway 2012 Annual Letter

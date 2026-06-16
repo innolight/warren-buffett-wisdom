@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [insurance, reinsurance, catastrophe, capital-strength]
-related: [float](float.md), [ajit-jain](../people/ajit-jain.md), [national-indemnity](../entities/national-indemnity.md), [volatility-as-opportunity](volatility-as-opportunity.md), [underwriting-discipline](underwriting-discipline.md), [general-re](../entities/general-re.md)
+related: [float, ajit-jain, national-indemnity, volatility-as-opportunity, underwriting-discipline, general-re]
 ---
 
 # Super-cat Insurance

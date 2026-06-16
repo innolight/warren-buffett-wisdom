@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-05-24
 sources: [berkshire-1979-letter]
 tags: [inflation, returns, capital-allocation, performance-measurement]
-related: [return-on-equity-yardstick](return-on-equity-yardstick.md), [bonds-and-inflation](bonds-and-inflation.md)
+related: [return-on-equity-yardstick, bonds-and-inflation]
 ---
 
 # Investor's Misery Index

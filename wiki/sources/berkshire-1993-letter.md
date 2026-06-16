@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1993
 raw_path: raw/berkshire-letters/1993.md
 tags: [berkshire, annual-letter, risk-vs-beta, concentration, dexter, taxes-li-l-abner, governance]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [risk-vs-volatility](../concepts/risk-vs-volatility.md), [concentration-vs-diversification](../concepts/concentration-vs-diversification.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md), [charlie-munger](../people/charlie-munger.md), [coca-cola](../entities/coca-cola.md), [capital-cities](../entities/capital-cities.md), [geico](../entities/geico.md), [washington-post](../entities/washington-post.md), [gillette](../entities/gillette.md), [wells-fargo](../entities/wells-fargo.md), [ben-graham](../people/ben-graham.md), [kay-graham](../people/kay-graham.md), [ajit-jain](../people/ajit-jain.md), [lou-simpson](../people/lou-simpson.md), [mr-market](../concepts/mr-market.md), [volatility-as-opportunity](../concepts/volatility-as-opportunity.md), [moat](../concepts/moat.md), [float](../concepts/float.md)
+related: [warren-buffett, berkshire-hathaway, risk-vs-volatility, concentration-vs-diversification, mistakes-of-omission, charlie-munger, coca-cola, capital-cities, geico, washington-post, gillette, wells-fargo, ben-graham, kay-graham, ajit-jain, lou-simpson, mr-market, volatility-as-opportunity, moat, float]
 ---
 
 # Berkshire Hathaway 1993 Annual Letter

@@ -5,7 +5,7 @@ created: 2026-06-15
 updated: 2026-06-16
 sources: [berkshire-2020-letter, berkshire-2021-letter]
 tags: [technology, consumer-products, equity-investment, repurchases, moat]
-related: [share-repurchases](../concepts/share-repurchases.md), [passive-ownership-advantage](../concepts/passive-ownership-advantage.md), [look-through-earnings](../concepts/look-through-earnings.md), [berkshire-hathaway](berkshire-hathaway.md), [berkshire-2020-letter](../sources/berkshire-2020-letter.md)
+related: [share-repurchases, passive-ownership-advantage, look-through-earnings, berkshire-hathaway, berkshire-2020-letter]
 ---
 
 # Apple Inc.

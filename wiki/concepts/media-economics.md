@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-2006-letter, berkshire-1991-letter, berkshire-2012-letter]
 tags: [media, newspapers, franchise, distribution-monopoly, moat]
-related: [moat](moat.md), [franchise-vs-business](franchise-vs-business.md), [buffalo-evening-news](../entities/buffalo-evening-news.md), [washington-post](../entities/washington-post.md), [tailwinds-vs-headwinds](tailwinds-vs-headwinds.md)
+related: [moat, franchise-vs-business, buffalo-evening-news, washington-post, tailwinds-vs-headwinds]
 ---
 
 # Media Economics

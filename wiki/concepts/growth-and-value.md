@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-1992-letter, berkshire-2000-letter]
 tags: [valuation, growth, value-investing, dcf]
-related: [valuation-framework](valuation-framework.md), [margin-of-safety](margin-of-safety.md), [cigar-butts-vs-wonderful-businesses](cigar-butts-vs-wonderful-businesses.md), [capital-allocation](capital-allocation.md), [great-good-gruesome](great-good-gruesome.md)
+related: [valuation-framework, margin-of-safety, cigar-butts-vs-wonderful-businesses, capital-allocation, great-good-gruesome]
 ---
 
 # Growth and Value

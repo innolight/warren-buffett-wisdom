@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-14
 sources: [berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2007-letter]
 tags: [competitive-advantage, business-quality, moat]
-related: [economic-goodwill](economic-goodwill.md), [commodity-business-economics](commodity-business-economics.md), [tailwinds-vs-headwinds](tailwinds-vs-headwinds.md), [franchise-vs-business](franchise-vs-business.md), [coca-cola](../entities/coca-cola.md), [gillette](../entities/gillette.md), [general-re](../entities/general-re.md)
+related: [economic-goodwill, commodity-business-economics, tailwinds-vs-headwinds, franchise-vs-business, coca-cola, gillette, general-re]
 ---
 
 # Moat

@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-06-13
 sources: [berkshire-1977-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-2004-letter]
 tags: [insurance, berkshire, super-cat-platform]
-related: [berkshire-hathaway](berkshire-hathaway.md), [float](../concepts/float.md), [ajit-jain](../people/ajit-jain.md), [super-cat-insurance](../concepts/super-cat-insurance.md)
+related: [berkshire-hathaway, float, ajit-jain, super-cat-insurance]
 ---
 
 # National Indemnity Company

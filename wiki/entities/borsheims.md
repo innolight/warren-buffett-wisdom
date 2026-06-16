@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-26
 sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1995-letter]
 tags: [retail, jewelry, low-cost-operator, family-business]
-related: [berkshire-hathaway](berkshire-hathaway.md), [nebraska-furniture-mart](nebraska-furniture-mart.md), [rose-blumkin](../people/rose-blumkin.md), [helzbergs](helzbergs.md), [moat](../concepts/moat.md)
+related: [berkshire-hathaway, nebraska-furniture-mart, rose-blumkin, helzbergs, moat]
 ---
 
 # Borsheim's

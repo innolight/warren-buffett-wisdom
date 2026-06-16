@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-2007-letter]
 tags: [business-quality, capital-efficiency, investing, moat]
-related: [moat](moat.md), [sees-candies](../entities/sees-candies.md), [flightsafety](../entities/flightsafety.md), [economic-goodwill](economic-goodwill.md), [capital-allocation](capital-allocation.md), [commodity-business-economics](commodity-business-economics.md), [cigar-butts-vs-wonderful-businesses](cigar-butts-vs-wonderful-businesses.md)
+related: [moat, sees-candies, flightsafety, economic-goodwill, capital-allocation, commodity-business-economics, cigar-butts-vs-wonderful-businesses]
 ---
 
 # Great, Good, and Gruesome Businesses

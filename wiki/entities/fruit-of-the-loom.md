@@ -5,7 +5,7 @@ created: 2026-06-10
 updated: 2026-06-10
 sources: [berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [apparel, distressed-acquisition, bankruptcy, consumer-staples]
-related: [berkshire-hathaway](berkshire-hathaway.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [turnarounds-seldom-turn](../concepts/turnarounds-seldom-turn.md), [berkshire-2002-letter](../sources/berkshire-2002-letter.md)
+related: [berkshire-hathaway, acquisition-criteria, turnarounds-seldom-turn, berkshire-2002-letter]
 ---
 
 # Fruit of the Loom

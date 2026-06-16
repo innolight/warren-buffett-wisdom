@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-06-16
 sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-2011-letter, berkshire-2019-letter, berkshire-2020-letter, berkshire-2021-letter]
 tags: [accounting, equities, capital-allocation, intrinsic-value]
-related: [warren-buffett](../people/warren-buffett.md), [acquisition-criteria](acquisition-criteria.md), [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md), [owner-earnings](owner-earnings.md), [coca-cola](../entities/coca-cola.md)
+related: [warren-buffett, acquisition-criteria, intrinsic-value-vs-book-value, owner-earnings, coca-cola]
 ---
 
 # Look-Through Earnings

@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1991-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-2003-letter]
 tags: [moat, competitive-advantage, business-quality, valuation]
-related: [moat](moat.md), [economic-goodwill](economic-goodwill.md), [commodity-business-economics](commodity-business-economics.md), [capital-cities](../entities/capital-cities.md), [buffalo-evening-news](../entities/buffalo-evening-news.md)
+related: [moat, economic-goodwill, commodity-business-economics, capital-cities, buffalo-evening-news]
 ---
 
 # Franchise vs. Business

@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1989-letter, berkshire-1993-letter, berkshire-1997-letter]
 tags: [coca-cola, ceo, operator, capital-allocation, global-franchise]
-related: [coca-cola](../entities/coca-cola.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [franchise-vs-business](../concepts/franchise-vs-business.md), [capital-allocation](../concepts/capital-allocation.md)
+related: [coca-cola, berkshire-hathaway, franchise-vs-business, capital-allocation]
 ---
 
 # Roberto Goizueta

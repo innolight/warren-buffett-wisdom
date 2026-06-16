@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-2008-letter, berkshire-2003-letter]
 tags: [lending, credit, mortgage, underwriting, consumer-finance]
-related: [underwriting-discipline](underwriting-discipline.md), [clayton-homes](../entities/clayton-homes.md), [model-risk](model-risk.md), [float](float.md)
+related: [underwriting-discipline, clayton-homes, model-risk, float]
 ---
 
 # Lending Discipline

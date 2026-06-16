@@ -5,7 +5,7 @@ created: 2026-06-13
 updated: 2026-06-14
 sources: [berkshire-1997-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2007-letter]
 tags: [acquisition, manufacturing, cautionary-tale, shoes, stock-as-acquisition-currency, moat-failure]
-related: [berkshire-hathaway](berkshire-hathaway.md), [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md), [warren-buffett](../people/warren-buffett.md), [h-h-brown](h-h-brown.md)
+related: [berkshire-hathaway, stock-as-acquisition-currency, warren-buffett, h-h-brown]
 ---
 
 # Dexter Shoe

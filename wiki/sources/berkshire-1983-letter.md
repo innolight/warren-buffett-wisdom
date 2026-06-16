@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1983
 raw_path: raw/berkshire-letters/1983.md
 tags: [berkshire, owner-orientation, intrinsic-value, goodwill, nfm, buffalo-news, stock-splits]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md)
+related: [warren-buffett, charlie-munger, berkshire-hathaway, nebraska-furniture-mart]
 ---
 
 # Berkshire Hathaway 1983 Shareholder Letter

@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-2006-letter]
 tags: [media, newspapers, moat, dominant-local-franchise]
-related: [berkshire-hathaway](berkshire-hathaway.md), [blue-chip-stamps](blue-chip-stamps.md), [moat](../concepts/moat.md)
+related: [berkshire-hathaway, blue-chip-stamps, moat]
 ---
 
 # Buffalo Evening News / Buffalo News

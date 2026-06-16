@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-06-14
 sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1991-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2007-letter]
 tags: [consumer, confectionery, pricing-power, economic-goodwill, blue-chip]
-related: [blue-chip-stamps](blue-chip-stamps.md), [economic-goodwill](../concepts/economic-goodwill.md), [moat](../concepts/moat.md), [franchise-vs-business](../concepts/franchise-vs-business.md), [cigar-butts-vs-wonderful-businesses](../concepts/cigar-butts-vs-wonderful-businesses.md), [buffalo-evening-news](buffalo-evening-news.md), [great-good-gruesome](../concepts/great-good-gruesome.md)
+related: [blue-chip-stamps, economic-goodwill, moat, franchise-vs-business, cigar-butts-vs-wonderful-businesses, buffalo-evening-news, great-good-gruesome]
 ---
 
 # See's Candies

@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-15
 sources: [berkshire-1999-letter, berkshire-2007-letter, berkshire-2019-letter]
 tags: [equity-returns, market-valuation, gdp, long-run, expectations]
-related: [investment-friction](investment-friction.md), [mr-market](mr-market.md), [passive-return-crossbar](passive-return-crossbar.md), [volatility-as-opportunity](volatility-as-opportunity.md)
+related: [investment-friction, mr-market, passive-return-crossbar, volatility-as-opportunity]
 ---
 
 # Equity Return Expectations

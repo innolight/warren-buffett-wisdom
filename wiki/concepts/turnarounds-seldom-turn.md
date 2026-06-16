@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-05-26
 sources: [berkshire-1979-letter, berkshire-1980-letter, berkshire-1983-letter, berkshire-1989-letter, berkshire-1994-letter]
 tags: [capital-allocation, business-quality, acquisition]
-related: [tailwinds-vs-headwinds](tailwinds-vs-headwinds.md), [acquisition-criteria](acquisition-criteria.md), [geico](../entities/geico.md), [cigar-butts-vs-wonderful-businesses](cigar-butts-vs-wonderful-businesses.md), [usair](../entities/usair.md)
+related: [tailwinds-vs-headwinds, acquisition-criteria, geico, cigar-butts-vs-wonderful-businesses, usair]
 ---
 
 # Turnarounds Seldom Turn

@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2017
 raw_path: raw/berkshire-letters/2017.md
 tags: [berkshire, annual-letter, insurance, investment-friction, succession]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [ajit-jain](../people/ajit-jain.md), [greg-abel](../people/greg-abel.md), [berkshire-hathaway](../entities/berkshire-hathaway.md)
+related: [warren-buffett, charlie-munger, ajit-jain, greg-abel, berkshire-hathaway]
 ---
 
 # Berkshire Hathaway 2017 Annual Letter

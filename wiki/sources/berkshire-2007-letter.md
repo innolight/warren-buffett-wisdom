@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2007
 raw_path: raw/berkshire-letters/2007.md
 tags: [berkshire, annual-letter, business-quality, moat, capital-efficiency, passive-investing]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [sees-candies](../entities/sees-candies.md), [flightsafety](../entities/flightsafety.md), [great-good-gruesome](../concepts/great-good-gruesome.md), [moat](../concepts/moat.md), [investment-friction](../concepts/investment-friction.md), [dexter-shoe](../entities/dexter-shoe.md)
+related: [warren-buffett, berkshire-hathaway, sees-candies, flightsafety, great-good-gruesome, moat, investment-friction, dexter-shoe]
 ---
 
 # Berkshire Hathaway 2007 Annual Letter

@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-16
 sources: [berkshire-1980-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2022-letter]
 tags: [financial-services, brand, marketable-equities, perc]
-related: [berkshire-hathaway](berkshire-hathaway.md), [warren-buffett](../people/warren-buffett.md), [franchise-vs-business](../concepts/franchise-vs-business.md), [geico](geico.md), [concentration-vs-diversification](../concepts/concentration-vs-diversification.md)
+related: [berkshire-hathaway, warren-buffett, franchise-vs-business, geico, concentration-vs-diversification]
 ---
 
 # American Express

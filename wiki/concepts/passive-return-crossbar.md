@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1981-letter]
 tags: [inflation, valuation, equities, hurdle-rate]
-related: [investor-misery-index](investor-misery-index.md), [bonds-and-inflation](bonds-and-inflation.md), [dividend-policy](dividend-policy.md)
+related: [investor-misery-index, bonds-and-inflation, dividend-policy]
 ---
 
 # Passive-Return Crossbar

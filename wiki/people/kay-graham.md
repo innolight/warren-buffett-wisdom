@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-26
 sources: [berkshire-1985-letter, berkshire-1988-letter, berkshire-1993-letter]
 tags: [media, washington-post, ceo, capital-allocation]
-related: [washington-post](../entities/washington-post.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [capital-allocation](../concepts/capital-allocation.md), [share-repurchases](../concepts/share-repurchases.md)
+related: [washington-post, berkshire-hathaway, capital-allocation, share-repurchases]
 ---
 
 # Katharine ("Kay") Graham

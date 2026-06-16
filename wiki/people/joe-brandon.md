@@ -5,7 +5,7 @@ created: 2026-06-10
 updated: 2026-06-10
 sources: [berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [operator, reinsurance, general-re, ceo, turnaround]
-related: [general-re](../entities/general-re.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [ajit-jain](ajit-jain.md), [underwriting-discipline](../concepts/underwriting-discipline.md)
+related: [general-re, berkshire-hathaway, ajit-jain, underwriting-discipline]
 ---
 
 # Joe Brandon

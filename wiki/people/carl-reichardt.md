@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1990-letter, berkshire-1991-letter, berkshire-1994-letter]
 tags: [wells-fargo, banking, ceo, operator, cost-discipline]
-related: [wells-fargo](../entities/wells-fargo.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [tom-murphy](tom-murphy.md), [institutional-imperative](../concepts/institutional-imperative.md)
+related: [wells-fargo, berkshire-hathaway, tom-murphy, institutional-imperative]
 ---
 
 # Carl Reichardt

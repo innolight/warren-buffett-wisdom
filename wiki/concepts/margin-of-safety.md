@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1990-letter, berkshire-1992-letter]
 tags: [graham, risk, valuation, discipline]
-related: [ben-graham](../people/ben-graham.md), [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md), [risk-vs-volatility](risk-vs-volatility.md), [mr-market](mr-market.md)
+related: [ben-graham, intrinsic-value-vs-book-value, risk-vs-volatility, mr-market]
 ---
 
 # Margin of Safety

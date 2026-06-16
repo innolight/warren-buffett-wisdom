@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1979
 raw_path: raw/berkshire-letters/1979.md
 tags: [berkshire, insurance, inflation, capital-allocation, bonds]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md)
+related: [warren-buffett, berkshire-hathaway]
 ---
 
 # Berkshire Hathaway 1979 Shareholder Letter

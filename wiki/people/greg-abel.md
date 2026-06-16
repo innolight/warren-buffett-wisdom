@@ -5,7 +5,7 @@ created: 2026-06-15
 updated: 2026-06-15
 sources: [berkshire-2017-letter]
 tags: [berkshire, management, succession, energy]
-related: [berkshire-hathaway](../entities/berkshire-hathaway.md), [midamerican-energy](../entities/midamerican-energy.md), [ajit-jain](ajit-jain.md), [warren-buffett](warren-buffett.md)
+related: [berkshire-hathaway, midamerican-energy, ajit-jain, warren-buffett]
 ---
 
 # Greg Abel

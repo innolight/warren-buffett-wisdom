@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1991-letter, berkshire-1992-letter]
 tags: [salomon, investment-banking, ceo, reputation, geico]
-related: [salomon](../entities/salomon.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [warren-buffett](warren-buffett.md)
+related: [salomon, berkshire-hathaway, warren-buffett]
 ---
 
 # John Gutfreund

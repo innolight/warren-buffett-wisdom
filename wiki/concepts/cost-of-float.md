@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-1990-letter]
 tags: [insurance, float, cost, underwriting]
-related: [float](float.md), [underwriting-discipline](underwriting-discipline.md), [super-cat-insurance](super-cat-insurance.md)
+related: [float, underwriting-discipline, super-cat-insurance]
 ---
 
 # Cost of Float

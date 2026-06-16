@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2010
 raw_path: raw/berkshire-letters/2010.md
 tags: [berkshire, annual-letter, 2010, bnsf, geico, derivatives, leverage]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [bnsf](../entities/bnsf.md), [geico](../entities/geico.md), [netjets](../entities/netjets.md), [midamerican-energy](../entities/midamerican-energy.md)
+related: [warren-buffett, berkshire-hathaway, bnsf, geico, netjets, midamerican-energy]
 ---
 
 # Berkshire Hathaway 2010 Annual Letter

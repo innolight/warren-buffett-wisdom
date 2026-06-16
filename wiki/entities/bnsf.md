@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-16
 sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter, berkshire-2016-letter, berkshire-2023-letter]
 tags: [railroad, infrastructure, regulated, capital-intensive, acquisition]
-related: [berkshire-hathaway](berkshire-hathaway.md), [midamerican-energy](midamerican-energy.md), [warren-buffett](../people/warren-buffett.md), [capital-allocation](../concepts/capital-allocation.md), [liquidity-fortress](../concepts/liquidity-fortress.md), [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md)
+related: [berkshire-hathaway, midamerican-energy, warren-buffett, capital-allocation, liquidity-fortress, stock-as-acquisition-currency]
 ---
 
 # Burlington Northern Santa Fe (BNSF)

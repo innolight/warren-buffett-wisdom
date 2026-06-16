@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1988-letter]
 tags: [investing, teacher, columbia, graham, shaping-figure]
-related: [ben-graham](ben-graham.md), [warren-buffett](warren-buffett.md), [margin-of-safety](../concepts/margin-of-safety.md), [cigar-butts-vs-wonderful-businesses](../concepts/cigar-butts-vs-wonderful-businesses.md)
+related: [ben-graham, warren-buffett, margin-of-safety, cigar-butts-vs-wonderful-businesses]
 ---
 
 # David L. Dodd

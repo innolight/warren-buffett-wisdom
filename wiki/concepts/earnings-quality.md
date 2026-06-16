@@ -5,7 +5,7 @@ created: 2026-06-15
 updated: 2026-06-16
 sources: [berkshire-2016-letter, berkshire-2017-letter, berkshire-2018-letter, berkshire-2021-letter, berkshire-2022-letter]
 tags: [accounting, earnings, management-integrity]
-related: [owner-earnings](owner-earnings.md), [incentive-compensation](incentive-compensation.md), [underwriting-discipline](underwriting-discipline.md)
+related: [owner-earnings, incentive-compensation, underwriting-discipline]
 ---
 
 # Earnings Quality

@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1991-letter, berkshire-1993-letter, berkshire-1997-letter, berkshire-1999-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [portfolio-construction, risk, capital-allocation]
-related: [risk-vs-volatility](risk-vs-volatility.md), [capital-allocation](capital-allocation.md), [mistakes-of-omission](mistakes-of-omission.md), [passive-ownership-advantage](passive-ownership-advantage.md)
+related: [risk-vs-volatility, capital-allocation, mistakes-of-omission, passive-ownership-advantage]
 ---
 
 # Concentration vs. Diversification

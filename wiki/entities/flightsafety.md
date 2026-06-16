@@ -5,7 +5,7 @@ created: 2026-06-12
 updated: 2026-06-14
 sources: [berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2001-letter, berkshire-2007-letter]
 tags: [aviation, training, capital-intensive, founder-operator, acquisition]
-related: [berkshire-hathaway](berkshire-hathaway.md), [al-ueltschi](../people/al-ueltschi.md), [netjets](netjets.md), [moat](../concepts/moat.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [great-good-gruesome](../concepts/great-good-gruesome.md)
+related: [berkshire-hathaway, al-ueltschi, netjets, moat, acquisition-criteria, great-good-gruesome]
 ---
 
 # FlightSafety International

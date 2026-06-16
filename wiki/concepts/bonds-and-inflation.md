@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-05-24
 sources: [berkshire-1979-letter]
 tags: [bonds, inflation, capital-allocation, fixed-income]
-related: [investor-misery-index](investor-misery-index.md), [float](float.md), [institutional-imperative](institutional-imperative.md)
+related: [investor-misery-index, float, institutional-imperative]
 ---
 
 # Bonds and Inflation

@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-2009-letter]
 tags: [mental-model, decision-making, munger, avoidance]
-related: [charlie-munger](../people/charlie-munger.md), [circle-of-competence](circle-of-competence.md), [liquidity-fortress](liquidity-fortress.md), [owner-orientation](owner-orientation.md), [institutional-imperative](institutional-imperative.md), [acquisition-criteria](acquisition-criteria.md)
+related: [charlie-munger, circle-of-competence, liquidity-fortress, owner-orientation, institutional-imperative, acquisition-criteria]
 ---
 
 # Inversion

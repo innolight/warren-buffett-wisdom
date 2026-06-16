@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1984
 raw_path: raw/berkshire-letters/1984.md
 tags: [berkshire, repurchases, dividend-policy, wppss, loss-reserving, concentration]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md)
+related: [warren-buffett, charlie-munger, berkshire-hathaway]
 ---
 
 # Berkshire Hathaway 1984 Shareholder Letter

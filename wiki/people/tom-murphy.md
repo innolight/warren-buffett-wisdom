@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1981-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter]
 tags: [media, broadcasting, capital-allocation, operator, exemplary-manager]
-related: [capital-cities](../entities/capital-cities.md), [disney](../entities/disney.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [capital-allocation](../concepts/capital-allocation.md), [acquisition-criteria](../concepts/acquisition-criteria.md)
+related: [capital-cities, disney, berkshire-hathaway, capital-allocation, acquisition-criteria]
 ---
 
 # Tom Murphy

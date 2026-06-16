@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1980
 raw_path: raw/berkshire-letters/1980.md
 tags: [berkshire, insurance, look-through-earnings, geico, inflation, repurchases]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md)
+related: [warren-buffett, berkshire-hathaway, geico]
 ---
 
 # Berkshire Hathaway 1980 Shareholder Letter

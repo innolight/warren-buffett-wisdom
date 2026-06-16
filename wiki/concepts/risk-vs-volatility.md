@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-16
 sources: [berkshire-1993-letter, berkshire-2011-letter, berkshire-2014-letter, berkshire-2017-letter, berkshire-2023-letter]
 tags: [risk, beta, valuation, academic-finance, graham]
-related: [mr-market](mr-market.md), [volatility-as-opportunity](volatility-as-opportunity.md), [concentration-vs-diversification](concentration-vs-diversification.md), [margin-of-safety](margin-of-safety.md), [investment-categories](investment-categories.md)
+related: [mr-market, volatility-as-opportunity, concentration-vs-diversification, margin-of-safety, investment-categories]
 ---
 
 # Risk vs. Volatility

@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-2008-letter, berkshire-2003-letter]
 tags: [model-risk, quantitative-models, black-scholes, epistemology, risk]
-related: [derivatives](derivatives.md), [risk-vs-volatility](risk-vs-volatility.md), [noah-rule](noah-rule.md), [lending-discipline](lending-discipline.md)
+related: [derivatives, risk-vs-volatility, noah-rule, lending-discipline]
 ---
 
 # Model Risk

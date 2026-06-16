@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2024
 raw_path: raw/berkshire-letters/2024.md
 tags: [berkshire, annual-letter, insurance, float, taxes, capital-allocation, japan, succession]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [greg-abel](../people/greg-abel.md), [ajit-jain](../people/ajit-jain.md)
+related: [warren-buffett, berkshire-hathaway, greg-abel, ajit-jain]
 ---
 
 # Berkshire Hathaway 2024 Annual Letter

@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-26
 sources: [berkshire-1995-letter]
 tags: [media, entertainment, franchise, intellectual-property, marketable-equities]
-related: [[cap-cities]], [tom-murphy](../people/tom-murphy.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md), [berkshire-1995-letter](../sources/berkshire-1995-letter.md)
+related: [cap-cities, tom-murphy, mistakes-of-omission, berkshire-1995-letter]
 ---
 
 # The Walt Disney Company

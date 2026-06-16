@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-16
 sources: [berkshire-1987-letter, berkshire-1993-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2002-letter, berkshire-2022-letter, berkshire-2023-letter]
 tags: [psychology, valuation, graham, market-behavior]
-related: [ben-graham](../people/ben-graham.md), [volatility-as-opportunity](volatility-as-opportunity.md), [margin-of-safety](margin-of-safety.md), [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md)
+related: [ben-graham, volatility-as-opportunity, margin-of-safety, intrinsic-value-vs-book-value]
 ---
 
 # Mr. Market

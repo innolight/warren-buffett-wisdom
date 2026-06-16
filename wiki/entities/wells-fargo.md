@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-26
 sources: [berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter]
 tags: [banking, low-cost-operator, marketable-equities, capital-allocation]
-related: [berkshire-hathaway](berkshire-hathaway.md), [carl-reichardt](../people/carl-reichardt.md), [volatility-as-opportunity](../concepts/volatility-as-opportunity.md), [moat](../concepts/moat.md), [institutional-imperative](../concepts/institutional-imperative.md)
+related: [berkshire-hathaway, carl-reichardt, volatility-as-opportunity, moat, institutional-imperative]
 ---
 
 # Wells Fargo & Company

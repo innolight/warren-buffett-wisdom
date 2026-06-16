@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1987
 raw_path: raw/berkshire-letters/1987.md
 tags: [berkshire, annual-letter, mr-market, salomon, sainted-seven, capital-allocation]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [mr-market](../concepts/mr-market.md), [salomon](../entities/salomon.md), [capital-allocation](../concepts/capital-allocation.md), [charlie-munger](../people/charlie-munger.md), [geico](../entities/geico.md), [capital-cities](../entities/capital-cities.md), [washington-post](../entities/washington-post.md), [scott-fetzer](../entities/scott-fetzer.md), [sees-candies](../entities/sees-candies.md), [buffalo-evening-news](../entities/buffalo-evening-news.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md), [national-indemnity](../entities/national-indemnity.md), [john-gutfreund](../people/john-gutfreund.md), [ralph-schey](../people/ralph-schey.md), [tom-murphy](../people/tom-murphy.md), [lou-simpson](../people/lou-simpson.md), [ben-graham](../people/ben-graham.md), [volatility-as-opportunity](../concepts/volatility-as-opportunity.md), [owner-earnings](../concepts/owner-earnings.md), [commodity-business-economics](../concepts/commodity-business-economics.md), [look-through-earnings](../concepts/look-through-earnings.md)
+related: [warren-buffett, berkshire-hathaway, mr-market, salomon, capital-allocation, charlie-munger, geico, capital-cities, washington-post, scott-fetzer, sees-candies, buffalo-evening-news, nebraska-furniture-mart, national-indemnity, john-gutfreund, ralph-schey, tom-murphy, lou-simpson, ben-graham, volatility-as-opportunity, owner-earnings, commodity-business-economics, look-through-earnings]
 ---
 
 # Berkshire Hathaway 1987 Annual Letter

@@ -16,7 +16,7 @@ author: <author-or-issuer-slug>
 year: YYYY
 raw_path: raw/<...>.md
 tags: [<tag>, ...]
-related: [[<author-page>]], [[<entity-page>]]
+related: [author-page, entity-page]
 ---
 
 # <Source Title>

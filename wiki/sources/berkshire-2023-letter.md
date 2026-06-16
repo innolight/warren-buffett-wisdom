@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2023
 raw_path: raw/berkshire-letters/2023.md
 tags: [berkshire, annual-letter, gaap, operating-earnings, liquidity, insurance, utilities]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [charlie-munger](../people/charlie-munger.md)
+related: [warren-buffett, berkshire-hathaway, charlie-munger]
 ---
 
 # Berkshire Hathaway 2023 Annual Letter

@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1998
 raw_path: raw/berkshire-letters/1998.md
 tags: [berkshire, annual-letter, general-re-acquisition, executive-jet, float, stock-options-accounting, earnings-management, geico]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md), [gillette](../entities/gillette.md), [washington-post](../entities/washington-post.md), [wells-fargo](../entities/wells-fargo.md), [float](../concepts/float.md), [institutional-imperative](../concepts/institutional-imperative.md), [incentive-compensation](../concepts/incentive-compensation.md), [capital-allocation](../concepts/capital-allocation.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md), [super-cat-insurance](../concepts/super-cat-insurance.md), [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md), [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md), [owner-orientation](../concepts/owner-orientation.md)
+related: [warren-buffett, charlie-munger, berkshire-hathaway, geico, coca-cola, american-express, gillette, washington-post, wells-fargo, float, institutional-imperative, incentive-compensation, capital-allocation, acquisition-criteria, mistakes-of-omission, super-cat-insurance, intrinsic-value-vs-book-value, stock-as-acquisition-currency, owner-orientation]
 ---
 
 # Berkshire Hathaway 1998 Annual Letter

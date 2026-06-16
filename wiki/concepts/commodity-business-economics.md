@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1982-letter, berkshire-1985-letter]
 tags: [industry-structure, business-quality, moat]
-related: [moat](moat.md), [tailwinds-vs-headwinds](tailwinds-vs-headwinds.md), [geico](../entities/geico.md), [scott-fetzer](../entities/scott-fetzer.md)
+related: [moat, tailwinds-vs-headwinds, geico, scott-fetzer]
 ---
 
 # Commodity-Business Economics

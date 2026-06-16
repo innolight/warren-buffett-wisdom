@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1980-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-2004-letter]
 tags: [insurance, operator, geico, firemans-fund, turnaround]
-related: [geico](../entities/geico.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [warren-buffett](warren-buffett.md), [moat](../concepts/moat.md)
+related: [geico, berkshire-hathaway, warren-buffett, moat]
 ---
 
 # Jack Byrne

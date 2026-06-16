@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-16
 sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2020-letter, berkshire-2024-letter]
 tags: [governance, ownership, capital-allocation, communication]
-related: [acquisition-criteria](acquisition-criteria.md), [stock-as-acquisition-currency](stock-as-acquisition-currency.md), [dividend-policy](dividend-policy.md), [incentive-compensation](incentive-compensation.md), [institutional-imperative](institutional-imperative.md)
+related: [acquisition-criteria, stock-as-acquisition-currency, dividend-policy, incentive-compensation, institutional-imperative]
 ---
 
 # Owner Orientation

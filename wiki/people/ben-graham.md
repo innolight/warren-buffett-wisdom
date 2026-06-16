@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-14
 sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1997-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2013-letter]
 tags: [investor, author, teacher, value-investing]
-related: [warren-buffett](warren-buffett.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [economic-goodwill](../concepts/economic-goodwill.md), [david-dodd](david-dodd.md)
+related: [warren-buffett, acquisition-criteria, economic-goodwill, david-dodd]
 ---
 
 # Ben Graham

@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2015
 raw_path: raw/berkshire-letters/2015.md
 tags: [berkshire, annual-letter, insurance, float, bnsf, geico, capital-allocation]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [geico](../entities/geico.md), [bnsf](../entities/bnsf.md), [midamerican-energy](../entities/midamerican-energy.md), [general-re](../entities/general-re.md), [float](../concepts/float.md), [direct-distribution-moat](../concepts/direct-distribution-moat.md)
+related: [warren-buffett, charlie-munger, geico, bnsf, midamerican-energy, general-re, float, direct-distribution-moat]
 ---
 
 # Berkshire Hathaway 2015 Annual Letter

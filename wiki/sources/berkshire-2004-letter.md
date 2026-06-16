@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2004
 raw_path: raw/berkshire-letters/2004.md
 tags: [berkshire, annual-letter, insurance, geico, float, corporate-governance]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [national-indemnity](../entities/national-indemnity.md), [float](../concepts/float.md), [lou-simpson](../people/lou-simpson.md)
+related: [warren-buffett, charlie-munger, berkshire-hathaway, geico, national-indemnity, float, lou-simpson]
 ---
 
 # Berkshire Hathaway 2004 Annual Letter

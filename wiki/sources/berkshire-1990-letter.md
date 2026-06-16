@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1990
 raw_path: raw/berkshire-letters/1990.md
 tags: [berkshire, annual-letter, cost-of-float, wells-fargo, super-cat, look-through-earnings, junk-bonds]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [wells-fargo](../entities/wells-fargo.md), [float](../concepts/float.md), [super-cat-insurance](../concepts/super-cat-insurance.md), [volatility-as-opportunity](../concepts/volatility-as-opportunity.md), [charlie-munger](../people/charlie-munger.md), [capital-cities](../entities/capital-cities.md), [geico](../entities/geico.md), [washington-post](../entities/washington-post.md), [coca-cola](../entities/coca-cola.md), [salomon](../entities/salomon.md), [gillette](../entities/gillette.md), [usair](../entities/usair.md), [national-indemnity](../entities/national-indemnity.md), [ben-graham](../people/ben-graham.md), [carl-reichardt](../people/carl-reichardt.md), [ajit-jain](../people/ajit-jain.md), [colman-mockler](../people/colman-mockler.md), [lou-simpson](../people/lou-simpson.md), [margin-of-safety](../concepts/margin-of-safety.md), [look-through-earnings](../concepts/look-through-earnings.md), [franchise-vs-business](../concepts/franchise-vs-business.md)
+related: [warren-buffett, berkshire-hathaway, wells-fargo, float, super-cat-insurance, volatility-as-opportunity, charlie-munger, capital-cities, geico, washington-post, coca-cola, salomon, gillette, usair, national-indemnity, ben-graham, carl-reichardt, ajit-jain, colman-mockler, lou-simpson, margin-of-safety, look-through-earnings, franchise-vs-business]
 ---
 
 # Berkshire Hathaway 1990 Annual Letter

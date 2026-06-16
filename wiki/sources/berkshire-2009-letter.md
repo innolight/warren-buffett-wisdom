@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2009
 raw_path: raw/berkshire-letters/2009.md
 tags: [berkshire, annual-letter, 2009, bnsf, inversion, liquidity]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [bnsf](../entities/bnsf.md), [midamerican-energy](../entities/midamerican-energy.md), [netjets](../entities/netjets.md), [geico](../entities/geico.md), [ajit-jain](../people/ajit-jain.md)
+related: [warren-buffett, berkshire-hathaway, bnsf, midamerican-energy, netjets, geico, ajit-jain]
 ---
 
 # Berkshire 2009 Annual Letter

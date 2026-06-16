@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2014
 raw_path: raw/berkshire-letters/2014.md
 tags: [berkshire, annual-letter, 50th-anniversary, conglomerate, succession]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [bnsf](../entities/bnsf.md), [midamerican-energy](../entities/midamerican-energy.md)
+related: [warren-buffett, charlie-munger, berkshire-hathaway, geico, bnsf, midamerican-energy]
 ---
 
 # Berkshire Hathaway 2014 Annual Letter

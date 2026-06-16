@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-06-16
 sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1980-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1995-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter, berkshire-2016-letter, berkshire-2017-letter, berkshire-2018-letter, berkshire-2019-letter, berkshire-2021-letter, berkshire-2022-letter, berkshire-2024-letter]
 tags: [insurance, capital-allocation, berkshire]
-related: [national-indemnity](../entities/national-indemnity.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [super-cat-insurance](super-cat-insurance.md), [ajit-jain](../people/ajit-jain.md), [underwriting-discipline](underwriting-discipline.md), [general-re](../entities/general-re.md)
+related: [national-indemnity, berkshire-hathaway, geico, super-cat-insurance, ajit-jain, underwriting-discipline, general-re]
 ---
 
 # Float

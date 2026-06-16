@@ -5,7 +5,7 @@ created: 2026-06-12
 updated: 2026-06-15
 sources: [berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2006-letter, berkshire-2016-letter, berkshire-2018-letter]
 tags: [geico, insurance, management, operator]
-related: [geico](../entities/geico.md), [warren-buffett](warren-buffett.md), [lou-simpson](lou-simpson.md), [incentive-compensation](../concepts/incentive-compensation.md)
+related: [geico, warren-buffett, lou-simpson, incentive-compensation]
 ---
 
 # Tony Nicely

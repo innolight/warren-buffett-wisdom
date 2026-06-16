@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-06-15
 sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1990-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter, berkshire-2016-letter, berkshire-2018-letter]
 tags: [insurance, auto-insurance, low-cost-operator, moat, marketable-equities, wholly-owned]
-related: [berkshire-hathaway](berkshire-hathaway.md), [warren-buffett](../people/warren-buffett.md), [moat](../concepts/moat.md), [commodity-business-economics](../concepts/commodity-business-economics.md), [jack-byrne](../people/jack-byrne.md), [lou-simpson](../people/lou-simpson.md), [lorimer-davidson](../people/lorimer-davidson.md), [franchise-vs-business](../concepts/franchise-vs-business.md), [tony-nicely](../people/tony-nicely.md)
+related: [berkshire-hathaway, warren-buffett, moat, commodity-business-economics, jack-byrne, lou-simpson, lorimer-davidson, franchise-vs-business, tony-nicely]
 ---
 
 # GEICO (Government Employees Insurance Company)

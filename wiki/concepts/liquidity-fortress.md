@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-16
 sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2023-letter]
 tags: [financial-strength, capital-allocation, risk-management, berkshire]
-related: [berkshire-hathaway](../entities/berkshire-hathaway.md), [capital-allocation](capital-allocation.md), [inversion](inversion.md), [float](float.md), [volatility-as-opportunity](volatility-as-opportunity.md), [derivatives](derivatives.md)
+related: [berkshire-hathaway, capital-allocation, inversion, float, volatility-as-opportunity, derivatives]
 ---
 
 # Liquidity Fortress

@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-06-16
 sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-2020-letter, berkshire-2022-letter, berkshire-2023-letter, berkshire-2024-letter]
 tags: [equities, capital-allocation, investment-framework, control]
-related: [acquisition-criteria](acquisition-criteria.md), [look-through-earnings](look-through-earnings.md)
+related: [acquisition-criteria, look-through-earnings]
 ---
 
 # Passive Ownership Advantage

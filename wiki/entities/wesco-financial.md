@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-05-24
 sources: [berkshire-1977-letter]
 tags: [berkshire, holding-company]
-related: [blue-chip-stamps](blue-chip-stamps.md)
+related: [blue-chip-stamps]
 ---
 
 # Wesco Financial Corporation

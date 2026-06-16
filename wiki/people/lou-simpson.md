@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1988-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1999-letter, berkshire-2004-letter]
 tags: [investing, geico, concentration, succession]
-related: [geico](../entities/geico.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [concentration-vs-diversification](../concepts/concentration-vs-diversification.md), [warren-buffett](warren-buffett.md), [incentive-compensation](../concepts/incentive-compensation.md)
+related: [geico, berkshire-hathaway, concentration-vs-diversification, warren-buffett, incentive-compensation]
 ---
 
 # Lou Simpson

@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-05-25
 sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1982-letter, berkshire-1983-letter]
 tags: [berkshire, holding-company]
-related: [sees-candies](sees-candies.md), [wesco-financial](wesco-financial.md), [berkshire-hathaway](berkshire-hathaway.md), [buffalo-evening-news](buffalo-evening-news.md)
+related: [sees-candies, wesco-financial, berkshire-hathaway, buffalo-evening-news]
 ---
 
 # Blue Chip Stamps

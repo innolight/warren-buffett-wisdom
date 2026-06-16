@@ -5,7 +5,7 @@ created: 2026-06-10
 updated: 2026-06-14
 sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter]
 tags: [reinsurance, acquisition, underwriting, insurance]
-related: [berkshire-hathaway](berkshire-hathaway.md), [float](../concepts/float.md), [super-cat-insurance](../concepts/super-cat-insurance.md), [ajit-jain](../people/ajit-jain.md), [underwriting-discipline](../concepts/underwriting-discipline.md), [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md)
+related: [berkshire-hathaway, float, super-cat-insurance, ajit-jain, underwriting-discipline, stock-as-acquisition-currency]
 ---
 
 # General Re

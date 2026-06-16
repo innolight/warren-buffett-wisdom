@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1981
 raw_path: raw/berkshire-letters/1981.md
 tags: [berkshire, acquisitions, inflation, insurance, equity-value-added, munger]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md)
+related: [warren-buffett, charlie-munger, berkshire-hathaway]
 ---
 
 # Berkshire Hathaway 1981 Shareholder Letter

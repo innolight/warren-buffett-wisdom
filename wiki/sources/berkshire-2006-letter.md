@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2006
 raw_path: raw/berkshire-letters/2006.md
 tags: [berkshire, annual-letter, insurance, geico, float, derivatives, investment-friction, newspapers]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [ajit-jain](../people/ajit-jain.md), [tony-nicely](../people/tony-nicely.md), [lou-simpson](../people/lou-simpson.md), [walter-schloss](../people/walter-schloss.md)
+related: [warren-buffett, charlie-munger, berkshire-hathaway, geico, ajit-jain, tony-nicely, lou-simpson, walter-schloss]
 ---
 
 # Berkshire Hathaway 2006 Annual Letter

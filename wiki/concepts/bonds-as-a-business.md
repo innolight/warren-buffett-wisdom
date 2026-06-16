@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1984-letter]
 tags: [bonds, fixed-income, valuation, business-mindset]
-related: [bonds-and-inflation](bonds-and-inflation.md), [ben-graham](../people/ben-graham.md), [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md)
+related: [bonds-and-inflation, ben-graham, intrinsic-value-vs-book-value]
 ---
 
 # Bonds as a Business

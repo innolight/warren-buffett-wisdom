@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-14
 sources: [berkshire-1982-letter, berkshire-1983-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2009-letter]
 tags: [acquisitions, mergers, dilution, capital-allocation]
-related: [acquisition-criteria](acquisition-criteria.md), [share-repurchases](share-repurchases.md), [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md)
+related: [acquisition-criteria, share-repurchases, intrinsic-value-vs-book-value]
 ---
 
 # Stock as Acquisition Currency

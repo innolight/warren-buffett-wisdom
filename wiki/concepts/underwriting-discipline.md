@@ -5,7 +5,7 @@ created: 2026-06-13
 updated: 2026-06-16
 sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2016-letter, berkshire-2024-letter]
 tags: [insurance, underwriting, discipline]
-related: [float](float.md), [ajit-jain](../people/ajit-jain.md), [super-cat-insurance](super-cat-insurance.md), [institutional-imperative](institutional-imperative.md), [general-re](../entities/general-re.md)
+related: [float, ajit-jain, super-cat-insurance, institutional-imperative, general-re]
 ---
 
 # Underwriting Discipline

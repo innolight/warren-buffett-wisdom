@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-26
 sources: [berkshire-1989-letter, berkshire-1990-letter]
 tags: [gillette, ceo, integrity, product-quality]
-related: [gillette](../entities/gillette.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [franchise-vs-business](../concepts/franchise-vs-business.md)
+related: [gillette, berkshire-hathaway, franchise-vs-business]
 ---
 
 # Colman Mockler, Jr.

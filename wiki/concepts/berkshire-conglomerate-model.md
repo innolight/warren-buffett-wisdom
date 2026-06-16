@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-16
 sources: [berkshire-2014-letter, berkshire-2020-letter, berkshire-2021-letter, berkshire-2022-letter]
 tags: [capital-allocation, governance, berkshire, conglomerate, management-system, succession]
-related: [berkshire-hathaway](../entities/berkshire-hathaway.md), [capital-allocation](capital-allocation.md), [owner-orientation](owner-orientation.md), [institutional-imperative](institutional-imperative.md), [charlie-munger](../people/charlie-munger.md), [ajit-jain](../people/ajit-jain.md), [stock-as-acquisition-currency](stock-as-acquisition-currency.md), [liquidity-fortress](liquidity-fortress.md)
+related: [berkshire-hathaway, capital-allocation, owner-orientation, institutional-imperative, charlie-munger, ajit-jain, stock-as-acquisition-currency, liquidity-fortress]
 ---
 
 # The Berkshire Conglomerate Model

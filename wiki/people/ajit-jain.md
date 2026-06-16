@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-15
 sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2008-letter, berkshire-2010-letter, berkshire-2018-letter]
 tags: [insurance, reinsurance, super-cat, operator]
-related: [super-cat-insurance](../concepts/super-cat-insurance.md), [national-indemnity](../entities/national-indemnity.md), [float](../concepts/float.md), [berkshire-hathaway](../entities/berkshire-hathaway.md)
+related: [super-cat-insurance, national-indemnity, float, berkshire-hathaway]
 ---
 
 # Ajit Jain

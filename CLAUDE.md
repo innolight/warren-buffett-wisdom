@@ -42,15 +42,15 @@ When an idea is tied to an entity (e.g. Berkshire's float strategy), put the ide
 
 **Slugs** — kebab-case ASCII, lowercase; the canonical short name (`geico` not `government-employees-insurance-company`; `float`; `margin-of-safety`). People as `firstname-lastname`. Sources as `<author>-<year>-<doctype>` (`berkshire-1977-letter`, `apple-2023-10k`, `howard-marks-2024-04-memo` — add month when multiple land in one year). Synthesis as a descriptive topic slug (`capital-allocation-thesis`). Disambiguate clashes with a qualifier (`apple-company` vs `apple-fruit`) and note it in the page's first paragraph.
 
-**Linking** — internal links are Obsidian wikilinks `[[slug]]` (filename without `.md`; resolves across folders). External links are normal markdown. Cite a source inline wherever a claim comes from it: "Buffett first discussed float in [[berkshire-1977-letter]]." Link the first mention per page, not every one. Every page links to ≥1 other (orphans are a lint signal). Don't hand-maintain backlinks — Obsidian shows them natively — but do curate the explicit "Sources discussing this …" lists.
+**Linking** — internal links use standard markdown: `[display text](relative/path.md)` (relative path from the linking file). External links are the same syntax. Cite a source inline wherever a claim comes from it: "Buffett first discussed float in [berkshire-1977-letter](../sources/berkshire-1977-letter.md)." Link the first mention per page, not every one. Every page links to ≥1 other (orphans are a lint signal). Don't hand-maintain backlinks — Obsidian shows them natively — but do curate the explicit "Sources discussing this …" lists.
 
-**`index.md`** — the catalog. Sections in order: Sources, Entities, People, Concepts, Synthesis. Sort alphabetically by slug (sources chronologically by year then author). One line per page: `[[slug]] — the specific angle that makes the page relevant` (not a generic label). Update on every page create, rename, or merge.
+**`index.md`** — the catalog. Sections in order: Sources, Entities, People, Concepts, Synthesis. Sort alphabetically by slug (sources chronologically by year then author). One line per page: `[slug](relative/path.md) — the specific angle that makes the page relevant` (not a generic label). Update on every page create, rename, or merge.
 
 **`log.md`** — prepend-only journal; never edit prior entries (except to fix your own typos). Header `## [YYYY-MM-DD] <op> | <subject>`, where `<op>` is `ingest | query | lint | refactor | note`, followed by a short bulleted list of what changed — including what was deliberately skipped, so editorial calls stay auditable.
 
 **Status lifecycle** — `stub` (placeholder; use sparingly, only for clearly canonical items lacking material) → `draft` (real content, LLM-written; the default for new pages) → `reviewed` (user-approved; only the user sets this). When you substantively change a `reviewed` page, demote it to `draft` and note in the log that re-review is needed.
 
-**Supersession** — never silently overwrite an older claim; the wiki preserves the evolution of a view. Note both with sources ("In 1985 … ([[berkshire-1985-letter]]); by 2003 his view had shifted … ([[berkshire-2003-letter]])"), adding a `## Historical (superseded)` subsection for material shifts. For restated figures, update the number but flag it inline: "(restated in [[berkshire-1980-letter]] from $X)."
+**Supersession** — never silently overwrite an older claim; the wiki preserves the evolution of a view. Note both with sources ("In 1985 … ([berkshire-1985-letter](../sources/berkshire-1985-letter.md)); by 2003 his view had shifted … ([berkshire-2003-letter](../sources/berkshire-2003-letter.md))"), adding a `## Historical (superseded)` subsection for material shifts. For restated figures, update the number but flag it inline: "(restated in [berkshire-1980-letter](../sources/berkshire-1980-letter.md) from $X)."
 
 ## Workflows
 
@@ -58,7 +58,7 @@ Full procedures live in the matching skills; these are the load-bearing rules th
 
 **Ingest** (`/ingest <path>`) — read the source in full; filter hard against the scope axes; **discuss takeaways with the user before writing**, naming explicitly what you'll skip and why; then create the source page (the home for chronology and figures) and create or update only in-scope pages — refining existing ones where the source adds **durable insight**, not year-by-year recaps. Update `index.md`, append a log entry. **Target 3–8 pages per source** — discipline over completeness.
 
-**Query** (`/query <question>`) — answer from wiki pages (drill into `raw/` only to verify a quote or figure), citing `[[slug]]`. File a `synthesis/` page only when the answer is genuinely novel (combines sources, traces an idea through time, draws a non-obvious connection) — and ask before filing.
+**Query** (`/query <question>`) — answer from wiki pages (drill into `raw/` only to verify a quote or figure), citing pages with markdown links. File a `synthesis/` page only when the answer is genuinely novel (combines sources, traces an idea through time, draws a non-obvious connection) — and ask before filing.
 
 **Lint** (`/lint`) — health check only; **never fix without explicit user confirmation.**
 

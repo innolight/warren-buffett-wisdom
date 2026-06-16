@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-16
 sources: [berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1989-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2014-letter, berkshire-2022-letter]
 tags: [investor, berkshire, wesco, partner]
-related: [warren-buffett](warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [wesco-financial](../entities/wesco-financial.md), [owner-orientation](../concepts/owner-orientation.md), [economic-goodwill](../concepts/economic-goodwill.md), [berkshire-conglomerate-model](../concepts/berkshire-conglomerate-model.md)
+related: [warren-buffett, berkshire-hathaway, wesco-financial, owner-orientation, economic-goodwill, berkshire-conglomerate-model]
 ---
 
 # Charlie Munger

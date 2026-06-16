@@ -13,7 +13,7 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 sources: [<source-slug>, ...]
 tags: [<tag>, ...]
-related: [[other-page]]
+related: [other-page]
 ---
 
 # <Display Name>

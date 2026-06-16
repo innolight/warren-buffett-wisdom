@@ -5,7 +5,7 @@ created: 2026-06-16
 updated: 2026-06-16
 sources: [berkshire-2023-letter, berkshire-2024-letter]
 tags: [japan, passive-ownership, conglomerate, currency-hedge, shareholder-returns]
-related: [berkshire-hathaway](berkshire-hathaway.md), [passive-ownership-advantage](../concepts/passive-ownership-advantage.md), [share-repurchases](../concepts/share-repurchases.md), [greg-abel](../people/greg-abel.md)
+related: [berkshire-hathaway, passive-ownership-advantage, share-repurchases, greg-abel]
 ---
 
 # Japanese Trading Houses (sōgō shōsha)

@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-06-13
 sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter, berkshire-1981-letter, berkshire-1984-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter]
 tags: [behavior, management, capital-allocation]
-related: [warren-buffett](../people/warren-buffett.md), [acquisition-criteria](acquisition-criteria.md), [owner-orientation](owner-orientation.md), [capital-allocation](capital-allocation.md), [wells-fargo](../entities/wells-fargo.md), [general-re](../entities/general-re.md), [underwriting-discipline](underwriting-discipline.md)
+related: [warren-buffett, acquisition-criteria, owner-orientation, capital-allocation, wells-fargo, general-re, underwriting-discipline]
 ---
 
 # Institutional Imperative

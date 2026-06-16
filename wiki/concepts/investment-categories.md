@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-16
 sources: [berkshire-2011-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2024-letter]
 tags: [investment-philosophy, asset-allocation, purchasing-power, gold, productive-assets]
-related: [risk-vs-volatility](risk-vs-volatility.md), [bonds-and-inflation](bonds-and-inflation.md), [economic-goodwill](economic-goodwill.md), [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md), [equity-return-expectations](equity-return-expectations.md)
+related: [risk-vs-volatility, bonds-and-inflation, economic-goodwill, intrinsic-value-vs-book-value, equity-return-expectations]
 ---
 
 # Investment Categories

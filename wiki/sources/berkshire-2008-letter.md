@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2008
 raw_path: raw/berkshire-letters/2008.md
 tags: [financial-crisis, derivatives, float, insurance, utilities, manufactured-housing, lending]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [midamerican-energy](../entities/midamerican-energy.md), [clayton-homes](../entities/clayton-homes.md), [ajit-jain](../people/ajit-jain.md)
+related: [warren-buffett, charlie-munger, berkshire-hathaway, geico, midamerican-energy, clayton-homes, ajit-jain]
 ---
 
 # Berkshire Hathaway 2008 Annual Letter

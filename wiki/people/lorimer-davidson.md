@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1995-letter, berkshire-1997-letter, berkshire-1999-letter]
 tags: [insurance, geico, mentor, shaping-figure]
-related: [geico](../entities/geico.md), [warren-buffett](warren-buffett.md), [ben-graham](ben-graham.md), [moat](../concepts/moat.md)
+related: [geico, warren-buffett, ben-graham, moat]
 ---
 
 # Lorimer Davidson

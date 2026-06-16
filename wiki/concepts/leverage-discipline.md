@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-1989-letter, berkshire-1990-letter, berkshire-2010-letter]
 tags: [leverage, debt, junk-bonds, ebitda, financial-engineering]
-related: [derivatives](derivatives.md), [owner-earnings](owner-earnings.md), [institutional-imperative](institutional-imperative.md), [margin-of-safety](margin-of-safety.md), [noah-rule](noah-rule.md)
+related: [derivatives, owner-earnings, institutional-imperative, margin-of-safety, noah-rule]
 ---
 
 # Leverage Discipline

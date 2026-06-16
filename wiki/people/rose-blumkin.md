@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1983-letter, berkshire-1984-letter]
 tags: [operator, retail, low-cost, berkshire]
-related: [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md), [berkshire-hathaway](../entities/berkshire-hathaway.md)
+related: [nebraska-furniture-mart, berkshire-hathaway]
 ---
 
 # Rose Blumkin ("Mrs. B")

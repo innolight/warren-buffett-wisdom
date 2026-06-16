@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2005
 raw_path: raw/berkshire-letters/2005.md
 tags: [berkshire, annual-letter, insurance, acquisitions, derivatives, compensation, investment-friction]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [midamerican-energy](../entities/midamerican-energy.md), [clayton-homes](../entities/clayton-homes.md), [gillette](../entities/gillette.md)
+related: [warren-buffett, charlie-munger, berkshire-hathaway, geico, midamerican-energy, clayton-homes, gillette]
 ---
 
 # Berkshire Hathaway 2005 Annual Letter

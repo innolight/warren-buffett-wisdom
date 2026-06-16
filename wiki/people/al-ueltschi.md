@@ -5,7 +5,7 @@ created: 2026-06-10
 updated: 2026-06-10
 sources: [berkshire-1996-letter, berkshire-1997-letter]
 tags: [operator, aviation, flightsafety, founder]
-related: [flightsafety](../entities/flightsafety.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [acquisition-criteria](../concepts/acquisition-criteria.md)
+related: [flightsafety, berkshire-hathaway, acquisition-criteria]
 ---
 
 # Al Ueltschi

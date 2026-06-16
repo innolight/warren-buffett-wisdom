@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter]
 tags: [airlines, convertible-preferred, mistake, commodity-business]
-related: [berkshire-hathaway](berkshire-hathaway.md), [warren-buffett](../people/warren-buffett.md), [commodity-business-economics](../concepts/commodity-business-economics.md), [salomon](salomon.md), [gillette](gillette.md)
+related: [berkshire-hathaway, warren-buffett, commodity-business-economics, salomon, gillette]
 ---
 
 # USAir Group

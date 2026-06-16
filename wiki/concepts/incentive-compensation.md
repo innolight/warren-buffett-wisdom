@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-16
 sources: [berkshire-1985-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1994-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2005-letter, berkshire-2024-letter]
 tags: [compensation, options, capital-allocation, agency, owner-orientation]
-related: [owner-orientation](owner-orientation.md), [share-repurchases](share-repurchases.md), [stock-as-acquisition-currency](stock-as-acquisition-currency.md), [institutional-imperative](institutional-imperative.md), [ralph-schey](../people/ralph-schey.md), [scott-fetzer](../entities/scott-fetzer.md), [geico](../entities/geico.md)
+related: [owner-orientation, share-repurchases, stock-as-acquisition-currency, institutional-imperative, ralph-schey, scott-fetzer, geico]
 ---
 
 # Incentive Compensation

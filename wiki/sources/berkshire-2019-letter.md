@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2019
 raw_path: raw/berkshire-letters/2019.md
 tags: [berkshire, annual-letter, retained-earnings, corporate-governance, float, gaap]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [charlie-munger](../people/charlie-munger.md)
+related: [warren-buffett, berkshire-hathaway, charlie-munger]
 ---
 
 # Berkshire Hathaway 2019 Annual Letter

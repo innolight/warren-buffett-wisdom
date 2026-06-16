@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1992-letter, berkshire-1994-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-2000-letter]
 tags: [operator, scott-fetzer, capital-allocation, conglomerate, incentive-compensation]
-related: [scott-fetzer](../entities/scott-fetzer.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [incentive-compensation](../concepts/incentive-compensation.md), [capital-allocation](../concepts/capital-allocation.md), [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md)
+related: [scott-fetzer, berkshire-hathaway, incentive-compensation, capital-allocation, intrinsic-value-vs-book-value]
 ---
 
 # Ralph Schey

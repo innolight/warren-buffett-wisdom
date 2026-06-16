@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2005-letter]
 tags: [consumer-brand, global-franchise, marketable-equities, convertible-preferred]
-related: [berkshire-hathaway](berkshire-hathaway.md), [colman-mockler](../people/colman-mockler.md), [coca-cola](coca-cola.md), [american-express](american-express.md), [franchise-vs-business](../concepts/franchise-vs-business.md), [moat](../concepts/moat.md), [concentration-vs-diversification](../concepts/concentration-vs-diversification.md)
+related: [berkshire-hathaway, colman-mockler, coca-cola, american-express, franchise-vs-business, moat, concentration-vs-diversification]
 ---
 
 # Gillette

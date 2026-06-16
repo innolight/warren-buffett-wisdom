@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-05-25
 sources: [berkshire-1977-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1985-letter]
 tags: [media, newspapers, marketable-equities, moat]
-related: [berkshire-hathaway](berkshire-hathaway.md), [moat](../concepts/moat.md), [share-repurchases](../concepts/share-repurchases.md), [capital-cities](capital-cities.md)
+related: [berkshire-hathaway, moat, share-repurchases, capital-cities]
 ---
 
 # The Washington Post Company

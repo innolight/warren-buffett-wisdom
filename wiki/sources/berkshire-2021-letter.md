@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2021
 raw_path: raw/berkshire-letters/2021.md
 tags: [berkshire, annual-letter, capital-allocation, insurance, float, repurchases]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [charlie-munger](../people/charlie-munger.md)
+related: [warren-buffett, berkshire-hathaway, charlie-munger]
 ---
 
 # Berkshire Hathaway 2021 Annual Letter

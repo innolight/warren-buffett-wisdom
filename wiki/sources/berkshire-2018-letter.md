@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2018
 raw_path: raw/berkshire-letters/2018.md
 tags: [berkshire, annual-letter, 2018]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [charlie-munger](../people/charlie-munger.md)
+related: [warren-buffett, berkshire-hathaway, charlie-munger]
 ---
 
 # Berkshire Hathaway 2018 Annual Letter

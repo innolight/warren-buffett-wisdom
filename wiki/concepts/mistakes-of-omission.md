@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1983-letter, berkshire-1989-letter, berkshire-1991-letter, berkshire-1994-letter, berkshire-1999-letter, berkshire-2001-letter, berkshire-2003-letter]
 tags: [psychology, decision-making, behavioral, opportunity-cost]
-related: [capital-allocation](capital-allocation.md), [concentration-vs-diversification](concentration-vs-diversification.md), [cigar-butts-vs-wonderful-businesses](cigar-butts-vs-wonderful-businesses.md), [circle-of-competence](circle-of-competence.md), [noah-rule](noah-rule.md)
+related: [capital-allocation, concentration-vs-diversification, cigar-butts-vs-wonderful-businesses, circle-of-competence, noah-rule]
 ---
 
 # Mistakes of Omission

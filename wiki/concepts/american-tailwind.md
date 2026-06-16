@@ -5,7 +5,7 @@ created: 2026-06-15
 updated: 2026-06-16
 sources: [berkshire-2018-letter, berkshire-2023-letter, berkshire-2024-letter]
 tags: [investing, long-term, america, compounding, optimism]
-related: [warren-buffett](../people/warren-buffett.md), [investment-friction](investment-friction.md), [tailwinds-vs-headwinds](tailwinds-vs-headwinds.md), [berkshire-2018-letter](../sources/berkshire-2018-letter.md)
+related: [warren-buffett, investment-friction, tailwinds-vs-headwinds, berkshire-2018-letter]
 ---
 
 # American Tailwind

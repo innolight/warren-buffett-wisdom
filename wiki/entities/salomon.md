@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1987-letter, berkshire-1988-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter]
 tags: [investment-banking, convertible-preferred, reputation, mistake]
-related: [berkshire-hathaway](berkshire-hathaway.md), [warren-buffett](../people/warren-buffett.md), [john-gutfreund](../people/john-gutfreund.md), [charlie-munger](../people/charlie-munger.md), [usair](usair.md)
+related: [berkshire-hathaway, warren-buffett, john-gutfreund, charlie-munger, usair]
 ---
 
 # Salomon Inc

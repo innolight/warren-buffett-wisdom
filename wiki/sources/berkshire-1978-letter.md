@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1978
 raw_path: raw/berkshire-letters/1978.md
 tags: [berkshire, insurance, equities, capital-allocation]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md)
+related: [warren-buffett, berkshire-hathaway]
 ---
 
 # Berkshire Hathaway 1978 Shareholder Letter

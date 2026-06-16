@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-05-24
 sources: [berkshire-1977-letter, berkshire-1979-letter, berkshire-1985-letter]
 tags: [business-quality, capital-allocation, industry-structure]
-related: [acquisition-criteria](acquisition-criteria.md), [warren-buffett](../people/warren-buffett.md), [commodity-business-economics](commodity-business-economics.md)
+related: [acquisition-criteria, warren-buffett, commodity-business-economics]
 ---
 
 # Tailwinds vs. Headwinds

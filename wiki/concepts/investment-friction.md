@@ -5,7 +5,7 @@ created: 2026-06-13
 updated: 2026-06-15
 sources: [berkshire-2005-letter, berkshire-2006-letter, berkshire-2007-letter, berkshire-2016-letter, berkshire-2017-letter]
 tags: [investing, fees, passive-investing, active-management, aggregate-returns]
-related: [passive-ownership-advantage](passive-ownership-advantage.md), [concentration-vs-diversification](concentration-vs-diversification.md), [capital-allocation](capital-allocation.md), [mr-market](mr-market.md), [walter-schloss](../people/walter-schloss.md)
+related: [passive-ownership-advantage, concentration-vs-diversification, capital-allocation, mr-market, walter-schloss]
 ---
 
 # Investment Friction

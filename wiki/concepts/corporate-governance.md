@@ -5,7 +5,7 @@ created: 2026-06-12
 updated: 2026-06-15
 sources: [berkshire-1998-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2006-letter, berkshire-2009-letter, berkshire-2019-letter]
 tags: [governance, management, incentives, compensation, accountability]
-related: [incentive-compensation](incentive-compensation.md), [owner-orientation](owner-orientation.md), [institutional-imperative](institutional-imperative.md)
+related: [incentive-compensation, owner-orientation, institutional-imperative]
 ---
 
 # Corporate Governance

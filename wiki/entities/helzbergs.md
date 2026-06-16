@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-1995-letter]
 tags: [jewelry, acquisition, berkshire, referral-chain]
-related: [berkshire-hathaway](berkshire-hathaway.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [nebraska-furniture-mart](nebraska-furniture-mart.md), [borsheims](borsheims.md)
+related: [berkshire-hathaway, acquisition-criteria, nebraska-furniture-mart, borsheims]
 ---
 
 # Helzberg Diamonds

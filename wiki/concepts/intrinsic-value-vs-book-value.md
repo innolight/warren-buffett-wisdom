@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-15
 sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2018-letter]
 tags: [valuation, accounting, intrinsic-value]
-related: [economic-goodwill](economic-goodwill.md), [look-through-earnings](look-through-earnings.md), [owner-orientation](owner-orientation.md), [owner-earnings](owner-earnings.md), [scott-fetzer](../entities/scott-fetzer.md), [ralph-schey](../people/ralph-schey.md)
+related: [economic-goodwill, look-through-earnings, owner-orientation, owner-earnings, scott-fetzer, ralph-schey]
 ---
 
 # Intrinsic Value vs. Book Value

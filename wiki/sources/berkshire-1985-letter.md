@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1985
 raw_path: raw/berkshire-letters/1985.md
 tags: [berkshire, annual-letter, textile-shutdown, incentive-compensation, capital-cities, scott-fetzer, firemans-fund]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [capital-cities](../entities/capital-cities.md), [scott-fetzer](../entities/scott-fetzer.md), [jack-byrne](../people/jack-byrne.md), [incentive-compensation](../concepts/incentive-compensation.md)
+related: [warren-buffett, charlie-munger, berkshire-hathaway, capital-cities, scott-fetzer, jack-byrne, incentive-compensation]
 ---
 
 # Berkshire Hathaway 1985 Annual Letter

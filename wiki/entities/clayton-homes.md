@@ -5,7 +5,7 @@ created: 2026-06-13
 updated: 2026-06-14
 sources: [berkshire-2003-letter, berkshire-2005-letter, berkshire-2008-letter]
 tags: [acquisition, manufactured-housing, consumer-finance, underwriting-discipline, originate-and-distribute]
-related: [berkshire-hathaway](berkshire-hathaway.md), [warren-buffett](../people/warren-buffett.md), [moat](../concepts/moat.md), [acquisition-criteria](../concepts/acquisition-criteria.md)
+related: [berkshire-hathaway, warren-buffett, moat, acquisition-criteria]
 ---
 
 # Clayton Homes

@@ -5,7 +5,7 @@ created: 2026-06-13
 updated: 2026-06-13
 sources: [berkshire-2001-letter, berkshire-2003-letter]
 tags: [risk, planning, behavior, insurance]
-related: [circle-of-competence](circle-of-competence.md), [margin-of-safety](margin-of-safety.md), [mistakes-of-omission](mistakes-of-omission.md), [float](float.md)
+related: [circle-of-competence, margin-of-safety, mistakes-of-omission, float]
 ---
 
 # Noah Rule

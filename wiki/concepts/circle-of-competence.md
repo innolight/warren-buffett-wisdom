@@ -5,7 +5,7 @@ created: 2026-06-12
 updated: 2026-06-13
 sources: [berkshire-1999-letter, berkshire-2001-letter, berkshire-2004-letter]
 tags: [psychology, decision-making, behavioral, competence]
-related: [mistakes-of-omission](mistakes-of-omission.md), [mr-market](mr-market.md), [moat](moat.md), [margin-of-safety](margin-of-safety.md)
+related: [mistakes-of-omission, mr-market, moat, margin-of-safety]
 ---
 
 # Circle of Competence

@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1987-letter, berkshire-1990-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [psychology, market-behavior, valuation]
-related: [mr-market](mr-market.md), [risk-vs-volatility](risk-vs-volatility.md), [margin-of-safety](margin-of-safety.md)
+related: [mr-market, risk-vs-volatility, margin-of-safety]
 ---
 
 # Volatility as Opportunity

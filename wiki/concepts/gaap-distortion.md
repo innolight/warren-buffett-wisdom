@@ -5,7 +5,7 @@ created: 2026-06-15
 updated: 2026-06-16
 sources: [berkshire-2016-letter, berkshire-2017-letter, berkshire-2018-letter, berkshire-2019-letter, berkshire-2020-letter, berkshire-2023-letter, berkshire-2024-letter]
 tags: [accounting, gaap, reporting, operating-earnings]
-related: [earnings-quality](earnings-quality.md), [owner-earnings](owner-earnings.md), [look-through-earnings](look-through-earnings.md)
+related: [earnings-quality, owner-earnings, look-through-earnings]
 ---
 
 # GAAP Distortion

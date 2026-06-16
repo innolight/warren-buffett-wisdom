@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-16
 sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2022-letter]
 tags: [consumer-brand, global-franchise, marketable-equities, permanent-holding]
-related: [berkshire-hathaway](berkshire-hathaway.md), [roberto-goizueta](../people/roberto-goizueta.md), [franchise-vs-business](../concepts/franchise-vs-business.md), [moat](../concepts/moat.md), [economic-goodwill](../concepts/economic-goodwill.md), [concentration-vs-diversification](../concepts/concentration-vs-diversification.md), [look-through-earnings](../concepts/look-through-earnings.md)
+related: [berkshire-hathaway, roberto-goizueta, franchise-vs-business, moat, economic-goodwill, concentration-vs-diversification, look-through-earnings]
 ---
 
 # Coca-Cola

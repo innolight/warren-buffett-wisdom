@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-16
 sources: [berkshire-1987-letter, berkshire-1994-letter, berkshire-2000-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2021-letter, berkshire-2024-letter]
 tags: [capital-allocation, ceo-skill, management, intrinsic-value]
-related: [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md), [share-repurchases](share-repurchases.md), [stock-as-acquisition-currency](stock-as-acquisition-currency.md), [institutional-imperative](institutional-imperative.md), [acquisition-criteria](acquisition-criteria.md)
+related: [intrinsic-value-vs-book-value, share-repurchases, stock-as-acquisition-currency, institutional-imperative, acquisition-criteria]
 ---
 
 # Capital Allocation

@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-14
 sources: [berkshire-1984-letter, berkshire-2012-letter]
 tags: [capital-allocation, dividends, retention]
-related: [share-repurchases](share-repurchases.md), [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md), [owner-orientation](owner-orientation.md), [tax-deferral](tax-deferral.md)
+related: [share-repurchases, intrinsic-value-vs-book-value, owner-orientation, tax-deferral]
 ---
 
 # Dividend Policy

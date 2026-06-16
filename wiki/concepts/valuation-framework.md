@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-16
 sources: [berkshire-1992-letter, berkshire-2000-letter, berkshire-2021-letter]
 tags: [valuation, dcf, aesop, intrinsic-value]
-related: [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md), [capital-allocation](capital-allocation.md), [mr-market](mr-market.md), [growth-and-value](growth-and-value.md), [margin-of-safety](margin-of-safety.md)
+related: [intrinsic-value-vs-book-value, capital-allocation, mr-market, growth-and-value, margin-of-safety]
 ---
 
 # Valuation Framework

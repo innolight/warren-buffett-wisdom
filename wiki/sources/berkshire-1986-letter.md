@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1986
 raw_path: raw/berkshire-letters/1986.md
 tags: [berkshire, annual-letter, owner-earnings, scott-fetzer, fechheimer, tax-reform-act, capital-allocation]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [scott-fetzer](../entities/scott-fetzer.md), [owner-earnings](../concepts/owner-earnings.md), [capital-allocation](../concepts/capital-allocation.md), [charlie-munger](../people/charlie-munger.md), [geico](../entities/geico.md), [capital-cities](../entities/capital-cities.md), [washington-post](../entities/washington-post.md), [national-indemnity](../entities/national-indemnity.md), [lou-simpson](../people/lou-simpson.md), [ralph-schey](../people/ralph-schey.md), [moat](../concepts/moat.md), [commodity-business-economics](../concepts/commodity-business-economics.md), [float](../concepts/float.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [volatility-as-opportunity](../concepts/volatility-as-opportunity.md)
+related: [warren-buffett, berkshire-hathaway, scott-fetzer, owner-earnings, capital-allocation, charlie-munger, geico, capital-cities, washington-post, national-indemnity, lou-simpson, ralph-schey, moat, commodity-business-economics, float, acquisition-criteria, volatility-as-opportunity]
 ---
 
 # Berkshire Hathaway 1986 Annual Letter

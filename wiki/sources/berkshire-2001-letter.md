@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2001
 raw_path: raw/berkshire-letters/2001.md
 tags: [berkshire, annual-letter, september-11, general-re, underwriting-discipline, noah-rule, loss-development, fruit-of-the-loom, finova, dexter-mistake]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [national-indemnity](../entities/national-indemnity.md), [ajit-jain](../people/ajit-jain.md), [ben-graham](../people/ben-graham.md), [david-dodd](../people/david-dodd.md), [lou-simpson](../people/lou-simpson.md), [washington-post](../entities/washington-post.md), [american-express](../entities/american-express.md), [coca-cola](../entities/coca-cola.md), [gillette](../entities/gillette.md), [wells-fargo](../entities/wells-fargo.md), [float](../concepts/float.md), [super-cat-insurance](../concepts/super-cat-insurance.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [incentive-compensation](../concepts/incentive-compensation.md), [capital-allocation](../concepts/capital-allocation.md), [owner-earnings](../concepts/owner-earnings.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md), [institutional-imperative](../concepts/institutional-imperative.md)
+related: [warren-buffett, charlie-munger, berkshire-hathaway, geico, national-indemnity, ajit-jain, ben-graham, david-dodd, lou-simpson, washington-post, american-express, coca-cola, gillette, wells-fargo, float, super-cat-insurance, acquisition-criteria, incentive-compensation, capital-allocation, owner-earnings, mistakes-of-omission, institutional-imperative]
 ---
 
 # Berkshire Hathaway 2001 Annual Letter

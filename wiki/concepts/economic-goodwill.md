@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1983-letter, berkshire-1985-letter, berkshire-1986-letter, berkshire-1994-letter, berkshire-1999-letter, berkshire-2000-letter]
 tags: [valuation, goodwill, moat, business-quality]
-related: [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md), [moat](moat.md), [sees-candies](../entities/sees-candies.md), [buffalo-evening-news](../entities/buffalo-evening-news.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md), [owner-earnings](owner-earnings.md), [franchise-vs-business](franchise-vs-business.md), [scott-fetzer](../entities/scott-fetzer.md), [geico](../entities/geico.md)
+related: [intrinsic-value-vs-book-value, moat, sees-candies, buffalo-evening-news, nebraska-furniture-mart, owner-earnings, franchise-vs-business, scott-fetzer, geico]
 ---
 
 # Economic Goodwill

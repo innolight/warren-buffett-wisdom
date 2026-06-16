@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1985-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1992-letter, berkshire-1994-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter]
 tags: [diversified-manufacturing, direct-sales, world-book, prototype-acquisition, capital-allocation]
-related: [berkshire-hathaway](berkshire-hathaway.md), [ralph-schey](../people/ralph-schey.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [owner-earnings](../concepts/owner-earnings.md), [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md), [incentive-compensation](../concepts/incentive-compensation.md)
+related: [berkshire-hathaway, ralph-schey, acquisition-criteria, owner-earnings, intrinsic-value-vs-book-value, incentive-compensation]
 ---
 
 # The Scott & Fetzer Company

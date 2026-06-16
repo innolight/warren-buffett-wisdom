@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2022
 raw_path: raw/berkshire-letters/2022.md
 tags: [berkshire, annual-letter, compounding, float, earnings-quality, munger]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [charlie-munger](../people/charlie-munger.md), [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md)
+related: [warren-buffett, berkshire-hathaway, charlie-munger, coca-cola, american-express]
 ---
 
 # Berkshire Hathaway 2022 Annual Letter

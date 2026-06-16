@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2002
 raw_path: raw/berkshire-letters/2002.md
 tags: [berkshire, annual-letter, derivatives, gen-re-cleanup, corporate-governance, audit-committee, float, mid-american, junk-bonds]
-related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [national-indemnity](../entities/national-indemnity.md), [ajit-jain](../people/ajit-jain.md), [lou-simpson](../people/lou-simpson.md), [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md), [gillette](../entities/gillette.md), [wells-fargo](../entities/wells-fargo.md), [washington-post](../entities/washington-post.md), [float](../concepts/float.md), [super-cat-insurance](../concepts/super-cat-insurance.md), [incentive-compensation](../concepts/incentive-compensation.md), [institutional-imperative](../concepts/institutional-imperative.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [capital-allocation](../concepts/capital-allocation.md), [owner-orientation](../concepts/owner-orientation.md)
+related: [warren-buffett, charlie-munger, berkshire-hathaway, geico, national-indemnity, ajit-jain, lou-simpson, coca-cola, american-express, gillette, wells-fargo, washington-post, float, super-cat-insurance, incentive-compensation, institutional-imperative, acquisition-criteria, capital-allocation, owner-orientation]
 ---
 
 # Berkshire Hathaway 2002 Annual Letter

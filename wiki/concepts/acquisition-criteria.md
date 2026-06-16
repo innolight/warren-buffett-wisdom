@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-06-12
 sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2006-letter]
 tags: [capital-allocation, investment-framework, equities, acquisitions]
-related: [warren-buffett](../people/warren-buffett.md), [tailwinds-vs-headwinds](tailwinds-vs-headwinds.md), [stock-as-acquisition-currency](stock-as-acquisition-currency.md), [owner-orientation](owner-orientation.md)
+related: [warren-buffett, tailwinds-vs-headwinds, stock-as-acquisition-currency, owner-orientation]
 ---
 
 # Acquisition Criteria

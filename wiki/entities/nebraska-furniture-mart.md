@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-26
 sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1992-letter, berkshire-1993-letter]
 tags: [retail, home-furnishings, low-cost-operator, berkshire, family-business]
-related: [rose-blumkin](../people/rose-blumkin.md), [berkshire-hathaway](berkshire-hathaway.md), [moat](../concepts/moat.md), [borsheims](borsheims.md)
+related: [rose-blumkin, berkshire-hathaway, moat, borsheims]
 ---
 
 # Nebraska Furniture Mart

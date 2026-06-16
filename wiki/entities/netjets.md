@@ -5,7 +5,7 @@ created: 2026-05-31
 updated: 2026-06-14
 sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter]
 tags: [fractional-ownership, aviation-services, category-creator, capital-light, flight-services]
-related: [berkshire-hathaway](berkshire-hathaway.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [moat](../concepts/moat.md), [capital-allocation](../concepts/capital-allocation.md), [dave-sokol](../people/dave-sokol.md)
+related: [berkshire-hathaway, acquisition-criteria, moat, capital-allocation, dave-sokol]
 ---
 
 # NetJets

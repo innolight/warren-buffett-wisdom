@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-1980-letter, berkshire-1984-letter, berkshire-2004-letter, berkshire-2015-letter]
 tags: [moat, competitive-advantage, distribution, insurance, low-cost-operator]
-related: [moat](moat.md), [geico](../entities/geico.md), [commodity-business-economics](commodity-business-economics.md), [cost-of-float](cost-of-float.md), [franchise-vs-business](franchise-vs-business.md)
+related: [moat, geico, commodity-business-economics, cost-of-float, franchise-vs-business]
 ---
 
 # Direct-Distribution Moat

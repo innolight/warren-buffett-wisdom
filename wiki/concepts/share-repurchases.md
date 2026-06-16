@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-16
 sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2016-letter, berkshire-2020-letter, berkshire-2021-letter, berkshire-2022-letter]
 tags: [capital-allocation, repurchases, signaling]
-related: [stock-as-acquisition-currency](stock-as-acquisition-currency.md), [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md), [dividend-policy](dividend-policy.md), [washington-post](../entities/washington-post.md), [incentive-compensation](incentive-compensation.md), [owner-orientation](owner-orientation.md)
+related: [stock-as-acquisition-currency, intrinsic-value-vs-book-value, dividend-policy, washington-post, incentive-compensation, owner-orientation]
 ---
 
 # Share Repurchases

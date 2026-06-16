@@ -5,7 +5,7 @@ created: 2026-06-16
 updated: 2026-06-16
 sources: [berkshire-1989-letter, berkshire-1992-letter, berkshire-2009-letter, berkshire-2010-letter, berkshire-2016-letter, berkshire-2023-letter]
 tags: [capital-allocation, returns, scale, law-of-large-numbers, berkshire]
-related: [capital-allocation](capital-allocation.md), [berkshire-conglomerate-model](berkshire-conglomerate-model.md), [investment-friction](investment-friction.md), [passive-investing](passive-investing.md), [equity-return-expectations](equity-return-expectations.md)
+related: [capital-allocation, berkshire-conglomerate-model, investment-friction, passive-investing, equity-return-expectations]
 ---
 
 # Size as Anchor on Returns

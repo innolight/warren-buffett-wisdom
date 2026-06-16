@@ -5,7 +5,7 @@ created: 2026-06-12
 updated: 2026-06-14
 sources: [berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2005-letter, berkshire-2006-letter, berkshire-2008-letter, berkshire-2010-letter]
 tags: [derivatives, risk, systemic-risk, financial-weapons]
-related: [general-re](../entities/general-re.md), [float](float.md), [institutional-imperative](institutional-imperative.md), [underwriting-discipline](underwriting-discipline.md)
+related: [general-re, float, institutional-imperative, underwriting-discipline]
 ---
 
 # Derivatives

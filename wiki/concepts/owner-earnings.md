@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-14
 sources: [berkshire-1986-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter]
 tags: [accounting, valuation, cash-flow, capital-allocation]
-related: [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md), [look-through-earnings](look-through-earnings.md), [economic-goodwill](economic-goodwill.md)
+related: [intrinsic-value-vs-book-value, look-through-earnings, economic-goodwill]
 ---
 
 # Owner Earnings

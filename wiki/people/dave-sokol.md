@@ -5,7 +5,7 @@ created: 2026-06-10
 updated: 2026-06-14
 sources: [berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2009-letter]
 tags: [operator, utility, midamerican-energy, netjets, ceo, turnaround]
-related: [midamerican-energy](../entities/midamerican-energy.md), [netjets](../entities/netjets.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [capital-allocation](../concepts/capital-allocation.md)
+related: [midamerican-energy, netjets, berkshire-hathaway, capital-allocation]
 ---
 
 # Dave Sokol

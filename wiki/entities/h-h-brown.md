@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-1991-letter]
 tags: [footwear, acquisition, berkshire]
-related: [berkshire-hathaway](berkshire-hathaway.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [dexter-shoe](dexter-shoe.md)
+related: [berkshire-hathaway, acquisition-criteria, dexter-shoe]
 ---
 
 # H.H. Brown Shoe Company

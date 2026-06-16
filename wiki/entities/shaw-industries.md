@@ -5,7 +5,7 @@ created: 2026-06-10
 updated: 2026-06-10
 sources: [berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [carpet, manufacturing, commodity, acquisition-2000]
-related: [berkshire-hathaway](berkshire-hathaway.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [commodity-business-economics](../concepts/commodity-business-economics.md), [berkshire-2000-letter](../sources/berkshire-2000-letter.md)
+related: [berkshire-hathaway, acquisition-criteria, commodity-business-economics, berkshire-2000-letter]
 ---
 
 # Shaw Industries

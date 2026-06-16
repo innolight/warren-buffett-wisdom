@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1982
 raw_path: raw/berkshire-letters/1982.md
 tags: [berkshire, acquisitions, stock-as-currency, commodity-business, insurance, geico]
-related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md)
+related: [warren-buffett, berkshire-hathaway]
 ---
 
 # Berkshire Hathaway 1982 Shareholder Letter

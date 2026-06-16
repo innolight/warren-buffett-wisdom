@@ -5,7 +5,7 @@ created: 2026-06-10
 updated: 2026-06-10
 sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
 tags: [operator, aviation, netjets, category-creator, ceo, founder]
-related: [netjets](../entities/netjets.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [flightsafety](../entities/flightsafety.md)
+related: [netjets, berkshire-hathaway, acquisition-criteria, flightsafety]
 ---
 
 # Rich Santulli

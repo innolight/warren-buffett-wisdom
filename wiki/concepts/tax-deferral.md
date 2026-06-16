@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-1989-letter, berkshire-1993-letter]
 tags: [tax, compounding, long-hold, capital-gains]
-related: [passive-ownership-advantage](passive-ownership-advantage.md), [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md), [concentration-vs-diversification](concentration-vs-diversification.md), [owner-orientation](owner-orientation.md)
+related: [passive-ownership-advantage, intrinsic-value-vs-book-value, concentration-vs-diversification, owner-orientation]
 ---
 
 # Tax Deferral
