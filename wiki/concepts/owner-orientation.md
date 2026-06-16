@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-13
-sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2002-letter, berkshire-2003-letter]
+updated: 2026-06-16
+sources: [berkshire-1983-letter, berkshire-1984-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2020-letter]
 tags: [governance, ownership, capital-allocation, communication]
 related: [[acquisition-criteria]], [[stock-as-acquisition-currency]], [[dividend-policy]], [[incentive-compensation]], [[institutional-imperative]]
 ---
@@ -62,6 +62,32 @@ Buffett's own position: a large Berkshire stake purchased in the open market, a 
 
 The 2003 board composition quantified the standard: eleven directors, each (with family) holding over $4M of Berkshire stock, six families with stakes "at least hundreds of millions" held 30+ years — all bought in the open market. See [[berkshire-2003-letter]].
 
+## Shareholder base curation: the five-bucket taxonomy
+
+The 2020 letter offers the clearest classification of Berkshire's ownership structure and the most explicit statement of why Berkshire does not court Wall Street analysts or institutional investors.
+
+Buffett identifies five shareholder "buckets":
+
+1. **Buffett as founder.** Certain to empty as shares are distributed annually to philanthropy — a known, managed drawdown.
+2. **Index funds.** "On automatic pilot, buying and selling only for weighting purposes." They own Berkshire "simply because they are required to do so." No judgment, no relationship.
+3. **Active institutional managers.** Handle clients' money with a mandate to move funds based on valuation and prospects. "An honorable, though difficult, occupation." They may come and go.
+4. **Individual traders.** Think of their Berkshire shares as a possible source of funds "when they see another investment that excites them." Buffett has no quarrel with that orientation.
+5. **Long-term partner-investors.** "The million-plus individual investors who simply trust us to represent their interests, whatever the future may bring… They have joined us with no intent to leave, adopting a mindset similar to that held by our original partners."
+
+"We already have the investors we want and don't think that they, on balance, would be upgraded by replacements." ([[berkshire-2020-letter]]) This is a structural choice, not rhetoric. The bucket-5 base is the precondition for every long-horizon operating decision — holding equities through cycles, refusing to sell good subsidiaries, not reporting adjusted earnings to please analysts.
+
+### The Phil Fisher restaurant analogy
+
+Phil Fisher's 1958 *Common Stocks and Uncommon Profits* compared running a public company to managing a restaurant: you can prosper serving hamburgers and Coke or French cuisine with exotic wines, "but you must not capriciously switch from one to the other: your message to potential customers must be consistent with what they will find upon entering your premises." ([[berkshire-2020-letter]])
+
+Buffett's application: "At Berkshire, we have been serving hamburgers and Coke for 56 years. We cherish the clientele this fare has attracted." The consistent communication strategy that began with the 1983 owner's manual — candid, long-term, per-share-intrinsic-value-focused — is the menu. The shareholder base it attracted is the clientele. Changing the menu (to price targets, managed earnings, or promotional stories) would replace one clientele with another, not upgrade the existing one.
+
+### The partnership origin story
+
+The 2020 letter traces the partnership ethos to its roots most completely. Before Berkshire, Buffett ran a series of limited partnerships from 1956; twelve were amalgamated into Buffett Partnership Ltd. (BPL) in 1962. Key structural features: all of Buffett's personal capital invested alongside partners'; no salary or fees; compensation only after partners secured returns above a 6% annual threshold. Parents, siblings, aunts, uncles, cousins, and in-laws were all invested. The arrangement created literal aligned interests, not a rhetorical posture.
+
+When BPL dissolved in 1969, partners received Berkshire shares pro-rata. The 1983 merger of Berkshire and Blue Chip Stamps doubled the shareholder base (1,900 to 2,900) and introduced the partnership principles formally: "Although our form is corporate, our attitude is partnership." "That defined our relationship in 1983; it defines it today." ([[berkshire-2020-letter]])
+
 ## How it's discussed in sources
 
 - [[berkshire-1983-letter]] — debut; the 13 principles published as the introduction to the doubled shareholder base after the Blue Chip merger
@@ -70,6 +96,7 @@ The 2003 board composition quantified the standard: eleven directors, each (with
 - [[berkshire-1999-letter]] — the mandate extended as a description of Berkshire's manager culture; Bill Child / R.C. Willey as behavioral exemplar; "We have no contracts at Berkshire"
 - [[berkshire-2002-letter]] — the "owner-capitalism" structural argument made against the post-bubble governance scandals; board compensation and D&O design; Buffett's self-admission that "collegiality trumped independence"; directors should act as if there is a single absentee owner
 - [[berkshire-2003-letter]] — "owner-capitalism" coined explicitly; the potted-plant test for director judgment; board composition quantified (11 directors, 6 families with hundreds of millions, all open-market purchases, no options/restricted shares); "who ever washes a rental car?"
+- [[berkshire-2020-letter]] — five-bucket shareholder taxonomy; Phil Fisher restaurant analogy ("hamburgers and Coke for 56 years"); deepest articulation of the BPL origin story (1956 partnerships → 1962 BPL amalgamation → 1969 dissolution → 1983 Blue Chip merger and first formal partnership principles)
 
 ## Related
 

@@ -8,6 +8,29 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-16] lint | berkshire-2020-letter post-ingest review
+
+Six findings from /review-ingest corrected:
+
+- `sources/berkshire-2020-letter.md` — **BNSF/BHE Key theme rewritten** to lead with the principle (capital-intensive regulated infrastructure compounds durably through cycles when managed with discipline) rather than chronicle (7% volume decline, 2.9pp margin improvement, Ice/Farmer succession)
+- `sources/berkshire-2020-letter.md` — **Added look-through earnings Key theme bullet**: letter's opening three paragraphs restate the retained-earnings doctrine for the full $281B equity portfolio; cross-references prior year's Smith/Keynes framing; Apple case is the worked application
+- `sources/berkshire-2020-letter.md` — **Duplicate `[[gaap-distortion]]` entry removed** (was listed twice in Concepts); consolidated into one entry noting both the four-component breakdown and the fifth distortion type (goodwill impairment signals valuation error, not business failure)
+- `entities/apple.md` — **Em dash corrected to en dash** in inline verbatim quote ("Despite that sale – voila! –"); source page Notable Quotes already had the correct en dashes
+- `concepts/passive-ownership-advantage.md` — **Added `berkshire-2020-letter` source bullet**: "Two Strings to Our Bow" is the clearest articulation in the series of why passive minority ownership escapes the conglomerate failure cascade; access-failure chain spelled out; "owning a non-controlling portion of a wonderful business is more profitable…" as the explicit conclusion; updated frontmatter sources and `updated` date
+- `concepts/gaap-distortion.md` — **Added `berkshire-2020-letter` source bullet**: PCC write-down introduces a fifth GAAP distortion type — large goodwill impairments run through GAAP net income but diagnose acquisition price, not business quality; complete 2020 four-component GAAP breakdown documented; updated frontmatter and `updated` date
+- `concepts/look-through-earnings.md` — **Added `berkshire-2020-letter` source bullet**: brief restatement of retained-earnings doctrine at letter opening; no new content beyond 2019 but explicitly cross-referenced; Apple repurchase compounding is the worked application; updated frontmatter and `updated` date
+
+---
+
+## [2026-06-16] ingest | berkshire-2020-letter
+
+- **Created** `wiki/sources/berkshire-2020-letter.md` — year-specific chronology; themes: Two Strings conglomerate essay, Apple repurchase compounding, PCC write-down, $24.7B Berkshire buybacks, five-bucket shareholder taxonomy, $138B float, BNSF+BHE combined $8.3B earnings
+- **Created** `wiki/entities/apple.md` — Berkshire's "Big Four" asset; two-lesson structure: (1) repurchase compounding for minority investors, (2) consumer-franchise reframing of a tech stock
+- **Updated** `wiki/concepts/share-repurchases.md` — added "The Apple case: double compounding for minority owners" section (5.2%→5.4% despite sales; Berkshire concurrent buybacks; CEOs' anti-pattern of buying high)
+- **Updated** `wiki/concepts/berkshire-conglomerate-model.md` — added "The prior constraint: access to great businesses" subsection under conglomerate failure analysis (best-businesses-won't-sell → adverse selection → control premiums → overvalued stock → deceptive accounting → collapse; the non-controlling stake as structural escape)
+- **Updated** `wiki/concepts/owner-orientation.md` — added five-bucket shareholder taxonomy, Phil Fisher restaurant analogy, and BPL partnership origin story
+- **Skipped:** American entrepreneurship vignettes (See's, NFM, Clayton, Pilot histories) — entity pages already cover these; no new durable lesson. Annual meeting logistics — ephemeral. Portfolio investment table — year-specific, on source page only. Bond yield commentary (0.93% 10-year) — period illustration; principle already in `[[bonds-and-inflation]]`. Fixed-asset leadership ($154B PP&E) — period fact, not timeless.
+
 ---
 
 ## [2026-06-15] lint | berkshire-2019-letter post-ingest quality fixes

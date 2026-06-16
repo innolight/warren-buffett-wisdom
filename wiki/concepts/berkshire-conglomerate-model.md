@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-14
 updated: 2026-06-14
-sources: [berkshire-2014-letter]
+sources: [berkshire-2014-letter, berkshire-2020-letter]
 tags: [capital-allocation, governance, berkshire, conglomerate, management-system, succession]
 related: [[berkshire-hathaway]], [[capital-allocation]], [[owner-orientation]], [[institutional-imperative]], [[charlie-munger]], [[ajit-jain]], [[stock-as-acquisition-currency]], [[liquidity-fortress]]
 ---
@@ -21,6 +21,18 @@ The 1960s failure mode is instructive. Conglomerate CEOs drove their stocks to h
 The structural defect: the incentive to bottom-fish for low-multiple businesses selects *for* mediocre businesses with poor long-term prospects. The more acquisitions completed, the worse the underlying asset base. When the cycle turned — it always turned — the compounding poor businesses revealed themselves, the multiple collapsed, and a generation of celebrated conglomerate builders were exposed. The once-famous roll-ups (ITT, Litton Industries, Gulf & Western, LTV) are now gone.
 
 The enduring lesson Buffett draws from LTV's Jimmy Ling: "2+2 will always equal 4. And when someone tells you how old-fashioned that math is — zip up your wallet, take a vacation and come back in a few years to buy stocks at cheap prices." ([[berkshire-2014-letter]]) Periodically, the same drama recurs with new actors and rebranded accounting tricks.
+
+### The prior constraint: access to great businesses
+
+The P/E arbitrage failure was compounded by a structural problem the 2020 letter identifies most sharply: **traditional conglomerates couldn't reach the best businesses in the first place.** "Most of the truly great businesses had no interest in having anyone take them over." The cascade that followed:
+
+1. **Adverse selection into mediocre targets.** Conglomerateurs had to "focus on so-so companies that lacked important and durable competitive strengths. That was not a great pond in which to fish."
+2. **Control-premium trap.** Even mediocre targets commanded "staggering control premiums."
+3. **Overvalued-stock currency.** Justifying that overpayment required "a vastly overvalued stock of their own that could be used as a currency for pricey acquisitions." Buffett's analogy: "I'll pay you $10,000 for your dog by giving you two of my $5,000 cats."
+4. **Deceptive accounting to sustain the illusion.** "Promotional techniques and imaginative accounting maneuvers that were, at best, deceptive and that sometimes crossed the line into fraud." Wall Street loved the fees; the press loved the stories; a soaring stock became its own proof that the illusion was real.
+5. **Collapse.** "Eventually, the party ends, and many business 'emperors' are found to have no clothes. Financial history is replete with the names of famous conglomerateurs who were initially lionized as business geniuses … but whose creations ended up as business junkyards."
+
+The structural escape Berkshire found: owning **both controlling and non-controlling stakes**. The best companies that would never sell to an acquirer can still be owned at public-market prices as minority positions — no control premium, no overvalued-stock games. "Owning a non-controlling portion of a wonderful business is more profitable, more enjoyable and far less work than struggling with 100% of a marginal enterprise." ([[berkshire-2020-letter]]) This is what the "Dual access to public and private markets" principle (below) is designed to enable — the 2020 letter gives it its clearest motivation.
 
 ## Why the Berkshire structure is different
 
@@ -113,6 +125,7 @@ The person built the system — but the system outlasts the person.
 ## How it's discussed in sources
 
 - [[berkshire-2014-letter]] — the primary and most systematic treatment: Buffett's "Berkshire Today" and "The Next 50 Years" essays; Munger's standalone "Vice Chairman's Thoughts — Past and Future"; all fifteen Berkshire System principles; the four-factor diagnosis of why Berkshire succeeded; the succession architecture
+- [[berkshire-2020-letter]] — "Two Strings to Our Bow" essay: the access-failure chain (best businesses won't sell → adverse selection into mediocre targets → control premiums → overvalued-stock currency → deceptive accounting → collapse); the non-controlling minority stake as the structural solution; "owning a non-controlling portion of a wonderful business is more profitable, more enjoyable and far less work than struggling with 100% of a marginal enterprise"
 
 ## Related
 

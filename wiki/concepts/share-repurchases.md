@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-06-15
-sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2016-letter]
+sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2016-letter, berkshire-2020-letter]
 tags: [capital-allocation, repurchases, signaling]
 related: [[stock-as-acquisition-currency]], [[intrinsic-value-vs-book-value]], [[dividend-policy]], [[washington-post]], [[incentive-compensation]], [[owner-orientation]]
 ---
@@ -129,6 +129,18 @@ The logic generalizes: any net buyer of stocks — directly or through a company
 
 This is the direct corollary of [[mr-market]]: the market's mood swings are irrelevant except insofar as they offer opportunities to buy or sell. For an investor who intends to keep buying — either directly or via a repurchasing company — lower prices are strictly better. ([[berkshire-2011-letter]])
 
+## The Apple case: double compounding for minority owners (2020)
+
+The 2020 letter delivers the most concrete illustration in the Berkshire corpus of how a non-selling minority owner's stake expands automatically when the investee company repurchases shares.
+
+Berkshire assembled a 5.2% stake in [[apple]] by mid-2018 at a cost of ~$36 billion. In 2020, Berkshire sold a small portion of that position, pocketing $11 billion. The outcome is counterintuitive: despite the sale, Berkshire's ownership percentage rose to 5.4%. "That increase was costless to us, coming about because Apple has continuously repurchased its shares, thereby substantially shrinking the number it now has outstanding." ([[berkshire-2020-letter]])
+
+A second layer of compounding sits on top of that. Because Berkshire simultaneously repurchased its own shares — $24.7 billion worth in 2020, retiring the equivalent of 80,998 "A" shares (~5.2% of the share count) — Berkshire shareholders now "indirectly own a full 10% more of Apple's assets and future earnings" than they did in July 2018. When both the investee and the holding company are simultaneously buying back shares, the minority investor's effective claim compounds at two levels at once. Buffett calls this an "agreeable dynamic" that continues as long as both companies remain active repurchasers. ([[berkshire-2020-letter]])
+
+The broader takeaway: "The math of repurchases grinds away slowly, but can be powerful over time. The process offers a simple way for investors to own an ever-expanding portion of exceptional businesses." ([[berkshire-2020-letter]])
+
+The Apple example also anchors a pointed indictment of standard CEO repurchase behavior: "American CEOs have an embarrassing record of devoting more company funds to repurchases when prices have risen than when they have tanked. Our approach is exactly the reverse." Berkshire's $24.7 billion in 2020 buybacks — executed as markets were dislocated — is the demonstration, not a declaration. ([[berkshire-2020-letter]])
+
 ## The missing price ceiling
 
 A discipline any buyer of an outside business would apply automatically is almost universally absent from corporate repurchase announcements: a stated price above which buybacks will stop. Most programs name a dollar amount or share count to be repurchased but set no upper price limit — implicitly treating a $30 stock and a $90 stock as equally attractive targets for the same program.
@@ -151,6 +163,7 @@ The objection conflates financial-market activity with real-economy investment. 
 - [[berkshire-2011-letter]] — two conditions made explicit; "what is smart at one price is dumb at another"; IBM buyback math as the worked counter-intuitive example; Berkshire's 110%-of-book threshold and $20B cash floor
 - [[berkshire-2012-letter]] — ceiling raised 110% → 120% of book; "disciplined repurchases are the surest way to use funds intelligently"; $1.3B of repurchases executed in 2012
 - [[berkshire-2016-letter]] — the three-partner arithmetic illustration; the CEO declaration ("what is smart at one price is stupid at another"); two exceptions when underpriced shares should still not be repurchased; the 120%-of-book authorization interpreted (not "propping"; blend meaningful volume with market restraint); the missing price-ceiling discipline in most corporate announcements; the "un-American" charge rebutted
+- [[berkshire-2020-letter]] — the Apple double-compounding example (5.2% → 5.4% despite selling a portion); CEOs' anti-pattern of buying high rather than low; $24.7B Berkshire buybacks (~5% of shares)
 
 ## Related
 

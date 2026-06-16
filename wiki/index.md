@@ -51,10 +51,12 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2017-letter]] — The Bet's final tally as index-fund proof; GAAP unrealized-gains distortion warning; Jain and Abel named Vice Chairmen
 - [[berkshire-2018-letter]] — book value formally retired as headline scorecard; Five Groves valuation structure; American Tailwind essay; adjusted-EBITDA "dog's tail" critique
 - [[berkshire-2019-letter]] — Smith/Keynes retained-earnings origin story; 1,900% GAAP swing illustration; richest board governance essay in the series (NWD fees, cocker-spaniel dynamics, M&A advisory capture)
+- [[berkshire-2020-letter]] — "Two Strings to Our Bow" conglomerate failure essay; Apple double-compounding as the definitive repurchase illustration; $24.7B Berkshire buybacks; PCC write-down as transparent valuation-mistake admission
 
 ## Entities
 
 - [[bnsf]] — Burlington Northern Santa Fe; Berkshire's largest acquisition; social compact framing for regulated essential infrastructure; economic characteristics similar to regulated utilities
+- [[apple]] — consumer ecosystem franchise; Berkshire's "Big Four" asset; canonical illustration of repurchase compounding for a minority investor (5.2% → 5.4% ownership despite selling shares)
 - [[american-express]] — financial services; the 1964 partnership precedent and the 1991 PERC → 1995 ~10% common position; lineage of "great franchise with localized fixable problem"
 - [[berkshire-hathaway]] — Buffett's diversified holding company; canonical case in capital allocation; transformed 1996–2003 from equity portfolio to acquisition-driven conglomerate
 - [[blue-chip-stamps]] — Berkshire affiliate through 1983; conduit through which See's, Wesco, and Buffalo News were held

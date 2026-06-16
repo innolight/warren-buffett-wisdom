@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-24
-updated: 2026-05-24
-sources: [berkshire-1977-letter, berkshire-1978-letter]
+updated: 2026-06-16
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-2020-letter]
 tags: [equities, capital-allocation, investment-framework, control]
 related: [[acquisition-criteria]], [[look-through-earnings]]
 ---
@@ -43,6 +43,7 @@ Half-hearted diversification into many minority stakes eliminates the price-disc
 
 - [[berkshire-1977-letter]] — introduced via Capital Cities; the "unorthodox view" that non-control can produce better management results than control
 - [[berkshire-1978-letter]] — deepened via SAFECO; the explicit logic that controlling an excellent business would lead to the same behavior as passive ownership anyway, at a much higher cost
+- [[berkshire-2020-letter]] — the clearest articulation in the letter series: "Two Strings to Our Bow" explains why passive minority ownership escapes the failure cascade that destroyed 1960s conglomerates; the access-failure chain (best businesses won't sell → adverse selection into mediocre targets → control premiums → overvalued-stock currency → deceptive accounting → collapse); the structural escape: "Owning a non-controlling portion of a wonderful business is more profitable, more enjoyable and far less work than struggling with 100% of a marginal enterprise." The Apple stake (5.2% → 5.4% despite selling) is the worked case
 
 ## Related
 
