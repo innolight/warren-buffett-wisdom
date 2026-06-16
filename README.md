@@ -1,6 +1,6 @@
 # Warren Buffett Wisdom
 
-A curated, cross-linked wiki that distills **timeless investment lessons** distilled from 48 Berkshire Hathaway shareholder letters (1977–2024) authored by Warrant Buffet.
+A curated wiki that distills **timeless investment lessons** from 48 Berkshire Hathaway shareholder letters (1977–2024) authored by Warrant Buffet.
 
 The wiki is written for **retail investors learning to invest like Warren Buffett**: someone with a brokerage account who wants the durable principles, not the insurance-conglomerate machinery they can't directly use.
 
