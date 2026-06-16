@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-15
 sources: [berkshire-1999-letter, berkshire-2007-letter, berkshire-2019-letter]
 tags: [equity-returns, market-valuation, gdp, long-run, expectations]
-related: [[investment-friction]], [[mr-market]], [[passive-return-crossbar]], [[volatility-as-opportunity]]
+related: [investment-friction](investment-friction.md), [mr-market](mr-market.md), [passive-return-crossbar](passive-return-crossbar.md), [volatility-as-opportunity](volatility-as-opportunity.md)
 ---
 
 # Equity Return Expectations
@@ -30,11 +30,11 @@ The implication: nominal GDP growth sets the long-run ceiling on sustainable nom
 
 This is a gravitational constant, not a precision forecast. In any given decade it can be substantially exceeded or lagged. But over multi-decade periods, departures from it require compound assumptions that become increasingly implausible — usually involving P/E expansion that must continue indefinitely to sustain above-ceiling returns.
 
-The 1999 *Fortune* article enclosed with [[berkshire-1999-letter]] is the definitive statement of this framework. Buffett used it to explain why investor expectations at the peak of the dot-com bubble were — in his word — "wildly optimistic."
+The 1999 *Fortune* article enclosed with [berkshire-1999-letter](../sources/berkshire-1999-letter.md) is the definitive statement of this framework. Buffett used it to explain why investor expectations at the peak of the dot-com bubble were — in his word — "wildly optimistic."
 
 ## The Dow century arithmetic
 
-The cleanest illustration of the GDP anchor is the century-scale Dow arithmetic from [[berkshire-2007-letter]].
+The cleanest illustration of the GDP anchor is the century-scale Dow arithmetic from [berkshire-2007-letter](../sources/berkshire-2007-letter.md).
 
 The Dow Jones Industrial Average rose from 66 to 11,497 over the 20th century — a gain that sounds enormous but compounds to only **5.3% annually**. Dividends add to this total return, but the price appreciation alone is unimpressive relative to what most investors assume.
 
@@ -54,7 +54,7 @@ Elevated equity return expectations are not merely a forecasting error — they 
 
 The sharpest empirical illustration: the December 1999 Paine Webber-Gallup survey of investor return expectations at the peak of the dot-com bubble found respondents anticipating **19% annual returns** from equities over the next decade. This was not a fringe reading — it was the median response from a broad sample, taken at the precise moment when forward equity returns were near their worst in a generation.
 
-From [[berkshire-1999-letter]]: "Equity investors currently seem wildly optimistic in their expectations about future returns." The subsequent decade — 2000 through 2009 — delivered approximately 0% in nominal terms, with two bear markets that roughly halved equity prices at their troughs.
+From [berkshire-1999-letter](../sources/berkshire-1999-letter.md): "Equity investors currently seem wildly optimistic in their expectations about future returns." The subsequent decade — 2000 through 2009 — delivered approximately 0% in nominal terms, with two bear markets that roughly halved equity prices at their troughs.
 
 The relationship is reliable directionally: high aggregate investor optimism correlates with low subsequent returns, and vice versa. This is not a timing tool — the correction can take years longer than seems possible. But it is a calibration tool: the investor who knows what equities can sustainably deliver will not be caught expecting more.
 
@@ -66,7 +66,7 @@ The argument is mechanical. All investors collectively own the market. Their agg
 
 As a class, active managers, their brokers, their consultants, and their incentive allocations collectively produce the market return minus total frictional costs. Individual outperformance is possible and real, but it comes at the expense of other active investors, not at the expense of the passive universe. The passive investor, by avoiding most friction, captures a larger share of the available gross return.
 
-This is covered in detail at [[investment-friction]], which documents the Gotrocks allegory, the 2-and-20 arithmetic, and Newton's Fourth Law. The present concept is the *ceiling*; friction is the *subtraction from it*.
+This is covered in detail at [investment-friction](investment-friction.md), which documents the Gotrocks allegory, the 2-and-20 arithmetic, and Newton's Fourth Law. The present concept is the *ceiling*; friction is the *subtraction from it*.
 
 ## What this framework does not imply
 
@@ -79,25 +79,25 @@ Several important caveats:
 - **No timing implication.** Knowing that a 19% expectation is arithmetically impossible does not tell you when the correction arrives. Buffett wrote the 1999 *Fortune* article while Berkshire was being penalized for exactly this analysis — the market ran further before collapsing.
 - **The framework is for calibration, not for market calls.** Its purpose is to anchor what is plausible, not to trigger buy/sell decisions.
 
-The companion concept for investors who have accepted this ceiling is [[passive-return-crossbar]]: the question of what after-tax passive returns are available, against which equity returns must be compared to determine whether equities are worth the incremental risk.
+The companion concept for investors who have accepted this ceiling is [passive-return-crossbar](passive-return-crossbar.md): the question of what after-tax passive returns are available, against which equity returns must be compared to determine whether equities are worth the incremental risk.
 
 ## Notable quotes
 
-> "Think now about this century. For investors to merely match that 5.3% market-value gain, the Dow — recently below 13,000 — would need to close at about 2,000,000 on December 31, 2099." — [[berkshire-2007-letter]]
+> "Think now about this century. For investors to merely match that 5.3% market-value gain, the Dow — recently below 13,000 — would need to close at about 2,000,000 on December 31, 2099." — [berkshire-2007-letter](../sources/berkshire-2007-letter.md)
 
-> "Equity investors currently seem wildly optimistic in their expectations about future returns." — [[berkshire-1999-letter]]
+> "Equity investors currently seem wildly optimistic in their expectations about future returns." — [berkshire-1999-letter](../sources/berkshire-1999-letter.md)
 
-> "If investor expectations become more realistic — and they almost certainly will — the market adjustment is apt to be severe, particularly in sectors in which speculation has been concentrated." — [[berkshire-1999-letter]]
+> "If investor expectations become more realistic — and they almost certainly will — the market adjustment is apt to be severe, particularly in sectors in which speculation has been concentrated." — [berkshire-1999-letter](../sources/berkshire-1999-letter.md)
 
 ## How it's discussed in sources
 
-- [[berkshire-1999-letter]] — the 1999 *Fortune* article framework; GDP-tethered corporate profit growth; the December 1999 Paine Webber-Gallup survey (19% expectation at bubble peak); the warning that adjustment will be "severe"
-- [[berkshire-2007-letter]] — the Dow century arithmetic in its sharpest form; 5.3% compounded; 2,000,000 by 2099 to match; 24,000,000 implied by 10% forecasts; helpers must underperform as a class; pension-fund 8% assumption dissected
-- [[berkshire-2019-letter]] — real-portfolio illustration: Berkshire's equity holdings earn more than 20% on net tangible equity capital, "truly mind-blowing" compared to 2.5% or less on 30-year U.S. Treasuries; framed alongside Smith's retained-earnings compounding insight as the structural case for equities over fixed income at current rate levels
+- [berkshire-1999-letter](../sources/berkshire-1999-letter.md) — the 1999 *Fortune* article framework; GDP-tethered corporate profit growth; the December 1999 Paine Webber-Gallup survey (19% expectation at bubble peak); the warning that adjustment will be "severe"
+- [berkshire-2007-letter](../sources/berkshire-2007-letter.md) — the Dow century arithmetic in its sharpest form; 5.3% compounded; 2,000,000 by 2099 to match; 24,000,000 implied by 10% forecasts; helpers must underperform as a class; pension-fund 8% assumption dissected
+- [berkshire-2019-letter](../sources/berkshire-2019-letter.md) — real-portfolio illustration: Berkshire's equity holdings earn more than 20% on net tangible equity capital, "truly mind-blowing" compared to 2.5% or less on 30-year U.S. Treasuries; framed alongside Smith's retained-earnings compounding insight as the structural case for equities over fixed income at current rate levels
 
 ## Related
 
-- [[investment-friction]] — the mechanism: fees extracted by intermediaries are a subtraction from whatever gross return the GDP ceiling allows
-- [[mr-market]] — the behavioral complement: manic price fluctuations in both directions create the gap between what markets promise and what economics delivers
-- [[passive-return-crossbar]] — the hurdle: after-tax passive returns are the relevant benchmark against which equity's GDP-tethered ceiling must clear
-- [[volatility-as-opportunity]] — the flip side: when optimism collapses, the same framework that identifies overvaluation also identifies undervaluation
+- [investment-friction](investment-friction.md) — the mechanism: fees extracted by intermediaries are a subtraction from whatever gross return the GDP ceiling allows
+- [mr-market](mr-market.md) — the behavioral complement: manic price fluctuations in both directions create the gap between what markets promise and what economics delivers
+- [passive-return-crossbar](passive-return-crossbar.md) — the hurdle: after-tax passive returns are the relevant benchmark against which equity's GDP-tethered ceiling must clear
+- [volatility-as-opportunity](volatility-as-opportunity.md) — the flip side: when optimism collapses, the same framework that identifies overvaluation also identifies undervaluation

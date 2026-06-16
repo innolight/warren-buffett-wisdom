@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2013
 raw_path: raw/berkshire-letters/2013.md
 tags: [berkshire, annual-letter, 2013]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[geico]], [[bnsf]], [[midamerican-energy]], [[general-re]]
+related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [bnsf](../entities/bnsf.md), [midamerican-energy](../entities/midamerican-energy.md), [general-re](../entities/general-re.md)
 ---
 
 # Berkshire Hathaway 2013 Annual Letter
@@ -32,31 +32,31 @@ Letter dated February 28, 2014. Book value gained $34.2 billion (+18.2% per shar
 
 ## Entities discussed
 
-- [[geico]]
-- [[bnsf]]
-- [[midamerican-energy]]
-- [[general-re]]
-- [[berkshire-hathaway]]
-- [[national-indemnity]]
+- [geico](../entities/geico.md)
+- [bnsf](../entities/bnsf.md)
+- [midamerican-energy](../entities/midamerican-energy.md)
+- [general-re](../entities/general-re.md)
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [national-indemnity](../entities/national-indemnity.md)
 
 ## People mentioned
 
-- [[warren-buffett]]
-- [[charlie-munger]]
-- [[ajit-jain]]
-- [[tony-nicely]]
-- [[ben-graham]]
+- [warren-buffett](../people/warren-buffett.md)
+- [charlie-munger](../people/charlie-munger.md)
+- [ajit-jain](../people/ajit-jain.md)
+- [tony-nicely](../people/tony-nicely.md)
+- [ben-graham](../people/ben-graham.md)
 
 ## Concepts introduced or discussed
 
-- [[float]]
-- [[underwriting-discipline]]
-- [[owner-earnings]]
-- [[investment-categories]]
-- [[intrinsic-value-vs-book-value]]
-- [[share-repurchases]]
-- [[circle-of-competence]]
-- [[look-through-earnings]]
+- [float](../concepts/float.md)
+- [underwriting-discipline](../concepts/underwriting-discipline.md)
+- [owner-earnings](../concepts/owner-earnings.md)
+- [investment-categories](../concepts/investment-categories.md)
+- [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md)
+- [share-repurchases](../concepts/share-repurchases.md)
+- [circle-of-competence](../concepts/circle-of-competence.md)
+- [look-through-earnings](../concepts/look-through-earnings.md)
 
 ## Notable quotes
 
@@ -78,8 +78,8 @@ Letter dated February 28, 2014. Book value gained $34.2 billion (+18.2% per shar
 
 ## Connections to other sources
 
-- Continues float tracking from [[berkshire-2012-letter]]; 11th consecutive underwriting-profit year, $22B cumulative
-- The four underwriting disciplines restated (first clearly articulated in [[berkshire-2011-letter]]), now anchored to Tad Montross and General Re as the positive exemplar
-- "General Re is now a gem" closes the arc opened by "I was dead wrong" in [[berkshire-2002-letter]]
-- The farm and real estate analogies elaborate on the productive-asset framework from [[berkshire-2011-letter]]
-- Ben Graham's *The Intelligent Investor* chapters 8 and 20, first cited here explicitly, connect to the core framework taught in [[berkshire-1984-letter]]
+- Continues float tracking from [berkshire-2012-letter](berkshire-2012-letter.md); 11th consecutive underwriting-profit year, $22B cumulative
+- The four underwriting disciplines restated (first clearly articulated in [berkshire-2011-letter](berkshire-2011-letter.md)), now anchored to Tad Montross and General Re as the positive exemplar
+- "General Re is now a gem" closes the arc opened by "I was dead wrong" in [berkshire-2002-letter](berkshire-2002-letter.md)
+- The farm and real estate analogies elaborate on the productive-asset framework from [berkshire-2011-letter](berkshire-2011-letter.md)
+- Ben Graham's *The Intelligent Investor* chapters 8 and 20, first cited here explicitly, connect to the core framework taught in [berkshire-1984-letter](berkshire-1984-letter.md)

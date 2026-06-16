@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1987-letter, berkshire-1988-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter]
 tags: [investment-banking, convertible-preferred, reputation, mistake]
-related: [[berkshire-hathaway]], [[warren-buffett]], [[john-gutfreund]], [[charlie-munger]], [[usair]]
+related: [berkshire-hathaway](berkshire-hathaway.md), [warren-buffett](../people/warren-buffett.md), [john-gutfreund](../people/john-gutfreund.md), [charlie-munger](../people/charlie-munger.md), [usair](usair.md)
 ---
 
 # Salomon Inc
@@ -20,7 +20,7 @@ Three reasons make Salomon canonical despite the modest investment return:
 
 2. **The convertible-preferred form as Buffett's instrument for an industry he does not understand.** The 1987 letter is explicit:
 
-   > We, of course, have no special insights regarding the direction or future profitability of investment banking. By their nature, the economics of this industry are far less predictable than those of most other industries in which we have major commitments. This unpredictability is one of the reasons why our participation is in the form of a convertible preferred. ([[berkshire-1987-letter]])
+   > We, of course, have no special insights regarding the direction or future profitability of investment banking. By their nature, the economics of this industry are far less predictable than those of most other industries in which we have major commitments. This unpredictability is one of the reasons why our participation is in the form of a convertible preferred. ([berkshire-1987-letter](../sources/berkshire-1987-letter.md))
 
    The structure delivers a senior-claim fixed income with an equity option — appropriate compensation for ambiguity about long-term industry economics. This pattern was repeated in 1989 (Gillette, USAir, Champion) and 1991 (First Empire, American Express PERC).
 
@@ -28,7 +28,7 @@ Three reasons make Salomon canonical despite the modest investment return:
 
    > What we do have a strong feeling about is the ability and integrity of John Gutfreund, CEO of Salomon Inc. Charlie and I like, admire and trust John. We first got to know him in 1976 when he played a key role in GEICO's escape from near-bankruptcy.
 
-   The 1991 scandal showed the limits of even an admired CEO when the institution's compliance culture is inadequate. Gutfreund resigned in 1991. The lesson Buffett extracts in 1995, after the dust has settled: "I had 'no special insights regarding the direction or future profitability of investment banking.' Even the most charitable commentator would conclude that I have since proved my point." ([[berkshire-1995-letter]])
+   The 1991 scandal showed the limits of even an admired CEO when the institution's compliance culture is inadequate. Gutfreund resigned in 1991. The lesson Buffett extracts in 1995, after the dust has settled: "I had 'no special insights regarding the direction or future profitability of investment banking.' Even the most charitable commentator would conclude that I have since proved my point." ([berkshire-1995-letter](../sources/berkshire-1995-letter.md))
 
 ## Structure of the preferred
 
@@ -43,7 +43,7 @@ The first scheduled $140M redemption occurred on October 31, 1995. The 1995 lett
 
 The 1995 retrospective ranks the Salomon preferred as having "modestly outperformed the fixed-income securities for which it was a substitute" — a passing grade as a fixed-income decision, but a failing grade on the embedded conversion option:
 
-> The Dow Industrials have doubled since I committed to buy the preferred, and the brokerage group has performed equally as well. That means my decision to go with Salomon because I saw value in the conversion option must be graded as very poor. ([[berkshire-1995-letter]])
+> The Dow Industrials have doubled since I committed to buy the preferred, and the brokerage group has performed equally as well. That means my decision to go with Salomon because I saw value in the conversion option must be graded as very poor. ([berkshire-1995-letter](../sources/berkshire-1995-letter.md))
 
 ## The August 1991 crisis
 
@@ -79,28 +79,28 @@ The 1989 zero-coupon-bond essay's broader critique of investment-banking ethics 
 
 ## Exit: merger into Travelers Group (1997)
 
-In 1996, Berkshire partially monetized the Salomon position by issuing $500M of five-year notes exchangeable into Salomon common at 17.65 shares per $1,000 note — proceeds of $447.1M, with a 3% yield to maturity if held to term. See [[berkshire-1996-letter]].
+In 1996, Berkshire partially monetized the Salomon position by issuing $500M of five-year notes exchangeable into Salomon common at 17.65 shares per $1,000 note — proceeds of $447.1M, with a 3% yield to maturity if held to term. See [berkshire-1996-letter](../sources/berkshire-1996-letter.md).
 
-The full exit came in 1997, when Salomon merged with Travelers Group. Berkshire retained the resulting position as Travelers common (23.7M shares; $604.4M cost; $1.279B market at yearend 1997). Deryck Maughan and Bob Denham were credited in [[berkshire-1997-letter]] with saving Salomon after 1991 and restoring multi-year vitality, with Buffett describing "long-suffering shareholders rewarded." The Travelers position was subsequently sold.
+The full exit came in 1997, when Salomon merged with Travelers Group. Berkshire retained the resulting position as Travelers common (23.7M shares; $604.4M cost; $1.279B market at yearend 1997). Deryck Maughan and Bob Denham were credited in [berkshire-1997-letter](../sources/berkshire-1997-letter.md) with saving Salomon after 1991 and restoring multi-year vitality, with Buffett describing "long-suffering shareholders rewarded." The Travelers position was subsequently sold.
 
 Buffett's relief at the conclusion was audible. He had spent ten months as Interim Chairman navigating the 1991 Treasury auction scandal — an engagement he described as "a play … I would have enjoyed except that I had an unfortunate seat. It faced the stage." His 1997 formulation on the difficulty of extricating himself from both Salomon and USAir: "How can I miss you if you won't go away?" (quoting a country song).
 
-The lesson Buffett drew: operating in an industry whose product is a non-proprietary promise, whose economics are opaque, and whose culture depends on individual integrity under aggressive compensation incentives is doubly difficult. The economics set the incentive structure; the incentive structure corrodes the culture. The Salomon episode validated his original confession in [[berkshire-1987-letter]] — "no special insights regarding the direction or future profitability of investment banking" — and reinforced the discipline of staying within [[circle-of-competence]]. The financial return was modest (the conversion option "must be graded as very poor" — [[berkshire-1995-letter]]); the reputational and time cost of the crisis intervention was significant.
+The lesson Buffett drew: operating in an industry whose product is a non-proprietary promise, whose economics are opaque, and whose culture depends on individual integrity under aggressive compensation incentives is doubly difficult. The economics set the incentive structure; the incentive structure corrodes the culture. The Salomon episode validated his original confession in [berkshire-1987-letter](../sources/berkshire-1987-letter.md) — "no special insights regarding the direction or future profitability of investment banking" — and reinforced the discipline of staying within [circle-of-competence](../concepts/circle-of-competence.md). The financial return was modest (the conversion option "must be graded as very poor" — [berkshire-1995-letter](../sources/berkshire-1995-letter.md)); the reputational and time cost of the crisis intervention was significant.
 
 ## Sources discussing this entity
 
-- [[berkshire-1987-letter]] — original $700M preferred; "no special insights regarding investment banking"; Gutfreund bet
-- [[berkshire-1988-letter]] — Wesco values preferred modestly above cost; "no great insights about the near, intermediate or long-term economics"
-- [[berkshire-1989-letter]] — the broader investment-banking critique in the zero-coupon-bond essay; "bartender morality"
-- [[berkshire-1991-letter]] — Buffett elected Interim Chairman August 18; the personal cost of the engagement; Salomon's fragility candidly acknowledged
-- [[berkshire-1992-letter]] — post-crisis report; Maughan, Denham, Howard, Macfarlane credited; Ron Olson; *Fortune* reputation survey
-- [[berkshire-1995-letter]] — first scheduled $140M redemption; the retrospective grading of the conversion option as "very poor"
-- [[berkshire-1996-letter]] — partial monetization via $500M exchangeable notes ($447.1M proceeds); Bob Denham tribute on B-share offering structure
-- [[berkshire-1997-letter]] — merger with Travelers Group; Maughan and Denham credited; stake retained as Travelers common; relief at conclusion
+- [berkshire-1987-letter](../sources/berkshire-1987-letter.md) — original $700M preferred; "no special insights regarding investment banking"; Gutfreund bet
+- [berkshire-1988-letter](../sources/berkshire-1988-letter.md) — Wesco values preferred modestly above cost; "no great insights about the near, intermediate or long-term economics"
+- [berkshire-1989-letter](../sources/berkshire-1989-letter.md) — the broader investment-banking critique in the zero-coupon-bond essay; "bartender morality"
+- [berkshire-1991-letter](../sources/berkshire-1991-letter.md) — Buffett elected Interim Chairman August 18; the personal cost of the engagement; Salomon's fragility candidly acknowledged
+- [berkshire-1992-letter](../sources/berkshire-1992-letter.md) — post-crisis report; Maughan, Denham, Howard, Macfarlane credited; Ron Olson; *Fortune* reputation survey
+- [berkshire-1995-letter](../sources/berkshire-1995-letter.md) — first scheduled $140M redemption; the retrospective grading of the conversion option as "very poor"
+- [berkshire-1996-letter](../sources/berkshire-1996-letter.md) — partial monetization via $500M exchangeable notes ($447.1M proceeds); Bob Denham tribute on B-share offering structure
+- [berkshire-1997-letter](../sources/berkshire-1997-letter.md) — merger with Travelers Group; Maughan and Denham credited; stake retained as Travelers common; relief at conclusion
 
 ## Related
 
-- [[warren-buffett]] — the Interim Chairmanship is canonical biographical material
-- [[john-gutfreund]] — the original investment thesis personified; resigned in 1991
-- [[charlie-munger]] — co-director through the crisis; Wesco letter values preferred annually
-- [[usair]] — the other 1989-era convertible preferred mistake (different failure mode)
+- [warren-buffett](../people/warren-buffett.md) — the Interim Chairmanship is canonical biographical material
+- [john-gutfreund](../people/john-gutfreund.md) — the original investment thesis personified; resigned in 1991
+- [charlie-munger](../people/charlie-munger.md) — co-director through the crisis; Wesco letter values preferred annually
+- [usair](usair.md) — the other 1989-era convertible preferred mistake (different failure mode)

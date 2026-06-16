@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1984-letter]
 tags: [bonds, fixed-income, valuation, business-mindset]
-related: [[bonds-and-inflation]], [[ben-graham]], [[intrinsic-value-vs-book-value]]
+related: [bonds-and-inflation](bonds-and-inflation.md), [ben-graham](../people/ben-graham.md), [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md)
 ---
 
 # Bonds as a Business
@@ -41,21 +41,21 @@ The conditions WPPSS met:
 - After-tax yield substantially above what operating businesses with comparable economics could be acquired for.
 - Buffett's and Munger's view that the residual real default risk was much smaller than the market discount implied.
 
-The conditions a typical long bond does *not* meet in inflation: the "business" earns a fixed nominal return that erodes in real value, with no operational ability to re-price. See [[bonds-and-inflation]].
+The conditions a typical long bond does *not* meet in inflation: the "business" earns a fixed nominal return that erodes in real value, with no operational ability to re-price. See [bonds-and-inflation](bonds-and-inflation.md).
 
 ## The Graham foundation
 
 The framing traces directly to Graham. Buffett quotes from *The Intelligent Investor's* final chapter: "Investment is most intelligent when it is most businesslike." Bonds, stocks, real estate, commodities — the businesslike standard applies uniformly. The mode of holding matters less than the underlying economics of what is being held.
 
-See [[ben-graham]] for the broader framework.
+See [ben-graham](../people/ben-graham.md) for the broader framework.
 
 ## How it's discussed in sources
 
-- [[berkshire-1984-letter]] — debut; the WPPSS case study; the 1946 AAA illustration; the 30-year zero-coupon equivalence with retain-and-reinvest equity; Graham's "businesslike" principle invoked
+- [berkshire-1984-letter](../sources/berkshire-1984-letter.md) — debut; the WPPSS case study; the 1946 AAA illustration; the 30-year zero-coupon equivalence with retain-and-reinvest equity; Graham's "businesslike" principle invoked
 
 ## Related
 
-- [[bonds-and-inflation]] — the structural reason most long bonds *fail* the business-mindset test in inflation
-- [[ben-graham]] — the source of the "businesslike" principle
-- [[intrinsic-value-vs-book-value]] — same valuation framework, extended to fixed income
-- [[passive-return-crossbar]] — bonds *set* the crossbar against which equities are measured; the business-mindset is what makes the comparison symmetric in both directions
+- [bonds-and-inflation](bonds-and-inflation.md) — the structural reason most long bonds *fail* the business-mindset test in inflation
+- [ben-graham](../people/ben-graham.md) — the source of the "businesslike" principle
+- [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md) — same valuation framework, extended to fixed income
+- [passive-return-crossbar](passive-return-crossbar.md) — bonds *set* the crossbar against which equities are measured; the business-mindset is what makes the comparison symmetric in both directions

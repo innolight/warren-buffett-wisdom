@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2012
 raw_path: raw/berkshire-letters/2012.md
 tags: [berkshire, annual-letter, 2012]
-related: [[warren-buffett]], [[charlie-munger]], [[berkshire-hathaway]], [[geico]], [[bnsf]], [[midamerican-energy]], [[float]], [[dividend-policy]], [[share-repurchases]], [[underwriting-discipline]]
+related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [bnsf](../entities/bnsf.md), [midamerican-energy](../entities/midamerican-energy.md), [float](../concepts/float.md), [dividend-policy](../concepts/dividend-policy.md), [share-repurchases](../concepts/share-repurchases.md), [underwriting-discipline](../concepts/underwriting-discipline.md)
 ---
 
 # Berkshire Hathaway 2012 Annual Letter
@@ -17,9 +17,9 @@ Berkshire achieved a total gain for shareholders of $24.1 billion in 2012, with 
 
 ## Key themes
 
-- **Sell-off vs. dividend comparison** — most complete mathematical argument in the letter series that shareholders wanting cash income are better served by selling small fractions of shares than receiving dividends: (1) each shareholder can choose their own payout rate; (2) only the gain portion of sell-off proceeds is taxed (vs. full dividend taxation). See [[dividend-policy]].
+- **Sell-off vs. dividend comparison** — most complete mathematical argument in the letter series that shareholders wanting cash income are better served by selling small fractions of shares than receiving dividends: (1) each shareholder can choose their own payout rate; (2) only the gain portion of sell-off proceeds is taxed (vs. full dividend taxation). See [dividend-policy](../concepts/dividend-policy.md).
 - **10th consecutive underwriting-profit year** — $1.625B underwriting gain across insurance operations; cumulative pre-tax gain for the decade: $18.6B. Insurance described as "truly having your cake and eating it too." Float reached $73.125B.
-- **Repurchase limit raised 110% → 120% of book** — raised in December when a large block became available at ~116% of book. Still conditional on stock trading at a meaningful discount to intrinsic value. See [[share-repurchases]].
+- **Repurchase limit raised 110% → 120% of book** — raised in December when a large block became available at ~116% of book. Still conditional on stock trading at a meaningful discount to intrinsic value. See [share-repurchases](../concepts/share-repurchases.md).
 - **"Powerhouse five"** — BNSF, Iscar, Lubrizol, Marmon, and MidAmerican Energy earned $10.1B pre-tax in 2012, about $600M more than 2011. Only MidAmerican was owned by Berkshire eight years earlier.
 - **Intrinsic value components** — per-share investments $113,786 (+15.7%); per-share pre-tax earnings from non-insurance, non-investment operations $8,085 (+15.7%). Both have compounded at ~19-21% annually since 1970, explaining why Berkshire's stock price has grown at a similar rate.
 - **Heinz acquisition** — $4B common equity + $8B 9%-dividend preferred (with warrants for 5% of common and a redemption premium); total ~$12B. Jorge Paulo Lemann's group holds the other half. Announced February 2013.
@@ -30,24 +30,24 @@ Berkshire achieved a total gain for shareholders of $24.1 billion in 2012, with 
 
 ## Entities discussed
 
-- [[geico]] — market share 9.7% (from 2.5% in 1995); premium volume $16.7B; float $11.578B; underwriting profit $680M GAAP (reflects $410M accounting charge unrelated to operations); Hurricane Sandy the largest single loss in GEICO history
-- [[bnsf]] — revenues $20.835B; net earnings $3.372B; 9.6× interest coverage; 15% of all inter-city freight; oil transport 500K barrels/day (~10% of lower-48); $4B capex planned for 2013
-- [[midamerican-energy]] — net earnings $1.472B; 6% of U.S. wind generation capacity; ~14% of U.S. solar when three projects complete; total renewables portfolio will cost $13B; Greg Abel and Matt Rose cited as outstanding CEOs
-- [[general-re]] — Tad Montross cited as maintaining all four underwriting disciplines; General Re's float better than cost-free under his leadership; international life reinsurance achieving profitable growth
+- [geico](../entities/geico.md) — market share 9.7% (from 2.5% in 1995); premium volume $16.7B; float $11.578B; underwriting profit $680M GAAP (reflects $410M accounting charge unrelated to operations); Hurricane Sandy the largest single loss in GEICO history
+- [bnsf](../entities/bnsf.md) — revenues $20.835B; net earnings $3.372B; 9.6× interest coverage; 15% of all inter-city freight; oil transport 500K barrels/day (~10% of lower-48); $4B capex planned for 2013
+- [midamerican-energy](../entities/midamerican-energy.md) — net earnings $1.472B; 6% of U.S. wind generation capacity; ~14% of U.S. solar when three projects complete; total renewables portfolio will cost $13B; Greg Abel and Matt Rose cited as outstanding CEOs
+- [general-re](../entities/general-re.md) — Tad Montross cited as maintaining all four underwriting disciplines; General Re's float better than cost-free under his leadership; international life reinsurance achieving profitable growth
 
 ## People mentioned
 
-- [[warren-buffett]] — letter author; Heinz deal; raise of repurchase limit; dividend arithmetic demonstration; gave away 4.25% of shares annually for seven years while increasing book value attributable to his remaining shares
-- [[charlie-munger]] — vice chairman; won't change yardsticks regardless of market conditions
-- [[ajit-jain]] — BH Reinsurance; float $34.821B; $304M underwriting profit; "if you meet Ajit at the annual meeting, bow deeply"; combined capacity/speed/decisiveness/brains "unique in the insurance business"
-- [[tony-nicely]] — GEICO CEO; 27,000 associates; completed 51 years of service at GEICO in 2012
+- [warren-buffett](../people/warren-buffett.md) — letter author; Heinz deal; raise of repurchase limit; dividend arithmetic demonstration; gave away 4.25% of shares annually for seven years while increasing book value attributable to his remaining shares
+- [charlie-munger](../people/charlie-munger.md) — vice chairman; won't change yardsticks regardless of market conditions
+- [ajit-jain](../people/ajit-jain.md) — BH Reinsurance; float $34.821B; $304M underwriting profit; "if you meet Ajit at the annual meeting, bow deeply"; combined capacity/speed/decisiveness/brains "unique in the insurance business"
+- [tony-nicely](../people/tony-nicely.md) — GEICO CEO; 27,000 associates; completed 51 years of service at GEICO in 2012
 
 ## Concepts introduced or discussed
 
-- [[dividend-policy]] — the most detailed treatment in the 48-year series: complete mathematical sell-off vs. dividend comparison; tax superiority of sell-off; individual choice argument; Phil Fisher restaurant analogy on policy consistency
-- [[share-repurchases]] — ceiling raised 110% → 120% of book; "disciplined repurchases are the surest way to use funds intelligently — it's hard to go wrong when you're buying dollar bills for 80¢ or less"
-- [[float]] — $73.125B (2012); 10th consecutive underwriting profit; $18.6B cumulative gain 2003–2012; float remains better than free money at Berkshire; future gains "will be tough to achieve"
-- [[underwriting-discipline]] — four disciplines restated; General Re now a positive example alongside GEICO; both segments operated profitably
+- [dividend-policy](../concepts/dividend-policy.md) — the most detailed treatment in the 48-year series: complete mathematical sell-off vs. dividend comparison; tax superiority of sell-off; individual choice argument; Phil Fisher restaurant analogy on policy consistency
+- [share-repurchases](../concepts/share-repurchases.md) — ceiling raised 110% → 120% of book; "disciplined repurchases are the surest way to use funds intelligently — it's hard to go wrong when you're buying dollar bills for 80¢ or less"
+- [float](../concepts/float.md) — $73.125B (2012); 10th consecutive underwriting profit; $18.6B cumulative gain 2003–2012; float remains better than free money at Berkshire; future gains "will be tough to achieve"
+- [underwriting-discipline](../concepts/underwriting-discipline.md) — four disciplines restated; General Re now a positive example alongside GEICO; both segments operated profitably
 
 ## Notable quotes
 
@@ -65,8 +65,8 @@ Berkshire achieved a total gain for shareholders of $24.1 billion in 2012, with 
 
 ## Connections to other sources
 
-- Float milestone continues from [[berkshire-2011-letter]]: $73.1B (vs. $70.6B); 10th consecutive underwriting profit (vs. 9th); cumulative gain $18.6B
-- Repurchase ceiling raised from the 110% limit first set in [[berkshire-2011-letter]]
-- The sell-off vs. dividend comparison is the deepest extension of the retention test originally stated in [[berkshire-1984-letter]]
-- GEICO market share arc: 2.5% (when Berkshire acquired control, [[berkshire-1995-letter]]) → 9.3% ([[berkshire-2011-letter]]) → 9.7% (2012)
-- BNSF results ($3.372B net) continue the post-acquisition trajectory from [[berkshire-2010-letter]] ($2.459B net, first full year) through [[berkshire-2011-letter]] ($2.972B)
+- Float milestone continues from [berkshire-2011-letter](berkshire-2011-letter.md): $73.1B (vs. $70.6B); 10th consecutive underwriting profit (vs. 9th); cumulative gain $18.6B
+- Repurchase ceiling raised from the 110% limit first set in [berkshire-2011-letter](berkshire-2011-letter.md)
+- The sell-off vs. dividend comparison is the deepest extension of the retention test originally stated in [berkshire-1984-letter](berkshire-1984-letter.md)
+- GEICO market share arc: 2.5% (when Berkshire acquired control, [berkshire-1995-letter](berkshire-1995-letter.md)) → 9.3% ([berkshire-2011-letter](berkshire-2011-letter.md)) → 9.7% (2012)
+- BNSF results ($3.372B net) continue the post-acquisition trajectory from [berkshire-2010-letter](berkshire-2010-letter.md) ($2.459B net, first full year) through [berkshire-2011-letter](berkshire-2011-letter.md) ($2.972B)

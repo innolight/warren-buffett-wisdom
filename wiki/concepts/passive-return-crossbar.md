@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1981-letter]
 tags: [inflation, valuation, equities, hurdle-rate]
-related: [[investor-misery-index]], [[bonds-and-inflation]], [[dividend-policy]]
+related: [investor-misery-index](investor-misery-index.md), [bonds-and-inflation](bonds-and-inflation.md), [dividend-policy](dividend-policy.md)
 ---
 
 # Passive-Return Crossbar
@@ -14,7 +14,7 @@ related: [[investor-misery-index]], [[bonds-and-inflation]], [[dividend-policy]]
 
 The economic case for owning equities rests on the premise that combining capital with managerial and entrepreneurial skill produces returns above what passive investments (long-term bonds) yield. The hurdle the equity must clear — the **crossbar** — is the after-tax passive rate of return available to the same investor.
 
-When the crossbar rises faster than business ROE, equity capital can produce *no value-added* on average — even though business ROE may have stayed flat or improved. "It should be stressed that this depressing situation does not occur because corporations are jumping, economically, less high than previously. In fact, they are jumping somewhat higher: return on equity has improved a few points in the past decade. But the crossbar of passive return has been elevated much faster." ([[berkshire-1981-letter]])
+When the crossbar rises faster than business ROE, equity capital can produce *no value-added* on average — even though business ROE may have stayed flat or improved. "It should be stressed that this depressing situation does not occur because corporations are jumping, economically, less high than previously. In fact, they are jumping somewhat higher: return on equity has improved a few points in the past decade. But the crossbar of passive return has been elevated much faster." ([berkshire-1981-letter](../sources/berkshire-1981-letter.md))
 
 ## Why it matters
 
@@ -54,16 +54,16 @@ Buffett's warning: "Beware of 'dividends' that can be paid out only if someone p
 ## Implications
 
 - A high after-tax passive rate is a *headwind* even for great companies and a *killer* for mediocre ones.
-- The escape — the businesses that clear the crossbar even in adverse conditions — are those with enduring economic Goodwill and minimal tangible-capital reinvestment requirements. See [[economic-goodwill]].
+- The escape — the businesses that clear the crossbar even in adverse conditions — are those with enduring economic Goodwill and minimal tangible-capital reinvestment requirements. See [economic-goodwill](economic-goodwill.md).
 - Berkshire itself, Buffett notes in 1981, "continues to clear the crossbar of after-tax passive return — but barely." The 21% historic ROE provides modest margin over current after-tax passive rates. The margin is not assured.
 
 ## How it's discussed in sources
 
-- [[berkshire-1981-letter]] — debut; the "Equity Value-Added" essay; the inflation-as-tapeworm framing; the dividend disguises
+- [berkshire-1981-letter](../sources/berkshire-1981-letter.md) — debut; the "Equity Value-Added" essay; the inflation-as-tapeworm framing; the dividend disguises
 
 ## Related
 
-- [[investor-misery-index]] — the same logic from the individual investor's side: real return = nominal − inflation − tax
-- [[bonds-and-inflation]] — the asymmetric punishment of long-term bondholders in inflation, restating the bond side of the crossbar
-- [[dividend-policy]] — the 1984 retention test cashes out the passive-return crossbar into a concrete decision rule
-- [[economic-goodwill]] — the operating-business feature that lets a few businesses clear the crossbar even in adverse conditions
+- [investor-misery-index](investor-misery-index.md) — the same logic from the individual investor's side: real return = nominal − inflation − tax
+- [bonds-and-inflation](bonds-and-inflation.md) — the asymmetric punishment of long-term bondholders in inflation, restating the bond side of the crossbar
+- [dividend-policy](dividend-policy.md) — the 1984 retention test cashes out the passive-return crossbar into a concrete decision rule
+- [economic-goodwill](economic-goodwill.md) — the operating-business feature that lets a few businesses clear the crossbar even in adverse conditions

@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1982-letter, berkshire-1985-letter]
 tags: [industry-structure, business-quality, moat]
-related: [[moat]], [[tailwinds-vs-headwinds]], [[geico]], [[scott-fetzer]]
+related: [moat](moat.md), [tailwinds-vs-headwinds](tailwinds-vs-headwinds.md), [geico](../entities/geico.md), [scott-fetzer](../entities/scott-fetzer.md)
 ---
 
 # Commodity-Business Economics
@@ -23,7 +23,7 @@ A commodity-industry participant can earn good returns only by:
 1. **Administered pricing through government intervention.** Trucking before deregulation; banking deposit ceilings; utility rate structures.
 2. **Administered pricing through collusion** (illegal but recurrent).
 3. **Administered pricing through cartelization** — OPEC-style, often with tag-along benefits for non-cartel domestic operators.
-4. **A wide *and* sustainable cost advantage.** This is the only durable, legal escape available to a non-administered participant. By definition rare. See [[moat]].
+4. **A wide *and* sustainable cost advantage.** This is the only durable, legal escape available to a non-administered participant. By definition rare. See [moat](moat.md).
 
 In Buffett's hands, this framework is principally an *insurance industry* diagnosis but applies broadly. Aluminum, copper, corn, and basic textiles are name-checked across the letters.
 
@@ -39,7 +39,7 @@ From 1950–1970 the industry averaged a 99.0 combined ratio despite these featu
 
 ## The GEICO exception
 
-The framework's value is in identifying the rare escape: a wide, sustainable cost advantage. GEICO is the canonical case — direct-to-consumer distribution structurally lower-cost than the agent-based competition, an advantage entrenched by competitors' inability to disrupt their own distribution. See [[geico]].
+The framework's value is in identifying the rare escape: a wide, sustainable cost advantage. GEICO is the canonical case — direct-to-consumer distribution structurally lower-cost than the agent-based competition, an advantage entrenched by competitors' inability to disrupt their own distribution. See [geico](../entities/geico.md).
 
 The general principle Buffett extracts: in a commodity industry, the only sustainable path to good profitability is *being the low-cost producer* — but only if the cost advantage is *both* wide enough to matter *and* structurally protected against erosion.
 
@@ -54,7 +54,7 @@ The textile-shutdown letter delivers the canonical illustration that **brilliant
 | Cumulative capex 1964–85 | — | ~$3B (~$200/share on the $60 stock) |
 | Real per-share purchasing power | 1.00× | ~0.33× (CPI tripled) |
 
-Burlington was the industry's largest U.S. textile company at both endpoints. Its capital decisions were rational in isolation; collectively (across the industry) they neutralized each other. "Each company's capital investment decision appeared cost-effective and rational; viewed collectively, the decisions neutralized each other and were irrational (just as happens when each person watching a parade decides he can see a little better if he stands on tiptoes)." See [[tailwinds-vs-headwinds]] for Buffett's "business boat" formulation.
+Burlington was the industry's largest U.S. textile company at both endpoints. Its capital decisions were rational in isolation; collectively (across the industry) they neutralized each other. "Each company's capital investment decision appeared cost-effective and rational; viewed collectively, the decisions neutralized each other and were irrational (just as happens when each person watching a parade decides he can see a little better if he stands on tiptoes)." See [tailwinds-vs-headwinds](tailwinds-vs-headwinds.md) for Buffett's "business boat" formulation.
 
 Buffett's distilled rule from the case:
 
@@ -62,12 +62,12 @@ Buffett's distilled rule from the case:
 
 ## How it's discussed in sources
 
-- [[berkshire-1982-letter]] — debut; the four escapes; insurance as textbook case; the 1950–70 quasi-administered regime as a one-time historical artifact
-- [[berkshire-1985-letter]] — Burlington Industries 21-year case study; "capacity is an attitudinal concept" sharpens the insurance application; the textile auction proceeds illustrate where decades of "rational" intra-industry capital allocation actually land in liquidation
+- [berkshire-1982-letter](../sources/berkshire-1982-letter.md) — debut; the four escapes; insurance as textbook case; the 1950–70 quasi-administered regime as a one-time historical artifact
+- [berkshire-1985-letter](../sources/berkshire-1985-letter.md) — Burlington Industries 21-year case study; "capacity is an attitudinal concept" sharpens the insurance application; the textile auction proceeds illustrate where decades of "rational" intra-industry capital allocation actually land in liquidation
 
 ## Related
 
-- [[moat]] — the operational name for "wide and sustainable cost advantage"
-- [[tailwinds-vs-headwinds]] — the industry-structure layer one level up
-- [[geico]] — the canonical exception in insurance
-- [[turnarounds-seldom-turn]] — the corollary: structurally poor industries don't reward management effort
+- [moat](moat.md) — the operational name for "wide and sustainable cost advantage"
+- [tailwinds-vs-headwinds](tailwinds-vs-headwinds.md) — the industry-structure layer one level up
+- [geico](../entities/geico.md) — the canonical exception in insurance
+- [turnarounds-seldom-turn](turnarounds-seldom-turn.md) — the corollary: structurally poor industries don't reward management effort

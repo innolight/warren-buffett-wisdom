@@ -5,12 +5,12 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-2006-letter]
 tags: [media, newspapers, moat, dominant-local-franchise]
-related: [[berkshire-hathaway]], [[blue-chip-stamps]], [[moat]]
+related: [berkshire-hathaway](berkshire-hathaway.md), [blue-chip-stamps](blue-chip-stamps.md), [moat](../concepts/moat.md)
 ---
 
 # Buffalo Evening News / Buffalo News
 
-Daily newspaper in Buffalo, NY, acquired by [[blue-chip-stamps]] in 1977; rolled up into Berkshire via the 1983 merger. The morning edition launched in late 1982/early 1983, after which the paper renamed itself simply *Buffalo News*. The principal competitor, the *Courier-Express*, closed in 1982 — leaving the News as the dominant daily.
+Daily newspaper in Buffalo, NY, acquired by [blue-chip-stamps](blue-chip-stamps.md) in 1977; rolled up into Berkshire via the 1983 merger. The morning edition launched in late 1982/early 1983, after which the paper renamed itself simply *Buffalo News*. The principal competitor, the *Courier-Express*, closed in 1982 — leaving the News as the dominant daily.
 
 ## Why it matters
 
@@ -19,7 +19,7 @@ The canonical Berkshire case study in **dominant-local-newspaper economics** —
 Two economic features make a dominant local paper exceptional:
 
 1. **Penetration concentration in the advertiser-useful area.** Advertisers pay for the share of households they can reach. Regional papers waste circulation on distant readers irrelevant to local advertisers. A dominant paper covering the local market and little else delivers the highest advertiser ROI per circulation dollar — and thus commands premium ad rates.
-2. **Decoupling of economics from product quality.** Once dominant, "the newspaper itself, not the marketplace, determines just how good or how bad the paper will be. Good or bad, it will prosper." Even a poor paper retains essential "bulletin board" value for most readers. ([[berkshire-1984-letter]])
+2. **Decoupling of economics from product quality.** Once dominant, "the newspaper itself, not the marketplace, determines just how good or how bad the paper will be. Good or bad, it will prosper." Even a poor paper retains essential "bulletin board" value for most readers. ([berkshire-1984-letter](../sources/berkshire-1984-letter.md))
 
 The corollary: management must impose its own quality standards because the market won't enforce them. The News' 50.9% news-hole ratio (vs. industry high-30s) is a quality decision that costs newsprint and labor money, but is the management discipline distinguishing the News from third-rate dominant papers that earn equivalent profits.
 
@@ -43,7 +43,7 @@ The corollary: management must impose its own quality standards because the mark
 
 By 2006, the structural thesis that made newspaper ownership "economic heaven" had reversed. The 2006 letter contains Buffett's most extended analysis of newspaper economics — as an elegy for a moat destroyed by technological change.
 
-**The original moat: survival of the fattest.** For most of the 20th century, newspapers were the primary information source in their markets — sports, finance, classifieds, local advertising. Two reinforcing dynamics created natural monopolies: readers preferred the paper with the most content, and advertisers preferred the paper with the most readers. This circularity made the leading paper invulnerable: once a two-paper city resolved to one dominant paper, that paper's pricing power was "unleashed." Annual rate increases in both advertising and circulation followed automatically. "For owners this was economic heaven." ([[berkshire-2006-letter]])
+**The original moat: survival of the fattest.** For most of the 20th century, newspapers were the primary information source in their markets — sports, finance, classifieds, local advertising. Two reinforcing dynamics created natural monopolies: readers preferred the paper with the most content, and advertisers preferred the paper with the most readers. This circularity made the leading paper invulnerable: once a two-paper city resolved to one dominant paper, that paper's pricing power was "unleashed." Annual rate increases in both advertising and circulation followed automatically. "For owners this was economic heaven." ([berkshire-2006-letter](../sources/berkshire-2006-letter.md))
 
 Buffett had warned as early as the 1991 letter that the media business was changing: "the media businesses … will prove considerably less marvelous than I, the industry, or lenders thought would be the case only a few years ago." Publishers dismissed the warning. Newspaper properties continued to sell as "indestructible slot machines."
 
@@ -51,20 +51,20 @@ Buffett had warned as early as the 1991 letter that the media business was chang
 
 **The online alternative is not the answer.** A newspaper's online operation can attract readers and some advertising, but its economic potential "is at best a small fraction of that existing in the past for a print newspaper facing no competition." The internet eliminates geographic lock-in and concentrates audience across the entire web — the opposite of the concentrated local-market monopoly that made print newspapers valuable.
 
-**Buffalo News: best-in-class, declining.** The News retains the highest penetration ratio among the country's large newspapers and outperforms most metropolitan dailies financially. Stan Lipsey and editor Margaret Sullivan are praised. But the structural trend overrides operational excellence: "fundamentals are definitely eroding in the newspaper business, a trend that has caused the profits of our Buffalo News to decline. The skid will almost certainly continue." Fixed costs are high; as unit volume falls, margin compression accelerates. ([[berkshire-2006-letter]])
+**Buffalo News: best-in-class, declining.** The News retains the highest penetration ratio among the country's large newspapers and outperforms most metropolitan dailies financially. Stan Lipsey and editor Margaret Sullivan are praised. But the structural trend overrides operational excellence: "fundamentals are definitely eroding in the newspaper business, a trend that has caused the profits of our Buffalo News to decline. The skid will almost certainly continue." Fixed costs are high; as unit volume falls, margin compression accelerates. ([berkshire-2006-letter](../sources/berkshire-2006-letter.md))
 
 Buffett's long-term commitment is personal but eyes-open: "Unless we face an irreversible cash drain, we will stick with the News." The newspaper moat, once among the widest and most durable in American business, became the clearest illustration that even commanding franchises can be made obsolete by structural change in distribution.
 
 ## Sources discussing this entity
 
-- [[berkshire-1982-letter]] — first detailed treatment; Sunday circulation up 35% over six years; the unmatched penetration growth
-- [[berkshire-1983-letter]] — penetration ratio as the canonical measure of franchise strength; #1 weekday nationally
-- [[berkshire-1984-letter]] — economics decoupled from quality; the management-imposes-standards principle
-- [[berkshire-2006-letter]] — the newspaper moat erosion essay; "survival of the fattest" monopoly economics fully described, then declared structurally finished; lush profits explicitly called over
+- [berkshire-1982-letter](../sources/berkshire-1982-letter.md) — first detailed treatment; Sunday circulation up 35% over six years; the unmatched penetration growth
+- [berkshire-1983-letter](../sources/berkshire-1983-letter.md) — penetration ratio as the canonical measure of franchise strength; #1 weekday nationally
+- [berkshire-1984-letter](../sources/berkshire-1984-letter.md) — economics decoupled from quality; the management-imposes-standards principle
+- [berkshire-2006-letter](../sources/berkshire-2006-letter.md) — the newspaper moat erosion essay; "survival of the fattest" monopoly economics fully described, then declared structurally finished; lush profits explicitly called over
 
 ## Related
 
-- [[moat]] — penetration ratio as the empirical signature of a newspaper moat
-- [[blue-chip-stamps]] — pre-1983 corporate parent
-- [[washington-post]] — the other media franchise in Berkshire's permanent portfolio
-- [[moat]] — the newspaper case is the clearest example in the letters of a once-impenetrable moat destroyed by structural technology change
+- [moat](../concepts/moat.md) — penetration ratio as the empirical signature of a newspaper moat
+- [blue-chip-stamps](blue-chip-stamps.md) — pre-1983 corporate parent
+- [washington-post](washington-post.md) — the other media franchise in Berkshire's permanent portfolio
+- [moat](../concepts/moat.md) — the newspaper case is the clearest example in the letters of a once-impenetrable moat destroyed by structural technology change

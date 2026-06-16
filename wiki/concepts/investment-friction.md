@@ -5,7 +5,7 @@ created: 2026-06-13
 updated: 2026-06-15
 sources: [berkshire-2005-letter, berkshire-2006-letter, berkshire-2007-letter, berkshire-2016-letter, berkshire-2017-letter]
 tags: [investing, fees, passive-investing, active-management, aggregate-returns]
-related: [[passive-ownership-advantage]], [[concentration-vs-diversification]], [[capital-allocation]], [[mr-market]], [[walter-schloss]]
+related: [passive-ownership-advantage](passive-ownership-advantage.md), [concentration-vs-diversification](concentration-vs-diversification.md), [capital-allocation](capital-allocation.md), [mr-market](mr-market.md), [walter-schloss](../people/walter-schloss.md)
 ---
 
 # Investment Friction
@@ -22,7 +22,7 @@ Most investment discussions focus on what an individual investor can earn. The f
 
 This has two implications. First, for any given investor, minimizing friction is the most reliable path to above-average returns against the field. Second, the industry's collective add-on of broker, manager, consultant, and incentive fees cannot improve aggregate outcomes — by construction, someone pays for every someone else who "beats the market."
 
-This is distinct from [[passive-ownership-advantage]] (which is about how passive minority stakes in excellent businesses can outperform active control of mediocre ones — the quality dimension) and [[concentration-vs-diversification]] (which is about individual portfolio construction). Friction applies to the aggregate; those concepts apply to individual strategy.
+This is distinct from [passive-ownership-advantage](passive-ownership-advantage.md) (which is about how passive minority stakes in excellent businesses can outperform active control of mediocre ones — the quality dimension) and [concentration-vs-diversification](concentration-vs-diversification.md) (which is about individual portfolio construction). Friction applies to the aggregate; those concepts apply to individual strategy.
 
 ## The Gotrocks allegory
 
@@ -56,7 +56,7 @@ To equal the same 5.3% annualized gain in the 21st century, the Dow would need t
 
 Buffett does not prescribe index funds explicitly in this essay, but the implication is clear: the best defense against friction is to sit still. A passive investor in an index fund pays near-zero Helper fees, capturing nearly the full return that American business generates. The active investor pays multiple layers of fees in a zero-sum competition against other active investors; the net result for active investors as a group is the market return minus those fees.
 
-See [[passive-ownership-advantage]] for the related point about individual investment style; see [[concentration-vs-diversification]] for Buffett's own answer to the question (for the investor who genuinely knows what they're doing).
+See [passive-ownership-advantage](passive-ownership-advantage.md) for the related point about individual investment style; see [concentration-vs-diversification](concentration-vs-diversification.md) for Buffett's own answer to the question (for the investor who genuinely knows what they're doing).
 
 ## The 21st-century Dow arithmetic (2007)
 
@@ -66,29 +66,29 @@ The implication for pension funds: most corporate plans were using an 8% return 
 
 For investors forecasting 10% annual equity returns (2% dividends + 8% price appreciation), the implied Dow level by 2100 is **24,000,000**. "If your adviser talks to you about double-digit returns from equities, explain this math to him — not that it will faze him."
 
-The 2007 formulation is the cleanest statement of why helpers cannot close the gap between their fee expectations and the math of long-run equity returns. See [[berkshire-2007-letter]].
+The 2007 formulation is the cleanest statement of why helpers cannot close the gap between their fee expectations and the math of long-run equity returns. See [berkshire-2007-letter](../sources/berkshire-2007-letter.md).
 
 ## The 2-and-20 arithmetic (2006)
 
 The 2006 letter extends the Gotrocks argument to hedge funds with a concrete arithmetic demonstration. The "2-and-20" structure — 2% annual management fee regardless of results, plus 20% of profits — produces a structural transfer from investors to managers:
 
-> A manager who achieves a gross return of 10% in a year will keep 3.6 percentage points — two points off the top plus 20% of the residual 8 points — leaving only 6.4 percentage points for his investors. On a $3 billion fund, this 6.4% net "performance" will deliver the manager a cool $108 million. He will receive this bonanza even though an index fund might have returned 15% to investors in the same period and charged them only a token fee. ([[berkshire-2006-letter]])
+> A manager who achieves a gross return of 10% in a year will keep 3.6 percentage points — two points off the top plus 20% of the residual 8 points — leaving only 6.4 percentage points for his investors. On a $3 billion fund, this 6.4% net "performance" will deliver the manager a cool $108 million. He will receive this bonanza even though an index fund might have returned 15% to investors in the same period and charged them only a token fee. ([berkshire-2006-letter](../sources/berkshire-2006-letter.md))
 
 The arithmetic is designed to survive favorable conditions: even when the manager produces positive gross returns, the structural take is large and guaranteed. In aggregate, managers cannot outperform the market they are managing — the Gotrocks logic holds — so the 3.6pp retained represents a pure transfer from investors to managers.
 
 ## Walter Schloss as the counter-model
 
-Buffett closes the investment-friction section of the 2006 letter with a tribute to [[walter-schloss]], a Graham-trained investor who ran a partnership from 1956 to 2002 "from which he took not a dime unless his investors made money." His 47-year record dramatically outperformed the S&P 500 using simple statistical methods, no analysts, no computers, and essentially no overhead.
+Buffett closes the investment-friction section of the 2006 letter with a tribute to [walter-schloss](../people/walter-schloss.md), a Graham-trained investor who ran a partnership from 1956 to 2002 "from which he took not a dime unless his investors made money." His 47-year record dramatically outperformed the S&P 500 using simple statistical methods, no analysts, no computers, and essentially no overhead.
 
 The contrast with the 2-and-20 Hyper-Helper is exact: Schloss aligned himself completely with his investors (fee only on profit), spent nothing on the apparatus of active management, and used methods available to anyone willing to do the work. The implication is not that skill is impossible but that the combination of true alignment and low friction is vanishingly rare — and that most intermediaries claiming to add value do not.
 
 ## The Group A/B identity
 
-Before framing the Bet, Buffett laid out the arithmetic that makes the outcome structurally inevitable. The entire investing universe can be divided into Group A (active investors — those who trade, pick stocks, and pay helpers) and Group B (passive / do-nothing investors). Together they hold the entire market. Group B is by construction destined to earn the market return before costs. But that means Group A must also earn the market return before costs — they hold whatever B does not. The group with lower costs wins. This is a mathematical identity, not a prediction. No redistribution of capital among active managers changes the aggregate active-investor return; it only changes who among them wins. The friction argument follows directly: the sole variable is how much of the total return leaks to helpers at each layer. See [[berkshire-2016-letter]].
+Before framing the Bet, Buffett laid out the arithmetic that makes the outcome structurally inevitable. The entire investing universe can be divided into Group A (active investors — those who trade, pick stocks, and pay helpers) and Group B (passive / do-nothing investors). Together they hold the entire market. Group B is by construction destined to earn the market return before costs. But that means Group A must also earn the market return before costs — they hold whatever B does not. The group with lower costs wins. This is a mathematical identity, not a prediction. No redistribution of capital among active managers changes the aggregate active-investor return; it only changes who among them wins. The friction argument follows directly: the sole variable is how much of the total return leaks to helpers at each layer. See [berkshire-2016-letter](../sources/berkshire-2016-letter.md).
 
 ## The Bet — nine years of empirical proof (2016)
 
-The Gotrocks allegory and the Group A/B identity are theoretical. In 2007, Buffett put money on them. He offered $500,000 that no investment professional could select five or more hedge funds that would, net of all fees and expenses, outperform an unmanaged S&P 500 index fund over ten years beginning January 1, 2008. The bet's origin is [[berkshire-2005-letter]] and [[berkshire-2007-letter]]; the nine-year results appear in [[berkshire-2016-letter]].
+The Gotrocks allegory and the Group A/B identity are theoretical. In 2007, Buffett put money on them. He offered $500,000 that no investment professional could select five or more hedge funds that would, net of all fees and expenses, outperform an unmanaged S&P 500 index fund over ten years beginning January 1, 2008. The bet's origin is [berkshire-2005-letter](../sources/berkshire-2005-letter.md) and [berkshire-2007-letter](../sources/berkshire-2007-letter.md); the nine-year results appear in [berkshire-2016-letter](../sources/berkshire-2016-letter.md).
 
 One challenger accepted: Ted Seides of Protégé Partners, who selected five funds-of-funds, each itself holding roughly 200 underlying hedge funds, giving the pro-active side broad diversification and deep manager selection.
 
@@ -113,7 +113,7 @@ The result is the opposite. The expectation that "elite" advice justifies "elite
 
 Buffett estimated that in the decade prior to the 2016 letter, this search for superior advice cost the elite more than $100 billion — a pure transfer to the Helper layer. Much of the damage fell on public pension funds, whose beneficiaries had no say in the matter and bore the consequences through shortfalls in funded status.
 
-The wealthy-investor paradox closes the loop on the Gotrocks narrative: the helpers could not have grown so large without demand from people who should know better. Status and wealth create demand for premium investment services precisely where premium investment services are least likely to outperform their fees. See [[berkshire-2016-letter]].
+The wealthy-investor paradox closes the loop on the Gotrocks narrative: the helpers could not have grown so large without demand from people who should know better. Status and wealth create demand for premium investment services precisely where premium investment services are least likely to outperform their fees. See [berkshire-2016-letter](../sources/berkshire-2016-letter.md).
 
 ## The Bet — final verdict (2017)
 
@@ -123,20 +123,20 @@ Buffett's verdict: *"Performance comes, performance goes. Fees never falter."*
 
 **The one-decision sub-lesson.** During the ten years, the 200-plus hedge fund managers almost certainly made tens of thousands of buy and sell decisions. Buffett and Protégé made exactly one: in November 2012, when their zero-coupon Treasuries were trading at 95.7 cents on the dollar and yielding 0.88% to maturity, they recognized that bonds priced at roughly 100× earnings were absurdly expensive relative to American equities likely to compound at 8%+ in earnings. They sold the bonds and bought 11,200 Berkshire B shares. Girls Inc. of Omaha received $2,222,279 rather than the $1M originally expected.
 
-The one-decision contrast is the one-activity contrast: the managers made decisions because decision-making was what they were paid for. Buffett and Protégé acted only when the facts were overwhelmingly in favor of one choice and sat still otherwise. "A final lesson from our bet: Stick with big, 'easy' decisions and eschew activity." The structural logic mirrors the Gotrocks allegory — more motion means more fees, not more returns. See [[berkshire-2017-letter]].
+The one-decision contrast is the one-activity contrast: the managers made decisions because decision-making was what they were paid for. Buffett and Protégé acted only when the facts were overwhelmingly in favor of one choice and sat still otherwise. "A final lesson from our bet: Stick with big, 'easy' decisions and eschew activity." The structural logic mirrors the Gotrocks allegory — more motion means more fees, not more returns. See [berkshire-2017-letter](../sources/berkshire-2017-letter.md).
 
 ## How it's discussed in sources
 
-- [[berkshire-2005-letter]] — the Gotrocks allegory in full; the four-layer Helper taxonomy; the 20% friction estimate; Newton's Fourth Law; the Dow century arithmetic
-- [[berkshire-2006-letter]] — 2-and-20 arithmetic (10% gross → 6.4% net → $108M manager fee on a $3B fund); Walter Schloss as the counter-example (47 years, fee only on profit, S&P-beating record)
-- [[berkshire-2007-letter]] — sharpest Dow century arithmetic: Dow at 2,000,000 needed by 2099 to repeat 5.3% rate; only ~2,000 of 1,988,000 points gained in first 8 years; 10% forecasts imply Dow at 24,000,000; pension 8% assumption arithmetic dissected; "Beware the glib helper who fills your head with fantasies while he fills his pockets with fees"
-- [[berkshire-2016-letter]] — nine-year Bet results (S&P +85.4% vs. funds-of-funds +~22%); Group A/B mathematical identity; ~60% of active gains captured by two manager layers; $100B+ cost to the elite over the prior decade; Jack Bogle tribute; wealthy-investor paradox
-- [[berkshire-2017-letter]] — final ten-year Bet tally (S&P +125.8% at 8.5% annualized; best fund-of-funds +42.3% at 3.6%); "Performance comes, performance goes. Fees never falter."; the one-decision vs. tens-of-thousands-of-decisions contrast; the 2012 bond-to-Berkshire B swap as the single bet-period decision
+- [berkshire-2005-letter](../sources/berkshire-2005-letter.md) — the Gotrocks allegory in full; the four-layer Helper taxonomy; the 20% friction estimate; Newton's Fourth Law; the Dow century arithmetic
+- [berkshire-2006-letter](../sources/berkshire-2006-letter.md) — 2-and-20 arithmetic (10% gross → 6.4% net → $108M manager fee on a $3B fund); Walter Schloss as the counter-example (47 years, fee only on profit, S&P-beating record)
+- [berkshire-2007-letter](../sources/berkshire-2007-letter.md) — sharpest Dow century arithmetic: Dow at 2,000,000 needed by 2099 to repeat 5.3% rate; only ~2,000 of 1,988,000 points gained in first 8 years; 10% forecasts imply Dow at 24,000,000; pension 8% assumption arithmetic dissected; "Beware the glib helper who fills your head with fantasies while he fills his pockets with fees"
+- [berkshire-2016-letter](../sources/berkshire-2016-letter.md) — nine-year Bet results (S&P +85.4% vs. funds-of-funds +~22%); Group A/B mathematical identity; ~60% of active gains captured by two manager layers; $100B+ cost to the elite over the prior decade; Jack Bogle tribute; wealthy-investor paradox
+- [berkshire-2017-letter](../sources/berkshire-2017-letter.md) — final ten-year Bet tally (S&P +125.8% at 8.5% annualized; best fund-of-funds +42.3% at 3.6%); "Performance comes, performance goes. Fees never falter."; the one-decision vs. tens-of-thousands-of-decisions contrast; the 2012 bond-to-Berkshire B swap as the single bet-period decision
 
 ## Related
 
-- [[passive-investing]] — the empirical case: the 10-year Bet final tally (S&P 125.8% vs. FoF average ~3%) as proof that fee drag determines long-run outcomes
-- [[passive-ownership-advantage]] — passive minority stakes in excellent businesses outperform active control of mediocre ones; low frictional cost is one structural reason why passivity wins at the aggregate level
-- [[mr-market]] — the behavioral complement: Mr. Market creates the price volatility that tempts investors into more motion, and therefore more friction
-- [[incentive-compensation]] — the Helper layer's incentive design is the same problem at the firm level: fees paid to managers without commensurate value creation
-- [[capital-allocation]] — the friction argument and Berkshire's own discipline both rest on the same principle: retained capital carries a real cost that must be charged, whether to an investor or a Helper
+- [passive-investing](passive-investing.md) — the empirical case: the 10-year Bet final tally (S&P 125.8% vs. FoF average ~3%) as proof that fee drag determines long-run outcomes
+- [passive-ownership-advantage](passive-ownership-advantage.md) — passive minority stakes in excellent businesses outperform active control of mediocre ones; low frictional cost is one structural reason why passivity wins at the aggregate level
+- [mr-market](mr-market.md) — the behavioral complement: Mr. Market creates the price volatility that tempts investors into more motion, and therefore more friction
+- [incentive-compensation](incentive-compensation.md) — the Helper layer's incentive design is the same problem at the firm level: fees paid to managers without commensurate value creation
+- [capital-allocation](capital-allocation.md) — the friction argument and Berkshire's own discipline both rest on the same principle: retained capital carries a real cost that must be charged, whether to an investor or a Helper

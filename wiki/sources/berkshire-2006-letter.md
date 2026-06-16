@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2006
 raw_path: raw/berkshire-letters/2006.md
 tags: [berkshire, annual-letter, insurance, geico, float, derivatives, investment-friction, newspapers]
-related: [[warren-buffett]], [[charlie-munger]], [[berkshire-hathaway]], [[geico]], [[ajit-jain]], [[tony-nicely]], [[lou-simpson]], [[walter-schloss]]
+related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [ajit-jain](../people/ajit-jain.md), [tony-nicely](../people/tony-nicely.md), [lou-simpson](../people/lou-simpson.md), [walter-schloss](../people/walter-schloss.md)
 ---
 
 # Berkshire Hathaway 2006 Annual Letter
@@ -28,30 +28,30 @@ Record net-worth gain of $16.9 billion (18.4% per-share book-value growth) — a
 
 ## Entities discussed
 
-- [[geico]] — 42% policy growth + 3.5% headcount reduction = 47% productivity; $1,314M underwriting profit; $7.171B float
-- [[berkshire-hathaway]] — first international acquisition; $50.9B float; 217,000 employees; ~$98B revenues
-- [[buffalo-evening-news]] — structural earnings decline; internet and cable eroding the natural-monopoly economics
-- [[national-indemnity]] — 40th anniversary of Berkshire's insurance entry (March 1967, $8.6M, $17M float at the time)
-- [[general-re]] — Gen Re Securities derivatives wind-down complete: $409M cumulative pre-tax loss, 197 contracts remaining
-- [[midamerican-energy]] — PacifiCorp acquired March 2006; earnings $885M applicable to Berkshire; $16.9B debt to others
-- [[netjets]] — $143M pre-tax profit in 2006; European operation turned profitable after $212M cumulative loss
+- [geico](../entities/geico.md) — 42% policy growth + 3.5% headcount reduction = 47% productivity; $1,314M underwriting profit; $7.171B float
+- [berkshire-hathaway](../entities/berkshire-hathaway.md) — first international acquisition; $50.9B float; 217,000 employees; ~$98B revenues
+- [buffalo-evening-news](../entities/buffalo-evening-news.md) — structural earnings decline; internet and cable eroding the natural-monopoly economics
+- [national-indemnity](../entities/national-indemnity.md) — 40th anniversary of Berkshire's insurance entry (March 1967, $8.6M, $17M float at the time)
+- [general-re](../entities/general-re.md) — Gen Re Securities derivatives wind-down complete: $409M cumulative pre-tax loss, 197 contracts remaining
+- [midamerican-energy](../entities/midamerican-energy.md) — PacifiCorp acquired March 2006; earnings $885M applicable to Berkshire; $16.9B debt to others
+- [netjets](../entities/netjets.md) — $143M pre-tax profit in 2006; European operation turned profitable after $212M cumulative loss
 
 ## People mentioned
 
-- [[tony-nicely]] — the "rename your children Tony or Antoinette" praise from Don Keough; 45 years at GEICO
-- [[ajit-jain]] — managed Equitas analysis; runs B-H Reinsurance ($1,658M underwriting profit, $16.86B float)
-- [[lou-simpson]] — named as investment-side placeholder but now too close in age to Buffett; successor search begins
-- [[walter-schloss]] — 47-year partnership; sole associate his son Edwin; Graham methods; 47-year S&P outperformance; decisive EMT refutation
-- [[warren-buffett]] — announces search for younger CIO successor; pledged Berkshire shares to five charitable foundations in 2006
+- [tony-nicely](../people/tony-nicely.md) — the "rename your children Tony or Antoinette" praise from Don Keough; 45 years at GEICO
+- [ajit-jain](../people/ajit-jain.md) — managed Equitas analysis; runs B-H Reinsurance ($1,658M underwriting profit, $16.86B float)
+- [lou-simpson](../people/lou-simpson.md) — named as investment-side placeholder but now too close in age to Buffett; successor search begins
+- [walter-schloss](../people/walter-schloss.md) — 47-year partnership; sole associate his son Edwin; Graham methods; 47-year S&P outperformance; decisive EMT refutation
+- [warren-buffett](../people/warren-buffett.md) — announces search for younger CIO successor; pledged Berkshire shares to five charitable foundations in 2006
 
 ## Concepts introduced or discussed
 
-- [[float]] — $50.9B + $7B Equitas; retroactive reinsurance DCRA accounting explained in full; $3.838B underwriting profit
-- [[derivatives]] — the "appropriate use" reconciliation: 62 contracts, personally managed, counterparty-free, hundreds of millions in profits
-- [[investment-friction]] — 2-and-20 arithmetic; Walter Schloss as the counter-example; EMT critique
-- [[acquisition-criteria]] — ISCAR origin story; international "buyer of choice"; TTI as rejection of strategic/PE buyers
-- [[corporate-governance]] — four board criteria; "truly independent" critique; compensation reform requires institutional action
-- [[underwriting-discipline]] — 2006 as a best-case year; $3.838B across all segments
+- [float](../concepts/float.md) — $50.9B + $7B Equitas; retroactive reinsurance DCRA accounting explained in full; $3.838B underwriting profit
+- [derivatives](../concepts/derivatives.md) — the "appropriate use" reconciliation: 62 contracts, personally managed, counterparty-free, hundreds of millions in profits
+- [investment-friction](../concepts/investment-friction.md) — 2-and-20 arithmetic; Walter Schloss as the counter-example; EMT critique
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — ISCAR origin story; international "buyer of choice"; TTI as rejection of strategic/PE buyers
+- [corporate-governance](../concepts/corporate-governance.md) — four board criteria; "truly independent" critique; compensation reform requires institutional action
+- [underwriting-discipline](../concepts/underwriting-discipline.md) — 2006 as a best-case year; $3.838B across all segments
 
 ## Notable quotes
 
@@ -71,7 +71,7 @@ Record net-worth gain of $16.9 billion (18.4% per-share book-value growth) — a
 
 ## Connections to other sources
 
-- Continues the Gotrocks/investment-friction essay from [[berkshire-2005-letter]] — adding the 2-and-20 arithmetic and Walter Schloss as counter-example
-- References [[berkshire-2004-letter]] implicitly through the GEICO history context
-- The Gen Re derivatives wind-down that consumed [[berkshire-2002-letter]] through [[berkshire-2005-letter]] is here declared complete
-- Buffett previewed newspaper decline as early as [[berkshire-1991-letter]]; the 2006 essay is the obituary
+- Continues the Gotrocks/investment-friction essay from [berkshire-2005-letter](berkshire-2005-letter.md) — adding the 2-and-20 arithmetic and Walter Schloss as counter-example
+- References [berkshire-2004-letter](berkshire-2004-letter.md) implicitly through the GEICO history context
+- The Gen Re derivatives wind-down that consumed [berkshire-2002-letter](berkshire-2002-letter.md) through [berkshire-2005-letter](berkshire-2005-letter.md) is here declared complete
+- Buffett previewed newspaper decline as early as [berkshire-1991-letter](berkshire-1991-letter.md); the 2006 essay is the obituary

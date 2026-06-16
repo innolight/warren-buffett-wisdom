@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-06-16
 sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-2011-letter, berkshire-2019-letter, berkshire-2020-letter, berkshire-2021-letter]
 tags: [accounting, equities, capital-allocation, intrinsic-value]
-related: [[warren-buffett]], [[acquisition-criteria]], [[intrinsic-value-vs-book-value]], [[owner-earnings]], [[coca-cola]]
+related: [warren-buffett](../people/warren-buffett.md), [acquisition-criteria](acquisition-criteria.md), [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md), [owner-earnings](owner-earnings.md), [coca-cola](../entities/coca-cola.md)
 ---
 
 # Look-Through Earnings
@@ -14,7 +14,7 @@ related: [[warren-buffett]], [[acquisition-criteria]], [[intrinsic-value-vs-book
 
 The earnings *attributable* to a partial-equity stake — the holder's pro-rata share of the underlying business's earnings — as distinct from the dividend income that actually shows up in the holder's reported P&L. The gap between the two is not an accounting problem; it is a feature. When the underlying company retains earnings and deploys them well, the holder benefits even without receiving a check.
 
-Buffett's later formal label: **"economic earnings"** vs. **"accounting earnings"** ([[berkshire-1982-letter]]). Economic earnings include all undistributed earnings attributable to the ownership stake, regardless of accounting threshold; accounting earnings include only dividends below 20% ownership.
+Buffett's later formal label: **"economic earnings"** vs. **"accounting earnings"** ([berkshire-1982-letter](../sources/berkshire-1982-letter.md)). Economic earnings include all undistributed earnings attributable to the ownership stake, regardless of accounting threshold; accounting earnings include only dividends below 20% ownership.
 
 ## The 1924 intellectual origin: Edgar Lawrence Smith and Keynes
 
@@ -24,7 +24,7 @@ The durable insight Smith arrived at is captured in John Maynard Keynes' review 
 
 > "Well-managed industrial companies do not, as a rule, distribute to the shareholders the whole of their earned profits. In good years, if not in all years, they retain a part of their profits and put them back into the business. Thus there is an element of compound interest (Keynes' italics) operating in favour of a sound industrial investment. Over a period of years, the real value of the property of a sound industrial is increasing at compound interest, quite apart from the dividends paid out to the shareholders."
 
-Buffett's commentary in [[berkshire-2019-letter]]: "It's difficult to understand why retained earnings were unappreciated by investors before Smith's book was published. After all, it was no secret that mind-boggling wealth had earlier been amassed by such titans as Carnegie, Rockefeller and Ford, all of whom had retained a huge portion of their business earnings to fund growth and produce ever-greater profits." The insight was there in every great industrialist's record; what Smith did was name it and make it general.
+Buffett's commentary in [berkshire-2019-letter](../sources/berkshire-2019-letter.md): "It's difficult to understand why retained earnings were unappreciated by investors before Smith's book was published. After all, it was no secret that mind-boggling wealth had earlier been amassed by such titans as Carnegie, Rockefeller and Ford, all of whom had retained a huge portion of their business earnings to fund growth and produce ever-greater profits." The insight was there in every great industrialist's record; what Smith did was name it and make it general.
 
 This historical observation matters for look-through earnings because it establishes that the concept Buffett deploys is not a financial abstraction but the oldest verifiable mechanism of wealth creation in modern capitalism. The reason Buffett prefers look-through earnings to accounting earnings is precisely Keynes' point: the compound-interest effect of well-deployed retained earnings accrues to the owner whether or not it appears in the owner's reported income.
 
@@ -66,7 +66,7 @@ By 1984, Buffett estimates 1984 reported dividends from non-controlled holdings 
 
 The 1990 letter is the first time the look-through calculation is laid out in tabular form. The method:
 
-> Look-through earnings consist of: (1) the operating earnings reported in the previous section, plus; (2) the retained operating earnings of major investees that, under GAAP accounting, are not reflected in our profits, less; (3) an allowance for the tax that would be paid by Berkshire if these retained earnings of investees had instead been distributed to us. ([[berkshire-1990-letter]])
+> Look-through earnings consist of: (1) the operating earnings reported in the previous section, plus; (2) the retained operating earnings of major investees that, under GAAP accounting, are not reflected in our profits, less; (3) an allowance for the tax that would be paid by Berkshire if these retained earnings of investees had instead been distributed to us. ([berkshire-1990-letter](../sources/berkshire-1990-letter.md))
 
 The 1994 calculation (illustrating the format):
 
@@ -95,30 +95,30 @@ Look-through earnings dominate reported earnings when investees retain earnings 
 
 > When Coca-Cola uses retained earnings to repurchase its shares, the company increases our percentage ownership in what I regard to be the most valuable franchise in the world. (Coke also, of course, uses retained earnings in many other value-enhancing ways.) Instead of repurchasing stock, Coca-Cola could pay those funds to us in dividends, which we could then use to purchase more Coke shares. That would be a less efficient scenario … If this less efficient procedure were followed, however, Berkshire would report far greater "earnings."
 
-See [[coca-cola]].
+See [coca-cola](../entities/coca-cola.md).
 
 ## How it's discussed in sources
 
-- [[berkshire-1977-letter]] — introduced via Capital Cities: $10.9M invested; ~$1.3M attributable earnings; only $40,000 cash dividend in reported operating earnings
-- [[berkshire-1978-letter]] — deepened via SAFECO: $6.1M in attributable 1978 earnings; only ~18% distributed; "we believe the balance, although not reportable, to be just as real"
-- [[berkshire-1980-letter]] — canonical articulation; the iceberg framing; the tree-in-the-forest image; "it's the act that counts, not the actors"
-- [[berkshire-1981-letter]] — four companies (GEICO, General Foods, R.J. Reynolds, Washington Post) projected to contribute >$35M of undistributed-earnings to Berkshire's economic-earnings figure in 1982
-- [[berkshire-1982-letter]] — economic-vs-accounting earnings formally distinguished; "manic-depressive lemmings"; "St. Offset"
-- [[berkshire-1983-letter]] — codified as principle #6 of the owner's manual; ~$65M projected 1984 retained earnings attributable
-- [[berkshire-1989-letter]] — explicit articulation as the central look-through framework; "look-through" earnings named
-- [[berkshire-1990-letter]] — **explicit tabular calculation method** introduced; 15% annual growth target
-- [[berkshire-1991-letter]] — first year of look-through-earnings *decline* (-14%); explanatory transparency about Gillette preferred conversion and Wells Fargo break-even year
-- [[berkshire-1992-letter]] — $604M look-through; the "$1.8B by 2000" target
-- [[berkshire-1993-letter]] — $856M look-through; ~$439M from investees; Cap Cities retained-earnings illustration explicit
-- [[berkshire-1994-letter]] — $1,030M look-through (target met early); cautionary note that super-cat results lifted reported earnings above trend
-- [[berkshire-2011-letter]] — Big Four (AmEx, Coke, IBM, Wells Fargo): $862M dividends reported vs. $3.3B Berkshire's share of their earnings; Buffett projects the four could produce $7B in annual earnings a decade out; the gap is the structural reason reported Berkshire income understates intrinsic compounding
-- [[berkshire-2019-letter]] — the Smith/Keynes intellectual genealogy; 10-company table showing Berkshire's share of dividends ($3,798M) vs. retained earnings ($8,332M) from the top holdings (AmEx, Apple, BofA, BNY Mellon, Coke, Delta, JPMorgan, Moody's, US Bancorp, Wells Fargo); retained earnings exceed dividends by more than 2:1; "Mr. Smith got it right"
-- [[berkshire-2020-letter]] — brief restatement of the retained-earnings doctrine at the letter's opening ($281B equity portfolio); "the huge sums that investees retain on our behalf become invisible" under GAAP; no new content beyond 2019, but Buffett explicitly cross-references: "as we pointed out in these pages last year"; the Apple repurchase compounding example (see [[share-repurchases]]) is the worked application of how retained-earnings deployment — via buybacks — enlarges Berkshire's look-through claim on Apple's future earnings without additional outlay
-- [[berkshire-2021-letter]] — the sharpest Apple look-through illustration in the series: GAAP records only $785M in Apple dividends received; Berkshire's 5.55% share of Apple's 2021 earnings was $5.6B — more than 7× the reported figure; "each 0.1% of Apple's 2021 earnings amounted to $100 million" gives the unit rate of look-through value invisible to GAAP; the stake itself grew costlessly from 5.39% to 5.55% via Apple's ongoing buybacks, so the look-through claim expanded without any additional Berkshire outlay
+- [berkshire-1977-letter](../sources/berkshire-1977-letter.md) — introduced via Capital Cities: $10.9M invested; ~$1.3M attributable earnings; only $40,000 cash dividend in reported operating earnings
+- [berkshire-1978-letter](../sources/berkshire-1978-letter.md) — deepened via SAFECO: $6.1M in attributable 1978 earnings; only ~18% distributed; "we believe the balance, although not reportable, to be just as real"
+- [berkshire-1980-letter](../sources/berkshire-1980-letter.md) — canonical articulation; the iceberg framing; the tree-in-the-forest image; "it's the act that counts, not the actors"
+- [berkshire-1981-letter](../sources/berkshire-1981-letter.md) — four companies (GEICO, General Foods, R.J. Reynolds, Washington Post) projected to contribute >$35M of undistributed-earnings to Berkshire's economic-earnings figure in 1982
+- [berkshire-1982-letter](../sources/berkshire-1982-letter.md) — economic-vs-accounting earnings formally distinguished; "manic-depressive lemmings"; "St. Offset"
+- [berkshire-1983-letter](../sources/berkshire-1983-letter.md) — codified as principle #6 of the owner's manual; ~$65M projected 1984 retained earnings attributable
+- [berkshire-1989-letter](../sources/berkshire-1989-letter.md) — explicit articulation as the central look-through framework; "look-through" earnings named
+- [berkshire-1990-letter](../sources/berkshire-1990-letter.md) — **explicit tabular calculation method** introduced; 15% annual growth target
+- [berkshire-1991-letter](../sources/berkshire-1991-letter.md) — first year of look-through-earnings *decline* (-14%); explanatory transparency about Gillette preferred conversion and Wells Fargo break-even year
+- [berkshire-1992-letter](../sources/berkshire-1992-letter.md) — $604M look-through; the "$1.8B by 2000" target
+- [berkshire-1993-letter](../sources/berkshire-1993-letter.md) — $856M look-through; ~$439M from investees; Cap Cities retained-earnings illustration explicit
+- [berkshire-1994-letter](../sources/berkshire-1994-letter.md) — $1,030M look-through (target met early); cautionary note that super-cat results lifted reported earnings above trend
+- [berkshire-2011-letter](../sources/berkshire-2011-letter.md) — Big Four (AmEx, Coke, IBM, Wells Fargo): $862M dividends reported vs. $3.3B Berkshire's share of their earnings; Buffett projects the four could produce $7B in annual earnings a decade out; the gap is the structural reason reported Berkshire income understates intrinsic compounding
+- [berkshire-2019-letter](../sources/berkshire-2019-letter.md) — the Smith/Keynes intellectual genealogy; 10-company table showing Berkshire's share of dividends ($3,798M) vs. retained earnings ($8,332M) from the top holdings (AmEx, Apple, BofA, BNY Mellon, Coke, Delta, JPMorgan, Moody's, US Bancorp, Wells Fargo); retained earnings exceed dividends by more than 2:1; "Mr. Smith got it right"
+- [berkshire-2020-letter](../sources/berkshire-2020-letter.md) — brief restatement of the retained-earnings doctrine at the letter's opening ($281B equity portfolio); "the huge sums that investees retain on our behalf become invisible" under GAAP; no new content beyond 2019, but Buffett explicitly cross-references: "as we pointed out in these pages last year"; the Apple repurchase compounding example (see [share-repurchases](share-repurchases.md)) is the worked application of how retained-earnings deployment — via buybacks — enlarges Berkshire's look-through claim on Apple's future earnings without additional outlay
+- [berkshire-2021-letter](../sources/berkshire-2021-letter.md) — the sharpest Apple look-through illustration in the series: GAAP records only $785M in Apple dividends received; Berkshire's 5.55% share of Apple's 2021 earnings was $5.6B — more than 7× the reported figure; "each 0.1% of Apple's 2021 earnings amounted to $100 million" gives the unit rate of look-through value invisible to GAAP; the stake itself grew costlessly from 5.39% to 5.55% via Apple's ongoing buybacks, so the look-through claim expanded without any additional Berkshire outlay
 
 ## Related
 
-- [[acquisition-criteria]] — the mental frame that makes look-through earnings load-bearing; criterion 3 (honest and competent management) is what determines whether retained earnings compound or get destroyed
-- [[passive-ownership-advantage]] — look-through earnings are the mechanism by which passive minority holders capture the full economic value of excellent retained earnings
-- [[intrinsic-value-vs-book-value]] — look-through earnings are the operating-mechanic version of "intrinsic exceeds book"
-- [[share-repurchases]] — repurchases by investees enlarge Berkshire's look-through claim on remaining earnings without additional outlay
+- [acquisition-criteria](acquisition-criteria.md) — the mental frame that makes look-through earnings load-bearing; criterion 3 (honest and competent management) is what determines whether retained earnings compound or get destroyed
+- [passive-ownership-advantage](passive-ownership-advantage.md) — look-through earnings are the mechanism by which passive minority holders capture the full economic value of excellent retained earnings
+- [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md) — look-through earnings are the operating-mechanic version of "intrinsic exceeds book"
+- [share-repurchases](share-repurchases.md) — repurchases by investees enlarge Berkshire's look-through claim on remaining earnings without additional outlay

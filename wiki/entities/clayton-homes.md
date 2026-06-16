@@ -5,7 +5,7 @@ created: 2026-06-13
 updated: 2026-06-14
 sources: [berkshire-2003-letter, berkshire-2005-letter, berkshire-2008-letter]
 tags: [acquisition, manufactured-housing, consumer-finance, underwriting-discipline, originate-and-distribute]
-related: [[berkshire-hathaway]], [[warren-buffett]], [[moat]], [[acquisition-criteria]]
+related: [berkshire-hathaway](berkshire-hathaway.md), [warren-buffett](../people/warren-buffett.md), [moat](../concepts/moat.md), [acquisition-criteria](../concepts/acquisition-criteria.md)
 ---
 
 # Clayton Homes
@@ -16,7 +16,7 @@ A manufactured housing company that Berkshire Hathaway acquired in 2003, best kn
 
 Founded by Jim Clayton; Kevin Clayton served as CEO at the time of Berkshire's acquisition. Buffett first learned the manufactured housing industry's dynamics the expensive way: by buying distressed Oakwood Homes junk bonds, only to watch Oakwood go bankrupt. That experience made him understand what had gone wrong across the industry — and what Clayton had done differently.
 
-The acquisition originated through an unusual channel. In early 2003, a group of University of Tennessee finance students visiting Buffett brought him Jim Clayton's autobiography as a gift. Buffett read it, told the students he admired Jim Clayton's record, and — after one phone call to Kevin Clayton — made an offer based solely on the autobiography, his assessment of Kevin Clayton, the company's public financials, and what he had already learned from the Oakwood experience. See [[berkshire-2003-letter]] for the full origin account.
+The acquisition originated through an unusual channel. In early 2003, a group of University of Tennessee finance students visiting Buffett brought him Jim Clayton's autobiography as a gift. Buffett read it, told the students he admired Jim Clayton's record, and — after one phone call to Kevin Clayton — made an offer based solely on the autobiography, his assessment of Kevin Clayton, the company's public financials, and what he had already learned from the Oakwood experience. See [berkshire-2003-letter](../sources/berkshire-2003-letter.md) for the full origin account.
 
 Clayton's board accepted the offer partly because future securitization access had become uncertain: tighter conditions in the securitization market had made Clayton's earnings more dependent on its own retained portfolio, and management judged that alignment with Berkshire's permanent capital was more reliable. Post-acquisition, Clayton also bought Oakwood's assets out of bankruptcy; Berkshire's Oakwood junk bonds — bought at a deep discount — were expected to return a small profit (per the 2003 letter; outcome not detailed in subsequent letters reviewed).
 
@@ -38,7 +38,7 @@ Industry context was stark: manufactured housing sales stagnated at 40-year lows
 
 Plant expansion accelerated: in 2004 Clayton added twelve plants through the Oakwood bankruptcy purchase; in 2005 it acquired Karsten, a four-plant West Coast operation. From its original 20 plants, Clayton grew to 36 by late 2005.
 
-The "every tub on its own bottom" principle proved its importance here: a subsidiary with free access to a parent's balance sheet would have made sloppy loans. By pricing capital correctly, Berkshire preserved the incentive structure that made Clayton's underwriting discipline durable. ([[berkshire-2005-letter]])
+The "every tub on its own bottom" principle proved its importance here: a subsidiary with free access to a parent's balance sheet would have made sloppy loans. By pricing capital correctly, Berkshire preserved the incentive structure that made Clayton's underwriting discipline durable. ([berkshire-2005-letter](../sources/berkshire-2005-letter.md))
 
 ## 2008: The stress test — thesis validated under maximum pressure
 
@@ -62,6 +62,6 @@ The housing crash of 2008 was the definitive trial of the Clayton thesis. Clayto
 
 ## Sources discussing this entity
 
-- [[berkshire-2003-letter]] — the full acquisition story; industry diagnosis; originate-and-distribute critique; origin via Tennessee students and Jim Clayton's autobiography; "every tub on its own bottom" financing philosophy
-- [[berkshire-2005-letter]] — servicing portfolio to $17B (from $5.4B at acquisition); $9.6B owned; industry at 40-year lows, Clayton only participant earning significant money; Karsten acquisition; $416M earnings after $83M Berkshire interest charge
-- [[berkshire-2008-letter]] — the stress test: 3.6% delinquency and 3.0% foreclosure on originated loans despite subprime borrower profile; lending 101 principles distilled; foreclosure mechanics insight (payment inability, not being underwater, drives foreclosures); 34% industry market share; funding-cost reversal under government-backstop distortion
+- [berkshire-2003-letter](../sources/berkshire-2003-letter.md) — the full acquisition story; industry diagnosis; originate-and-distribute critique; origin via Tennessee students and Jim Clayton's autobiography; "every tub on its own bottom" financing philosophy
+- [berkshire-2005-letter](../sources/berkshire-2005-letter.md) — servicing portfolio to $17B (from $5.4B at acquisition); $9.6B owned; industry at 40-year lows, Clayton only participant earning significant money; Karsten acquisition; $416M earnings after $83M Berkshire interest charge
+- [berkshire-2008-letter](../sources/berkshire-2008-letter.md) — the stress test: 3.6% delinquency and 3.0% foreclosure on originated loans despite subprime borrower profile; lending 101 principles distilled; foreclosure mechanics insight (payment inability, not being underwater, drives foreclosures); 34% industry market share; funding-cost reversal under government-backstop distortion

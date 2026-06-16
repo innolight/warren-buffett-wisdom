@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2016
 raw_path: raw/berkshire-letters/2016.md
 tags: [berkshire, annual-letter, 2016]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[charlie-munger]]
+related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [charlie-munger](../people/charlie-munger.md)
 ---
 
 # Berkshire Hathaway 2016 Annual Letter
@@ -25,26 +25,26 @@ The 2016 letter covers Berkshire's $27.5B gain in net worth (10.7% per-share boo
 
 ## Entities discussed
 
-- [[geico]] — 12% market share (from 2.5% in 1995 when Berkshire acquired control); Tony Nicely completes 55 years; growth accelerated in H2 2016 as competitors retreated during profit squeeze; annual sales in 2016 equal to $8M every three hours (vs. $8M annual in 1951)
-- [[bnsf]] — GAAP depreciation ($2.1B) insufficient to hold competitive position; true maintenance capex substantially higher; revenue 3¢/ton-mile vs. 4–5¢ for major competitors; interest coverage 6:1 in a disappointing year for railroads
-- [[midamerican-energy]] — Iowa retail rate 7.1¢/KWH (vs. 9.9¢ Alliant, 10.3¢ national average); base rates locked until 2029; wind generation = 55% of Iowa retail sales, en route to 89% by 2020; BHE + BNSF = 33% of Berkshire's after-tax operating earnings
-- [[berkshire-hathaway]] — float crossed $100B; $86B cash and equivalents (95% U.S.-domiciled); investments include first Apple position ($6.7B cost, 61M shares)
+- [geico](../entities/geico.md) — 12% market share (from 2.5% in 1995 when Berkshire acquired control); Tony Nicely completes 55 years; growth accelerated in H2 2016 as competitors retreated during profit squeeze; annual sales in 2016 equal to $8M every three hours (vs. $8M annual in 1951)
+- [bnsf](../entities/bnsf.md) — GAAP depreciation ($2.1B) insufficient to hold competitive position; true maintenance capex substantially higher; revenue 3¢/ton-mile vs. 4–5¢ for major competitors; interest coverage 6:1 in a disappointing year for railroads
+- [midamerican-energy](../entities/midamerican-energy.md) — Iowa retail rate 7.1¢/KWH (vs. 9.9¢ Alliant, 10.3¢ national average); base rates locked until 2029; wind generation = 55% of Iowa retail sales, en route to 89% by 2020; BHE + BNSF = 33% of Berkshire's after-tax operating earnings
+- [berkshire-hathaway](../entities/berkshire-hathaway.md) — float crossed $100B; $86B cash and equivalents (95% U.S.-domiciled); investments include first Apple position ($6.7B cost, 61M shares)
 
 ## People mentioned
 
-- [[charlie-munger]] — vice chairman and partner; the "no"-sayer to bad ideas; Buffett's check on capital allocation errors
-- [[ajit-jain]] — leads BH Reinsurance; 1986 origin story (no prior insurance experience, handed the keys on a Saturday by Mike Goldberg); "if there were ever to be another Ajit and you could swap me for him, don't hesitate"
-- [[tony-nicely]] — GEICO CEO since 1993; joined at 18; 55 years of service in 2016; "there is no better manager than Tony"
-- [[warren-buffett]] — author; recounts capital allocation errors (Dexter Shoe 1993 at $434M in stock, now worth $6B+; General Re 1998, 272,200 shares issued) and the MidAmerican correction (2000, cash purchase)
+- [charlie-munger](../people/charlie-munger.md) — vice chairman and partner; the "no"-sayer to bad ideas; Buffett's check on capital allocation errors
+- [ajit-jain](../people/ajit-jain.md) — leads BH Reinsurance; 1986 origin story (no prior insurance experience, handed the keys on a Saturday by Mike Goldberg); "if there were ever to be another Ajit and you could swap me for him, don't hesitate"
+- [tony-nicely](../people/tony-nicely.md) — GEICO CEO since 1993; joined at 18; 55 years of service in 2016; "there is no better manager than Tony"
+- [warren-buffett](../people/warren-buffett.md) — author; recounts capital allocation errors (Dexter Shoe 1993 at $434M in stock, now worth $6B+; General Re 1998, 272,200 shares issued) and the MidAmerican correction (2000, cash purchase)
 
 ## Concepts introduced or discussed
 
-- [[share-repurchases]] — the clearest single articulation in the letter series; three-partner analogy; two exceptions; "What is smart at one price is stupid at another"; Berkshire's 120%-of-book policy
-- [[float]] — revolving-fund framing; why GAAP overstates the float liability; $15.5B insurance goodwill as partial (but insufficient) offset; 14 consecutive years of underwriting profit
-- [[investment-friction]] — The Bet nine-year data; Jack Bogle tribute; Group A/B must average before costs, whichever has lower costs wins
-- [[earnings-quality]] — adjusted earnings critique; restructuring exclusions deny recurring-cost reality; SBC exclusions treat employee compensation as free; culture-of-number-manufacturing downstream consequence
-- [[underwriting-discipline]] — 14 consecutive years of underwriting profit, $28B pre-tax gain; "religion, Old Testament style" at Berkshire; four disciplines articulated for General Re under Kara Raiguel
-- [[owner-earnings]] — BNSF: GAAP depreciation ($2.1B) vs. true maintenance capex; clearest industry-specific illustration of the 1986 owner-earnings framework
+- [share-repurchases](../concepts/share-repurchases.md) — the clearest single articulation in the letter series; three-partner analogy; two exceptions; "What is smart at one price is stupid at another"; Berkshire's 120%-of-book policy
+- [float](../concepts/float.md) — revolving-fund framing; why GAAP overstates the float liability; $15.5B insurance goodwill as partial (but insufficient) offset; 14 consecutive years of underwriting profit
+- [investment-friction](../concepts/investment-friction.md) — The Bet nine-year data; Jack Bogle tribute; Group A/B must average before costs, whichever has lower costs wins
+- [earnings-quality](../concepts/earnings-quality.md) — adjusted earnings critique; restructuring exclusions deny recurring-cost reality; SBC exclusions treat employee compensation as free; culture-of-number-manufacturing downstream consequence
+- [underwriting-discipline](../concepts/underwriting-discipline.md) — 14 consecutive years of underwriting profit, $28B pre-tax gain; "religion, Old Testament style" at Berkshire; four disciplines articulated for General Re under Kara Raiguel
+- [owner-earnings](../concepts/owner-earnings.md) — BNSF: GAAP depreciation ($2.1B) vs. true maintenance capex; clearest industry-specific illustration of the 1986 owner-earnings framework
 
 ## Notable quotes
 
@@ -66,8 +66,8 @@ The 2016 letter covers Berkshire's $27.5B gain in net worth (10.7% per-share boo
 
 ## Connections to other sources
 
-- Continues the share-repurchases thread from [[berkshire-1980-letter]] (first articulation) and [[berkshire-1984-letter]] (canonical doctrine); 2016 adds the most concrete analogy and explains Berkshire's own 120%-of-book threshold
-- The Bet resolves a wager first announced in [[berkshire-2005-letter]]; the Group A/B cost arithmetic extends the Gotrocks allegory from that same letter
-- The BNSF depreciation argument extends owner-earnings from [[berkshire-1986-letter]] — the same gap between GAAP charges and true economic maintenance cost, now illustrated in a specific industry
-- Float crosses $100B; compare $39M (1970), $27.9B (2000), $65.8B (2010) per this letter's own table; cost-of-float first articulated in [[berkshire-1990-letter]]; float-as-equity framing in [[berkshire-1995-letter]]
-- Capital allocation retrospective (Dexter Shoe / General Re / MidAmerican) connects to [[berkshire-1993-letter]], [[berkshire-1998-letter]], [[berkshire-2000-letter]], and [[stock-as-acquisition-currency]]
+- Continues the share-repurchases thread from [berkshire-1980-letter](berkshire-1980-letter.md) (first articulation) and [berkshire-1984-letter](berkshire-1984-letter.md) (canonical doctrine); 2016 adds the most concrete analogy and explains Berkshire's own 120%-of-book threshold
+- The Bet resolves a wager first announced in [berkshire-2005-letter](berkshire-2005-letter.md); the Group A/B cost arithmetic extends the Gotrocks allegory from that same letter
+- The BNSF depreciation argument extends owner-earnings from [berkshire-1986-letter](berkshire-1986-letter.md) — the same gap between GAAP charges and true economic maintenance cost, now illustrated in a specific industry
+- Float crosses $100B; compare $39M (1970), $27.9B (2000), $65.8B (2010) per this letter's own table; cost-of-float first articulated in [berkshire-1990-letter](berkshire-1990-letter.md); float-as-equity framing in [berkshire-1995-letter](berkshire-1995-letter.md)
+- Capital allocation retrospective (Dexter Shoe / General Re / MidAmerican) connects to [berkshire-1993-letter](berkshire-1993-letter.md), [berkshire-1998-letter](berkshire-1998-letter.md), [berkshire-2000-letter](berkshire-2000-letter.md), and [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md)

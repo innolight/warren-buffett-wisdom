@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1987
 raw_path: raw/berkshire-letters/1987.md
 tags: [berkshire, annual-letter, mr-market, salomon, sainted-seven, capital-allocation]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[mr-market]], [[salomon]], [[capital-allocation]], [[charlie-munger]], [[geico]], [[capital-cities]], [[washington-post]], [[scott-fetzer]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]], [[national-indemnity]], [[john-gutfreund]], [[ralph-schey]], [[tom-murphy]], [[lou-simpson]], [[ben-graham]], [[volatility-as-opportunity]], [[owner-earnings]], [[commodity-business-economics]], [[look-through-earnings]]
+related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [mr-market](../concepts/mr-market.md), [salomon](../entities/salomon.md), [capital-allocation](../concepts/capital-allocation.md), [charlie-munger](../people/charlie-munger.md), [geico](../entities/geico.md), [capital-cities](../entities/capital-cities.md), [washington-post](../entities/washington-post.md), [scott-fetzer](../entities/scott-fetzer.md), [sees-candies](../entities/sees-candies.md), [buffalo-evening-news](../entities/buffalo-evening-news.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md), [national-indemnity](../entities/national-indemnity.md), [john-gutfreund](../people/john-gutfreund.md), [ralph-schey](../people/ralph-schey.md), [tom-murphy](../people/tom-murphy.md), [lou-simpson](../people/lou-simpson.md), [ben-graham](../people/ben-graham.md), [volatility-as-opportunity](../concepts/volatility-as-opportunity.md), [owner-earnings](../concepts/owner-earnings.md), [commodity-business-economics](../concepts/commodity-business-economics.md), [look-through-earnings](../concepts/look-through-earnings.md)
 ---
 
 # Berkshire Hathaway 1987 Annual Letter
@@ -17,10 +17,10 @@ Dated February 29, 1988. Net worth up $464M (19.5%). Per-share book value to $2,
 
 ## Key themes
 
-- **Mr. Market canonized.** The Graham allegory is given its definitive Buffett treatment in the discussion of Berkshire's three "permanent" holdings (Cap Cities, GEICO, Washington Post). The Cinderella warning, the manic-depressive characterization, the patsy line from poker — all in this letter. See [[mr-market]].
+- **Mr. Market canonized.** The Graham allegory is given its definitive Buffett treatment in the discussion of Berkshire's three "permanent" holdings (Cap Cities, GEICO, Washington Post). The Cinderella warning, the manic-depressive characterization, the patsy line from poker — all in this letter. See [mr-market](../concepts/mr-market.md).
 - **"Sainted Seven" coined.** The seven non-insurance operating subsidiaries (Buffalo News, Fechheimer, Kirby, NFM, Scott Fetzer Manufacturing Group, See's, World Book) named collectively for the first time. Combined 57% after-tax return on equity capital. The framing is the durable point: "doing rather ordinary things — but doing them exceptionally well."
-- **Capital allocation as the CEO's untrained skill.** The 1987 letter contains the canonical argument: most CEOs have never practiced capital allocation before becoming CEOs; the 60% statistic; the musician-to-Federal-Reserve-Chairman analogy. See [[capital-allocation]].
-- **The Salomon convertible preferred.** $700M, 9% coupon, convertible at $38, mandatory redemption 1995-99. Bet on Gutfreund personally; explicit acknowledgement that the investment-banking industry is not understood by Buffett. See [[salomon]] and [[john-gutfreund]].
+- **Capital allocation as the CEO's untrained skill.** The 1987 letter contains the canonical argument: most CEOs have never practiced capital allocation before becoming CEOs; the 60% statistic; the musician-to-Federal-Reserve-Chairman analogy. See [capital-allocation](../concepts/capital-allocation.md).
+- **The Salomon convertible preferred.** $700M, 9% coupon, convertible at $38, mandatory redemption 1995-99. Bet on Gutfreund personally; explicit acknowledgement that the investment-banking industry is not understood by Buffett. See [salomon](../entities/salomon.md) and [john-gutfreund](../people/john-gutfreund.md).
 - **"Carry a loaded gun."** The financing-in-anticipation-of-need essay in the "Financing" section. $250M of 30-year debentures issued in early 1988 at ~10%, earning only ~6.5% in the meantime — "$160,000 per week" of negative spread, accepted as the cost of being ready to act when something big appears. The rare-elephants metaphor.
 - **Berkshire's pessimistic view of long-term currency.** The Blanche DuBois "depends on the kindness of strangers" framing of U.S. trade deficits and foreign accumulation of U.S. claims. The framework: when claim checks outstanding grow numerous and the issuer controls their purchasing power, the pressure to inflate becomes irresistible.
 - **Efficient Market Theory critique** (anticipating 1988). "Stocks cannot forever overperform their underlying businesses" — implicit anti-EMT argument grounded in business value.
@@ -49,9 +49,9 @@ Buffett's framing: imagine a business partner who shows up daily with a buy/sell
 
 The discipline he enforces: "If he shows up some day in a particularly foolish mood, you are free to either ignore him or to take advantage of him, but it will be disastrous if you fall under his influence. Indeed, if you aren't certain that you understand and can value your business far better than Mr. Market, you don't belong in the game."
 
-The complementary [[ben-graham]] line: "In the short run, the market is a voting machine but in the long run it is a weighing machine."
+The complementary [ben-graham](../people/ben-graham.md) line: "In the short run, the market is a voting machine but in the long run it is a weighing machine."
 
-See [[mr-market]] for the full treatment.
+See [mr-market](../concepts/mr-market.md) for the full treatment.
 
 ## The Sainted Seven
 
@@ -61,17 +61,17 @@ The lesson: "the best business returns are usually achieved by companies that ar
 
 Operating updates:
 
-- **NFM.** 1987 sales $142.6M (+8%). [[rose-blumkin|Mrs. B]] at 94, still working seven days a week. The "Sell cheap and tell the truth" maxim.
+- **NFM.** 1987 sales $142.6M (+8%). [Mrs. B](../people/rose-blumkin.md) at 94, still working seven days a week. The "Sell cheap and tell the truth" maxim.
 - **Buffalo News.** Seven editions per 24 hours; 50% news hole maintained.
 - **See's.** Volume hit a record 25.1M pounds; Christmas-concentrated profits (85% of profit earned in December).
 - **Fechheimer.** First full year; record earnings continued the multi-generational Heldman pattern.
-- **Scott Fetzer / World Book / Kirby.** [[ralph-schey|Schey]] continued to compound; 10% pre-tax earnings growth, capital base declining.
+- **Scott Fetzer / World Book / Kirby.** [Schey](../people/ralph-schey.md) continued to compound; 10% pre-tax earnings growth, capital base declining.
 
-See [[scott-fetzer]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]] for entity-level detail.
+See [scott-fetzer](../entities/scott-fetzer.md), [sees-candies](../entities/sees-candies.md), [buffalo-evening-news](../entities/buffalo-evening-news.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) for entity-level detail.
 
 ## Insurance — 1987 results
 
-Industry combined ratio 104.7. Berkshire's: 105 (excluding structured settlements/financial reinsurance). Underwriting result improved primarily through [[float]] growth, not underwriting margin. The "lag factor" Buffett describes: price changes take 6-12 months to show in earnings; the 1985-87 industry party will produce 1988-89 results improvement, then turn south.
+Industry combined ratio 104.7. Berkshire's: 105 (excluding structured settlements/financial reinsurance). Underwriting result improved primarily through [float](../concepts/float.md) growth, not underwriting margin. The "lag factor" Buffett describes: price changes take 6-12 months to show in earnings; the 1985-87 industry party will produce 1988-89 results improvement, then turn south.
 
 Two essays in the insurance section:
 
@@ -91,9 +91,9 @@ Permanent-holding policy formalized. Two main advantages of controlled vs. marke
 
 ## Salomon convertible preferred
 
-$700M, 9% coupon, convertible after 3 years at $38/share into Salomon common, mandatory redemption ratably 1995-99. Largest single capital commitment in Berkshire history. The structure is mostly medium-term fixed-income with a conversion kicker. Investment thesis: confidence in [[john-gutfreund|Gutfreund]], not understanding of investment-banking economics.
+$700M, 9% coupon, convertible after 3 years at $38/share into Salomon common, mandatory redemption ratably 1995-99. Largest single capital commitment in Berkshire history. The structure is mostly medium-term fixed-income with a conversion kicker. Investment thesis: confidence in [Gutfreund](../people/john-gutfreund.md), not understanding of investment-banking economics.
 
-See [[salomon]] for the substantive treatment.
+See [salomon](../entities/salomon.md) for the substantive treatment.
 
 ## Other portfolio items
 
@@ -111,45 +111,45 @@ The framework on debt overall: "we wish that to be certain" (re: meeting obligat
 
 ## The 1987 sale of K&W Products to Harry Bottle
 
-A minor anecdote, but characteristic Berkshire: K&W Products, a small automotive-compound subsidiary, had stumbled in 1985-86. [[charlie-munger|Munger]] called Harry Bottle (then 68, who had earlier solved Buffett's 1962 Dempster Mill crisis) and made him CEO. Profits up >300% in 1987; capital employed down 20%. The pattern: trust the operator, get out of the way.
+A minor anecdote, but characteristic Berkshire: K&W Products, a small automotive-compound subsidiary, had stumbled in 1985-86. [Munger](../people/charlie-munger.md) called Harry Bottle (then 68, who had earlier solved Buffett's 1962 Dempster Mill crisis) and made him CEO. Profits up >300% in 1987; capital employed down 20%. The pattern: trust the operator, get out of the way.
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[capital-cities]] — permanent holding
-- [[geico]] — permanent holding
-- [[washington-post]] — permanent holding
-- [[salomon]] — major new commitment
-- [[scott-fetzer]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]] — Sainted Seven
-- [[national-indemnity]] — Berkshire insurance flagship
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [capital-cities](../entities/capital-cities.md) — permanent holding
+- [geico](../entities/geico.md) — permanent holding
+- [washington-post](../entities/washington-post.md) — permanent holding
+- [salomon](../entities/salomon.md) — major new commitment
+- [scott-fetzer](../entities/scott-fetzer.md), [sees-candies](../entities/sees-candies.md), [buffalo-evening-news](../entities/buffalo-evening-news.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) — Sainted Seven
+- [national-indemnity](../entities/national-indemnity.md) — Berkshire insurance flagship
 
 ## People mentioned
 
-- [[warren-buffett]]
-- [[charlie-munger]]
-- [[john-gutfreund]] — Salomon CEO; "ability and integrity"; first Berkshire letter mention
-- [[ralph-schey]] — Scott Fetzer
-- [[tom-murphy]], Dan Burke — Cap Cities
-- Bill Snyder, [[lou-simpson]] — GEICO post-Byrne
+- [warren-buffett](../people/warren-buffett.md)
+- [charlie-munger](../people/charlie-munger.md)
+- [john-gutfreund](../people/john-gutfreund.md) — Salomon CEO; "ability and integrity"; first Berkshire letter mention
+- [ralph-schey](../people/ralph-schey.md) — Scott Fetzer
+- [tom-murphy](../people/tom-murphy.md), Dan Burke — Cap Cities
+- Bill Snyder, [lou-simpson](../people/lou-simpson.md) — GEICO post-Byrne
 - Kay Graham, Dick Simmons — Washington Post
-- [[ben-graham]] — Mr. Market allegory invoked
+- [ben-graham](../people/ben-graham.md) — Mr. Market allegory invoked
 
 ## Concepts introduced or discussed
 
-- [[mr-market]] — **canonical introduction**
-- [[capital-allocation]] — canonical introduction as the CEO's untrained skill
-- [[volatility-as-opportunity]] — portfolio-insurance critique as the inverse case
-- [[owner-earnings]] — reprised from 1986 Appendix
-- [[look-through-earnings]] — implicit in the discussion of permanent holdings
-- [[commodity-business-economics]] — insurance industry restatement
-- [[moat]] — implicit in GEICO discussion
+- [mr-market](../concepts/mr-market.md) — **canonical introduction**
+- [capital-allocation](../concepts/capital-allocation.md) — canonical introduction as the CEO's untrained skill
+- [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — portfolio-insurance critique as the inverse case
+- [owner-earnings](../concepts/owner-earnings.md) — reprised from 1986 Appendix
+- [look-through-earnings](../concepts/look-through-earnings.md) — implicit in the discussion of permanent holdings
+- [commodity-business-economics](../concepts/commodity-business-economics.md) — insurance industry restatement
+- [moat](../concepts/moat.md) — implicit in GEICO discussion
 
 ## Connections to other sources
 
-- The Mr. Market allegory extends the implicit framework of [[berkshire-1985-letter]]'s "stocks cannot outperform businesses indefinitely" passage.
-- The Sainted Seven framing collects the operating-subsidiary stars built up in [[berkshire-1985-letter]] (Scott Fetzer) and [[berkshire-1986-letter]] (Fechheimer).
-- The Salomon investment becomes operationally central in [[berkshire-1991-letter]] (Buffett as Interim Chairman during the crisis).
-- The "carry a loaded gun" financing principle is reprised in [[berkshire-1989-letter]] (zero-coupon debentures) and [[berkshire-1990-letter]] (Wells Fargo panic accumulation).
-- The capital-allocation essay is sharpened in [[berkshire-1994-letter]] (the MBA / day-laborer analogy).
-- The [[commodity-business-economics]] diagnosis of insurance (ease of entry, undifferentiated product, only low-cost or niche operators survive) is extended in [[berkshire-1988-letter]], which applies the same logic to justify Berkshire's volume-indifferent underwriting stance in a softening market.
-- The auditor-opinion critique on long-tail reserve unknowability prefigures the accounting-skepticism thread in [[berkshire-1992-letter]] and [[berkshire-1993-letter]], where Buffett consistently distinguishes GAAP-reported earnings from economic reality.
+- The Mr. Market allegory extends the implicit framework of [berkshire-1985-letter](berkshire-1985-letter.md)'s "stocks cannot outperform businesses indefinitely" passage.
+- The Sainted Seven framing collects the operating-subsidiary stars built up in [berkshire-1985-letter](berkshire-1985-letter.md) (Scott Fetzer) and [berkshire-1986-letter](berkshire-1986-letter.md) (Fechheimer).
+- The Salomon investment becomes operationally central in [berkshire-1991-letter](berkshire-1991-letter.md) (Buffett as Interim Chairman during the crisis).
+- The "carry a loaded gun" financing principle is reprised in [berkshire-1989-letter](berkshire-1989-letter.md) (zero-coupon debentures) and [berkshire-1990-letter](berkshire-1990-letter.md) (Wells Fargo panic accumulation).
+- The capital-allocation essay is sharpened in [berkshire-1994-letter](berkshire-1994-letter.md) (the MBA / day-laborer analogy).
+- The [commodity-business-economics](../concepts/commodity-business-economics.md) diagnosis of insurance (ease of entry, undifferentiated product, only low-cost or niche operators survive) is extended in [berkshire-1988-letter](berkshire-1988-letter.md), which applies the same logic to justify Berkshire's volume-indifferent underwriting stance in a softening market.
+- The auditor-opinion critique on long-tail reserve unknowability prefigures the accounting-skepticism thread in [berkshire-1992-letter](berkshire-1992-letter.md) and [berkshire-1993-letter](berkshire-1993-letter.md), where Buffett consistently distinguishes GAAP-reported earnings from economic reality.

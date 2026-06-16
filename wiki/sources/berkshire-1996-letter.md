@@ -8,17 +8,17 @@ author: warren-buffett
 year: 1996
 raw_path: raw/berkshire-letters/1996.md
 tags: [berkshire, annual-letter, flightsafety, kansas-bankers-surety, the-inevitables, geico-first-year, circle-of-competence, owners-manual]
-related: [[warren-buffett]], [[charlie-munger]], [[berkshire-hathaway]], [[geico]], [[coca-cola]], [[gillette]], [[disney]], [[american-express]], [[wells-fargo]], [[washington-post]], [[salomon]], [[usair]], [[national-indemnity]], [[sees-candies]], [[borsheims]], [[nebraska-furniture-mart]], [[rose-blumkin]], [[lou-simpson]], [[ajit-jain]], [[roberto-goizueta]], [[float]], [[moat]], [[super-cat-insurance]], [[incentive-compensation]], [[owner-orientation]], [[intrinsic-value-vs-book-value]], [[franchise-vs-business]], [[risk-vs-volatility]], [[mr-market]]
+related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [coca-cola](../entities/coca-cola.md), [gillette](../entities/gillette.md), [disney](../entities/disney.md), [american-express](../entities/american-express.md), [wells-fargo](../entities/wells-fargo.md), [washington-post](../entities/washington-post.md), [salomon](../entities/salomon.md), [usair](../entities/usair.md), [national-indemnity](../entities/national-indemnity.md), [sees-candies](../entities/sees-candies.md), [borsheims](../entities/borsheims.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md), [rose-blumkin](../people/rose-blumkin.md), [lou-simpson](../people/lou-simpson.md), [ajit-jain](../people/ajit-jain.md), [roberto-goizueta](../people/roberto-goizueta.md), [float](../concepts/float.md), [moat](../concepts/moat.md), [super-cat-insurance](../concepts/super-cat-insurance.md), [incentive-compensation](../concepts/incentive-compensation.md), [owner-orientation](../concepts/owner-orientation.md), [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md), [franchise-vs-business](../concepts/franchise-vs-business.md), [risk-vs-volatility](../concepts/risk-vs-volatility.md), [mr-market](../concepts/mr-market.md)
 ---
 
 # Berkshire Hathaway 1996 Annual Letter
 
-Dated February 28, 1997. Net worth up $6.2B (36.1%); per-share book value up 31.8% to $19,011. The headline 1996 events: **GEICO's first full year as a wholly-owned subsidiary** delivering a "stunning" 10% voluntary policy-count gain (best in 20 years); two acquisitions — **Kansas Bankers Surety** ($75M, placed at Wesco) and **FlightSafety International** (~$1.5B, the company's first capital-intensive acquisition); the canonical **"Inevitables" essay** on Coca-Cola and Gillette; the **two-column intrinsic-value table** introduced in 1995 updated and extended; the **Class B offering** completed in May; and a partial **Salomon stake monetization** via exchangeable notes. The letter also reproduces the Owner's Manual in full (pp. 58–67), and offers a fresh, harder-edged restatement of the [[circle-of-competence]] rule for individual investors.
+Dated February 28, 1997. Net worth up $6.2B (36.1%); per-share book value up 31.8% to $19,011. The headline 1996 events: **GEICO's first full year as a wholly-owned subsidiary** delivering a "stunning" 10% voluntary policy-count gain (best in 20 years); two acquisitions — **Kansas Bankers Surety** ($75M, placed at Wesco) and **FlightSafety International** (~$1.5B, the company's first capital-intensive acquisition); the canonical **"Inevitables" essay** on Coca-Cola and Gillette; the **two-column intrinsic-value table** introduced in 1995 updated and extended; the **Class B offering** completed in May; and a partial **Salomon stake monetization** via exchangeable notes. The letter also reproduces the Owner's Manual in full (pp. 58–67), and offers a fresh, harder-edged restatement of the [circle-of-competence](../concepts/circle-of-competence.md) rule for individual investors.
 
 ## Key themes
 
-- **The "Inevitables."** A small set of businesses — Buffett names only [[coca-cola]] and [[gillette]] — whose worldwide competitive dominance over a 10–20 year horizon is, in practical terms, certain. Distinguished from "Highly Probables" and from a much larger universe of "Impostors." The 1896 Coke report (Asa Candler) is invoked to show the 100-year continuity of the franchise. The companion warning: even Inevitables can be ruined by management losing focus (Coke once growing shrimp; Gillette once exploring for oil).
-- **GEICO's first wholly-owned year exceeds high expectations.** Voluntary auto policies +10% (vs. previous 20-year best of 8%, hit only once). The [[moat]] articulated as a virtuous circle: low costs → low prices → policyholder retention → referrals (>1M/year, >50% of new business) → still-lower acquisition costs. New compensation plan: bonuses for all dozens of top executives and the profit-sharing plan for all 9,000 associates tied to exactly two variables — voluntary policy growth and seasoned underwriting profitability. The chart "went off the chart"; the answer is "enlarge the chart," not raise the bar.
+- **The "Inevitables."** A small set of businesses — Buffett names only [coca-cola](../entities/coca-cola.md) and [gillette](../entities/gillette.md) — whose worldwide competitive dominance over a 10–20 year horizon is, in practical terms, certain. Distinguished from "Highly Probables" and from a much larger universe of "Impostors." The 1896 Coke report (Asa Candler) is invoked to show the 100-year continuity of the franchise. The companion warning: even Inevitables can be ruined by management losing focus (Coke once growing shrimp; Gillette once exploring for oil).
+- **GEICO's first wholly-owned year exceeds high expectations.** Voluntary auto policies +10% (vs. previous 20-year best of 8%, hit only once). The [moat](../concepts/moat.md) articulated as a virtuous circle: low costs → low prices → policyholder retention → referrals (>1M/year, >50% of new business) → still-lower acquisition costs. New compensation plan: bonuses for all dozens of top executives and the profit-sharing plan for all 9,000 associates tied to exactly two variables — voluntary policy growth and seasoned underwriting profitability. The chart "went off the chart"; the answer is "enlarge the chart," not raise the bar.
 - **FlightSafety acquired (~$1.5B).** Founder Al Ueltschi, 79, piloted Charles Lindbergh; founded the company in 1951 while still at Pan Am; 41 locations, 175 simulators (priced up to $19M each). Half of revenue from corporate-pilot training. **First major capital-intensive Berkshire acquisition** — the letter explicitly flags that simulators are not cheap. Tax-efficient deal structure nudged 51% to take cash, 41% to A shares, 8% to B shares — minimizing Berkshire share issuance.
 - **Kansas Bankers Surety acquired ($75M).** Sourced from a birthday party seating chart — Buffett's nephew's wife's father (Roy Dinsdale) sat next to him; mentioned the company in passing; letter on Feb 12; offer of $75M on Feb 13. Placed at Wesco (80%-owned).
 - **Circle-of-competence sharpened for the individual investor.** "Most investors … will find that the best way to own common stocks is through an index fund that charges minimal fees." For active investors: "How to Value a Business" and "How to Think About Market Prices" are the only two courses needed. Famous formulation: "If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes."
@@ -102,7 +102,7 @@ Dated February 28, 1997. Net worth up $6.2B (36.1%); per-share book value up 31.
 
 ## The "Inevitables" essay
 
-Buffett's clearest statement of the certainty-of-dominance criterion. Two companies named outright: [[coca-cola]] and [[gillette]]. "Survival of the Fattest" as a near-natural law in these industries.
+Buffett's clearest statement of the certainty-of-dominance criterion. Two companies named outright: [coca-cola](../entities/coca-cola.md) and [gillette](../entities/gillette.md). "Survival of the Fattest" as a near-natural law in these industries.
 
 The Asa Candler 1896 quote ("we have not lagged in our efforts to go into all the world teaching that Coca-Cola is the article, par excellence …") is invoked to show the franchise's 100-year continuity. Coke's 1896 syrup sales: 116,492 gallons. 1996: ~3.2 billion gallons.
 
@@ -127,7 +127,7 @@ Compensation plan installed immediately after acquisition:
 - Same yardsticks govern the 9,000-associate profit-sharing plan.
 - 1996 contribution: 16.9% ($40M) vs. 5-year average <10% under prior plans.
 
-[[lou-simpson]]'s portfolio outperformed the S&P 500 by 6.2 percentage points in 1996. Lou's comp is tied to investment performance over a four-year period — not to underwriting, and not to overall GEICO results. Rationale: "We think it foolish for an insurance company to pay bonuses that are tied to overall corporate results when great work on one side of the business … could conceivably be completely neutralized by bad work on the other."
+[lou-simpson](../people/lou-simpson.md)'s portfolio outperformed the S&P 500 by 6.2 percentage points in 1996. Lou's comp is tied to investment performance over a four-year period — not to underwriting, and not to overall GEICO results. Rationale: "We think it foolish for an insurance company to pay bonuses that are tied to overall corporate results when great work on one side of the business … could conceivably be completely neutralized by bad work on the other."
 
 The 1995 letter's accounting-arcana footnote: the GEICO step-acquisition required Berkshire to write down its original 51% by $478.4M (1995 restated), since the prior 51% must be carried at less than the 49% just bought. Buffett notes the economic value rose even as book fell.
 
@@ -166,7 +166,7 @@ Worst-case after-tax: ~$600M (≤3% book, ≤1.5% market). Buffett notes correla
 - Cumulative dividends received: $240.5M (including $30M received in 1997).
 - Cautions: industry tailwind "may be cyclical"; "company still has basic cost problems that must be solved."
 
-See [[usair]].
+See [usair](../entities/usair.md).
 
 ## Two-column intrinsic-value table (1965–1996)
 
@@ -241,31 +241,31 @@ Berkshire paid $860M in federal income taxes in 1996. "If an equal amount had be
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[geico]] — first wholly-owned year; the canonical virtuous-circle articulation; the two-variable comp plan
-- [[coca-cola]] — first named "Inevitable"; 1896 Candler retrospective; 200M shares post-split
-- [[gillette]] — second named "Inevitable"
-- [[disney]] — 24.6M shares post-Cap Cities conversion
-- [[american-express]], [[wells-fargo]], [[washington-post]] — long-term holdings
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [geico](../entities/geico.md) — first wholly-owned year; the canonical virtuous-circle articulation; the two-variable comp plan
+- [coca-cola](../entities/coca-cola.md) — first named "Inevitable"; 1896 Candler retrospective; 200M shares post-split
+- [gillette](../entities/gillette.md) — second named "Inevitable"
+- [disney](../entities/disney.md) — 24.6M shares post-Cap Cities conversion
+- [american-express](../entities/american-express.md), [wells-fargo](../entities/wells-fargo.md), [washington-post](../entities/washington-post.md) — long-term holdings
 - McDonald's — new position (~4.3%; folded into source page)
 - Freddie Mac — held
-- [[salomon]] — partial monetization via exchangeable notes; B-share underwriter
-- [[usair]] — reversal; arrears paid; failed sale attempts
-- [[national-indemnity]] — Don Wurster; 74.2 combined ratio
-- [[sees-candies]] — invoked as the predictability case (same fundamentals as 1920s)
-- [[borsheims]] — Susan Jacques continues
-- [[nebraska-furniture-mart]] — Mrs. B at 103; $265M record year
+- [salomon](../entities/salomon.md) — partial monetization via exchangeable notes; B-share underwriter
+- [usair](../entities/usair.md) — reversal; arrears paid; failed sale attempts
+- [national-indemnity](../entities/national-indemnity.md) — Don Wurster; 74.2 combined ratio
+- [sees-candies](../entities/sees-candies.md) — invoked as the predictability case (same fundamentals as 1920s)
+- [borsheims](../entities/borsheims.md) — Susan Jacques continues
+- [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) — Mrs. B at 103; $265M record year
 - FlightSafety International — new acquisition (capital-intensive flagged)
 - Kansas Bankers Surety — new acquisition (Don Towle)
 - Wesco Financial — KBS placement
 
 ## People mentioned
 
-- [[warren-buffett]], [[charlie-munger]]
+- [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md)
 - Tony Nicely — GEICO operating chief; "Hall-of-Famer"
-- [[lou-simpson]] — S&P + 6.2 ppt in 1996; "Hall-of-Famer"
-- [[ajit-jain]] — "the best person in the world to run our super-cat business"
-- [[roberto-goizueta]] — Coca-Cola; with Don Keough and Doug Ivester
+- [lou-simpson](../people/lou-simpson.md) — S&P + 6.2 ppt in 1996; "Hall-of-Famer"
+- [ajit-jain](../people/ajit-jain.md) — "the best person in the world to run our super-cat business"
+- [roberto-goizueta](../people/roberto-goizueta.md) — Coca-Cola; with Don Keough and Doug Ivester
 - Al Ueltschi — FlightSafety founder/CEO; Lindbergh; Pan Am; 79
 - Don Towle — Kansas Bankers Surety
 - Roy Dinsdale — KBS connection
@@ -280,7 +280,7 @@ Berkshire paid $860M in federal income taxes in 1996. "If an equal amount had be
 - John Kizer — Central States Indemnity
 - Jeff Comment — Helzberg's
 - Susan Jacques — Borsheim's
-- [[rose-blumkin]] — at 103
+- [rose-blumkin](../people/rose-blumkin.md) — at 103
 - Asa Candler — Coca-Cola 1896 (historical)
 - Robert Woodruff — Coca-Cola (historical quote)
 - Marc Hamburg — Berkshire CFO; annual-meeting film
@@ -290,31 +290,31 @@ Berkshire paid $860M in federal income taxes in 1996. "If an equal amount had be
 
 ## Concepts introduced or discussed
 
-- **The Inevitables** — durable global dominance over an investment lifetime; folded into [[franchise-vs-business]] and [[moat]] (candidate for a dedicated concept page)
-- [[circle-of-competence]] — sharpest statement to date for the individual investor; "size of the circle is not very important; knowing its boundaries, however, is vital" (candidate for new concept page)
-- [[moat]] — GEICO's "protective moat surrounding our economic castle" widened by scale
-- [[float]] — 30-year table extended; $6.7B average; 4th negative-cost year; 1967–96 CAGR 22.3%
-- [[super-cat-insurance]] — three competitive advantages enumerated; model-skepticism essay; largest single-company exposures ever assumed
-- [[incentive-compensation]] — GEICO two-variable plan; "lottery ticket" critique of options reaffirmed; Lou Simpson's four-year-rolling investment-only comp
-- [[intrinsic-value-vs-book-value]] — two-column table extended; Owner's Manual reproduced
-- [[owner-orientation]] — Owner's Manual reproduced in full in the report (pp. 58–67)
-- [[risk-vs-volatility]] — "lumpy 15% vs. smooth 12%" reaffirmed; orbit-of-earth analogy
+- **The Inevitables** — durable global dominance over an investment lifetime; folded into [franchise-vs-business](../concepts/franchise-vs-business.md) and [moat](../concepts/moat.md) (candidate for a dedicated concept page)
+- [circle-of-competence](../concepts/circle-of-competence.md) — sharpest statement to date for the individual investor; "size of the circle is not very important; knowing its boundaries, however, is vital" (candidate for new concept page)
+- [moat](../concepts/moat.md) — GEICO's "protective moat surrounding our economic castle" widened by scale
+- [float](../concepts/float.md) — 30-year table extended; $6.7B average; 4th negative-cost year; 1967–96 CAGR 22.3%
+- [super-cat-insurance](../concepts/super-cat-insurance.md) — three competitive advantages enumerated; model-skepticism essay; largest single-company exposures ever assumed
+- [incentive-compensation](../concepts/incentive-compensation.md) — GEICO two-variable plan; "lottery ticket" critique of options reaffirmed; Lou Simpson's four-year-rolling investment-only comp
+- [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) — two-column table extended; Owner's Manual reproduced
+- [owner-orientation](../concepts/owner-orientation.md) — Owner's Manual reproduced in full in the report (pp. 58–67)
+- [risk-vs-volatility](../concepts/risk-vs-volatility.md) — "lumpy 15% vs. smooth 12%" reaffirmed; orbit-of-earth analogy
 - inversion (Munger) — explicit planning principle; candidate for new concept page
 - predictability / industries-unlikely-to-change — "we applaud the endeavor but prefer to skip the ride" on fast-changing industries
 - index-fund recommendation — first explicit, unhedged recommendation for "most investors"
-- [[mr-market]] — implicit: "we continue to make more money when snoring than when active"
-- "loss of focus" failure mode for great businesses (Coke shrimp; Gillette oil) — candidate addition to [[franchise-vs-business]]
+- [mr-market](../concepts/mr-market.md) — implicit: "we continue to make more money when snoring than when active"
+- "loss of focus" failure mode for great businesses (Coke shrimp; Gillette oil) — candidate addition to [franchise-vs-business](../concepts/franchise-vs-business.md)
 
 ## Connections to other sources
 
-- The "Inevitables" essay is the culmination of the [[franchise-vs-business]] arc canonically introduced in [[berkshire-1991-letter]] and reinforced in [[berkshire-1995-letter]]'s "have-to-be-smart-once" framing. The Inevitables are the highest tier of franchise.
-- The [[coca-cola]] continuity essay (Candler 1896 quoted) extends the 1988 first-purchase rationale in [[berkshire-1988-letter]] and the 1989 enlargement in [[berkshire-1989-letter]].
-- The GEICO virtuous-circle articulation extends the [[moat]] framing first used for GEICO in [[berkshire-1986-letter]] and reaffirmed in [[berkshire-1995-letter]]'s "economic castles protected by unbreachable moats."
-- The two-variable GEICO compensation plan applies the symmetric-comp principles from the [[ralph-schey]] case study in [[berkshire-1994-letter]] to a new business; the "lottery ticket" critique restates the option-plan essay of [[berkshire-1985-letter]] and [[berkshire-1994-letter]].
-- The float table extends the cost-of-float framework canonized in [[berkshire-1990-letter]]; the doubling from $3.6B to $6.7B reflects the GEICO acquisition culminated in [[berkshire-1995-letter]].
-- The three-advantage super-cat positioning extends the framework introduced in [[berkshire-1989-letter]] and developed across [[berkshire-1990-letter]] and the 1993–95 lucky-year disclaimers; the lumpy-vs-smooth framing first appears in [[berkshire-1990-letter]].
-- The USAir reversal closes (partially) the post-mortem arc from [[berkshire-1994-letter]] and the convertible-preferred retrospective of [[berkshire-1995-letter]].
-- The Class B share follow-up reports on the recapitalization announced in [[berkshire-1995-letter]]; trading volume confirms the long-term-holder-base goal stated at the 1988 NYSE listing in [[berkshire-1988-letter]].
-- The Owner's Manual being reproduced in full echoes the 13-principle owner's manual originally laid out in [[berkshire-1983-letter]].
+- The "Inevitables" essay is the culmination of the [franchise-vs-business](../concepts/franchise-vs-business.md) arc canonically introduced in [berkshire-1991-letter](berkshire-1991-letter.md) and reinforced in [berkshire-1995-letter](berkshire-1995-letter.md)'s "have-to-be-smart-once" framing. The Inevitables are the highest tier of franchise.
+- The [coca-cola](../entities/coca-cola.md) continuity essay (Candler 1896 quoted) extends the 1988 first-purchase rationale in [berkshire-1988-letter](berkshire-1988-letter.md) and the 1989 enlargement in [berkshire-1989-letter](berkshire-1989-letter.md).
+- The GEICO virtuous-circle articulation extends the [moat](../concepts/moat.md) framing first used for GEICO in [berkshire-1986-letter](berkshire-1986-letter.md) and reaffirmed in [berkshire-1995-letter](berkshire-1995-letter.md)'s "economic castles protected by unbreachable moats."
+- The two-variable GEICO compensation plan applies the symmetric-comp principles from the [ralph-schey](../people/ralph-schey.md) case study in [berkshire-1994-letter](berkshire-1994-letter.md) to a new business; the "lottery ticket" critique restates the option-plan essay of [berkshire-1985-letter](berkshire-1985-letter.md) and [berkshire-1994-letter](berkshire-1994-letter.md).
+- The float table extends the cost-of-float framework canonized in [berkshire-1990-letter](berkshire-1990-letter.md); the doubling from $3.6B to $6.7B reflects the GEICO acquisition culminated in [berkshire-1995-letter](berkshire-1995-letter.md).
+- The three-advantage super-cat positioning extends the framework introduced in [berkshire-1989-letter](berkshire-1989-letter.md) and developed across [berkshire-1990-letter](berkshire-1990-letter.md) and the 1993–95 lucky-year disclaimers; the lumpy-vs-smooth framing first appears in [berkshire-1990-letter](berkshire-1990-letter.md).
+- The USAir reversal closes (partially) the post-mortem arc from [berkshire-1994-letter](berkshire-1994-letter.md) and the convertible-preferred retrospective of [berkshire-1995-letter](berkshire-1995-letter.md).
+- The Class B share follow-up reports on the recapitalization announced in [berkshire-1995-letter](berkshire-1995-letter.md); trading volume confirms the long-term-holder-base goal stated at the 1988 NYSE listing in [berkshire-1988-letter](berkshire-1988-letter.md).
+- The Owner's Manual being reproduced in full echoes the 13-principle owner's manual originally laid out in [berkshire-1983-letter](berkshire-1983-letter.md).
 - The index-fund recommendation foreshadows a recurring later-letters theme; here it appears unhedged for the first time.
-- Charlie's invert-always-invert dictum here is a more compact version of the "mistakes" framework of [[berkshire-1989-letter]] (Mistakes of the First 25 Years).
+- Charlie's invert-always-invert dictum here is a more compact version of the "mistakes" framework of [berkshire-1989-letter](berkshire-1989-letter.md) (Mistakes of the First 25 Years).

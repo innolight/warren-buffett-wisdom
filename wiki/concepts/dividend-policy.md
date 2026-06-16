@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-14
 sources: [berkshire-1984-letter, berkshire-2012-letter]
 tags: [capital-allocation, dividends, retention]
-related: [[share-repurchases]], [[intrinsic-value-vs-book-value]], [[owner-orientation]], [[tax-deferral]]
+related: [share-repurchases](share-repurchases.md), [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md), [owner-orientation](owner-orientation.md), [tax-deferral](tax-deferral.md)
 ---
 
 # Dividend Policy
@@ -20,7 +20,7 @@ Buffett's 1984 articulation: "Unrestricted earnings should be retained only when
 
 The 1984 letter introduces an important distinction:
 
-- **Restricted earnings** — the portion of reported earnings a capital-intensive business *must* retain just to maintain unit volume, competitive position, and financial strength. In capital-heavy businesses operating in inflation, much of reported "earnings" is restricted. (The 1981 [[passive-return-crossbar]] / inflation-as-tapeworm framing is the substrate.) Restricted earnings are not truly distributable; they are conscripted by the business.
+- **Restricted earnings** — the portion of reported earnings a capital-intensive business *must* retain just to maintain unit volume, competitive position, and financial strength. In capital-heavy businesses operating in inflation, much of reported "earnings" is restricted. (The 1981 [passive-return-crossbar](passive-return-crossbar.md) / inflation-as-tapeworm framing is the substrate.) Restricted earnings are not truly distributable; they are conscripted by the business.
 - **Unrestricted earnings** — earnings that can be either retained or distributed. *These* are the earnings to which the retention test applies.
 
 A business that distributes restricted earnings — through, say, a payout-ratio policy that ignores reinvestment needs — is heading for oblivion absent outside capital infusions.
@@ -78,16 +78,16 @@ The arithmetic assumes the company earns average returns on equity above the tax
 
 **Buffett's own case.** Over the seven years preceding the 2012 letter, Buffett gave away approximately 4.25% of his Berkshire shares annually. His position fell from 712,497,000 B-equivalent shares to 528,525,623. Yet the book value attributable to his current holdings ($40.2B at yearend 2012) substantially exceeds the book value attributable to his original position seven years earlier ($28.2B at yearend 2005) — because Berkshire's per-share book value grew faster than the 4.25% he gave away each year. Ownership percentage fell; economic stake in the business grew.
 
-**The consistency constraint.** The 2012 letter adds a behavioral principle alongside the mathematics: "Dividend policy should always be clear, consistent and rational. A capricious policy will confuse owners and drive away would-be investors." Phil Fisher's formulation (citing *Common Stocks and Uncommon Profits*): you can run a successful hamburger restaurant or a successful Chinese food restaurant, but not both simultaneously. The shareholders you attract should be compatible with the policy you maintain. ([[berkshire-2012-letter]])
+**The consistency constraint.** The 2012 letter adds a behavioral principle alongside the mathematics: "Dividend policy should always be clear, consistent and rational. A capricious policy will confuse owners and drive away would-be investors." Phil Fisher's formulation (citing *Common Stocks and Uncommon Profits*): you can run a successful hamburger restaurant or a successful Chinese food restaurant, but not both simultaneously. The shareholders you attract should be compatible with the policy you maintain. ([berkshire-2012-letter](../sources/berkshire-2012-letter.md))
 
 ## How it's discussed in sources
 
-- [[berkshire-1984-letter]] — debut; the restricted/unrestricted distinction, the bond analogy, the schizoid manager, the camouflage problem, Berkshire's own application
-- [[berkshire-2012-letter]] — complete mathematical sell-off vs. dividend comparison; two structural advantages (individual choice + tax); Buffett's own giving-vs-growing case; consistency principle
+- [berkshire-1984-letter](../sources/berkshire-1984-letter.md) — debut; the restricted/unrestricted distinction, the bond analogy, the schizoid manager, the camouflage problem, Berkshire's own application
+- [berkshire-2012-letter](../sources/berkshire-2012-letter.md) — complete mathematical sell-off vs. dividend comparison; two structural advantages (individual choice + tax); Buffett's own giving-vs-growing case; consistency principle
 
 ## Related
 
-- [[share-repurchases]] — the alternative form of capital return; preferred over dividends when intrinsic value > market price
-- [[intrinsic-value-vs-book-value]] — the gauge that determines whether retention is creating value
-- [[passive-return-crossbar]] — what "passive returns available to investors" actually means in the test
-- [[owner-orientation]] — the 1983 owner's-manual principle that retention is tested by a 5-year-rolling $1-of-market-value per $1-retained standard
+- [share-repurchases](share-repurchases.md) — the alternative form of capital return; preferred over dividends when intrinsic value > market price
+- [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md) — the gauge that determines whether retention is creating value
+- [passive-return-crossbar](passive-return-crossbar.md) — what "passive returns available to investors" actually means in the test
+- [owner-orientation](owner-orientation.md) — the 1983 owner's-manual principle that retention is tested by a 5-year-rolling $1-of-market-value per $1-retained standard

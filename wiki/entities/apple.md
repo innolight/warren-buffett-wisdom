@@ -5,7 +5,7 @@ created: 2026-06-15
 updated: 2026-06-16
 sources: [berkshire-2020-letter, berkshire-2021-letter]
 tags: [technology, consumer-products, equity-investment, repurchases, moat]
-related: [[share-repurchases]], [[passive-ownership-advantage]], [[look-through-earnings]], [[berkshire-hathaway]], [[berkshire-2020-letter]]
+related: [share-repurchases](../concepts/share-repurchases.md), [passive-ownership-advantage](../concepts/passive-ownership-advantage.md), [look-through-earnings](../concepts/look-through-earnings.md), [berkshire-hathaway](berkshire-hathaway.md), [berkshire-2020-letter](../sources/berkshire-2020-letter.md)
 ---
 
 # Apple Inc.
@@ -18,7 +18,7 @@ Apple is the canonical Berkshire case study for two interlocking lessons that op
 
 ### Repurchase compounding as minority-owner wealth creation
 
-The arithmetic Buffett lays out in [[berkshire-2020-letter]] is worth understanding precisely, because it inverts the usual assumption that selling shares reduces ownership.
+The arithmetic Buffett lays out in [berkshire-2020-letter](../sources/berkshire-2020-letter.md) is worth understanding precisely, because it inverts the usual assumption that selling shares reduces ownership.
 
 Between mid-2018 and yearend 2020, Berkshire both collected ~$775M per year in Apple dividends and, in 2020 alone, sold a portion of its Apple position for $11 billion in proceeds. Any reasonable observer would expect Berkshire's ownership percentage to have fallen. Instead it rose — from 5.2% to 5.4% — at no additional cost to Berkshire. The mechanism: Apple continuously repurchased its own shares throughout the period, shrinking the total share count outstanding. As the denominator shrank, each share Berkshire retained represented a larger slice of the whole.
 
@@ -28,7 +28,7 @@ This effect runs through a second layer. Berkshire also repurchased its own shar
 
 The mechanism is general, not Apple-specific. When an excellent business persistently repurchases its own shares at or below intrinsic value, and a holding company does the same, a minority investor's claim on the underlying business's future earnings expands across two levels without additional capital deployed. As Buffett summarizes: "The math of repurchases grinds away slowly, but can be powerful over time."
 
-See [[share-repurchases]] for the broader principle, and [[look-through-earnings]] for how Apple's retained earnings — invisible under GAAP — accumulate on Berkshire's behalf regardless.
+See [share-repurchases](../concepts/share-repurchases.md) for the broader principle, and [look-through-earnings](../concepts/look-through-earnings.md) for how Apple's retained earnings — invisible under GAAP — accumulate on Berkshire's behalf regardless.
 
 ### Buffett's expansion of the consumer-franchise framework to a nominally technology company
 
@@ -36,7 +36,7 @@ For most of his career, Buffett explicitly avoided technology companies, citing 
 
 Berkshire does not analyze Apple as a technology company. It analyzes it as a consumer products company with exceptional brand loyalty, pricing power, and ecosystem switching costs. The iPhone is not primarily valuable because of its hardware specifications; it is valuable because it is the hub of a customer's digital life — contacts, photos, apps, payment credentials, messaging threads — all of which are practically difficult to transfer to a competing ecosystem. The iOS ecosystem creates customer captivity that does not depend on Apple maintaining a technology lead. Customers who would switch to a competitor's device do not primarily do so because the competing hardware is inferior; they do not switch because the friction of leaving the ecosystem is too high.
 
-This is the franchise framework — see [[franchise-vs-business]] — applied to a product category that superficially resembles commodity technology. The moat is not any specific technology. The moat is the installed base of customers whose switching costs compound as they accumulate more data, relationships, and habits within Apple's ecosystem. That kind of moat does fall within Buffett's circle of competence, because it is the same durable customer-captivity logic that governs See's Candies, Coca-Cola, or GEICO — businesses whose moat comes from customer loyalty and switching costs rather than from a patent or a technical specification that a competitor could eventually replicate or surpass.
+This is the franchise framework — see [franchise-vs-business](../concepts/franchise-vs-business.md) — applied to a product category that superficially resembles commodity technology. The moat is not any specific technology. The moat is the installed base of customers whose switching costs compound as they accumulate more data, relationships, and habits within Apple's ecosystem. That kind of moat does fall within Buffett's circle of competence, because it is the same durable customer-captivity logic that governs See's Candies, Coca-Cola, or GEICO — businesses whose moat comes from customer loyalty and switching costs rather than from a patent or a technical specification that a competitor could eventually replicate or surpass.
 
 The Apple investment therefore marks a meaningful expansion in Berkshire's public thinking: that the consumer-franchise lens applies to technology products wherever the moat is the ecosystem rather than the technology itself.
 
@@ -64,12 +64,12 @@ The Apple investment therefore marks a meaningful expansion in Berkshire's publi
 
 ## Sources discussing this entity
 
-- [[berkshire-2020-letter]] — the primary and most detailed treatment: Apple named as one of Berkshire's "Big Four" jewels; the full worked case for share-repurchase compounding across two levels (Apple and Berkshire simultaneously); investment figures as of yearend 2020
-- [[berkshire-2021-letter]] — Apple named "runner-up Giant" by yearend market value; 2021 figures: 907,559,761 shares at 5.55% ownership (up from 5.39%), cost basis $31,089M unchanged, market value $161,155M; the clearest look-through-earnings illustration in the series: GAAP records $785M in dividends while Berkshire's actual share of Apple's earnings was $5.6B; "each 0.1% of Apple's 2021 earnings amounted to $100 million"; Tim Cook singled out as a "brilliant CEO" who treats Apple product users as his first constituency
+- [berkshire-2020-letter](../sources/berkshire-2020-letter.md) — the primary and most detailed treatment: Apple named as one of Berkshire's "Big Four" jewels; the full worked case for share-repurchase compounding across two levels (Apple and Berkshire simultaneously); investment figures as of yearend 2020
+- [berkshire-2021-letter](../sources/berkshire-2021-letter.md) — Apple named "runner-up Giant" by yearend market value; 2021 figures: 907,559,761 shares at 5.55% ownership (up from 5.39%), cost basis $31,089M unchanged, market value $161,155M; the clearest look-through-earnings illustration in the series: GAAP records $785M in dividends while Berkshire's actual share of Apple's earnings was $5.6B; "each 0.1% of Apple's 2021 earnings amounted to $100 million"; Tim Cook singled out as a "brilliant CEO" who treats Apple product users as his first constituency
 
 ## Related
 
-- [[share-repurchases]] — Apple is the canonical illustration of minority-owner ownership compounding via corporate repurchases; the two-level mechanism (Apple plus Berkshire simultaneously) is the most complete example in the letters
-- [[passive-ownership-advantage]] — Berkshire's non-controlling position at market prices produced exceptional returns; the same principle as earlier Berkshire equity holdings (SAFECO, Washington Post, etc.)
-- [[look-through-earnings]] — Apple's retained earnings are invisible under GAAP; Berkshire's proportional share accrues regardless, and is the larger economic reality
-- [[berkshire-hathaway]] — Apple is one of the "Big Four" most valuable Berkshire assets, second or third in value at yearend 2020
+- [share-repurchases](../concepts/share-repurchases.md) — Apple is the canonical illustration of minority-owner ownership compounding via corporate repurchases; the two-level mechanism (Apple plus Berkshire simultaneously) is the most complete example in the letters
+- [passive-ownership-advantage](../concepts/passive-ownership-advantage.md) — Berkshire's non-controlling position at market prices produced exceptional returns; the same principle as earlier Berkshire equity holdings (SAFECO, Washington Post, etc.)
+- [look-through-earnings](../concepts/look-through-earnings.md) — Apple's retained earnings are invisible under GAAP; Berkshire's proportional share accrues regardless, and is the larger economic reality
+- [berkshire-hathaway](berkshire-hathaway.md) — Apple is one of the "Big Four" most valuable Berkshire assets, second or third in value at yearend 2020

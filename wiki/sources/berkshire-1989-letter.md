@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1989
 raw_path: raw/berkshire-letters/1989.md
 tags: [berkshire, annual-letter, mistakes-25-years, coca-cola, convertible-preferreds, zero-coupon, super-cat]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[cigar-butts-vs-wonderful-businesses]], [[institutional-imperative]], [[mistakes-of-omission]], [[super-cat-insurance]], [[charlie-munger]], [[coca-cola]], [[gillette]], [[usair]], [[salomon]], [[capital-cities]], [[geico]], [[washington-post]], [[national-indemnity]], [[borsheims]], [[scott-fetzer]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]], [[ben-graham]], [[ajit-jain]], [[roberto-goizueta]], [[colman-mockler]], [[ralph-schey]], [[capital-allocation]], [[concentration-vs-diversification]], [[franchise-vs-business]]
+related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [cigar-butts-vs-wonderful-businesses](../concepts/cigar-butts-vs-wonderful-businesses.md), [institutional-imperative](../concepts/institutional-imperative.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md), [super-cat-insurance](../concepts/super-cat-insurance.md), [charlie-munger](../people/charlie-munger.md), [coca-cola](../entities/coca-cola.md), [gillette](../entities/gillette.md), [usair](../entities/usair.md), [salomon](../entities/salomon.md), [capital-cities](../entities/capital-cities.md), [geico](../entities/geico.md), [washington-post](../entities/washington-post.md), [national-indemnity](../entities/national-indemnity.md), [borsheims](../entities/borsheims.md), [scott-fetzer](../entities/scott-fetzer.md), [sees-candies](../entities/sees-candies.md), [buffalo-evening-news](../entities/buffalo-evening-news.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md), [ben-graham](../people/ben-graham.md), [ajit-jain](../people/ajit-jain.md), [roberto-goizueta](../people/roberto-goizueta.md), [colman-mockler](../people/colman-mockler.md), [ralph-schey](../people/ralph-schey.md), [capital-allocation](../concepts/capital-allocation.md), [concentration-vs-diversification](../concepts/concentration-vs-diversification.md), [franchise-vs-business](../concepts/franchise-vs-business.md)
 ---
 
 # Berkshire Hathaway 1989 Annual Letter
@@ -17,13 +17,13 @@ Dated March 2, 1990. Net worth up $1.515B (44.4%) — Berkshire's largest annual
 
 ## Key themes
 
-- **"Mistakes of the First Twenty-five Years."** Buffett's canonical compressed essay on lessons: cigar butts vs. wonderful businesses; good jockey on bad horse; easy-does-it (one-foot hurdles); the **institutional imperative** formally named; only-deal-with-people-you-like-trust-admire; mistakes of omission; conservative leverage justified. See [[cigar-butts-vs-wonderful-businesses]], [[institutional-imperative]], [[mistakes-of-omission]].
+- **"Mistakes of the First Twenty-five Years."** Buffett's canonical compressed essay on lessons: cigar butts vs. wonderful businesses; good jockey on bad horse; easy-does-it (one-foot hurdles); the **institutional imperative** formally named; only-deal-with-people-you-like-trust-admire; mistakes of omission; conservative leverage justified. See [cigar-butts-vs-wonderful-businesses](../concepts/cigar-butts-vs-wonderful-businesses.md), [institutional-imperative](../concepts/institutional-imperative.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md).
 - **Coca-Cola added to 23.35M shares.** Cost $1.024B. Buffett's 52-years-late confession; the Goizueta-Keough partnership canonized.
-- **Three new convertible preferreds.** $600M Gillette (8 3/4%, conv. $50), $358M USAir (9 1/4%, conv. $60), $300M Champion International (9 1/4%, conv. $38). All ten-year mandatory redemption. Different industry-economic confidence than [[salomon]] (Gillette: confident; USAir/Champion: agnostic).
+- **Three new convertible preferreds.** $600M Gillette (8 3/4%, conv. $50), $358M USAir (9 1/4%, conv. $60), $300M Champion International (9 1/4%, conv. $38). All ten-year mandatory redemption. Different industry-economic confidence than [salomon](../entities/salomon.md) (Gillette: confident; USAir/Champion: agnostic).
 - **Tax-and-Rip-Van-Winkle math.** The single doubling-20-times vs. annual-doublings comparison: $1 → $25,250 with annual realization vs. $692,000 with single position. The math creates a structural edge for long-hold strategies.
 - **Zero-coupon debenture issuance.** $902.6M face, 5.5%, due 15 years, conversion at $9,815. Berkshire's first major debt. The cash-flow benefit (interest deduction without cash payment) is positive.
 - **The zero-coupon-bond critique.** EBITDA culture critiqued; "I don't know how I'll ever repay you"; "dagger on the steering wheel"; "the bezzle" reframed; the bartender-morality line. Investment bankers' gatekeeping role.
-- **Super-cat reinsurance debut.** Post-Hugo/California-quake offering: $250M of catastrophe coverage offered in trade publications; substantial book in ten days. Ajit Jain and team. See [[super-cat-insurance]].
+- **Super-cat reinsurance debut.** Post-Hugo/California-quake offering: $250M of catastrophe coverage offered in trade publications; substantial book in ten days. Ajit Jain and team. See [super-cat-insurance](../concepts/super-cat-insurance.md).
 - **CAT covers — first detailed mechanics.** 72-hour event definition, automatic reinstatements, geographic specificity, second-event/third-event policies.
 
 ## Notable quotes
@@ -44,23 +44,23 @@ Dated March 2, 1990. Net worth up $1.515B (44.4%) — Berkshire's largest annual
 
 Six lessons:
 
-1. **Buying control of Berkshire (and Hochschild Kohn) — cigar-butt critique.** The textile business was structurally bad; the "bargain" turned out not to be one. Hochschild Kohn (a Baltimore department store) followed three years later with the same lesson. The cockroach-in-the-kitchen image; "time is the friend of the wonderful business." Charlie understood early; Buffett was a slow learner. See [[cigar-butts-vs-wonderful-businesses]].
+1. **Buying control of Berkshire (and Hochschild Kohn) — cigar-butt critique.** The textile business was structurally bad; the "bargain" turned out not to be one. Hochschild Kohn (a Baltimore department store) followed three years later with the same lesson. The cockroach-in-the-kitchen image; "time is the friend of the wonderful business." Charlie understood early; Buffett was a slow learner. See [cigar-butts-vs-wonderful-businesses](../concepts/cigar-butts-vs-wonderful-businesses.md).
 
 2. **Good jockeys on broken-down nags.** "When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact."
 
-3. **Easy does it.** Avoid problems rather than solve them; identify one-foot hurdles. "We've done better by avoiding dragons than by slaying them." Periodic exceptions (Sunday Buffalo paper; [[american-express]], [[geico]] turnarounds) where great businesses face one-time solvable problems.
+3. **Easy does it.** Avoid problems rather than solve them; identify one-foot hurdles. "We've done better by avoiding dragons than by slaying them." Periodic exceptions (Sunday Buffalo paper; [american-express](../entities/american-express.md), [geico](../entities/geico.md) turnarounds) where great businesses face one-time solvable problems.
 
-4. **The institutional imperative.** Buffett's formal naming of the phenomenon. Four manifestations: (1) institutions resist change in direction; (2) projects expand to soak up available funds; (3) staff produces studies validating any CEO craving; (4) peer-company behavior gets mindlessly imitated. See [[institutional-imperative]].
+4. **The institutional imperative.** Buffett's formal naming of the phenomenon. Four manifestations: (1) institutions resist change in direction; (2) projects expand to soak up available funds; (3) staff produces studies validating any CEO craving; (4) peer-company behavior gets mindlessly imitated. See [institutional-imperative](../concepts/institutional-imperative.md).
 
 5. **Only-with-people-you-like-trust-admire.** This alone doesn't ensure success in a bad business but is necessary in any. "We've never succeeded in making a good deal with a bad person."
 
 6. **Conservative financial policies justified despite leverage opportunity cost.** "A small chance of distress or disgrace cannot, in our view, be offset by a large chance of extra returns."
 
-Plus a separate item: mistakes of omission. The unstated future Fannie Mae confession is implicit; the explicit framing comes in [[berkshire-1991-letter]]. See [[mistakes-of-omission]].
+Plus a separate item: mistakes of omission. The unstated future Fannie Mae confession is implicit; the explicit framing comes in [berkshire-1991-letter](berkshire-1991-letter.md). See [mistakes-of-omission](../concepts/mistakes-of-omission.md).
 
 ## Coca-Cola — the 52-years-late confession
 
-23,350,000 shares at $1.024B cost; market $1.804B at yearend. Buffett's first Coke at age 5-6 (1935-36); buying 6-for-25¢ Cokes from his grandfather's grocery store; "extraordinary consumer attractiveness and commercial possibilities." For 52 years carefully avoided. The 1981 arrival of Goizueta (with Don Keough) changed the company; the 1988 purchase began. The framing: "My response time to the next glaringly attractive idea will be slashed to well under 50 years." See [[coca-cola]] and [[roberto-goizueta]].
+23,350,000 shares at $1.024B cost; market $1.804B at yearend. Buffett's first Coke at age 5-6 (1935-36); buying 6-for-25¢ Cokes from his grandfather's grocery store; "extraordinary consumer attractiveness and commercial possibilities." For 52 years carefully avoided. The 1981 arrival of Goizueta (with Don Keough) changed the company; the 1988 purchase began. The framing: "My response time to the next glaringly attractive idea will be slashed to well under 50 years." See [coca-cola](../entities/coca-cola.md) and [roberto-goizueta](../people/roberto-goizueta.md).
 
 ## Three convertible preferreds
 
@@ -86,7 +86,7 @@ The bartender-morality framework: investment bankers should perform a "gatekeepi
 
 Hurricane Hugo + California earthquake within weeks. CAT covers exhausted at primary insurers and their reinsurers. Berkshire offered up to $250M of catastrophe coverage in trade publications; booked a substantial amount in ten days.
 
-The structural advantages: (1) ~$6B insurance-company net worth (second-largest in U.S.); (2) indifference to single-quarter results, even a worst-case $165M after-tax loss being "a blow only to our pride." See [[super-cat-insurance]] for the substantive treatment.
+The structural advantages: (1) ~$6B insurance-company net worth (second-largest in U.S.); (2) indifference to single-quarter results, even a worst-case $165M after-tax loss being "a blow only to our pride." See [super-cat-insurance](../concepts/super-cat-insurance.md) for the substantive treatment.
 
 ## Other portfolio
 
@@ -102,39 +102,39 @@ WPPSS sold significantly during the year (low-coupon issues bought at large disc
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[coca-cola]] — addition
-- [[gillette]], [[usair]] — new preferred positions
-- [[salomon]] — held
-- [[capital-cities]], [[geico]], [[washington-post]] — permanent
-- [[national-indemnity]] — super-cat platform
-- [[borsheims]] — first full mention; second branch of the Blumkin family
-- [[scott-fetzer]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]] — Sainted Seven Plus One
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [coca-cola](../entities/coca-cola.md) — addition
+- [gillette](../entities/gillette.md), [usair](../entities/usair.md) — new preferred positions
+- [salomon](../entities/salomon.md) — held
+- [capital-cities](../entities/capital-cities.md), [geico](../entities/geico.md), [washington-post](../entities/washington-post.md) — permanent
+- [national-indemnity](../entities/national-indemnity.md) — super-cat platform
+- [borsheims](../entities/borsheims.md) — first full mention; second branch of the Blumkin family
+- [scott-fetzer](../entities/scott-fetzer.md), [sees-candies](../entities/sees-candies.md), [buffalo-evening-news](../entities/buffalo-evening-news.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) — Sainted Seven Plus One
 
 ## People mentioned
 
-- [[warren-buffett]], [[charlie-munger]], [[ben-graham]]
-- [[ajit-jain]] — super-cat
-- [[roberto-goizueta]] — Coke; canonical introduction
-- [[colman-mockler]] — Gillette
-- [[ralph-schey]] — Scott Fetzer
+- [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [ben-graham](../people/ben-graham.md)
+- [ajit-jain](../people/ajit-jain.md) — super-cat
+- [roberto-goizueta](../people/roberto-goizueta.md) — Coke; canonical introduction
+- [colman-mockler](../people/colman-mockler.md) — Gillette
+- [ralph-schey](../people/ralph-schey.md) — Scott Fetzer
 - Friedmans (Borsheim's); Heldmans (Fechheimer)
 
 ## Concepts introduced or discussed
 
-- [[cigar-butts-vs-wonderful-businesses]] — **canonical introduction**
-- [[institutional-imperative]] — **formally named**
-- [[mistakes-of-omission]] — referenced as a category, fuller treatment 1991
-- [[super-cat-insurance]] — operational debut
-- [[capital-allocation]] — implicit throughout
-- [[concentration-vs-diversification]] — Coke add at $1B
-- [[franchise-vs-business]] — anticipated in the Goizueta discussion
+- [cigar-butts-vs-wonderful-businesses](../concepts/cigar-butts-vs-wonderful-businesses.md) — **canonical introduction**
+- [institutional-imperative](../concepts/institutional-imperative.md) — **formally named**
+- [mistakes-of-omission](../concepts/mistakes-of-omission.md) — referenced as a category, fuller treatment 1991
+- [super-cat-insurance](../concepts/super-cat-insurance.md) — operational debut
+- [capital-allocation](../concepts/capital-allocation.md) — implicit throughout
+- [concentration-vs-diversification](../concepts/concentration-vs-diversification.md) — Coke add at $1B
+- [franchise-vs-business](../concepts/franchise-vs-business.md) — anticipated in the Goizueta discussion
 
 ## Connections to other sources
 
-- The "Mistakes of the First Twenty-five Years" essay is the closing reference for every previous letter's lessons; explicitly invokes [[berkshire-1985-letter]] (textile shutdown), 1983 (Goodwill bias), and many others.
-- Coca-Cola addition begins the position that becomes Berkshire's largest in [[berkshire-1995-letter]].
-- Super-cat reinsurance becomes the headline insurance theme in [[berkshire-1990-letter]] through 1995.
-- The three convertible preferreds are tracked across [[berkshire-1990-letter]], [[berkshire-1991-letter]], [[berkshire-1992-letter]], [[berkshire-1994-letter]], [[berkshire-1995-letter]] (USAir mistake; Gillette success; Champion conversion).
-- The Rip-Van-Winkle tax-deferral math (annual doublings vs. single 20× position) is reprised in [[berkshire-1993-letter]]'s "Li'l Abner" tax essay, confirming it as a recurring pedagogical frame rather than a one-time observation.
-- The "look-through" earnings concept introduced here (Berkshire's share of investee retained earnings) is developed into an explicit annual calculation table in [[berkshire-1990-letter]], making the 1989 letter its definitional source.
+- The "Mistakes of the First Twenty-five Years" essay is the closing reference for every previous letter's lessons; explicitly invokes [berkshire-1985-letter](berkshire-1985-letter.md) (textile shutdown), 1983 (Goodwill bias), and many others.
+- Coca-Cola addition begins the position that becomes Berkshire's largest in [berkshire-1995-letter](berkshire-1995-letter.md).
+- Super-cat reinsurance becomes the headline insurance theme in [berkshire-1990-letter](berkshire-1990-letter.md) through 1995.
+- The three convertible preferreds are tracked across [berkshire-1990-letter](berkshire-1990-letter.md), [berkshire-1991-letter](berkshire-1991-letter.md), [berkshire-1992-letter](berkshire-1992-letter.md), [berkshire-1994-letter](berkshire-1994-letter.md), [berkshire-1995-letter](berkshire-1995-letter.md) (USAir mistake; Gillette success; Champion conversion).
+- The Rip-Van-Winkle tax-deferral math (annual doublings vs. single 20× position) is reprised in [berkshire-1993-letter](berkshire-1993-letter.md)'s "Li'l Abner" tax essay, confirming it as a recurring pedagogical frame rather than a one-time observation.
+- The "look-through" earnings concept introduced here (Berkshire's share of investee retained earnings) is developed into an explicit annual calculation table in [berkshire-1990-letter](berkshire-1990-letter.md), making the 1989 letter its definitional source.

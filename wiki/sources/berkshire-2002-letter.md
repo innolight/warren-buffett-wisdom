@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2002
 raw_path: raw/berkshire-letters/2002.md
 tags: [berkshire, annual-letter, derivatives, gen-re-cleanup, corporate-governance, audit-committee, float, mid-american, junk-bonds]
-related: [[warren-buffett]], [[charlie-munger]], [[berkshire-hathaway]], [[geico]], [[national-indemnity]], [[ajit-jain]], [[lou-simpson]], [[coca-cola]], [[american-express]], [[gillette]], [[wells-fargo]], [[washington-post]], [[float]], [[super-cat-insurance]], [[incentive-compensation]], [[institutional-imperative]], [[acquisition-criteria]], [[capital-allocation]], [[owner-orientation]]
+related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [national-indemnity](../entities/national-indemnity.md), [ajit-jain](../people/ajit-jain.md), [lou-simpson](../people/lou-simpson.md), [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md), [gillette](../entities/gillette.md), [wells-fargo](../entities/wells-fargo.md), [washington-post](../entities/washington-post.md), [float](../concepts/float.md), [super-cat-insurance](../concepts/super-cat-insurance.md), [incentive-compensation](../concepts/incentive-compensation.md), [institutional-imperative](../concepts/institutional-imperative.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [capital-allocation](../concepts/capital-allocation.md), [owner-orientation](../concepts/owner-orientation.md)
 ---
 
 # Berkshire Hathaway 2002 Annual Letter
@@ -26,7 +26,7 @@ Dated February 21, 2003. Per-share book value up 10.0% to $41,727 (38-year CAGR 
 - **Corporate governance and "independence."** The fund-board case study: legal independence has produced "absolutely pathetic" stewardship for 60+ years. Berkshire's response: pay directors a pittance, no D&O insurance, select directors with large purchased (not granted) Berkshire stock — to make family net worth the dominant decision variable.
 - **Stock options and the FASB capitulation.** Recap of 1993-94: Andersen's Professional Standards Group ruled options were an expense; partners reversed; FASB voted 7-0 to expense; Senate voted 88-9 against; SEC capitulated. "Compensation-hungry CEOs loved this outcome: Let FASB have the honor; they had the system." Extends 1992 letter on the same theme.
 - **Pro-forma earnings as cultural symptom.** "Last year, on a pro-forma basis, Berkshire had lower earnings than those we actually reported." The reverse direction is the giveaway that "pro-forma" is a euphemism for "ignore the bad."
-- **GEICO momentum.** Premiums grew from $2.9B (1996 acquisition) to $6.9B; Internet new business +75%; the canonical "save $1B/year for policyholders" framing under [[tony-nicely]]. The 1981-83 commercial-umbrella misadventure: $3.05M premium → $94.1M loss, of which $90.3M was uncollectable reinsurance receivables. "So much for 'cheap' reinsurance."
+- **GEICO momentum.** Premiums grew from $2.9B (1996 acquisition) to $6.9B; Internet new business +75%; the canonical "save $1B/year for policyholders" framing under [tony-nicely](../people/tony-nicely.md). The 1981-83 commercial-umbrella misadventure: $3.05M premium → $94.1M loss, of which $90.3M was uncollectable reinsurance receivables. "So much for 'cheap' reinsurance."
 - **Ajit's reinsurance franchise.** $13.4B of float, "more than all but a handful of insurers have ever built up," from a 1986 standing start with a workforce of 20. The retroactive-insurance / "deferred charges — reinsurance assumed" mechanism explicated: $3.4B asset amortized over the life of policies; $440M annual charge constitutes an intentional underwriting "loss" that hides the true profitability of capped long-tail premium.
 - **MidAmerican expansion.** Berkshire's first major non-insurance utility platform. Kern River + Northern Natural acquired; MidAmerican will transport ~8% of all U.S. gas. Buffett owns 80.2% economic but limited to 9.9% voting under PUHCA (Public Utility Holding Company Act). Sokol/Abel as dealmakers and managers.
 - **Junk bonds re-entered.** Commitments sextupled to $8.3B. The comparison with stocks made explicit: stocks are conservatively-financed businesses where gains have exceeded losses 100:1 over 38 years; junk requires more careful price-value calculation with expectation of occasional large losses.
@@ -136,7 +136,7 @@ The fix under Joe Brandon (CEO) and Tad Montross: NCB aggregation reduced to tol
 
 The retroactive-insurance / "desirable" charge mechanism explicitly distinguished from the Gen Re mistakes: $440M of 2002 amortization of the $3.4B "deferred charges" asset is an intentional accounting drag from capped-loss policies, not a reserving failure.
 
-See [[float]] and [[national-indemnity]].
+See [float](../concepts/float.md) and [national-indemnity](../entities/national-indemnity.md).
 
 ## Cost of float — table extended
 
@@ -162,7 +162,7 @@ Tony Nicely's 41 years at GEICO. Premiums: $2.9B (1996 Berkshire 100% acquisitio
 
 The 1981-83 commercial-umbrella misadventure as a discipline lesson: GEICO took in $3,051,000 of premium, paid $2,979,000 of it to reinsurers, retained $72,000 of risk. Losses to date: $94.1M (130,000% of net premium retained); $90.3M of which is uncollectable from "deadbeat reinsurers" (including a fresh $19M write-off in 2002). The lesson re-stated: reinsurer credit quality is the foundation, not a checkbox.
 
-See [[geico]].
+See [geico](../entities/geico.md).
 
 ## Ajit's reinsurance — retroactive-insurance mechanics
 
@@ -233,7 +233,7 @@ A connected sub-essay woven into the governance discussion. The narrative:
 
 "Let FASB have the honor; they had the system."
 
-See [[incentive-compensation]] and the 1992 essay in [[berkshire-1992-letter]].
+See [incentive-compensation](../concepts/incentive-compensation.md) and the 1992 essay in [berkshire-1992-letter](berkshire-1992-letter.md).
 
 ## Three suggestions for investors
 
@@ -264,11 +264,11 @@ Equity exposure deliberately reduced; Berkshire's S&P-relative performance in do
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[geico]] — premiums $2.9B (1996) → $6.9B; the 1981-83 commercial-umbrella loss as discipline lesson
-- [[national-indemnity]] — float platform; Ajit's reinsurance division
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [geico](../entities/geico.md) — premiums $2.9B (1996) → $6.9B; the 1981-83 commercial-umbrella loss as discipline lesson
+- [national-indemnity](../entities/national-indemnity.md) — float platform; Ajit's reinsurance division
 - General Re — full cleanup essay; Joe Brandon and Tad Montross
-- [[coca-cola]], [[american-express]], [[gillette]], [[wells-fargo]], [[washington-post]] — held; "earnings up, valuations down"
+- [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md), [gillette](../entities/gillette.md), [wells-fargo](../entities/wells-fargo.md), [washington-post](../entities/washington-post.md) — held; "earnings up, valuations down"
 - MidAmerican Energy (HomeServices, Kern River, Northern Natural) — utility platform expansion
 - The Pampered Chef, Larson-Juhl, Fruit of the Loom, CTB, Garan — 2002 acquisitions
 - Nebraska Furniture Mart — new Kansas City store opening August 2003
@@ -280,9 +280,9 @@ Equity exposure deliberately reduced; Berkshire's S&P-relative performance in do
 
 ## People mentioned
 
-- [[warren-buffett]], [[charlie-munger]]
-- [[ajit-jain]] — "If you see Ajit at our annual meeting, bow deeply."
-- [[lou-simpson]] — GEICO equity manager outperformed again
+- [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md)
+- [ajit-jain](../people/ajit-jain.md) — "If you see Ajit at our annual meeting, bow deeply."
+- [lou-simpson](../people/lou-simpson.md) — GEICO equity manager outperformed again
 - Tony Nicely — 41 years at GEICO; canonical GEICO operating leader
 - Joe Brandon, Tad Montross — Gen Re cleanup
 - Dave Sokol, Greg Abel — MidAmerican
@@ -302,13 +302,13 @@ Equity exposure deliberately reduced; Berkshire's S&P-relative performance in do
 
 ## Concepts introduced or discussed
 
-- [[float]] — table extended; 2001 12.8% cost of WTC; 2002 1%; deferred-charges mechanism explicated
-- [[super-cat-insurance]] — "lumpy 15% over smooth 12%" reprised; Ajit's $13.4B float franchise
-- [[incentive-compensation]] — stock-option expensing history; "compensation-hungry CEOs"
-- [[acquisition-criteria]] — "no exit strategy"; "good to great" economics, "great to great" managers, sensible price
-- [[institutional-imperative]] — boardroom atmosphere; collegiality trumping independence
-- [[capital-allocation]] — Buffett's job described: "stay out of [managers'] way and allocate whatever excess capital their businesses generate"
-- [[owner-orientation]] — directors' large purchased holdings; D&O insurance refusal; Berkshire family directors as culture-keepers
+- [float](../concepts/float.md) — table extended; 2001 12.8% cost of WTC; 2002 1%; deferred-charges mechanism explicated
+- [super-cat-insurance](../concepts/super-cat-insurance.md) — "lumpy 15% over smooth 12%" reprised; Ajit's $13.4B float franchise
+- [incentive-compensation](../concepts/incentive-compensation.md) — stock-option expensing history; "compensation-hungry CEOs"
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — "no exit strategy"; "good to great" economics, "great to great" managers, sensible price
+- [institutional-imperative](../concepts/institutional-imperative.md) — boardroom atmosphere; collegiality trumping independence
+- [capital-allocation](../concepts/capital-allocation.md) — Buffett's job described: "stay out of [managers'] way and allocate whatever excess capital their businesses generate"
+- [owner-orientation](../concepts/owner-orientation.md) — directors' large purchased holdings; D&O insurance refusal; Berkshire family directors as culture-keepers
 - Derivatives as systemic risk — canonical "weapons of mass destruction" essay
 - Pro-forma earnings as cultural symptom — symmetric audit-fairness test
 - Mark-to-model → "mark-to-myth"
@@ -320,13 +320,13 @@ Equity exposure deliberately reduced; Berkshire's S&P-relative performance in do
 
 ## Connections to other sources
 
-- The derivatives essay is the canonical Buffett position on the topic; develops the LTCM warning first noted in [[berkshire-1998-letter]] and extends concerns about Gen Re Securities surfaced after the 1998 merger.
-- The Gen Re cleanup admission completes the post-merger arc that began with the 1998 acquisition and showed cost-of-float distress in [[berkshire-1999-letter]], [[berkshire-2000-letter]], and [[berkshire-2001-letter]] (WTC).
-- The "no exit strategy" framing extends the [[acquisition-criteria]] four/six-point principles canonically articulated in [[berkshire-1977-letter]] and [[berkshire-1982-letter]], adding the permanence dimension.
-- The corporate-governance essay explicitly returns to the 1993 governance framework — Buffett quotes himself ("a single absentee owner"; "slap their hands") — and extends [[berkshire-1993-letter]] for the post-bubble environment.
-- The stock-options / FASB / Andersen / Senate history extends the [[incentive-compensation]] essay of [[berkshire-1992-letter]], with the Senate's 88-9 capitulation as the new evidence.
-- The deferred-charges / retroactive-insurance mechanism extends the [[float]] framework canonized in [[berkshire-1990-letter]] and the float-as-equity essay of [[berkshire-1995-letter]].
-- GEICO's 1981-83 commercial-umbrella story is a discipline retrospective on the Berkshire-GEICO arc traced from the 1976 Jack Byrne rescue through [[berkshire-1995-letter]] (100% acquisition).
-- The cost-consciousness "Fred Brown died, golf clubs for sale" anecdote rhymes with the Rose Blumkin / [[nebraska-furniture-mart]] cost discipline canonized in [[berkshire-1983-letter]].
-- The "Eddie Bennett the batboy" managerial frame parallels the Buffett-as-allocator / managers-as-operators division of labor articulated since [[berkshire-1977-letter]].
-- The 1981-83 GEICO umbrella-and-deadbeat-reinsurers story sharpens the [[national-indemnity]] discipline articulated in earlier letters: counterparty quality is foundational, not optional.
+- The derivatives essay is the canonical Buffett position on the topic; develops the LTCM warning first noted in [berkshire-1998-letter](berkshire-1998-letter.md) and extends concerns about Gen Re Securities surfaced after the 1998 merger.
+- The Gen Re cleanup admission completes the post-merger arc that began with the 1998 acquisition and showed cost-of-float distress in [berkshire-1999-letter](berkshire-1999-letter.md), [berkshire-2000-letter](berkshire-2000-letter.md), and [berkshire-2001-letter](berkshire-2001-letter.md) (WTC).
+- The "no exit strategy" framing extends the [acquisition-criteria](../concepts/acquisition-criteria.md) four/six-point principles canonically articulated in [berkshire-1977-letter](berkshire-1977-letter.md) and [berkshire-1982-letter](berkshire-1982-letter.md), adding the permanence dimension.
+- The corporate-governance essay explicitly returns to the 1993 governance framework — Buffett quotes himself ("a single absentee owner"; "slap their hands") — and extends [berkshire-1993-letter](berkshire-1993-letter.md) for the post-bubble environment.
+- The stock-options / FASB / Andersen / Senate history extends the [incentive-compensation](../concepts/incentive-compensation.md) essay of [berkshire-1992-letter](berkshire-1992-letter.md), with the Senate's 88-9 capitulation as the new evidence.
+- The deferred-charges / retroactive-insurance mechanism extends the [float](../concepts/float.md) framework canonized in [berkshire-1990-letter](berkshire-1990-letter.md) and the float-as-equity essay of [berkshire-1995-letter](berkshire-1995-letter.md).
+- GEICO's 1981-83 commercial-umbrella story is a discipline retrospective on the Berkshire-GEICO arc traced from the 1976 Jack Byrne rescue through [berkshire-1995-letter](berkshire-1995-letter.md) (100% acquisition).
+- The cost-consciousness "Fred Brown died, golf clubs for sale" anecdote rhymes with the Rose Blumkin / [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) cost discipline canonized in [berkshire-1983-letter](berkshire-1983-letter.md).
+- The "Eddie Bennett the batboy" managerial frame parallels the Buffett-as-allocator / managers-as-operators division of labor articulated since [berkshire-1977-letter](berkshire-1977-letter.md).
+- The 1981-83 GEICO umbrella-and-deadbeat-reinsurers story sharpens the [national-indemnity](../entities/national-indemnity.md) discipline articulated in earlier letters: counterparty quality is foundational, not optional.

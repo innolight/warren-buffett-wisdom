@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1991-letter, berkshire-1992-letter]
 tags: [salomon, investment-banking, ceo, reputation, geico]
-related: [[salomon]], [[berkshire-hathaway]], [[warren-buffett]]
+related: [salomon](../entities/salomon.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [warren-buffett](warren-buffett.md)
 ---
 
 # John Gutfreund
@@ -20,7 +20,7 @@ Gutfreund is the human center of the Salomon arc — a relationship Buffett desc
 
 The 1987 letter is unusually personal about why Buffett was comfortable making what was then Berkshire's largest single capital commitment:
 
-> What we do have a strong feeling about is the ability and integrity of John Gutfreund, CEO of Salomon Inc. Charlie and I like, admire and trust John. We first got to know him in 1976 when he played a key role in GEICO's escape from near-bankruptcy. Several times since, we have seen John steer clients away from transactions that would have been unwise, but that the client clearly wanted to make — even though his advice provided no fee to Salomon and acquiescence would have delivered a large fee. Such service-above-self behavior is far from automatic in Wall Street. ([[berkshire-1987-letter]])
+> What we do have a strong feeling about is the ability and integrity of John Gutfreund, CEO of Salomon Inc. Charlie and I like, admire and trust John. We first got to know him in 1976 when he played a key role in GEICO's escape from near-bankruptcy. Several times since, we have seen John steer clients away from transactions that would have been unwise, but that the client clearly wanted to make — even though his advice provided no fee to Salomon and acquiescence would have delivered a large fee. Such service-above-self behavior is far from automatic in Wall Street. ([berkshire-1987-letter](../sources/berkshire-1987-letter.md))
 
 The 1976 GEICO connection is the personal history. The "steering clients away" examples are the operational evidence. The conclusion Buffett draws: Gutfreund's individual ethical standard makes Salomon a better-than-typical investment-banking counterparty.
 
@@ -42,14 +42,14 @@ These observations sharpen in subsequent (post-1995) letters but are present in 
 
 ## Sources discussing this person
 
-- [[berkshire-1987-letter]] — canonical introduction; the GEICO 1976 connection; "ability and integrity"
-- [[berkshire-1988-letter]] — continued endorsement; "the close association we have had with John Gutfreund, CEO of Salomon, during the past year has reinforced our admiration for him"
-- [[berkshire-1989-letter]] — companion to the broader Wall-Street critique in the zero-coupon-bond essay
-- [[berkshire-1991-letter]] — implicit in the Salomon crisis discussion; Buffett becomes Interim Chairman
-- [[berkshire-1992-letter]] — post-crisis report focuses on the successor team
+- [berkshire-1987-letter](../sources/berkshire-1987-letter.md) — canonical introduction; the GEICO 1976 connection; "ability and integrity"
+- [berkshire-1988-letter](../sources/berkshire-1988-letter.md) — continued endorsement; "the close association we have had with John Gutfreund, CEO of Salomon, during the past year has reinforced our admiration for him"
+- [berkshire-1989-letter](../sources/berkshire-1989-letter.md) — companion to the broader Wall-Street critique in the zero-coupon-bond essay
+- [berkshire-1991-letter](../sources/berkshire-1991-letter.md) — implicit in the Salomon crisis discussion; Buffett becomes Interim Chairman
+- [berkshire-1992-letter](../sources/berkshire-1992-letter.md) — post-crisis report focuses on the successor team
 
 ## Related
 
-- [[salomon]] — the operational canvas
-- [[warren-buffett]] — the Interim Chairmanship is canonical biographical material
-- [[jack-byrne]] — the GEICO 1976 connection; Gutfreund and Byrne worked the same rescue from different sides
+- [salomon](../entities/salomon.md) — the operational canvas
+- [warren-buffett](warren-buffett.md) — the Interim Chairmanship is canonical biographical material
+- [jack-byrne](jack-byrne.md) — the GEICO 1976 connection; Gutfreund and Byrne worked the same rescue from different sides

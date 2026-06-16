@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1998
 raw_path: raw/berkshire-letters/1998.md
 tags: [berkshire, annual-letter, general-re-acquisition, executive-jet, float, stock-options-accounting, earnings-management, geico]
-related: [[warren-buffett]], [[charlie-munger]], [[berkshire-hathaway]], [[geico]], [[coca-cola]], [[american-express]], [[gillette]], [[washington-post]], [[wells-fargo]], [[float]], [[institutional-imperative]], [[incentive-compensation]], [[capital-allocation]], [[acquisition-criteria]], [[mistakes-of-omission]], [[super-cat-insurance]], [[intrinsic-value-vs-book-value]], [[stock-as-acquisition-currency]], [[owner-orientation]]
+related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md), [gillette](../entities/gillette.md), [washington-post](../entities/washington-post.md), [wells-fargo](../entities/wells-fargo.md), [float](../concepts/float.md), [institutional-imperative](../concepts/institutional-imperative.md), [incentive-compensation](../concepts/incentive-compensation.md), [capital-allocation](../concepts/capital-allocation.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md), [super-cat-insurance](../concepts/super-cat-insurance.md), [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md), [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md), [owner-orientation](../concepts/owner-orientation.md)
 ---
 
 # Berkshire Hathaway 1998 Annual Letter
@@ -21,12 +21,12 @@ Dated March 1, 1999. Per-share book value up 48.3% to $37,801 — but Buffett op
 - **The reinsurance paradox.** "A reinsurer gets paid for absorbing the volatility that the client insurer wants to shed" — yet a publicly-held reinsurer is itself penalized by markets for that same volatility, forcing it to lay off business via retrocessions or reject good business. Berkshire's structure dissolves the paradox: "we prefer a lumpy 15% return to a smooth 12%."
 - **Executive Jet (NetJets) — $725M acquisition.** Cash + stock; closed August 7, 1998. Rich Santulli, the industry's creator (1986). 1,000+ customers, 163 aircraft. The fractional-ownership economics: a client owning 1/8 of a jet gets 100 flying hours annually, plane-on-call at 5,500 U.S. airports. EJA accounted for 31% of all corporate jets ordered globally in 1997.
 - **Economics of P-C insurance — canonical essay.** "The key determinants are: (1) the amount of float that the business generates; (2) its cost; and (3) most important of all, the long-term outlook for both of these factors." A business has value if cost of float is less than the cost of obtaining funds otherwise; it is a lemon if cost of float exceeds market rates. Berkshire's 32-year average cost of float: well under zero. Float compounded 25.4% annually 1967–1998 (from $17M to $22.762B).
-- **Float-outranks-net-worth claim.** "Indeed, though our net float is recorded on our balance sheet as a liability, it has had more economic value to us than an equal amount of net worth would have had. As long as we can continue to achieve an underwriting profit, float will continue to outrank net worth in value." Continues the [[float]]-as-equity essay of [[berkshire-1995-letter]].
+- **Float-outranks-net-worth claim.** "Indeed, though our net float is recorded on our balance sheet as a liability, it has had more economic value to us than an equal amount of net worth would have had. As long as we can continue to achieve an underwriting profit, float will continue to outrank net worth in value." Continues the [float](../concepts/float.md)-as-equity essay of [berkshire-1995-letter](berkshire-1995-letter.md).
 - **GEICO — Tony Nicely's record year.** 1998 new auto policies: 1,317,761; in-force: 3,562,644 (vs. 2,949,439 in 1997). Marketing spend up from $33M in 1995 to $143M in 1998; budgeted $190M for 1999. 1998 profit margin 6.7%; rates cut 3.3% and will be cut further in 1999, targeting 4% margins. Profit-sharing payment of $103M was 32.3% of salary to all 9,313 eligible associates. Market share moved from 3% to 3.5%. Counselor count grew from 652 (1995) to 2,162.
-- **The "GEICO environment" essay — pitch to other CEOs.** Berkshire's structure liberates first-class operators: no backseat driving, no quarterly-earnings pressure, no investor-relations grind. "Just run your business as if: 1) you own 100% of it; 2) it is the only asset in the world that you and your family have or will ever have; and 3) you can't sell or merge it for at least a century." Extends the [[acquisition-criteria]] / "selling to Berkshire" pitch.
+- **The "GEICO environment" essay — pitch to other CEOs.** Berkshire's structure liberates first-class operators: no backseat driving, no quarterly-earnings pressure, no investor-relations grind. "Just run your business as if: 1) you own 100% of it; 2) it is the only asset in the world that you and your family have or will ever have; and 3) you can't sell or merge it for at least a century." Extends the [acquisition-criteria](../concepts/acquisition-criteria.md) / "selling to Berkshire" pitch.
 - **Stock-options accounting — Part 1.** Reopened by the General Re cash-comp swap (replacing options with a cash plan that pays the same economically would increase 1997 pro-forma compensation expense by $63M). "If options aren't a form of compensation, what are they? If compensation isn't an expense, what is it? And, if expenses shouldn't go into the calculation of earnings, where in the world should they go?" Buffett's portfolio adjustment: in recent years, valuing options properly has cut 5% (sometimes 10%) off reported per-share earnings, and "has affected our portfolio decisions, causing us either to make a sale or to pass on a stock purchase we might otherwise have made."
 - **Earnings management — Part 2.** "Son of Gresham: Bad accounting drives out good." Restructuring charges ("distortion du jour"), big baths, deal-time loss-reserve boosts. The golf-scorecard analogy: turn in a 140 once, then four 80s. Anecdote: bank CEO asked if a deal meant a $1B charge — "We'll make it bigger than that — that's why we're doing the deal." R.G. Associates count: 1,369 special charges in 1998, totaling $72.1B (vs. $324B in 1997 Fortune 500 earnings). Praise for SEC chairman Arthur Levitt's September 1998 speech.
-- **Portfolio confession.** "The portfolio actions I took in 1998 actually decreased our gain for the year. In particular, my decision to sell McDonald's was a very big mistake. Overall, you would have been better off last year if I had regularly snuck off to the movies during market hours." Adds to [[mistakes-of-omission]] catalog (with Cap Cities, Disney 1967, Fannie Mae).
+- **Portfolio confession.** "The portfolio actions I took in 1998 actually decreased our gain for the year. In particular, my decision to sell McDonald's was a very big mistake. Overall, you would have been better off last year if I had regularly snuck off to the movies during market hours." Adds to [mistakes-of-omission](../concepts/mistakes-of-omission.md) catalog (with Cap Cities, Disney 1967, Fannie Mae).
 - **General Re portfolio liquidation.** Once the merger was certain, Berkshire instructed General Re to sell its 250 common-stock positions, incurring $935M of taxes. "We don't back into decisions."
 - **Operating-earnings paradox.** Per-share operating earnings fell 33.9% in 1998 — but only because General Re's pro-forma underwriting loss was included. Without General Re, per-share operating earnings would have shown a modest gain. Investments per share grew 25.2% to $47,647.
 - **15% intrinsic-value aspiration.** "Charlie and I will do our best to increase intrinsic value in the future at an average rate of 15%, a result we consider to be at the very peak of possible outcomes." Earning 15% on $57.4B of net worth requires adding $58B over five years — "Popcorn stands just won't do."
@@ -157,7 +157,7 @@ Compound growth 1967–1998: 25.4% annually. Average cost over 32 years: well un
 
 Marketing spend 1995 → 1998: $33M → $143M. Counselor count 1995 → 1998: 652 → 2,162. 1999 marketing budget: at least $190M. Market share moved from 3% to 3.5%; "for every policyholder we now have, there are another ten who should be giving us their business." 1998 profit margin 6.7%; targeting 4% via rate cuts (3.3% reduction taken in 1998, more in 1999). Profit-sharing payment of $103M, or 32.3% of salary, to all 9,313 eligible associates. 4,612 people promoted in 1998.
 
-Compensation design: 50% of bonus tied to seasoned-book (policies more than one year old) earnings; 50% tied to growth in policyholders. First-year business costs are excluded so as not to penalize aggressive new-business acquisition — extends the [[incentive-compensation]] design principles to a high-growth context.
+Compensation design: 50% of bonus tied to seasoned-book (policies more than one year old) earnings; 50% tied to growth in policyholders. First-year business costs are excluded so as not to penalize aggressive new-business acquisition — extends the [incentive-compensation](../concepts/incentive-compensation.md) design principles to a high-growth context.
 
 The "GEICO environment" essay: Buffett's pitch to other public-company CEOs that Berkshire offers the freedom that lets first-class operators deploy their full talents — no quarterly earnings pressure, no IR grind, no credit-rating worries, no Street expectations.
 
@@ -173,7 +173,7 @@ Key claims:
 - "Giving an employee a company car that can only be used for certain purposes diminishes its value to the employee, but does not in the least diminish its cost to the employer."
 - Buffett's portfolio practice: subtract the cost of an option-issuing company's option grants from reported earnings; "frequently cut the reported per-share figures by 5%, with 10% not all that uncommon." This has caused outright sales and pass decisions.
 
-Continues the canonical 1992 stock-options-as-expense essay (see [[berkshire-1992-letter]]); reasserted in the context of FASB's defeat by congressional lobbying.
+Continues the canonical 1992 stock-options-as-expense essay (see [berkshire-1992-letter](berkshire-1992-letter.md)); reasserted in the context of FASB's defeat by congressional lobbying.
 
 ## Earnings management — Part 2
 
@@ -187,7 +187,7 @@ The shift from accounting-as-fiction to manipulation-as-strategy:
 - **SEC and Arthur Levitt.** "Landmark speech last September" calling for an end to "earnings management." Buffett endorses Levitt's effort against "selective disclosure" and earnings manipulation.
 - **The Berkshire principle.** "If we are to disappoint you, we would rather it be with our earnings than with our accounting."
 
-Extends the [[institutional-imperative]] framework — the same systemic forces that produce "lemmings as a class" produce, in the late 1990s, accounting deception by otherwise high-grade managers.
+Extends the [institutional-imperative](../concepts/institutional-imperative.md) framework — the same systemic forces that produce "lemmings as a class" produce, in the late 1990s, accounting deception by otherwise high-grade managers.
 
 ## Sources of reported earnings
 
@@ -233,7 +233,7 @@ Change vs. 1997: American Express slightly increased; Coca-Cola and Gillette unc
 
 ## The "GEICO environment" pitch and owner-orientation
 
-The 1998 letter formalizes Berkshire's value proposition to first-class CEOs of acquirable businesses. The three-part operating mandate — own 100%, sole family asset, no sale for a century — is the cleanest expression to date of the [[owner-orientation]] framework as applied to operating-business management (not just shareholder communication). Berkshire's permanent-capital shareholder base ("a majority of our shares are held by investors who expect to die still holding them") is the precondition that allows the structure to be credible. See [[acquisition-criteria]].
+The 1998 letter formalizes Berkshire's value proposition to first-class CEOs of acquirable businesses. The three-part operating mandate — own 100%, sole family asset, no sale for a century — is the cleanest expression to date of the [owner-orientation](../concepts/owner-orientation.md) framework as applied to operating-business management (not just shareholder communication). Berkshire's permanent-capital shareholder base ("a majority of our shares are held by investors who expect to die still holding them") is the precondition that allows the structure to be credible. See [acquisition-criteria](../concepts/acquisition-criteria.md).
 
 ## Tax discussion
 
@@ -241,31 +241,31 @@ Berkshire and General Re combined paid (or will soon pay) $2.7B in 1998 federal 
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[geico]] — record growth year; canonical "great idea + great manager" framing
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [geico](../entities/geico.md) — record growth year; canonical "great idea + great manager" framing
 - General Re — newly acquired; first appearance as a wholly-owned subsidiary (canonical case for a Phase 2 entity page)
 - Executive Jet / NetJets — newly acquired (canonical case for a Phase 2 entity page)
 - Cologne Re — 82% owned via General Re
 - FlightSafety International — pilot training; cross-referenced via EJA
-- [[coca-cola]], [[american-express]], [[gillette]], [[washington-post]], [[wells-fargo]] — held; major positions
+- [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md), [gillette](../entities/gillette.md), [washington-post](../entities/washington-post.md), [wells-fargo](../entities/wells-fargo.md) — held; major positions
 - Freddie Mac — held; not yet wikilinked
-- Walt Disney — held (from Cap Cities exchange); see [[berkshire-1995-letter]]
+- Walt Disney — held (from Cap Cities exchange); see [berkshire-1995-letter](berkshire-1995-letter.md)
 - McDonald's — sold; Buffett's stated 1998 mistake
-- [[buffalo-evening-news]] — selling via Internet
-- [[borsheims]] — Susan Jacques continues as CEO since 1994
-- [[sees-candies]] — selling via Internet
-- [[scott-fetzer]] — record $96.5M after-tax
-- [[nebraska-furniture-mart]] — $300M 1998 sales
+- [buffalo-evening-news](../entities/buffalo-evening-news.md) — selling via Internet
+- [borsheims](../entities/borsheims.md) — Susan Jacques continues as CEO since 1994
+- [sees-candies](../entities/sees-candies.md) — selling via Internet
+- [scott-fetzer](../entities/scott-fetzer.md) — record $96.5M after-tax
+- [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) — $300M 1998 sales
 - H.H. Brown — referenced via Frank Rooney's EJA introduction
 
 ## People mentioned
 
-- [[warren-buffett]], [[charlie-munger]]
+- [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md)
 - Tony Nicely — GEICO CEO; canonical 1998 tribute ("there is no one in the business world who could run GEICO better than Tony does")
 - Rich Santulli — Executive Jet founder/CEO; canonical introduction
 - Ron Ferguson — General Re CEO; canonical introduction
-- [[ajit-jain]] — annuity-products launch; "personally accounted for a significant portion of Berkshire's operating earnings"
-- [[ralph-schey]] — Scott Fetzer record year
+- [ajit-jain](../people/ajit-jain.md) — annuity-products launch; "personally accounted for a significant portion of Berkshire's operating earnings"
+- [ralph-schey](../people/ralph-schey.md) — Scott Fetzer record year
 - Arthur Levitt — SEC chairman; September 1998 speech endorsed
 - Frank Rooney — H.H. Brown; introduced Buffett to EJA
 - Susan Jacques — Borsheim's CEO since 1994; joined 1983 at $4/hour
@@ -276,27 +276,27 @@ Berkshire and General Re combined paid (or will soon pay) $2.7B in 1998 federal 
 
 ## Concepts introduced or discussed
 
-- [[float]] — economics-of-P-C-insurance canonical essay (the three determinants); 32-year compound; float-outranks-net-worth claim continued
-- [[super-cat-insurance]] — table continues
-- [[incentive-compensation]] — GEICO seasoned-book + growth design; General Re cash-comp swap; stock-options Part 1
-- [[stock-as-acquisition-currency]] — implicit in the book-value-vs-intrinsic-value warning about share-issuing acquisitions
-- [[intrinsic-value-vs-book-value]] — opening framing
-- [[institutional-imperative]] — earnings-management essay extends the framework into accounting deception
-- [[mistakes-of-omission]] — McDonald's sale added
-- [[capital-allocation]] — Charlie-and-I-do-very-little; activity-does-not-correlate-with-achievement
-- [[acquisition-criteria]] — implicit in the "GEICO environment" pitch
-- [[owner-orientation]] — operating-business mandate (own 100% / sole family asset / no sale for a century)
+- [float](../concepts/float.md) — economics-of-P-C-insurance canonical essay (the three determinants); 32-year compound; float-outranks-net-worth claim continued
+- [super-cat-insurance](../concepts/super-cat-insurance.md) — table continues
+- [incentive-compensation](../concepts/incentive-compensation.md) — GEICO seasoned-book + growth design; General Re cash-comp swap; stock-options Part 1
+- [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md) — implicit in the book-value-vs-intrinsic-value warning about share-issuing acquisitions
+- [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) — opening framing
+- [institutional-imperative](../concepts/institutional-imperative.md) — earnings-management essay extends the framework into accounting deception
+- [mistakes-of-omission](../concepts/mistakes-of-omission.md) — McDonald's sale added
+- [capital-allocation](../concepts/capital-allocation.md) — Charlie-and-I-do-very-little; activity-does-not-correlate-with-achievement
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — implicit in the "GEICO environment" pitch
+- [owner-orientation](../concepts/owner-orientation.md) — operating-business mandate (own 100% / sole family asset / no sale for a century)
 - Stock-options-as-expense (no page yet) — Part 1
 - Earnings management / restructuring charges (no page yet) — Part 2; "Son of Gresham"
 
 ## Connections to other sources
 
-- The General Re acquisition is a transformative extension of the [[float]] arc canonized in [[berkshire-1990-letter]] and formalized as float-as-equity in [[berkshire-1995-letter]]; yearend float jumps from $7.1B to $22.8B.
-- The economics-of-P-C-insurance essay (amount/cost/long-term outlook) is the canonical articulation of the framework first sketched in [[berkshire-1990-letter]].
-- The reinsurance-paradox framing extends the [[super-cat-insurance]] essay of [[berkshire-1989-letter]] and [[berkshire-1990-letter]]: the same volatility-absorption that defines the business is penalized by markets unless held by a permanent-capital owner.
-- The "GEICO environment" CEO pitch extends and operationalizes the [[acquisition-criteria]] published since [[berkshire-1982-letter]] — making explicit why first-class operators stay productive under Berkshire ownership.
-- The stock-options-as-expense essay extends and reasserts the [[berkshire-1992-letter]] canonical articulation, now sharpened by the General Re cash-comp swap as a controlled experiment.
-- The earnings-management essay extends the [[institutional-imperative]] framework of [[berkshire-1989-letter]] into accounting deception, and parallels the 1980s "bold imaginative accounting" critique.
-- The McDonald's sale joins the [[mistakes-of-omission]] catalog tracked through [[berkshire-1989-letter]] (Fannie Mae), [[berkshire-1994-letter]] (Cap Cities), and [[berkshire-1995-letter]] (Disney 1967).
-- GEICO's growth trajectory continues the arc from the 100% acquisition closed in [[berkshire-1995-letter]] — Tony Nicely's first three full years under Berkshire ownership validate the "GEICO environment" thesis empirically.
-- The look-through-earnings deferral signals the only break in the canonical [[look-through-earnings]] table maintained since [[berkshire-1980-letter]].
+- The General Re acquisition is a transformative extension of the [float](../concepts/float.md) arc canonized in [berkshire-1990-letter](berkshire-1990-letter.md) and formalized as float-as-equity in [berkshire-1995-letter](berkshire-1995-letter.md); yearend float jumps from $7.1B to $22.8B.
+- The economics-of-P-C-insurance essay (amount/cost/long-term outlook) is the canonical articulation of the framework first sketched in [berkshire-1990-letter](berkshire-1990-letter.md).
+- The reinsurance-paradox framing extends the [super-cat-insurance](../concepts/super-cat-insurance.md) essay of [berkshire-1989-letter](berkshire-1989-letter.md) and [berkshire-1990-letter](berkshire-1990-letter.md): the same volatility-absorption that defines the business is penalized by markets unless held by a permanent-capital owner.
+- The "GEICO environment" CEO pitch extends and operationalizes the [acquisition-criteria](../concepts/acquisition-criteria.md) published since [berkshire-1982-letter](berkshire-1982-letter.md) — making explicit why first-class operators stay productive under Berkshire ownership.
+- The stock-options-as-expense essay extends and reasserts the [berkshire-1992-letter](berkshire-1992-letter.md) canonical articulation, now sharpened by the General Re cash-comp swap as a controlled experiment.
+- The earnings-management essay extends the [institutional-imperative](../concepts/institutional-imperative.md) framework of [berkshire-1989-letter](berkshire-1989-letter.md) into accounting deception, and parallels the 1980s "bold imaginative accounting" critique.
+- The McDonald's sale joins the [mistakes-of-omission](../concepts/mistakes-of-omission.md) catalog tracked through [berkshire-1989-letter](berkshire-1989-letter.md) (Fannie Mae), [berkshire-1994-letter](berkshire-1994-letter.md) (Cap Cities), and [berkshire-1995-letter](berkshire-1995-letter.md) (Disney 1967).
+- GEICO's growth trajectory continues the arc from the 100% acquisition closed in [berkshire-1995-letter](berkshire-1995-letter.md) — Tony Nicely's first three full years under Berkshire ownership validate the "GEICO environment" thesis empirically.
+- The look-through-earnings deferral signals the only break in the canonical [look-through-earnings](../concepts/look-through-earnings.md) table maintained since [berkshire-1980-letter](berkshire-1980-letter.md).

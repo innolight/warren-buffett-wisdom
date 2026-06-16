@@ -8,22 +8,22 @@ author: warren-buffett
 year: 1994
 raw_path: raw/berkshire-letters/1994.md
 tags: [berkshire, annual-letter, scott-fetzer-case-study, compensation, usair-mistake, capital-allocation, american-express]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[scott-fetzer]], [[ralph-schey]], [[intrinsic-value-vs-book-value]], [[incentive-compensation]], [[usair]], [[charlie-munger]], [[coca-cola]], [[american-express]], [[capital-cities]], [[gillette]], [[geico]], [[washington-post]], [[wells-fargo]], [[salomon]], [[national-indemnity]], [[ben-graham]], [[ajit-jain]], [[carl-reichardt]], [[roberto-goizueta]], [[mistakes-of-omission]], [[volatility-as-opportunity]], [[float]], [[concentration-vs-diversification]], [[capital-allocation]]
+related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [scott-fetzer](../entities/scott-fetzer.md), [ralph-schey](../people/ralph-schey.md), [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md), [incentive-compensation](../concepts/incentive-compensation.md), [usair](../entities/usair.md), [charlie-munger](../people/charlie-munger.md), [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md), [capital-cities](../entities/capital-cities.md), [gillette](../entities/gillette.md), [geico](../entities/geico.md), [washington-post](../entities/washington-post.md), [wells-fargo](../entities/wells-fargo.md), [salomon](../entities/salomon.md), [national-indemnity](../entities/national-indemnity.md), [ben-graham](../people/ben-graham.md), [ajit-jain](../people/ajit-jain.md), [carl-reichardt](../people/carl-reichardt.md), [roberto-goizueta](../people/roberto-goizueta.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md), [volatility-as-opportunity](../concepts/volatility-as-opportunity.md), [float](../concepts/float.md), [concentration-vs-diversification](../concepts/concentration-vs-diversification.md), [capital-allocation](../concepts/capital-allocation.md)
 ---
 
 # Berkshire Hathaway 1994 Annual Letter
 
-Dated March 7, 1995. Per-share book value up 13.9% to $10,083. The headline 1994 events: Coca-Cola addition to 100M shares; major American Express position built; Cap Cities increased; USAir writedown ($269M to 25% of par); Carl Reichardt and Dan Burke retire. Canonical essays: the **[[scott-fetzer]] accounting case study** of intrinsic-value-vs-book-value divergence, the **compensation essay** centered on [[ralph-schey]], the **capital-allocation essay** with the MBA / day-laborer analogy, and the **[[usair]] post-mortem** with the "unforced error" framing fully developed.
+Dated March 7, 1995. Per-share book value up 13.9% to $10,083. The headline 1994 events: Coca-Cola addition to 100M shares; major American Express position built; Cap Cities increased; USAir writedown ($269M to 25% of par); Carl Reichardt and Dan Burke retire. Canonical essays: the **[scott-fetzer](../entities/scott-fetzer.md) accounting case study** of intrinsic-value-vs-book-value divergence, the **compensation essay** centered on [ralph-schey](../people/ralph-schey.md), the **capital-allocation essay** with the MBA / day-laborer analogy, and the **[usair](../entities/usair.md) post-mortem** with the "unforced error" framing fully developed.
 
 ## Key themes
 
 - **Scott Fetzer case study.** Eight-year intrinsic-value-vs-book-value analysis. Book value declined from $172.6M (1986) to $94M (1994) through distributions exceeding earnings, while pre-tax earnings nearly doubled. The intrinsic-value-vs-carrying-value gap is "now huge."
 - **Compensation essay (Ralph Schey).** Five-minute agreement; symmetric incentives (capital charge for incremental capital deployed, equal credit for capital released); never amended. The structural critique of typical "alignment" plans as "heads I win, tails you lose."
 - **Capital allocation essay.** MBA / day-laborer analogy. "Animal spirits" CEOs. "Chain letter in reverse" (John Medlin, Wachovia). The interior-decorator analogy. Wayne Gretzky's "go to where the puck is going to be."
-- **USAir post-mortem.** Full "unforced error" framing. [[commodity-business-economics]] with regulatory lag. "You don't have to make it back the way that you lost it." $269M writedown to $89.5M (25% of par); dividend suspended September 1994; Buffett/Munger resign from board.
-- **[[coca-cola]] to 100M shares.** Cost $1.298B; market $5.15B at yearend.
-- **[[american-express]] major addition.** 27.76M shares; cost $723.9M; ~5.5% of company.
-- **[[capital-cities]] increased.** From 2M to 20M shares (3-for-1 split adjustment). Cost $345M; market $1.705B.
+- **USAir post-mortem.** Full "unforced error" framing. [commodity-business-economics](../concepts/commodity-business-economics.md) with regulatory lag. "You don't have to make it back the way that you lost it." $269M writedown to $89.5M (25% of par); dividend suspended September 1994; Buffett/Munger resign from board.
+- **[coca-cola](../entities/coca-cola.md) to 100M shares.** Cost $1.298B; market $5.15B at yearend.
+- **[american-express](../entities/american-express.md) major addition.** 27.76M shares; cost $723.9M; ~5.5% of company.
+- **[capital-cities](../entities/capital-cities.md) increased.** From 2M to 20M shares (3-for-1 split adjustment). Cost $345M; market $1.705B.
 - **Mistake du jour (Cap Cities 1993 sale).** Sold 10M at $63 in late 1993; year-end 1994 price $85.25. $222.5M of damage by then.
 - **PNC Bank Corporation, Gannett added.**
 
@@ -79,27 +79,27 @@ Book value declined ($172.6M → $94M) while earnings climbed ($40M → $79M). C
 
 Eight years of purchase-premium write-down brought the carrying value down to $148.2M (Scott Fetzer's $94M book + $54.2M unamortized premium). Intrinsic value vastly exceeds carrying value. The Scott Fetzer story is the canonical illustration of how accounting earnings systematically understate economic earnings for high-Goodwill businesses.
 
-See [[intrinsic-value-vs-book-value]] and [[ralph-schey]].
+See [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) and [ralph-schey](../people/ralph-schey.md).
 
 ## Compensation essay
 
-The Schey arrangement: bonuses tied to Scott Fetzer results (not [[berkshire-hathaway]]'s); high charge for incremental capital used; equal credit for capital released. Symmetric. Five-minute agreement at the time of acquisition. Unchanged through 1994.
+The Schey arrangement: bonuses tied to Scott Fetzer results (not [berkshire-hathaway](../entities/berkshire-hathaway.md)'s); high charge for incremental capital used; equal credit for capital released. Symmetric. Five-minute agreement at the time of acquisition. Unchanged through 1994.
 
 The structural critique of typical stock-option plans: ten-year options at fixed prices, with low dividend payouts that build up the value of the company through retained earnings — provide "lush gains to a manager who has done no more than tread water in his job."
 
 "In our book, alignment means being a partner in both directions, not just on the upside. Many 'alignment' plans flunk this basic test, being artful forms of 'heads I win, tails you lose.'"
 
-See [[incentive-compensation]].
+See [incentive-compensation](../concepts/incentive-compensation.md).
 
 ## Capital allocation essay
 
-The [[stock-as-acquisition-currency]] MBA / day-laborer share-swap analogy: a young MBA student with high future earnings would dramatically boost current-year earnings by merging with a day laborer of equal current earnings — and would obviously be making a terrible decision.
+The [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md) MBA / day-laborer share-swap analogy: a young MBA student with high future earnings would dramatically boost current-year earnings by merging with a day laborer of equal current earnings — and would obviously be making a terrible decision.
 
 The "interior decorator" framing: CEOs ask consultants and bankers whether acquisitions make sense; the advisor's incentive is to find a deal. Wayne Gretzky's "go to where the puck is going to be" as the guiding principle.
 
 The "chain letter in reverse" (John Medlin, retired Wachovia head): doing destruction-of-intrinsic-value acquisitions enough times eventually undoes all the value built.
 
-See [[capital-allocation]].
+See [capital-allocation](../concepts/capital-allocation.md).
 
 ## USAir post-mortem
 
@@ -111,17 +111,17 @@ Full "unforced error" essay. $358M preferred written down to $89.5M (25% of par)
 
 "This principle should have been obvious to your Chairman, but I missed it."
 
-Buffett and [[charlie-munger]] resign from USAir board.
+Buffett and [charlie-munger](../people/charlie-munger.md) resign from USAir board.
 
-See [[usair]].
+See [usair](../entities/usair.md).
 
 ## Mistake du jour: Cap Cities 1993 sale
 
-Sold 10M shares at $63 in late 1993; yearend 1994 price $85.25. $222.5M of foregone gain by then. The full cost in [[disney]] shares only revealed in 1995.
+Sold 10M shares at $63 in late 1993; yearend 1994 price $85.25. $222.5M of foregone gain by then. The full cost in [disney](../entities/disney.md) shares only revealed in 1995.
 
 "When we purchased the stock at $17.25 in 1986, I told you that I had previously sold our Cap Cities holdings at $4.30 per share during 1978-80, and added that I was at a loss to explain my earlier behavior. Now I've become a repeat offender."
 
-See [[mistakes-of-omission]].
+See [mistakes-of-omission](../concepts/mistakes-of-omission.md).
 
 ## Portfolio (yearend 1994)
 
@@ -146,43 +146,43 @@ Significant additions: American Express (PERC converted, common added), Cap Citi
 | ---: | ---: | ---: | ---: | ---: |
 | 1994 | profit | $3,056.6M | less than zero | 7.88% |
 
-Second consecutive year of negative cost of [[float]]. [[super-cat-insurance]] lucky again; Los Angeles earthquake losses "nominal" (if had been 7.5 instead of 6.8 would have been different story). Berkshire's worst-case super-cat loss now ~$600M after-tax.
+Second consecutive year of negative cost of [float](../concepts/float.md). [super-cat-insurance](../concepts/super-cat-insurance.md) lucky again; Los Angeles earthquake losses "nominal" (if had been 7.5 instead of 6.8 would have been different story). Berkshire's worst-case super-cat loss now ~$600M after-tax.
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[scott-fetzer]] — case study
-- [[coca-cola]], [[american-express]], [[capital-cities]], [[gillette]], [[geico]], [[washington-post]], [[wells-fargo]] — major portfolio
-- [[usair]] — full post-mortem
-- [[salomon]] — held
-- [[national-indemnity]] — super-cat platform
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [scott-fetzer](../entities/scott-fetzer.md) — case study
+- [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md), [capital-cities](../entities/capital-cities.md), [gillette](../entities/gillette.md), [geico](../entities/geico.md), [washington-post](../entities/washington-post.md), [wells-fargo](../entities/wells-fargo.md) — major portfolio
+- [usair](../entities/usair.md) — full post-mortem
+- [salomon](../entities/salomon.md) — held
+- [national-indemnity](../entities/national-indemnity.md) — super-cat platform
 
 ## People mentioned
 
-- [[warren-buffett]], [[charlie-munger]], [[ben-graham]]
-- [[ralph-schey]] — Scott Fetzer; compensation essay
-- [[ajit-jain]] — super-cat
-- [[carl-reichardt]] — Wells Fargo retirement
+- [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [ben-graham](../people/ben-graham.md)
+- [ralph-schey](../people/ralph-schey.md) — Scott Fetzer; compensation essay
+- [ajit-jain](../people/ajit-jain.md) — super-cat
+- [carl-reichardt](../people/carl-reichardt.md) — Wells Fargo retirement
 - Dan Burke — Cap Cities retirement
 - Tom Murphy, Roberto Goizueta — referenced
 - Ted Williams, Wayne Gretzky — quoted
 
 ## Concepts introduced or discussed
 
-- [[intrinsic-value-vs-book-value]] — **Scott Fetzer case study**
-- [[incentive-compensation]] — **canonical compensation essay**
-- [[capital-allocation]] — **canonical capital-allocation essay**
-- [[mistakes-of-omission]] — Cap Cities sale
-- [[volatility-as-opportunity]] — "fear is friend of fundamentalist"
-- [[float]] — table continues; second negative-cost year
-- [[concentration-vs-diversification]] — Ted Williams "happy zone"; $100M minimum
+- [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) — **Scott Fetzer case study**
+- [incentive-compensation](../concepts/incentive-compensation.md) — **canonical compensation essay**
+- [capital-allocation](../concepts/capital-allocation.md) — **canonical capital-allocation essay**
+- [mistakes-of-omission](../concepts/mistakes-of-omission.md) — Cap Cities sale
+- [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — "fear is friend of fundamentalist"
+- [float](../concepts/float.md) — table continues; second negative-cost year
+- [concentration-vs-diversification](../concepts/concentration-vs-diversification.md) — Ted Williams "happy zone"; $100M minimum
 
 ## Connections to other sources
 
-- The Scott Fetzer case study extends and operationalizes the [[intrinsic-value-vs-book-value]] concept first articulated in [[berkshire-1983-letter]].
-- The compensation essay extends the 1985 incentive-compensation essay (savings-account analogy) of [[berkshire-1985-letter]].
-- The capital-allocation essay extends the canonical 1987 essay of [[berkshire-1987-letter]].
-- The USAir post-mortem completes the "unforced error" admission of [[berkshire-1990-letter]].
-- "Fear is friend of fundamentalist" extends the food-prices analogy of [[berkshire-1990-letter]].
-- The USAir commodity-business analysis is the negative case study for the franchise-vs-business framework canonically introduced in [[berkshire-1991-letter]]: USAir is the paradigmatic "business" (not a franchise) unable to raise prices or lower costs, confirming the framework's predictive power.
-- The compensation essay's critique of option-plan misalignment parallels the owner-orientation principles first articulated at Berkshire's NYSE listing in [[berkshire-1988-letter]], showing how misaligned incentives corrode manager focus over time.
+- The Scott Fetzer case study extends and operationalizes the [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) concept first articulated in [berkshire-1983-letter](berkshire-1983-letter.md).
+- The compensation essay extends the 1985 incentive-compensation essay (savings-account analogy) of [berkshire-1985-letter](berkshire-1985-letter.md).
+- The capital-allocation essay extends the canonical 1987 essay of [berkshire-1987-letter](berkshire-1987-letter.md).
+- The USAir post-mortem completes the "unforced error" admission of [berkshire-1990-letter](berkshire-1990-letter.md).
+- "Fear is friend of fundamentalist" extends the food-prices analogy of [berkshire-1990-letter](berkshire-1990-letter.md).
+- The USAir commodity-business analysis is the negative case study for the franchise-vs-business framework canonically introduced in [berkshire-1991-letter](berkshire-1991-letter.md): USAir is the paradigmatic "business" (not a franchise) unable to raise prices or lower costs, confirming the framework's predictive power.
+- The compensation essay's critique of option-plan misalignment parallels the owner-orientation principles first articulated at Berkshire's NYSE listing in [berkshire-1988-letter](berkshire-1988-letter.md), showing how misaligned incentives corrode manager focus over time.

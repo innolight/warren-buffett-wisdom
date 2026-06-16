@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1990
 raw_path: raw/berkshire-letters/1990.md
 tags: [berkshire, annual-letter, cost-of-float, wells-fargo, super-cat, look-through-earnings, junk-bonds]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[wells-fargo]], [[float]], [[super-cat-insurance]], [[volatility-as-opportunity]], [[charlie-munger]], [[capital-cities]], [[geico]], [[washington-post]], [[coca-cola]], [[salomon]], [[gillette]], [[usair]], [[national-indemnity]], [[ben-graham]], [[carl-reichardt]], [[ajit-jain]], [[colman-mockler]], [[lou-simpson]], [[margin-of-safety]], [[look-through-earnings]], [[franchise-vs-business]]
+related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [wells-fargo](../entities/wells-fargo.md), [float](../concepts/float.md), [super-cat-insurance](../concepts/super-cat-insurance.md), [volatility-as-opportunity](../concepts/volatility-as-opportunity.md), [charlie-munger](../people/charlie-munger.md), [capital-cities](../entities/capital-cities.md), [geico](../entities/geico.md), [washington-post](../entities/washington-post.md), [coca-cola](../entities/coca-cola.md), [salomon](../entities/salomon.md), [gillette](../entities/gillette.md), [usair](../entities/usair.md), [national-indemnity](../entities/national-indemnity.md), [ben-graham](../people/ben-graham.md), [carl-reichardt](../people/carl-reichardt.md), [ajit-jain](../people/ajit-jain.md), [colman-mockler](../people/colman-mockler.md), [lou-simpson](../people/lou-simpson.md), [margin-of-safety](../concepts/margin-of-safety.md), [look-through-earnings](../concepts/look-through-earnings.md), [franchise-vs-business](../concepts/franchise-vs-business.md)
 ---
 
 # Berkshire Hathaway 1990 Annual Letter
@@ -17,9 +17,9 @@ Dated March 1, 1991. Net worth up $362M (7.3%) after closing the year strongly �
 
 ## Key themes
 
-- **Cost-of-float framework formalized.** The "Measuring Insurance Performance" section introduces the table of underwriting loss vs. average float vs. cost of funds vs. long-term government bond yield — 1967 through 1990. The framework: a low cost of funds signifies a good insurance business; a high cost translates into a poor business. The table becomes recurring in every subsequent letter. See [[float]] and [[cost-of-float]] (concept folded into [[float]]).
-- **Wells Fargo accumulation.** 5M shares purchased for $289M; ~10% of company (legal maximum without Fed approval). The bank-stock panic and California real-estate fears used as opportunity. Reichardt/Hazen pairing introduced with the Murphy/Burke comparison. See [[wells-fargo]] and [[carl-reichardt]].
-- **The food-prices analogy.** The canonical [[volatility-as-opportunity]] framing: lifelong buyers of equities should welcome lower prices the way consumers welcome lower food prices.
+- **Cost-of-float framework formalized.** The "Measuring Insurance Performance" section introduces the table of underwriting loss vs. average float vs. cost of funds vs. long-term government bond yield — 1967 through 1990. The framework: a low cost of funds signifies a good insurance business; a high cost translates into a poor business. The table becomes recurring in every subsequent letter. See [float](../concepts/float.md) and [cost-of-float](../concepts/cost-of-float.md) (concept folded into [float](../concepts/float.md)).
+- **Wells Fargo accumulation.** 5M shares purchased for $289M; ~10% of company (legal maximum without Fed approval). The bank-stock panic and California real-estate fears used as opportunity. Reichardt/Hazen pairing introduced with the Murphy/Burke comparison. See [wells-fargo](../entities/wells-fargo.md) and [carl-reichardt](../people/carl-reichardt.md).
+- **The food-prices analogy.** The canonical [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) framing: lifelong buyers of equities should welcome lower prices the way consumers welcome lower food prices.
 - **"Look-through" earnings formalized.** The calculation method (operating earnings + share of investee retained earnings - hypothetical tax) is laid out explicitly for the first time as a table.
 - **Super-cat business framework.** The "lumpy 15% vs. smooth 12%"; the $100M-in / ~$100M-or-$300M-out asymmetry; "light a candle for us" when a major catastrophe occurs.
 - **Junk-bond critique.** Extended essay; "dagger on the steering wheel"; the margin-of-safety reaffirmation. The kill-em-at-birth Tampa television-station example. The fallen-angel vs. junk-bond distinction.
@@ -54,23 +54,23 @@ The canonical Berkshire insurance scorecard. By 1990: average float $1.637B, und
 1. "The fat lady has yet to gargle, let alone sing" — true 1967-90 cost of funds won't be known until all loss reserves settle decades later.
 2. The value of float to shareholders is somewhat undercut by the tax penalty on indirect investment income (~1 percentage point).
 
-The conceptual reframing: a float-generating business is positive-value if cost (with tax penalty) is below alternative funding costs; negative-value otherwise. [[geico]] is the dramatic example — operating at an underwriting profit, so policyholders effectively pay GEICO interest on the float.
+The conceptual reframing: a float-generating business is positive-value if cost (with tax penalty) is below alternative funding costs; negative-value otherwise. [geico](../entities/geico.md) is the dramatic example — operating at an underwriting profit, so policyholders effectively pay GEICO interest on the float.
 
 ## Wells Fargo accumulation
 
 5,000,000 shares; cost $289.4M; market $289.4M at yearend. ~10% ownership; one-sixth bought 1989, rest in 1990 panic. Bank stock down nearly 50% within months on California real-estate fears.
 
-The Reichardt/Hazen pairing introduced explicitly as analogous to [[tom-murphy|Murphy]]/Burke at [[capital-cities|Cap Cities]]. Four shared characteristics: each pair stronger than sum of parts; pay able people well but lean on head count; attack costs as vigorously at record profits as under pressure; stay within understanding.
+The Reichardt/Hazen pairing introduced explicitly as analogous to [Murphy](../people/tom-murphy.md)/Burke at [Cap Cities](../entities/capital-cities.md). Four shared characteristics: each pair stronger than sum of parts; pay able people well but lean on head count; attack costs as vigorously at record profits as under pressure; stay within understanding.
 
 The published worst-case: 10% of all $48B of bank loans hit by problems with 30% loss severity → company breaks even. "A year like that — which we consider only a low-level possibility, not a likelihood — would not distress us."
 
-See [[wells-fargo]] and [[carl-reichardt]].
+See [wells-fargo](../entities/wells-fargo.md) and [carl-reichardt](../people/carl-reichardt.md).
 
 ## The food-prices analogy
 
 > Knowing they are forever going to be buyers of food, they welcome falling prices and deplore price increases. (It's the seller of food who doesn't like declining prices.) Similarly, at the Buffalo News we would cheer lower prices for newsprint … We will be buying businesses — or small parts of businesses, called stocks — year in, year out as long as I live (and longer, if Berkshire's directors attend the seances I have scheduled). Given these intentions, declining prices for businesses benefit us, and rising prices hurt us.
 
-See [[volatility-as-opportunity]].
+See [volatility-as-opportunity](../concepts/volatility-as-opportunity.md).
 
 ## Super-cat business framework
 
@@ -78,7 +78,7 @@ $100M in annual premium → either ~$100M profit (no major catastrophe) or $200M
 
 "At the moment, we believe Berkshire to be the largest U.S. writer of super-cat business. So when a major quake occurs in an urban area or a winter storm rages across Europe, light a candle for us."
 
-The structural rationale: most insurers cannot tolerate the swings (or fear shareholder reaction to them); Berkshire's shareholder communication discipline and capital strength can. See [[super-cat-insurance]].
+The structural rationale: most insurers cannot tolerate the swings (or fear shareholder reaction to them); Berkshire's shareholder communication discipline and capital strength can. See [super-cat-insurance](../concepts/super-cat-insurance.md).
 
 ## Junk-bond essay
 
@@ -88,7 +88,7 @@ The flawed academic argument: junk bonds compared to fallen-angel default histor
 
 The fallen-angel manager wants to return to investment grade; the junk-bond manager is in pursuit of the next fix.
 
-The principle reaffirmed: margin of safety. The dagger-thesis rebuttal. See [[margin-of-safety]].
+The principle reaffirmed: margin of safety. The dagger-thesis rebuttal. See [margin-of-safety](../concepts/margin-of-safety.md).
 
 RJR Nabisco bonds: $440M position at yearend; "the most attractive bond investment available to us" at distressed prices.
 
@@ -107,7 +107,7 @@ USAir admitted as "unforced error." The 1994 fully-developed post-mortem builds 
 
 Position untouched; market value $2.17B vs. cost $1.02B. Reaffirmed as permanent holding.
 
-Cap Cities and Washington Post both decline (media-industry secular concerns); Coca-Cola rises. The 1991 letter develops the [[franchise-vs-business]] reframing that comes out of this divergence.
+Cap Cities and Washington Post both decline (media-industry secular concerns); Coca-Cola rises. The 1991 letter develops the [franchise-vs-business](../concepts/franchise-vs-business.md) reframing that comes out of this divergence.
 
 ## Permanent four reframed
 
@@ -115,39 +115,39 @@ The "permanent four": Cap Cities, Coca-Cola, GEICO, Washington Post. (Wells Farg
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[wells-fargo]] — new major position
-- [[capital-cities]], [[geico]], [[washington-post]], [[coca-cola]] — permanent four
-- [[salomon]], [[gillette]], [[usair]] — convertible preferreds
-- [[national-indemnity]] — super-cat platform
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [wells-fargo](../entities/wells-fargo.md) — new major position
+- [capital-cities](../entities/capital-cities.md), [geico](../entities/geico.md), [washington-post](../entities/washington-post.md), [coca-cola](../entities/coca-cola.md) — permanent four
+- [salomon](../entities/salomon.md), [gillette](../entities/gillette.md), [usair](../entities/usair.md) — convertible preferreds
+- [national-indemnity](../entities/national-indemnity.md) — super-cat platform
 - Sainted Seven Plus One
 
 ## People mentioned
 
-- [[warren-buffett]], [[charlie-munger]], [[ben-graham]]
-- [[carl-reichardt]] — Wells Fargo; canonical introduction
-- [[ajit-jain]] — super-cat (continued)
-- [[colman-mockler]] — Gillette obituary
-- [[lou-simpson]] — GEICO investments
-- Paul Hazen — Wells Fargo president (folded into [[wells-fargo]])
-- Ed Colodny, Seth Schofield — USAir (folded into [[usair]])
+- [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [ben-graham](../people/ben-graham.md)
+- [carl-reichardt](../people/carl-reichardt.md) — Wells Fargo; canonical introduction
+- [ajit-jain](../people/ajit-jain.md) — super-cat (continued)
+- [colman-mockler](../people/colman-mockler.md) — Gillette obituary
+- [lou-simpson](../people/lou-simpson.md) — GEICO investments
+- Paul Hazen — Wells Fargo president (folded into [wells-fargo](../entities/wells-fargo.md))
+- Ed Colodny, Seth Schofield — USAir (folded into [usair](../entities/usair.md))
 
 ## Concepts introduced or discussed
 
-- [[float]] — **cost-of-float framework canonized**
-- [[volatility-as-opportunity]] — canonical food-prices analogy
-- [[margin-of-safety]] — canonical Graham-quote reaffirmation
-- [[look-through-earnings]] — explicit calculation table
-- [[super-cat-insurance]] — formal essay
-- [[institutional-imperative]] — implicit in banking discussion
-- [[franchise-vs-business]] — anticipated in media-industry observations
+- [float](../concepts/float.md) — **cost-of-float framework canonized**
+- [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — canonical food-prices analogy
+- [margin-of-safety](../concepts/margin-of-safety.md) — canonical Graham-quote reaffirmation
+- [look-through-earnings](../concepts/look-through-earnings.md) — explicit calculation table
+- [super-cat-insurance](../concepts/super-cat-insurance.md) — formal essay
+- [institutional-imperative](../concepts/institutional-imperative.md) — implicit in banking discussion
+- [franchise-vs-business](../concepts/franchise-vs-business.md) — anticipated in media-industry observations
 
 ## Connections to other sources
 
-- The cost-of-float table extends and operationalizes the [[float]] framework from 1977-onward.
-- Wells Fargo accumulation is the operational embodiment of the [[volatility-as-opportunity]] principle articulated for the first time in this letter.
-- Junk-bond critique extends the zero-coupon-bond essay of [[berkshire-1989-letter]].
-- USAir "unforced error" admission becomes the full post-mortem in [[berkshire-1994-letter]].
+- The cost-of-float table extends and operationalizes the [float](../concepts/float.md) framework from 1977-onward.
+- Wells Fargo accumulation is the operational embodiment of the [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) principle articulated for the first time in this letter.
+- Junk-bond critique extends the zero-coupon-bond essay of [berkshire-1989-letter](berkshire-1989-letter.md).
+- USAir "unforced error" admission becomes the full post-mortem in [berkshire-1994-letter](berkshire-1994-letter.md).
 - Super-cat framework established here is restated in every subsequent letter through 1995.
-- The Wells Fargo rationale turns explicitly on the [[institutional-imperative]] — "lemming-like zeal" of peer-following banks — first formally named in [[berkshire-1989-letter]]; this letter provides the clearest positive illustration (a bank that avoided it).
-- The look-through earnings table introduced here is picked up in [[berkshire-1991-letter]] as a standing annual feature and becomes the lens for evaluating Berkshire's Coca-Cola and Capital Cities stakes.
+- The Wells Fargo rationale turns explicitly on the [institutional-imperative](../concepts/institutional-imperative.md) — "lemming-like zeal" of peer-following banks — first formally named in [berkshire-1989-letter](berkshire-1989-letter.md); this letter provides the clearest positive illustration (a bank that avoided it).
+- The look-through earnings table introduced here is picked up in [berkshire-1991-letter](berkshire-1991-letter.md) as a standing annual feature and becomes the lens for evaluating Berkshire's Coca-Cola and Capital Cities stakes.

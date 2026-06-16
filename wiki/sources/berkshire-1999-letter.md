@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1999
 raw_path: raw/berkshire-letters/1999.md
 tags: [berkshire, annual-letter, dot-com-critique, circle-of-competence, jordans, midamerican, general-re-loss, geico-growth, share-repurchases, acquisition-accounting]
-related: [[warren-buffett]], [[charlie-munger]], [[berkshire-hathaway]], [[geico]], [[sees-candies]], [[gillette]], [[coca-cola]], [[american-express]], [[washington-post]], [[wells-fargo]], [[capital-cities]], [[salomon]], [[scott-fetzer]], [[national-indemnity]], [[disney]], [[usair]], [[ajit-jain]], [[lou-simpson]], [[lorimer-davidson]], [[tom-murphy]], [[ralph-schey]], [[rose-blumkin]], [[ben-graham]], [[float]], [[moat]], [[capital-allocation]], [[intrinsic-value-vs-book-value]], [[look-through-earnings]], [[share-repurchases]], [[stock-as-acquisition-currency]], [[mistakes-of-omission]], [[franchise-vs-business]], [[economic-goodwill]], [[concentration-vs-diversification]], [[acquisition-criteria]], [[incentive-compensation]], [[institutional-imperative]], [[super-cat-insurance]]
+related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [sees-candies](../entities/sees-candies.md), [gillette](../entities/gillette.md), [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md), [washington-post](../entities/washington-post.md), [wells-fargo](../entities/wells-fargo.md), [capital-cities](../entities/capital-cities.md), [salomon](../entities/salomon.md), [scott-fetzer](../entities/scott-fetzer.md), [national-indemnity](../entities/national-indemnity.md), [disney](../entities/disney.md), [usair](../entities/usair.md), [ajit-jain](../people/ajit-jain.md), [lou-simpson](../people/lou-simpson.md), [lorimer-davidson](../people/lorimer-davidson.md), [tom-murphy](../people/tom-murphy.md), [ralph-schey](../people/ralph-schey.md), [rose-blumkin](../people/rose-blumkin.md), [ben-graham](../people/ben-graham.md), [float](../concepts/float.md), [moat](../concepts/moat.md), [capital-allocation](../concepts/capital-allocation.md), [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md), [look-through-earnings](../concepts/look-through-earnings.md), [share-repurchases](../concepts/share-repurchases.md), [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md), [franchise-vs-business](../concepts/franchise-vs-business.md), [economic-goodwill](../concepts/economic-goodwill.md), [concentration-vs-diversification](../concepts/concentration-vs-diversification.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [incentive-compensation](../concepts/incentive-compensation.md), [institutional-imperative](../concepts/institutional-imperative.md), [super-cat-insurance](../concepts/super-cat-insurance.md)
 ---
 
 # Berkshire Hathaway 1999 Annual Letter
@@ -17,20 +17,20 @@ Dated March 1, 2000. Per-share book value up just 0.5% to $37,987 — "the worst
 
 ## Key themes
 
-- **The dot-com trough and circle of competence.** Berkshire trailed the S&P badly in 1999 because its largest investees (Coca-Cola, Gillette, American Express, Washington Post, Freddie Mac) lagged a market driven by tech. Buffett restates the discipline directly: Berkshire owns no tech because Buffett and [[charlie-munger]] cannot identify which participants have durable competitive advantages. "Our lack of tech insights … does not distress us." The frame is circle-of-competence, not market timing or contrarianism: stick with what you understand, and accept that others' apparent predictive skill in fast-changing industries may simply be unverified. See [[concentration-vs-diversification]].
+- **The dot-com trough and circle of competence.** Berkshire trailed the S&P badly in 1999 because its largest investees (Coca-Cola, Gillette, American Express, Washington Post, Freddie Mac) lagged a market driven by tech. Buffett restates the discipline directly: Berkshire owns no tech because Buffett and [charlie-munger](../people/charlie-munger.md) cannot identify which participants have durable competitive advantages. "Our lack of tech insights … does not distress us." The frame is circle-of-competence, not market timing or contrarianism: stick with what you understand, and accept that others' apparent predictive skill in fast-changing industries may simply be unverified. See [concentration-vs-diversification](../concepts/concentration-vs-diversification.md).
 - **General Re's $1.4B underwriting loss.** Berkshire's first full year owning General Re produced a "huge — and, I believe, aberrational" underwriting loss; combined with a smaller GEICO underwriting decline, this produced a $1.4B insurance loss and a positive (5.8%) cost of float for the first time in years. $400M of the loss was "welcomed" because it stemmed from business that would deliver exceptional long-duration float; the rest was "decidedly unwelcome." General Re was "extremely underpriced, both domestically and internationally."
-- **GEICO's continued ascent.** Policies-in-force grew from 2.95M (1997) to 4.33M (1999). Marketing spend rose from $33M (1995) to $242M (1999); planned $300-350M for 2000. The compensation system uses two and only two variables: growth in policyholders, and earnings on "seasoned" business (policies in force more than one year) — explicitly *not* including new-business cost. "We say to our associates that we will foot the bill for new business" — a structural commitment to long-duration customer value. See [[geico]] and [[incentive-compensation]].
-- **The "two-column" intrinsic-value table.** Per-share investments rose to $47,339 (from $7,200 in 1989, $577 in 1979, $45 in 1969). Per-share pre-tax operating earnings (ex-investment income) collapsed to *negative* $458.55 — the $500M annual goodwill amortization charge is the structural reason for the gap between intrinsic value and book value. See [[intrinsic-value-vs-book-value]] and [[economic-goodwill]].
-- **The acquisition-accounting essay (purchase vs. pooling).** FASB's proposed elimination of pooling triggers a substantive critique. Buffett agrees pooling is fiction (every merger has an acquirer and an acquiree) but argues mandatory goodwill amortization is equal fiction: in great businesses (See's at 78 years) economic goodwill *grows*, not shrinks. His proposed rule: record purchase price at fair value; carry resulting goodwill as an asset; write it down only when impaired. Embedded sub-point: stock-for-stock acquisitions are "the worst deal of all" tax-wise — no step-up in basis, large subsequent capital-gains exposure. See [[economic-goodwill]] and [[stock-as-acquisition-currency]].
-- **Share-repurchases essay restated for the buy-high era.** The 1970s test (excess capital + stock below intrinsic value, conservatively calculated + full disclosure) is restated. The 1999 critique: buybacks have become "all the rage," now too often executed to support price or offset option-grant dilution. "Buying dollar bills for $1.10 is not good business for those who stick around." Buffett discloses Berkshire considered repurchases when the A shares fell below $45,000 but is deferring action to give shareholders time to review the report. See [[share-repurchases]].
-- **Jordan's Furniture acquired (cash).** Barry and Eliot Tatelman; New England's dominant furniture retailer since 1927. Highest sales-per-square-foot of any major U.S. furniture operation. The Tatelmans paid each employee at least 50¢ per hour worked out of their own pockets ($9M) at closing. Joins NFM (1983), R.C. Willey (1995), and Star (1997) as the fourth referral-chain furniture acquisition, all sourced via prior owners recommending the next. See [[nebraska-furniture-mart]] and [[acquisition-criteria]].
+- **GEICO's continued ascent.** Policies-in-force grew from 2.95M (1997) to 4.33M (1999). Marketing spend rose from $33M (1995) to $242M (1999); planned $300-350M for 2000. The compensation system uses two and only two variables: growth in policyholders, and earnings on "seasoned" business (policies in force more than one year) — explicitly *not* including new-business cost. "We say to our associates that we will foot the bill for new business" — a structural commitment to long-duration customer value. See [geico](../entities/geico.md) and [incentive-compensation](../concepts/incentive-compensation.md).
+- **The "two-column" intrinsic-value table.** Per-share investments rose to $47,339 (from $7,200 in 1989, $577 in 1979, $45 in 1969). Per-share pre-tax operating earnings (ex-investment income) collapsed to *negative* $458.55 — the $500M annual goodwill amortization charge is the structural reason for the gap between intrinsic value and book value. See [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) and [economic-goodwill](../concepts/economic-goodwill.md).
+- **The acquisition-accounting essay (purchase vs. pooling).** FASB's proposed elimination of pooling triggers a substantive critique. Buffett agrees pooling is fiction (every merger has an acquirer and an acquiree) but argues mandatory goodwill amortization is equal fiction: in great businesses (See's at 78 years) economic goodwill *grows*, not shrinks. His proposed rule: record purchase price at fair value; carry resulting goodwill as an asset; write it down only when impaired. Embedded sub-point: stock-for-stock acquisitions are "the worst deal of all" tax-wise — no step-up in basis, large subsequent capital-gains exposure. See [economic-goodwill](../concepts/economic-goodwill.md) and [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md).
+- **Share-repurchases essay restated for the buy-high era.** The 1970s test (excess capital + stock below intrinsic value, conservatively calculated + full disclosure) is restated. The 1999 critique: buybacks have become "all the rage," now too often executed to support price or offset option-grant dilution. "Buying dollar bills for $1.10 is not good business for those who stick around." Buffett discloses Berkshire considered repurchases when the A shares fell below $45,000 but is deferring action to give shareholders time to review the report. See [share-repurchases](../concepts/share-repurchases.md).
+- **Jordan's Furniture acquired (cash).** Barry and Eliot Tatelman; New England's dominant furniture retailer since 1927. Highest sales-per-square-foot of any major U.S. furniture operation. The Tatelmans paid each employee at least 50¢ per hour worked out of their own pockets ($9M) at closing. Joins NFM (1983), R.C. Willey (1995), and Star (1997) as the fourth referral-chain furniture acquisition, all sourced via prior owners recommending the next. See [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) and [acquisition-criteria](../concepts/acquisition-criteria.md).
 - **MidAmerican Energy investment (cash, ~$2B).** Walter Scott (Berkshire director) introduced the deal at a Sun Valley-style conference. Structured to avoid Berkshire gaining voting control under the Public Utility Holding Company Act of 1935: 11% fixed-income security plus a combination of common and exchangeable preferred giving Berkshire just under 10% of voting power but ~76% of equity interest. David Sokol named as the operating leader Buffett evaluated. Foreshadows further utility commitments: "If we do, the amounts involved could be large."
-- **Anti-investment-banker stance hardened.** The "book" satire (Superman-as-acquiree, "Lois Lane" CEOs swooning); the Scott Fetzer 1985 anecdote retold; "carefully-crafted acquisition strategy is simply to wait for the phone to ring." The cash-vs-stock preference is stated explicitly: both 1999 acquisitions were cash, no shares issued. See [[acquisition-criteria]] and [[stock-as-acquisition-currency]].
+- **Anti-investment-banker stance hardened.** The "book" satire (Superman-as-acquiree, "Lois Lane" CEOs swooning); the Scott Fetzer 1985 anecdote retold; "carefully-crafted acquisition strategy is simply to wait for the phone to ring." The cash-vs-stock preference is stated explicitly: both 1999 acquisitions were cash, no shares issued. See [acquisition-criteria](../concepts/acquisition-criteria.md) and [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md).
 - **R.C. Willey Boise / Bill Child story.** Bill Child personally bought the land and built the Boise store at his own cost ($9M), with the arrangement that if successful Berkshire would buy it at his cost, and if not, Berkshire could walk away leaving him with the loss. The store succeeded; Bill transferred the property at cost and refused interest on his tied-up capital for two years. Bill kept R.C. Willey closed on Sundays per his Mormon convictions; sales grew from $250,000 (1954) to $342M (1999). Canonical managerial-character story.
 - **Aviation services: FlightSafety + Executive Jet (NetJets).** Two contrasting capital profiles. FSI: 222 simulators at up to $15M each; $215M of capex in 1999; requires high operating margins. EJA: customer owns the equipment ($2B in customer-owned planes; $4.2B on order); modest pre-tax margins can produce good ROEs; supply-constrained at ~8% of all business jets manufactured worldwide; recurring revenues up 46%. Al Ueltschi (FSI) and Rich Santulli (EJA) as the founder-managers; both wealthy, neither needs to work. "Buy a fraction, get a fleet" — the scale-economics framing for the fractional industry.
-- **See's at 78 years; "Huggins' Law."** Pre-tax earnings since 1972 acquisition: $857M cumulative on $25M cost, with very little additional capital required. 24% operating margin in 1999. The "Huggins' Law" joke: pre-tax profit in millions = Chuck Huggins's age — was 10% of his age (46) at the 1972 acquisition; now 100% of his age (74). See [[sees-candies]] and [[economic-goodwill]].
-- **Look-through earnings: $1.926B.** Reported operating earnings $1.318B + $707M share of undistributed investee earnings − $99M hypothetical tax (14% rate). See [[look-through-earnings]].
-- **Davidson dies at 97.** Lorimer Davidson — "Davy" — GEICO's former chairman, died in November 1999. Buffett, Tony Nicely, and Lou Simpson had visited him in August. "For me, he was a friend, teacher and hero." See [[lorimer-davidson]].
+- **See's at 78 years; "Huggins' Law."** Pre-tax earnings since 1972 acquisition: $857M cumulative on $25M cost, with very little additional capital required. 24% operating margin in 1999. The "Huggins' Law" joke: pre-tax profit in millions = Chuck Huggins's age — was 10% of his age (46) at the 1972 acquisition; now 100% of his age (74). See [sees-candies](../entities/sees-candies.md) and [economic-goodwill](../concepts/economic-goodwill.md).
+- **Look-through earnings: $1.926B.** Reported operating earnings $1.318B + $707M share of undistributed investee earnings − $99M hypothetical tax (14% rate). See [look-through-earnings](../concepts/look-through-earnings.md).
+- **Davidson dies at 97.** Lorimer Davidson — "Davy" — GEICO's former chairman, died in November 1999. Buffett, Tony Nicely, and Lou Simpson had visited him in August. "For me, he was a friend, teacher and hero." See [lorimer-davidson](../people/lorimer-davidson.md).
 - **Market outlook: durable bearishness on equities.** The enclosed *Fortune* article (the famous "Mr. Buffett on the Stock Market" piece) framed in the letter: corporate profits tied to GDP (~3% real + 2% inflation = ~5% nominal). "Equity investors currently seem wildly optimistic in their expectations about future returns." The market adjustment, when investor expectations become realistic, "is apt to be severe, particularly in sectors in which speculation has been concentrated."
 - **Manager-character essay (the R.C. Willey/Bill Child story).** Berkshire's collection of managers as "independently wealthy" workers driven by love of the business. "We have no contracts at Berkshire." "We simply ask our managers to run their companies as if these are the sole asset of their families and will remain so for the next century." Owner-orientation extended from shareholders to managers.
 
@@ -127,7 +127,7 @@ The negative 1999 operating-earnings figure is structurally driven by the ~$500M
 | 1998 | $3,125M | $14,909M | $4,305M | $415M | $22,754M |
 | 1999 | $3,444M | $15,166M | $6,285M | $403M | $25,298M |
 
-1999 cost of float: 5.8% (positive, first year of meaningfully positive cost in years). $400M of the loss "welcomed" as the price of acquiring exceptional-duration float; the remainder "decidedly unwelcome." Ajit Jain's reinsurance operation alone holds $6.3B of float built "from scratch" since 1986 with cumulative underwriting profit. See [[float]] and [[super-cat-insurance]].
+1999 cost of float: 5.8% (positive, first year of meaningfully positive cost in years). $400M of the loss "welcomed" as the price of acquiring exceptional-duration float; the remainder "decidedly unwelcome." Ajit Jain's reinsurance operation alone holds $6.3B of float built "from scratch" since 1986 with cumulative underwriting profit. See [float](../concepts/float.md) and [super-cat-insurance](../concepts/super-cat-insurance.md).
 
 ## Look-through earnings ($1.926B)
 
@@ -185,7 +185,7 @@ Buffett positions himself between FASB and the corporate lobbying against the FA
 - Buffett's proposed reform: record fair-value purchase price; carry goodwill as an asset; write down only on impairment, like other assets. (This is, in fact, approximately what FASB ultimately adopted in 2001 with SFAS 142.)
 - The tax-structure footnote: cash purchase of *assets* (as in Jordan's) permits 15-year goodwill amortization for tax purposes, materially increasing after-tax cash. Cash purchase of *stock* does not. *Stock*-for-stock is worst: no step-up in basis anywhere, plus future capital-gains exposure on eventual sale.
 
-The essay extends the [[economic-goodwill]] framework first laid down in the 1983 Appendix and reinforces the [[stock-as-acquisition-currency]] discipline.
+The essay extends the [economic-goodwill](../concepts/economic-goodwill.md) framework first laid down in the 1983 Appendix and reinforces the [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md) discipline.
 
 ## Share-repurchases essay
 
@@ -199,7 +199,7 @@ The 1999 critique: buybacks have become widespread and are too often executed (a
 
 Disclosure: Berkshire considered repurchases when A shares fell below $45,000 but deferred to give shareholders the chance to review this report. If they do repurchase, they will respond to offers made directly to Berkshire at or below the NYSE bid, not bid on the open market. Will favor B shares if at more than a 2% discount to A.
 
-This is the canonical post-bubble share-repurchases statement, which becomes the template Buffett returns to in later letters as buyback abuse proliferates. See [[share-repurchases]].
+This is the canonical post-bubble share-repurchases statement, which becomes the template Buffett returns to in later letters as buyback abuse proliferates. See [share-repurchases](../concepts/share-repurchases.md).
 
 ## Acquisitions: Jordan's and MidAmerican
 
@@ -207,31 +207,31 @@ This is the canonical post-bubble share-repurchases statement, which becomes the
 
 **MidAmerican Energy (Walter Scott introduction, David Sokol operating leader).** Initial ~$2B investment, structured to avoid Berkshire gaining voting control under the Public Utility Holding Company Act of 1935: 11% fixed-income security plus common and exchangeable preferred giving just under 10% voting power and ~76% equity interest. Walter Scott will be controlling shareholder; he and his family will commit ~$280M. Buffett flags this as a possible platform: "If we do [make additional commitments in the field], the amounts involved could be large." (This is the seed of what becomes Berkshire Hathaway Energy.)
 
-Both deals were *cash*; no Berkshire stock was issued. Per the stock-as-acquisition-currency framework, this is the preferred form. See [[acquisition-criteria]] and [[stock-as-acquisition-currency]].
+Both deals were *cash*; no Berkshire stock was issued. Per the stock-as-acquisition-currency framework, this is the preferred form. See [acquisition-criteria](../concepts/acquisition-criteria.md) and [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md).
 
 ## Operating-business notes
 
-- **See's Candies.** Record 24% operating margin. Cumulative pre-tax earnings since 1972: $857M on $25M purchase price, with "very little additional capital" required. "Huggins' Law" framing — pre-tax profit in millions equals Chuck Huggins's age. See [[sees-candies]] and [[economic-goodwill]].
-- **Dexter Shoe.** Shortfall "did not occur because of managerial problems." 93% of U.S. shoe consumption now imported; "extremely low-cost labor" abroad. Berkshire is "sourcing more of our output internationally" and incurring significant severance/relocation costs. (The 1993 acquisition of Dexter — paid in 25,203 Berkshire shares — becomes a canonical mistake later, but the 1999 letter still attributes the decline to industry economics, not management.) See [[stock-as-acquisition-currency]].
+- **See's Candies.** Record 24% operating margin. Cumulative pre-tax earnings since 1972: $857M on $25M purchase price, with "very little additional capital" required. "Huggins' Law" framing — pre-tax profit in millions equals Chuck Huggins's age. See [sees-candies](../entities/sees-candies.md) and [economic-goodwill](../concepts/economic-goodwill.md).
+- **Dexter Shoe.** Shortfall "did not occur because of managerial problems." 93% of U.S. shoe consumption now imported; "extremely low-cost labor" abroad. Berkshire is "sourcing more of our output internationally" and incurring significant severance/relocation costs. (The 1993 acquisition of Dexter — paid in 25,203 Berkshire shares — becomes a canonical mistake later, but the 1999 letter still attributes the decline to industry economics, not management.) See [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md).
 - **Helzberg's.** Operating adjustments under Jeff Comment "restored margins to appropriate levels"; profits dramatically rebounded.
 - **FlightSafety / Executive Jet (NetJets).** Two contrasting capital profiles documented in detail. EJA fractional revenues up 46%; supply-constrained at ~8% of business-jet manufacturing.
 
 ## Davidson dies
 
-Lorimer "Davy" Davidson died in November 1999, days after his 97th birthday. Visited by Buffett, Tony Nicely, and Lou Simpson in August. "Clearly, my life would have developed far differently had he not been a part of it." See [[lorimer-davidson]].
+Lorimer "Davy" Davidson died in November 1999, days after his 97th birthday. Visited by Buffett, Tony Nicely, and Lou Simpson in August. "Clearly, my life would have developed far differently had he not been a part of it." See [lorimer-davidson](../people/lorimer-davidson.md).
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[geico]] — continued growth surge; compensation system detailed; Davidson tribute
-- [[sees-candies]] — Huggins' Law; 78 years of growing economic goodwill
-- [[coca-cola]], [[gillette]], [[american-express]], [[washington-post]], [[wells-fargo]] — "several of our largest investees badly lagged the market in 1999"
-- [[capital-cities]] — historical reference (the 1996 Disney exchange already occurred)
-- [[disney]] — held but no longer broken out
-- [[scott-fetzer]] — the 1985 "book" anecdote retold
-- [[national-indemnity]] — float platform
-- [[nebraska-furniture-mart]] — the furniture-acquisition chain origin
-- [[salomon]], [[usair]] — not active discussion in 1999
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [geico](../entities/geico.md) — continued growth surge; compensation system detailed; Davidson tribute
+- [sees-candies](../entities/sees-candies.md) — Huggins' Law; 78 years of growing economic goodwill
+- [coca-cola](../entities/coca-cola.md), [gillette](../entities/gillette.md), [american-express](../entities/american-express.md), [washington-post](../entities/washington-post.md), [wells-fargo](../entities/wells-fargo.md) — "several of our largest investees badly lagged the market in 1999"
+- [capital-cities](../entities/capital-cities.md) — historical reference (the 1996 Disney exchange already occurred)
+- [disney](../entities/disney.md) — held but no longer broken out
+- [scott-fetzer](../entities/scott-fetzer.md) — the 1985 "book" anecdote retold
+- [national-indemnity](../entities/national-indemnity.md) — float platform
+- [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) — the furniture-acquisition chain origin
+- [salomon](../entities/salomon.md), [usair](../entities/usair.md) — not active discussion in 1999
 - General Re — first full year owned; aberrational loss
 - Jordan's Furniture — acquired (Tatelman brothers); folded into source page
 - MidAmerican Energy — acquired stake; folded into source page
@@ -241,11 +241,11 @@ Lorimer "Davy" Davidson died in November 1999, days after his 97th birthday. Vis
 
 ## People mentioned
 
-- [[warren-buffett]], [[charlie-munger]]
-- [[lorimer-davidson]] — death at 97; canonical tribute
-- [[ajit-jain]] — reinsurance; $6.3B float; canonical four-trait tribute
-- [[lou-simpson]] — GEICO investments; visited Davidson
-- [[ralph-schey]] — Scott Fetzer 1985 anecdote (Charlie's "I'll pay $2.5M not to read it")
+- [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md)
+- [lorimer-davidson](../people/lorimer-davidson.md) — death at 97; canonical tribute
+- [ajit-jain](../people/ajit-jain.md) — reinsurance; $6.3B float; canonical four-trait tribute
+- [lou-simpson](../people/lou-simpson.md) — GEICO investments; visited Davidson
+- [ralph-schey](../people/ralph-schey.md) — Scott Fetzer 1985 anecdote (Charlie's "I'll pay $2.5M not to read it")
 - Tony Nicely — GEICO CEO; profit-sharing payout
 - Bill Child — R.C. Willey; the Boise store / Sunday-closed story
 - Barry and Eliot Tatelman — Jordan's Furniture
@@ -264,31 +264,31 @@ Lorimer "Davy" Davidson died in November 1999, days after his 97th birthday. Vis
 ## Concepts introduced or discussed
 
 - **circle of competence** (not yet a wiki page) — canonical 1999 articulation in the context of tech-stock abstention
-- [[capital-allocation]] — Buffett grades himself "D" for 1999; restates discipline
-- [[intrinsic-value-vs-book-value]] — two-column table; goodwill-amortization driver
-- [[economic-goodwill]] — restated against acquisition-accounting; "much like land"; 78-year See's case
-- [[float]] — table updated; positive cost of float year (5.8%); $400M "welcomed" loss
-- [[look-through-earnings]] — updated table; $1.926B
-- [[share-repurchases]] — canonical post-bubble restatement; "buy high" critique; option-offset critique
-- [[stock-as-acquisition-currency]] — sharpened: "worst deal of all is a stock-for-stock acquisition"; tax-structure consequences
-- [[acquisition-criteria]] — "wait for the phone to ring"; the "book" satire; cash preference
-- [[incentive-compensation]] — GEICO's two-variable scheme; "we foot the bill" for new business
-- [[moat]] — GEICO's two-pronged cost advantage (new and renewal) as sustainable competitive moat
-- [[concentration-vs-diversification]] — implicit in the no-tech stance
-- [[mistakes-of-omission]] — implicit (Buffett missed the tech run-up by choice, not error, per his framing)
-- [[super-cat-insurance]] — Ajit Jain four-trait tribute
+- [capital-allocation](../concepts/capital-allocation.md) — Buffett grades himself "D" for 1999; restates discipline
+- [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) — two-column table; goodwill-amortization driver
+- [economic-goodwill](../concepts/economic-goodwill.md) — restated against acquisition-accounting; "much like land"; 78-year See's case
+- [float](../concepts/float.md) — table updated; positive cost of float year (5.8%); $400M "welcomed" loss
+- [look-through-earnings](../concepts/look-through-earnings.md) — updated table; $1.926B
+- [share-repurchases](../concepts/share-repurchases.md) — canonical post-bubble restatement; "buy high" critique; option-offset critique
+- [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md) — sharpened: "worst deal of all is a stock-for-stock acquisition"; tax-structure consequences
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — "wait for the phone to ring"; the "book" satire; cash preference
+- [incentive-compensation](../concepts/incentive-compensation.md) — GEICO's two-variable scheme; "we foot the bill" for new business
+- [moat](../concepts/moat.md) — GEICO's two-pronged cost advantage (new and renewal) as sustainable competitive moat
+- [concentration-vs-diversification](../concepts/concentration-vs-diversification.md) — implicit in the no-tech stance
+- [mistakes-of-omission](../concepts/mistakes-of-omission.md) — implicit (Buffett missed the tech run-up by choice, not error, per his framing)
+- [super-cat-insurance](../concepts/super-cat-insurance.md) — Ajit Jain four-trait tribute
 - **market valuation outlook** (in the enclosed *Fortune* article) — GDP-tethered profit growth; "wildly optimistic" investor expectations
 
 ## Connections to other sources
 
-- The circle-of-competence / tech abstention restates and strengthens the discipline first articulated in [[berkshire-1996-letter]] (not yet ingested in this batch) and traceable back to the four-point test of [[berkshire-1977-letter]].
-- The share-repurchases essay extends the canonical framework from [[berkshire-1984-letter]]. The 1984 version emphasized the under-utilized opportunity in the 1970s; the 1999 version critiques the *overuse* of buybacks at above-intrinsic-value prices — completing the arc.
-- The acquisition-accounting essay extends the [[economic-goodwill]] appendix to [[berkshire-1983-letter]] and the Scott Fetzer case study in [[berkshire-1994-letter]]. The 1999 reform proposal anticipates SFAS 142 (adopted 2001).
-- The two-column intrinsic-value table extends the framework introduced in earlier-1990s letters and made explicit in [[berkshire-1995-letter]]'s float-as-equity discussion.
-- The Ajit Jain four-trait tribute extends the recognitions in [[berkshire-1989-letter]] (super-cat debut) through [[berkshire-1995-letter]].
-- The Davidson tribute completes the arc opened by the 1951 Saturday in Washington (canonically retold in [[berkshire-1995-letter]]).
-- The GEICO scorecard updates [[berkshire-1995-letter]] (the year of the 100% acquisition); 1996-99 documents the full execution of the Tony Nicely playbook.
+- The circle-of-competence / tech abstention restates and strengthens the discipline first articulated in [berkshire-1996-letter](berkshire-1996-letter.md) (not yet ingested in this batch) and traceable back to the four-point test of [berkshire-1977-letter](berkshire-1977-letter.md).
+- The share-repurchases essay extends the canonical framework from [berkshire-1984-letter](berkshire-1984-letter.md). The 1984 version emphasized the under-utilized opportunity in the 1970s; the 1999 version critiques the *overuse* of buybacks at above-intrinsic-value prices — completing the arc.
+- The acquisition-accounting essay extends the [economic-goodwill](../concepts/economic-goodwill.md) appendix to [berkshire-1983-letter](berkshire-1983-letter.md) and the Scott Fetzer case study in [berkshire-1994-letter](berkshire-1994-letter.md). The 1999 reform proposal anticipates SFAS 142 (adopted 2001).
+- The two-column intrinsic-value table extends the framework introduced in earlier-1990s letters and made explicit in [berkshire-1995-letter](berkshire-1995-letter.md)'s float-as-equity discussion.
+- The Ajit Jain four-trait tribute extends the recognitions in [berkshire-1989-letter](berkshire-1989-letter.md) (super-cat debut) through [berkshire-1995-letter](berkshire-1995-letter.md).
+- The Davidson tribute completes the arc opened by the 1951 Saturday in Washington (canonically retold in [berkshire-1995-letter](berkshire-1995-letter.md)).
+- The GEICO scorecard updates [berkshire-1995-letter](berkshire-1995-letter.md) (the year of the 100% acquisition); 1996-99 documents the full execution of the Tony Nicely playbook.
 - The MidAmerican Energy entry seeds a new business line that will compound across subsequent letters; the structuring discussion (Public Utility Holding Company Act of 1935 constraints) is the first instance of utility-regulation as an active constraint on Berkshire's capital deployment.
-- The Jordan's acquisition extends the furniture-retail referral chain from NFM ([[berkshire-1983-letter]]) → R.C. Willey ([[berkshire-1995-letter]]) → Star (1997) → Jordan's (1999).
-- The stock-for-stock-is-worst framing extends and sharpens the [[stock-as-acquisition-currency]] essay from [[berkshire-1982-letter]] and the MBA / day-laborer analogy of [[berkshire-1994-letter]].
+- The Jordan's acquisition extends the furniture-retail referral chain from NFM ([berkshire-1983-letter](berkshire-1983-letter.md)) → R.C. Willey ([berkshire-1995-letter](berkshire-1995-letter.md)) → Star (1997) → Jordan's (1999).
+- The stock-for-stock-is-worst framing extends and sharpens the [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md) essay from [berkshire-1982-letter](berkshire-1982-letter.md) and the MBA / day-laborer analogy of [berkshire-1994-letter](berkshire-1994-letter.md).
 - The market-outlook bearishness (enclosed *Fortune* article) is the public-facing companion to the more guarded language in earlier letters about the 1982-99 bull market; it becomes the touchstone reference Buffett returns to for two decades.

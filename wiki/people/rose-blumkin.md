@@ -5,12 +5,12 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1983-letter, berkshire-1984-letter]
 tags: [operator, retail, low-cost, berkshire]
-related: [[nebraska-furniture-mart]], [[berkshire-hathaway]]
+related: [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md), [berkshire-hathaway](../entities/berkshire-hathaway.md)
 ---
 
 # Rose Blumkin ("Mrs. B")
 
-Russian-born American founder of [[nebraska-furniture-mart]]. Emigrated to the United States in 1917 at age 23, talking her way past a border guard with no formal education and no English. Founded NFM in Omaha with $500 of savings in 1937. Sold 90% of the business to Berkshire in 1983 at age 90 — and remained on the sales floor seven days a week, "from opening to close."
+Russian-born American founder of [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md). Emigrated to the United States in 1917 at age 23, talking her way past a border guard with no formal education and no English. Founded NFM in Omaha with $500 of savings in 1937. Sold 90% of the business to Berkshire in 1983 at age 90 — and remained on the sales floor seven days a week, "from opening to close."
 
 ## Why she matters
 
@@ -29,16 +29,16 @@ The 1984 NFM acquisition is itself an illustration: no audit, no inventory, no t
 
 ## Sources discussing this person
 
-- [[berkshire-1983-letter]] — extensive treatment; biography (border crossing, $500 savings, Fair Trade lawsuits, selling the judge $1,400 of carpet); the acquisition deal
-- [[berkshire-1984-letter]] — the four "Blumkin secrets"; the NYU honorary doctorate at 91; the no-audit closing
+- [berkshire-1983-letter](../sources/berkshire-1983-letter.md) — extensive treatment; biography (border crossing, $500 savings, Fair Trade lawsuits, selling the judge $1,400 of carpet); the acquisition deal
+- [berkshire-1984-letter](../sources/berkshire-1984-letter.md) — the four "Blumkin secrets"; the NYU honorary doctorate at 91; the no-audit closing
 
 ## Notable quotes
 
-> I come home to eat and sleep, and that's about it. I can't wait until it gets daylight so I can get back to the business. — Mrs. B, 1984 (quoted in [[berkshire-1984-letter]])
+> I come home to eat and sleep, and that's about it. I can't wait until it gets daylight so I can get back to the business. — Mrs. B, 1984 (quoted in [berkshire-1984-letter](../sources/berkshire-1984-letter.md))
 
-> Sell cheap and tell the truth. — Mrs. B's distillation (quoted in [[berkshire-1984-letter]])
+> Sell cheap and tell the truth. — Mrs. B's distillation (quoted in [berkshire-1984-letter](../sources/berkshire-1984-letter.md))
 
 ## Related
 
-- [[nebraska-furniture-mart]] — the business she built and continues to anchor
-- [[moat]] — Mrs. B's operating disciplines are the operational template for "wide and sustainable cost advantage"
+- [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) — the business she built and continues to anchor
+- [moat](../concepts/moat.md) — Mrs. B's operating disciplines are the operational template for "wide and sustainable cost advantage"

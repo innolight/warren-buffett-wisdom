@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-05-24
 sources: [berkshire-1979-letter]
 tags: [inflation, returns, capital-allocation, performance-measurement]
-related: [[return-on-equity-yardstick]], [[bonds-and-inflation]]
+related: [return-on-equity-yardstick](return-on-equity-yardstick.md), [bonds-and-inflation](bonds-and-inflation.md)
 ---
 
 # Investor's Misery Index
@@ -41,9 +41,9 @@ The gold comparison crystallized it. Berkshire's book value per share in late 19
 
 ## How it's discussed in sources
 
-- [[berkshire-1979-letter]] — debut; the explicit 20%/14% calculation and the gold/half-ounce comparison; framed as potentially "the most important factor in determining whether there are any real rewards from your investment in Berkshire Hathaway"
+- [berkshire-1979-letter](../sources/berkshire-1979-letter.md) — debut; the explicit 20%/14% calculation and the gold/half-ounce comparison; framed as potentially "the most important factor in determining whether there are any real rewards from your investment in Berkshire Hathaway"
 
 ## Related
 
-- [[return-on-equity-yardstick]] — the nominal measure the misery index adjusts
-- [[bonds-and-inflation]] — fixed-income instruments face the same erosion more acutely; no equity upside to offset inflation drag
+- [return-on-equity-yardstick](return-on-equity-yardstick.md) — the nominal measure the misery index adjusts
+- [bonds-and-inflation](bonds-and-inflation.md) — fixed-income instruments face the same erosion more acutely; no equity upside to offset inflation drag

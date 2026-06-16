@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-05-24
 sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1979-letter]
 tags: [accounting, capital-allocation, performance-measurement]
-related: [[warren-buffett]], [[acquisition-criteria]]
+related: [warren-buffett](../people/warren-buffett.md), [acquisition-criteria](acquisition-criteria.md)
 ---
 
 # Return on Equity as the Managerial Yardstick
@@ -28,16 +28,16 @@ The implication: consistently rising EPS, unaccompanied by a corresponding ROE, 
 
 Buffett reports the cumulative score: book value per share compounded at 20.5% annually from September 1964 ($19.46) to yearend 1979 ($335.85). This figure is *higher* than any single-year operating ROE calculation because it incorporates capital appreciation from equity investments — a reminder that reported operating ROE understates long-run performance when the equity portfolio is compounding unrealized gains.
 
-But the 1979 letter immediately introduces the caveat: even 20.5% compounded nominal returns may produce near-zero real returns in a 14% inflation environment. See [[investor-misery-index]].
+But the 1979 letter immediately introduces the caveat: even 20.5% compounded nominal returns may produce near-zero real returns in a 14% inflation environment. See [investor-misery-index](investor-misery-index.md).
 
 ## How it's discussed in sources
 
-- [[berkshire-1977-letter]] — opening framing; 1977 operating ROE of 19% on beginning equity. Caveat: "Except for special cases (for example, companies with unusual debt-equity ratios or those with important assets carried at unrealistic balance sheet values)" — so it's not a universal metric, just the default.
-- [[berkshire-1978-letter]] — 1978 operating ROE of 19.4%, "within a fraction of our 1972 record"; emphasis on the difference between measuring ROE on cost-basis equity vs. market-basis equity (the latter inflates the denominator and distorts comparisons).
-- [[berkshire-1979-letter]] — "stopped clock" corollary; long-run 20.5% compound since 1964; explicit acknowledgment that nominal ROE may produce zero real returns in a high-inflation environment.
+- [berkshire-1977-letter](../sources/berkshire-1977-letter.md) — opening framing; 1977 operating ROE of 19% on beginning equity. Caveat: "Except for special cases (for example, companies with unusual debt-equity ratios or those with important assets carried at unrealistic balance sheet values)" — so it's not a universal metric, just the default.
+- [berkshire-1978-letter](../sources/berkshire-1978-letter.md) — 1978 operating ROE of 19.4%, "within a fraction of our 1972 record"; emphasis on the difference between measuring ROE on cost-basis equity vs. market-basis equity (the latter inflates the denominator and distorts comparisons).
+- [berkshire-1979-letter](../sources/berkshire-1979-letter.md) — "stopped clock" corollary; long-run 20.5% compound since 1964; explicit acknowledgment that nominal ROE may produce zero real returns in a high-inflation environment.
 
 ## Related
 
-- [[acquisition-criteria]] — applying business-quality lenses to both whole-company and partial-equity purchases
-- [[tailwinds-vs-headwinds]] — even superb management can't overcome a structurally low-return business
-- [[investor-misery-index]] — the framework that converts nominal ROE into real purchasing power, introduced in 1979 as the next layer of rigor above raw ROE measurement
+- [acquisition-criteria](acquisition-criteria.md) — applying business-quality lenses to both whole-company and partial-equity purchases
+- [tailwinds-vs-headwinds](tailwinds-vs-headwinds.md) — even superb management can't overcome a structurally low-return business
+- [investor-misery-index](investor-misery-index.md) — the framework that converts nominal ROE into real purchasing power, introduced in 1979 as the next layer of rigor above raw ROE measurement

@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-1991-letter]
 tags: [footwear, acquisition, berkshire]
-related: [[berkshire-hathaway]], [[acquisition-criteria]], [[dexter-shoe]]
+related: [berkshire-hathaway](berkshire-hathaway.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [dexter-shoe](dexter-shoe.md)
 ---
 
 # H.H. Brown Shoe Company
@@ -14,5 +14,5 @@ New England footwear manufacturer acquired by Berkshire in 1991. Frank Rooney, a
 
 ## Sources discussing this entity
 
-- [[berkshire-1991-letter]] — acquisition announced; Frank Rooney introduced as manager
-- [[berkshire-1992-letter]] — Lowell Shoe add-on noted
+- [berkshire-1991-letter](../sources/berkshire-1991-letter.md) — acquisition announced; Frank Rooney introduced as manager
+- [berkshire-1992-letter](../sources/berkshire-1992-letter.md) — Lowell Shoe add-on noted

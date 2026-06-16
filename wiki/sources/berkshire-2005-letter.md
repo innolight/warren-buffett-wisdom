@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2005
 raw_path: raw/berkshire-letters/2005.md
 tags: [berkshire, annual-letter, insurance, acquisitions, derivatives, compensation, investment-friction]
-related: [[warren-buffett]], [[charlie-munger]], [[berkshire-hathaway]], [[geico]], [[midamerican-energy]], [[clayton-homes]], [[gillette]]
+related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [midamerican-energy](../entities/midamerican-energy.md), [clayton-homes](../entities/clayton-homes.md), [gillette](../entities/gillette.md)
 ---
 
 # Berkshire Hathaway 2005 Annual Letter
@@ -32,34 +32,34 @@ Letter dated February 28, 2006. Net worth gain of $5.6 billion; book value per s
 
 ## Entities discussed
 
-- [[geico]] — productivity gains, advertising, market share, New Jersey
-- [[midamerican-energy]] — PUHCA repeal, PacifiCorp, 83.4% stake, HomeServices
-- [[clayton-homes]] — $17B portfolio, Karsten acquisition, industry lows
-- [[gillette]] — merger into P&G closes; Berkshire becomes a P&G holder
-- [[general-re]] — derivatives book: 741 contracts, $104M 2005 loss, $404M aggregate
-- [[netjets]] — U.S. operation "dipped far into the red" despite large customer growth
-- [[shaw-industries]] — bolt-on acquisitions; rising oil/energy costs
-- [[fruit-of-the-loom]] — men's/boys' underwear market share 48.7%; women's intimate apparel 24.7%
-- [[sees-candies]] — Chuck Huggins retires after 34 years; Brad Kinstler succeeds
+- [geico](../entities/geico.md) — productivity gains, advertising, market share, New Jersey
+- [midamerican-energy](../entities/midamerican-energy.md) — PUHCA repeal, PacifiCorp, 83.4% stake, HomeServices
+- [clayton-homes](../entities/clayton-homes.md) — $17B portfolio, Karsten acquisition, industry lows
+- [gillette](../entities/gillette.md) — merger into P&G closes; Berkshire becomes a P&G holder
+- [general-re](../entities/general-re.md) — derivatives book: 741 contracts, $104M 2005 loss, $404M aggregate
+- [netjets](../entities/netjets.md) — U.S. operation "dipped far into the red" despite large customer growth
+- [shaw-industries](../entities/shaw-industries.md) — bolt-on acquisitions; rising oil/energy costs
+- [fruit-of-the-loom](../entities/fruit-of-the-loom.md) — men's/boys' underwear market share 48.7%; women's intimate apparel 24.7%
+- [sees-candies](../entities/sees-candies.md) — Chuck Huggins retires after 34 years; Brad Kinstler succeeds
 
 ## People mentioned
 
-- [[tony-nicely]] — GEICO productivity and growth
-- [[dave-sokol]] — MidAmerican partnership
-- [[charlie-munger]] — "thumb-sucking" quip on derivatives dithering; age 82 at writing
-- [[ajit-jain]] — BH Reinsurance; General Re reinsurance; Applied Underwriters connection
-- [[warren-buffett]] — author
+- [tony-nicely](../people/tony-nicely.md) — GEICO productivity and growth
+- [dave-sokol](../people/dave-sokol.md) — MidAmerican partnership
+- [charlie-munger](../people/charlie-munger.md) — "thumb-sucking" quip on derivatives dithering; age 82 at writing
+- [ajit-jain](../people/ajit-jain.md) — BH Reinsurance; General Re reinsurance; Applied Underwriters connection
+- [warren-buffett](../people/warren-buffett.md) — author
 
 ## Concepts introduced or discussed
 
-- [[investment-friction]] — Gotrocks allegory; Newton's Fourth Law; the four layers of Helpers
-- [[derivatives]] — 741 contracts remaining; 100-year contract anecdote; canary-in-coal-mine framing; systemic mushrooming
-- [[incentive-compensation]] — Fred Futile/Stagnant Inc. worked example; "Ratchet Ratchet and Bingo"; nothing-succeeds-like-failure
-- [[float]] — costless in 2005 despite Katrina; $49.287B yearend float
-- [[super-cat-insurance]] — Katrina losses; repricing mega-cat policies
-- [[stock-as-acquisition-currency]] — "When a management proudly acquires another company for stock, the shareholders of the acquirer are concurrently selling part of their interest in everything they own."
-- [[moat]] — "widening the moat" section; daily imperceptible actions compound over decades
-- [[acquisition-criteria]] — the six criteria restated; five 2005 deals all cash
+- [investment-friction](../concepts/investment-friction.md) — Gotrocks allegory; Newton's Fourth Law; the four layers of Helpers
+- [derivatives](../concepts/derivatives.md) — 741 contracts remaining; 100-year contract anecdote; canary-in-coal-mine framing; systemic mushrooming
+- [incentive-compensation](../concepts/incentive-compensation.md) — Fred Futile/Stagnant Inc. worked example; "Ratchet Ratchet and Bingo"; nothing-succeeds-like-failure
+- [float](../concepts/float.md) — costless in 2005 despite Katrina; $49.287B yearend float
+- [super-cat-insurance](../concepts/super-cat-insurance.md) — Katrina losses; repricing mega-cat policies
+- [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md) — "When a management proudly acquires another company for stock, the shareholders of the acquirer are concurrently selling part of their interest in everything they own."
+- [moat](../concepts/moat.md) — "widening the moat" section; daily imperceptible actions compound over decades
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — the six criteria restated; five 2005 deals all cash
 
 ## Notable quotes
 
@@ -81,8 +81,8 @@ Letter dated February 28, 2006. Net worth gain of $5.6 billion; book value per s
 
 ## Connections to other sources
 
-- Continues Gen Re derivatives thread from [[berkshire-2002-letter]], [[berkshire-2003-letter]], [[berkshire-2004-letter]] — the wind-down reaches near-completion (741 contracts) and Buffett delivers the definitive self-criticism: thumb-sucking cost shareholders money
-- Closes the Gillette chapter that opened in [[berkshire-1989-letter]] (preferred purchase) and ran through sixteen years
-- The Gotrocks essay is the fullest expression of a theme first sketched in [[berkshire-1999-letter]] (Buffett's essay on 20th-century equity returns — the Dow 65.73→11,497 arithmetic — which is the direct quantitative backdrop for the 2005 frictional-cost argument)
-- The CEO compensation worked example (Fred Futile) extends the fixed-price-options critique from [[berkshire-1985-letter]] with explicit arithmetic showing the dividend-withholding mechanism
-- The "widening the moat" section echoes the moat language canonized in [[berkshire-1986-letter]]
+- Continues Gen Re derivatives thread from [berkshire-2002-letter](berkshire-2002-letter.md), [berkshire-2003-letter](berkshire-2003-letter.md), [berkshire-2004-letter](berkshire-2004-letter.md) — the wind-down reaches near-completion (741 contracts) and Buffett delivers the definitive self-criticism: thumb-sucking cost shareholders money
+- Closes the Gillette chapter that opened in [berkshire-1989-letter](berkshire-1989-letter.md) (preferred purchase) and ran through sixteen years
+- The Gotrocks essay is the fullest expression of a theme first sketched in [berkshire-1999-letter](berkshire-1999-letter.md) (Buffett's essay on 20th-century equity returns — the Dow 65.73→11,497 arithmetic — which is the direct quantitative backdrop for the 2005 frictional-cost argument)
+- The CEO compensation worked example (Fred Futile) extends the fixed-price-options critique from [berkshire-1985-letter](berkshire-1985-letter.md) with explicit arithmetic showing the dividend-withholding mechanism
+- The "widening the moat" section echoes the moat language canonized in [berkshire-1986-letter](berkshire-1986-letter.md)

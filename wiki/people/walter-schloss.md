@@ -5,7 +5,7 @@ created: 2026-06-13
 updated: 2026-06-13
 sources: [berkshire-2006-letter]
 tags: [value-investing, graham, partnership, emt-refutation]
-related: [[ben-graham]], [[warren-buffett]], [[investment-friction]], [[margin-of-safety]]
+related: [ben-graham](ben-graham.md), [warren-buffett](warren-buffett.md), [investment-friction](../concepts/investment-friction.md), [margin-of-safety](../concepts/margin-of-safety.md)
 ---
 
 # Walter Schloss
@@ -32,17 +32,17 @@ The academic community's response, as Buffett tells it, was not to update the th
 
 ## Notable quotes (Buffett on Schloss)
 
-> Following a strategy that involved no real risk — defined as permanent loss of capital — Walter produced results over his 47 partnership years that dramatically surpassed those of the S&P 500. — [[berkshire-2006-letter]]
+> Following a strategy that involved no real risk — defined as permanent loss of capital — Walter produced results over his 47 partnership years that dramatically surpassed those of the S&P 500. — [berkshire-2006-letter](../sources/berkshire-2006-letter.md)
 
-> There is simply no possibility that what Walter achieved over 47 years was due to chance. — [[berkshire-2006-letter]]
+> There is simply no possibility that what Walter achieved over 47 years was due to chance. — [berkshire-2006-letter](../sources/berkshire-2006-letter.md)
 
 ## Sources discussing this person
 
-- [[berkshire-2006-letter]] — extended tribute at Schloss's 90th birthday; 47-year record cited as decisive EMT refutation; contrasted with 2-and-20 fee structure
+- [berkshire-2006-letter](../sources/berkshire-2006-letter.md) — extended tribute at Schloss's 90th birthday; 47-year record cited as decisive EMT refutation; contrasted with 2-and-20 fee structure
 
 ## Related
 
-- [[ben-graham]] — Schloss's teacher and Buffett's; both transmit the same "buy cheap" principle in different forms
-- [[investment-friction]] — Schloss's fee-only-on-profit structure is the direct antithesis of the 2-and-20 hyper-Helper
-- [[margin-of-safety]] — Schloss's "buy stocks cheap" is the operational expression of the margin-of-safety principle
-- [[risk-vs-volatility]] — Schloss defined risk as "permanent loss of capital," matching Buffett's framework exactly
+- [ben-graham](ben-graham.md) — Schloss's teacher and Buffett's; both transmit the same "buy cheap" principle in different forms
+- [investment-friction](../concepts/investment-friction.md) — Schloss's fee-only-on-profit structure is the direct antithesis of the 2-and-20 hyper-Helper
+- [margin-of-safety](../concepts/margin-of-safety.md) — Schloss's "buy stocks cheap" is the operational expression of the margin-of-safety principle
+- [risk-vs-volatility](../concepts/risk-vs-volatility.md) — Schloss defined risk as "permanent loss of capital," matching Buffett's framework exactly

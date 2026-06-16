@@ -5,12 +5,12 @@ created: 2026-06-10
 updated: 2026-06-10
 sources: [berkshire-1996-letter, berkshire-1997-letter]
 tags: [operator, aviation, flightsafety, founder]
-related: [[flightsafety]], [[berkshire-hathaway]], [[acquisition-criteria]]
+related: [flightsafety](../entities/flightsafety.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [acquisition-criteria](../concepts/acquisition-criteria.md)
 ---
 
 # Al Ueltschi
 
-Founder and CEO of FlightSafety International. Born around 1917, Ueltschi had a lifelong association with aviation that spanned barnstorming in the 1930s, working for Pan Am under Juan Trippe, founding FlightSafety in 1951, and remaining at the helm after selling the company to [[berkshire-hathaway]] in 1996 at age 79.
+Founder and CEO of FlightSafety International. Born around 1917, Ueltschi had a lifelong association with aviation that spanned barnstorming in the 1930s, working for Pan Am under Juan Trippe, founding FlightSafety in 1951, and remaining at the helm after selling the company to [berkshire-hathaway](../entities/berkshire-hathaway.md) in 1996 at age 79.
 
 ## Views and contributions
 
@@ -26,11 +26,11 @@ By 1997, FlightSafety's first full year under Berkshire ownership produced $139.
 
 ## Notable quotes
 
-> I had long been familiar with FlightSafety's business, and in about 60 seconds I knew that Al was exactly our kind of manager. — [[berkshire-1996-letter]]
+> I had long been familiar with FlightSafety's business, and in about 60 seconds I knew that Al was exactly our kind of manager. — [berkshire-1996-letter](../sources/berkshire-1996-letter.md)
 
-> Al may be 79, but he looks and acts about 55. He will run operations just as he has in the past: We never fool with success. I have told him that though we don't believe in splitting Berkshire stock, we will split his age 2-for-1 when he hits 100. — [[berkshire-1996-letter]]
+> Al may be 79, but he looks and acts about 55. He will run operations just as he has in the past: We never fool with success. I have told him that though we don't believe in splitting Berkshire stock, we will split his age 2-for-1 when he hits 100. — [berkshire-1996-letter](../sources/berkshire-1996-letter.md)
 
 ## Sources discussing this person
 
-- [[berkshire-1996-letter]] — FlightSafety acquisition announced; Ueltschi's biography, Buffett's immediate read on his character, the deal origin story
-- [[berkshire-1997-letter]] — FlightSafety's first full year under Berkshire ($139.5M operating earnings)
+- [berkshire-1996-letter](../sources/berkshire-1996-letter.md) — FlightSafety acquisition announced; Ueltschi's biography, Buffett's immediate read on his character, the deal origin story
+- [berkshire-1997-letter](../sources/berkshire-1997-letter.md) — FlightSafety's first full year under Berkshire ($139.5M operating earnings)

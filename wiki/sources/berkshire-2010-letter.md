@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2010
 raw_path: raw/berkshire-letters/2010.md
 tags: [berkshire, annual-letter, 2010, bnsf, geico, derivatives, leverage]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[bnsf]], [[geico]], [[netjets]], [[midamerican-energy]]
+related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [bnsf](../entities/bnsf.md), [geico](../entities/geico.md), [netjets](../entities/netjets.md), [midamerican-energy](../entities/midamerican-energy.md)
 ---
 
 # Berkshire Hathaway 2010 Annual Letter
@@ -29,30 +29,30 @@ Book value per share grew 13% in 2010 against a 15.1% S&P return. The 46-year co
 
 ## Entities discussed
 
-- [[bnsf]]
-- [[geico]]
-- [[netjets]]
-- [[midamerican-energy]]
-- [[berkshire-hathaway]]
-- [[clayton-homes]]
+- [bnsf](../entities/bnsf.md)
+- [geico](../entities/geico.md)
+- [netjets](../entities/netjets.md)
+- [midamerican-energy](../entities/midamerican-energy.md)
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [clayton-homes](../entities/clayton-homes.md)
 
 ## People mentioned
 
-- [[warren-buffett]]
-- [[charlie-munger]]
-- [[tony-nicely]]
-- [[ajit-jain]]
-- [[dave-sokol]]
-- [[lou-simpson]]
-- [[lorimer-davidson]]
+- [warren-buffett](../people/warren-buffett.md)
+- [charlie-munger](../people/charlie-munger.md)
+- [tony-nicely](../people/tony-nicely.md)
+- [ajit-jain](../people/ajit-jain.md)
+- [dave-sokol](../people/dave-sokol.md)
+- [lou-simpson](../people/lou-simpson.md)
+- [lorimer-davidson](../people/lorimer-davidson.md)
 
 ## Concepts introduced or discussed
 
-- [[float]] — 8th consecutive underwriting profit; $65.8B total; total underwriting profit $17B over the period
-- [[leverage-discipline]] — "Life and Debt": zero multiplier, credit-as-oxygen, refinancing-risk articulation
-- [[liquidity-fortress]] — $10B minimum pledge; customarily $20B; Treasury bills only; no bank lines; Ernest's letter; Lehman vindication
-- [[derivatives]] — Black-Scholes critique ("approximately right vs. precisely wrong"); equity put book status; credit derivative underwriting profit confirmed
-- [[intrinsic-value-vs-book-value]] — GEICO goodwill: $1.4B carried vs. ~$14B economic value at 97% of premium volume
+- [float](../concepts/float.md) — 8th consecutive underwriting profit; $65.8B total; total underwriting profit $17B over the period
+- [leverage-discipline](../concepts/leverage-discipline.md) — "Life and Debt": zero multiplier, credit-as-oxygen, refinancing-risk articulation
+- [liquidity-fortress](../concepts/liquidity-fortress.md) — $10B minimum pledge; customarily $20B; Treasury bills only; no bank lines; Ernest's letter; Lehman vindication
+- [derivatives](../concepts/derivatives.md) — Black-Scholes critique ("approximately right vs. precisely wrong"); equity put book status; credit derivative underwriting profit confirmed
+- [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) — GEICO goodwill: $1.4B carried vs. ~$14B economic value at 97% of premium volume
 
 ## Notable quotes
 
@@ -67,8 +67,8 @@ Book value per share grew 13% in 2010 against a 15.1% S&P return. The 46-year co
 
 ## Connections to other sources
 
-- Continues [[berkshire-2009-letter]]'s BNSF acquisition narrative — this letter reports the first full-year results and confirms the thesis
-- "Life and Debt" extends the LBO/junk-bond critique of [[berkshire-1989-letter]] and [[berkshire-1990-letter]] to Berkshire's own balance-sheet philosophy
-- Black-Scholes critique sharpest yet; begins in [[berkshire-2008-letter]]
-- GEICO 60-year narrative revisits territory from [[berkshire-2004-letter]] and [[berkshire-1995-letter]], now with goodwill quantification
-- The Todd Combs hiring echoes the Lou Simpson hiring template described in [[berkshire-2004-letter]]: identify early, pay for results relative to S&P
+- Continues [berkshire-2009-letter](berkshire-2009-letter.md)'s BNSF acquisition narrative — this letter reports the first full-year results and confirms the thesis
+- "Life and Debt" extends the LBO/junk-bond critique of [berkshire-1989-letter](berkshire-1989-letter.md) and [berkshire-1990-letter](berkshire-1990-letter.md) to Berkshire's own balance-sheet philosophy
+- Black-Scholes critique sharpest yet; begins in [berkshire-2008-letter](berkshire-2008-letter.md)
+- GEICO 60-year narrative revisits territory from [berkshire-2004-letter](berkshire-2004-letter.md) and [berkshire-1995-letter](berkshire-1995-letter.md), now with goodwill quantification
+- The Todd Combs hiring echoes the Lou Simpson hiring template described in [berkshire-2004-letter](berkshire-2004-letter.md): identify early, pay for results relative to S&P

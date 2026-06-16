@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-05-26
 sources: [berkshire-1995-letter]
 tags: [media, entertainment, franchise, intellectual-property, marketable-equities]
-related: [[cap-cities]], [[tom-murphy]], [[mistakes-of-omission]], [[berkshire-1995-letter]]
+related: [[cap-cities]], [tom-murphy](../people/tom-murphy.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md), [berkshire-1995-letter](../sources/berkshire-1995-letter.md)
 ---
 
 # The Walt Disney Company
@@ -20,14 +20,14 @@ In the 1980s and 1990s, under CEO Michael Eisner, Disney expanded its content li
 
 ## Why it matters
 
-**Entertainment as franchise, not commodity.** Buffett's 1966 framing — a company whose attractions had already cost more to build than the market valued the whole enterprise — captures a core insight about IP-based businesses: the balance sheet systematically understates their value because accounting treats creative assets as expenses rather than capital. Disney's characters and story library had already been built; what the market was pricing was the next year's cash flow, not the next fifty years of licensing. This is the asymmetry that distinguishes franchise businesses from commodity ones. See also [[franchise-vs-business]].
+**Entertainment as franchise, not commodity.** Buffett's 1966 framing — a company whose attractions had already cost more to build than the market valued the whole enterprise — captures a core insight about IP-based businesses: the balance sheet systematically understates their value because accounting treats creative assets as expenses rather than capital. Disney's characters and story library had already been built; what the market was pricing was the next year's cash flow, not the next fifty years of licensing. This is the asymmetry that distinguishes franchise businesses from commodity ones. See also [franchise-vs-business](../concepts/franchise-vs-business.md).
 
 **Content depreciates slower than physical assets.** A steel mill or airline fleet degrades and requires constant reinvestment. Disney's core IP — Snow White (1937), Fantasia (1940), the original Disney characters — was still generating revenue and brand equity decades after creation. The theme parks are capital-intensive, but the characters that fill them are not. This dynamic makes the returns on original creative investment compound over time rather than erode, provided the brand is carefully managed.
 
 **The Cap Cities exchange as a capital allocation lesson.** Berkshire acquired its Disney stake not by paying cash but by exchanging Cap Cities shares in a merger. The transaction illustrates a broader principle: the currency in which you receive a wonderful business matters less than receiving the business. Buffett had already acknowledged selling one-third of Berkshire's Cap Cities position two years earlier for $635 million — shares that would have fetched $1.27 billion in the Disney merger. The Disney holding was, in part, a second opportunity to hold the kind of media franchise economics that Cap Cities had represented.
 
-**The 1967 sale as a canonical mistakes-of-omission case.** Buffett's description of selling Disney in 1967 at $0.48 per share — a stock that reached $66 by 1995 — is one of his most direct illustrations of the invisible cost of exiting a wonderful business. The loss never appears on a financial statement. There is no line item for "gains foregone by selling See's too early" or "opportunity cost of the 1967 Disney sale." But Buffett's recurring practice of naming these errors publicly is itself an investment teaching: the most expensive mistakes are often acts of commission that look prudent at the time. See [[mistakes-of-omission]].
+**The 1967 sale as a canonical mistakes-of-omission case.** Buffett's description of selling Disney in 1967 at $0.48 per share — a stock that reached $66 by 1995 — is one of his most direct illustrations of the invisible cost of exiting a wonderful business. The loss never appears on a financial statement. There is no line item for "gains foregone by selling See's too early" or "opportunity cost of the 1967 Disney sale." But Buffett's recurring practice of naming these errors publicly is itself an investment teaching: the most expensive mistakes are often acts of commission that look prudent at the time. See [mistakes-of-omission](../concepts/mistakes-of-omission.md).
 
 ## Sources discussing this entity
 
-- [[berkshire-1995-letter]] — Buffett's 1966–67 history with Disney stock; the Cap Cities/Disney merger mechanics and Berkshire's all-stock election; the "five times rides" valuation anecdote; Disney described as a business with "unique assets and outstanding management"
+- [berkshire-1995-letter](../sources/berkshire-1995-letter.md) — Buffett's 1966–67 history with Disney stock; the Cap Cities/Disney merger mechanics and Berkshire's all-stock election; the "five times rides" valuation anecdote; Disney described as a business with "unique assets and outstanding management"

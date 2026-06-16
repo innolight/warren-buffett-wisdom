@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-1980-letter, berkshire-1984-letter, berkshire-2004-letter, berkshire-2015-letter]
 tags: [moat, competitive-advantage, distribution, insurance, low-cost-operator]
-related: [[moat]], [[geico]], [[commodity-business-economics]], [[cost-of-float]], [[franchise-vs-business]]
+related: [moat](moat.md), [geico](../entities/geico.md), [commodity-business-economics](commodity-business-economics.md), [cost-of-float](cost-of-float.md), [franchise-vs-business](franchise-vs-business.md)
 ---
 
 # Direct-Distribution Moat
@@ -22,7 +22,7 @@ This creates a self-reinforcing dynamic. The direct operator grows by taking sha
 
 ## The insurance disruption sequence
 
-The 2015 Berkshire letter provides the clearest worked example: a century-long disaggregation of auto insurance distribution costs, stage by stage. [[berkshire-2015-letter]]
+The 2015 Berkshire letter provides the clearest worked example: a century-long disaggregation of auto insurance distribution costs, stage by stage. [berkshire-2015-letter](../sources/berkshire-2015-letter.md)
 
 **Stage 1 — Independent agency cartel (~40¢ per premium dollar in expenses).** Auto insurance began through independent agents who represented multiple carriers and played them against each other on commissions. The cartel-like structure was stable and profitable for everyone involved — except the consumer. No single insurer could break ranks because breaking ranks meant losing agent access.
 
@@ -42,7 +42,7 @@ The dilemma has three interlocking components:
 
 **Running dual channels is economically self-defeating.** Building a direct channel alongside an existing agent network requires funding both, while the new direct channel cannibalizes the existing one. The incumbent ends up with higher total costs than either the old agent model or the new direct model, and a civil war between its two distribution arms.
 
-State Farm and Allstate watched GEICO take their market share for decades. They understood the model completely. That understanding did not translate into response capability. The inability of informed, well-resourced incumbents to react is the operational signature of a structural moat. See [[moat]].
+State Farm and Allstate watched GEICO take their market share for decades. They understood the model completely. That understanding did not translate into response capability. The inability of informed, well-resourced incumbents to react is the operational signature of a structural moat. See [moat](moat.md).
 
 ## The compounding loop
 
@@ -67,15 +67,15 @@ The direct-distribution moat holds only under specific conditions:
 
 ## How it's discussed in sources
 
-- [[berkshire-1980-letter]] — "GEICO was designed to be the low-cost operation in an enormous marketplace (auto insurance) populated largely by companies whose marketing structures restricted adaptation. Run as designed, it could offer unusual value to its customers while earning unusual returns for itself."
-- [[berkshire-1984-letter]] — "a major, sustainable competitive advantage. That is a rare asset in business generally, and it's almost non-existent in the field of financial services."
-- [[berkshire-2004-letter]] — the fullest foundational history: State Farm's 1922 captive-agency innovation, USAA's extension to the military market, and the Goodwins' 1936 generalization to consumers; the 1976 near-bankruptcy proves the franchise survived catastrophic underwriting failure because the structural cost advantage was intact throughout
-- [[berkshire-2015-letter]] — most complete articulation of the three-stage disruption sequence; explicit expense-ratio comparisons across models; the GEICO productivity essay as an extended case study on why direct distribution compounds over time
+- [berkshire-1980-letter](../sources/berkshire-1980-letter.md) — "GEICO was designed to be the low-cost operation in an enormous marketplace (auto insurance) populated largely by companies whose marketing structures restricted adaptation. Run as designed, it could offer unusual value to its customers while earning unusual returns for itself."
+- [berkshire-1984-letter](../sources/berkshire-1984-letter.md) — "a major, sustainable competitive advantage. That is a rare asset in business generally, and it's almost non-existent in the field of financial services."
+- [berkshire-2004-letter](../sources/berkshire-2004-letter.md) — the fullest foundational history: State Farm's 1922 captive-agency innovation, USAA's extension to the military market, and the Goodwins' 1936 generalization to consumers; the 1976 near-bankruptcy proves the franchise survived catastrophic underwriting failure because the structural cost advantage was intact throughout
+- [berkshire-2015-letter](../sources/berkshire-2015-letter.md) — most complete articulation of the three-stage disruption sequence; explicit expense-ratio comparisons across models; the GEICO productivity essay as an extended case study on why direct distribution compounds over time
 
 ## Related
 
-- [[moat]] — direct distribution creates a moat uniquely resistant to incumbent response; the incumbent's distribution infrastructure is the very thing they cannot abandon
-- [[geico]] — 80-year case study; the definitive laboratory for this concept across every stage of competitive evolution
-- [[commodity-business-economics]] — direct distribution is one of the few structural escape routes from commodity economics: the underlying product can be functionally identical, yet the low-cost distributor wins decisively and durably
-- [[cost-of-float]] — GEICO's distribution-cost advantage directly lowers the cost of float; the two reinforce each other and together explain why GEICO is Berkshire's most valuable insurance asset
-- [[franchise-vs-business]] — a business with a self-reinforcing direct-distribution loop approaches franchise-like durability: the structural position protects against managerial mediocrity in a way pure operational efficiency cannot
+- [moat](moat.md) — direct distribution creates a moat uniquely resistant to incumbent response; the incumbent's distribution infrastructure is the very thing they cannot abandon
+- [geico](../entities/geico.md) — 80-year case study; the definitive laboratory for this concept across every stage of competitive evolution
+- [commodity-business-economics](commodity-business-economics.md) — direct distribution is one of the few structural escape routes from commodity economics: the underlying product can be functionally identical, yet the low-cost distributor wins decisively and durably
+- [cost-of-float](cost-of-float.md) — GEICO's distribution-cost advantage directly lowers the cost of float; the two reinforce each other and together explain why GEICO is Berkshire's most valuable insurance asset
+- [franchise-vs-business](franchise-vs-business.md) — a business with a self-reinforcing direct-distribution loop approaches franchise-like durability: the structural position protects against managerial mediocrity in a way pure operational efficiency cannot

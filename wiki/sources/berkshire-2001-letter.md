@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2001
 raw_path: raw/berkshire-letters/2001.md
 tags: [berkshire, annual-letter, september-11, general-re, underwriting-discipline, noah-rule, loss-development, fruit-of-the-loom, finova, dexter-mistake]
-related: [[warren-buffett]], [[charlie-munger]], [[berkshire-hathaway]], [[geico]], [[national-indemnity]], [[ajit-jain]], [[ben-graham]], [[david-dodd]], [[lou-simpson]], [[washington-post]], [[american-express]], [[coca-cola]], [[gillette]], [[wells-fargo]], [[float]], [[super-cat-insurance]], [[acquisition-criteria]], [[incentive-compensation]], [[capital-allocation]], [[owner-earnings]], [[mistakes-of-omission]], [[institutional-imperative]]
+related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [national-indemnity](../entities/national-indemnity.md), [ajit-jain](../people/ajit-jain.md), [ben-graham](../people/ben-graham.md), [david-dodd](../people/david-dodd.md), [lou-simpson](../people/lou-simpson.md), [washington-post](../entities/washington-post.md), [american-express](../entities/american-express.md), [coca-cola](../entities/coca-cola.md), [gillette](../entities/gillette.md), [wells-fargo](../entities/wells-fargo.md), [float](../concepts/float.md), [super-cat-insurance](../concepts/super-cat-insurance.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [incentive-compensation](../concepts/incentive-compensation.md), [capital-allocation](../concepts/capital-allocation.md), [owner-earnings](../concepts/owner-earnings.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md), [institutional-imperative](../concepts/institutional-imperative.md)
 ---
 
 # Berkshire Hathaway 2001 Annual Letter
@@ -19,7 +19,7 @@ Dated February 28, 2002. Per-share book value **declined 6.2%** to $37,920 — t
 
 - **Negative year, owned candidly.** First book-value decline since 1965. "Though our corporate performance last year was satisfactory, my performance was anything but." Buffett owns the General Re error personally rather than blaming it on prior management, geopolitics, or the cycle.
 - **The Noah rule.** Buffett recognized the terrorism exposure before September 11th but failed to act on it. "Predicting rain doesn't count; building arks does." A general principle for risk management: foresight without preparation is worthless.
-- **Three principles of insurance underwriting.** (1) Accept only risks you can properly evaluate, after considering remote loss scenarios — and be sanguine about losing business to foolish competitors. (2) Limit business so no single event or correlated cluster threatens solvency; "ceaselessly search for possible correlation among seemingly-unrelated risks." (3) Avoid moral risk — "trying to write good contracts with bad people doesn't work." [[general-re]] violated rules 1 and 2; [[ajit-jain]] has never violated any of the three.
+- **Three principles of insurance underwriting.** (1) Accept only risks you can properly evaluate, after considering remote loss scenarios — and be sanguine about losing business to foolish competitors. (2) Limit business so no single event or correlated cluster threatens solvency; "ceaselessly search for possible correlation among seemingly-unrelated risks." (3) Avoid moral risk — "trying to write good contracts with bad people doesn't work." [general-re](../entities/general-re.md) violated rules 1 and 2; [ajit-jain](../people/ajit-jain.md) has never violated any of the three.
 - **Experience vs. exposure.** The deep underwriting error: pricing property coverage by extrapolating past losses (windstorm, fire, explosion, earthquake) rather than by thinking through current exposures (terrorism). "All of us in the industry made a fundamental underwriting mistake by focusing on experience, rather than exposure, thereby assuming a huge terrorism risk for which we received no premium." Applied also to D&O insurance late in bull markets — experience looks great precisely when exposure is exploding.
 - **"Loss development" essay — bad terminology is the enemy of good thinking.** Loss reserves are not a piggy bank but a liability estimate. When the estimate proves wrong, the industry uses euphemisms ("loss development," "reserve strengthening") to disguise what was simply estimation error. "The losses didn't 'develop' — they were there all along. What developed was management's understanding." General Re's belated $800M reserve catch-up illustrates: under-reserving caused under-pricing, over-stated profits, excessive incentive compensation, and prematurely paid taxes. Pairs with the broader EBITDA / pro-forma critique.
 - **Underwriting discipline as the only durable edge.** "Neither size nor brand name determines an insurer's profitability." Discipline — not scale, brand, or cleverness — is what compounds. The structural problem: insurance is a "self-graded exam" where management gives auditors numbers and "generally doesn't get an argument."
@@ -28,7 +28,7 @@ Dated February 28, 2002. Per-share book value **declined 6.2%** to $37,920 — t
 - **Daisy-chain reinsurance risk.** Post-9/11 observation: reinsurers who routinely lay off risk on retrocessionaires are weakened by chain-link failures. "After all, you only find out who is swimming naked when the tide goes out." Canonical first articulation of this line.
 - **Enron, repricing, and executive abuse.** The letter opens with a sharp attack on CEOs who urge investors to buy while dumping their own shares and on the now-routine repricing of underwater options. "These business leaders view shareholders as patsies, not partners." The MiTek deal — 55 managers required to put up at least $100K in real cash to own 10% — is presented as the antidote: "they can't 'reprice' their stakes."
 - **Equity-returns dampener restated.** Buffett refers to his July 2001 Allen & Co. speech and December 2001 *Fortune* article: "today's equity prices presage only moderate returns." "The Great Bubble ended on March 10, 2000" — the day NASDAQ hit 5,132 and Berkshire shares hit their lowest price since mid-1997.
-- **Dexter mistake compounded.** Buffett enumerates three Dexter errors: buying it, paying in Berkshire stock, and procrastinating on the obvious operational changes. Operations folded under [[h-h-brown]]'s Frank Rooney and Jim Issler. The 1993 stock-for-shoes deal continues to extract its multi-generational tax.
+- **Dexter mistake compounded.** Buffett enumerates three Dexter errors: buying it, paying in Berkshire stock, and procrastinating on the obvious operational changes. Operations folded under [h-h-brown](../entities/h-h-brown.md)'s Frank Rooney and Jim Issler. The 1993 stock-for-shoes deal continues to extract its multi-generational tax.
 - **Fruit of the Loom déjà vu.** Buffett's 1955 personal investment in Philadelphia and Reading Coal (which acquired Union Underwear, the Fruit of the Loom licensee, for $15M with $9M in non-interest-bearing seller notes) closes a half-century loop. Micky Newman, his 81-year-old former boss at Graham-Newman, helps with the 2001 bankruptcy bid. "What goes around truly does come around."
 - **FINOVA / Berkadia.** Distressed-debt purchase (13% of FINOVA's debt at ~67% of face) leads to a joint $5.6B prepackaged-bankruptcy financing with Leucadia, with Berkshire guaranteeing 90% of the borrowing and earning ~90% of the spread. The Boston banking relationship (First National Bank of Boston → FleetBoston) syndicates the loan in days. "If you ever need $6 billion, just give Chad a call — assuming, that is, your credit is AAA."
 - **"Acquisitions of 2001."** MiTek (UK parent–owned, connector plates for roofing trusses; manager-coinvestment structure); XTRA (truck-trailer leasing; tender offer expired September 11 with an out clause Berkshire honored anyway); Larson-Juhl (custom picture frames; Craig Ponzio; 90-minute agreement); Fruit of the Loom (pending creditor approval). Plus closed-from-2000: Shaw, Johns Manville, Benjamin Moore. All cash, no Berkshire stock issued.
@@ -165,11 +165,11 @@ Active in 2001 in a way Berkshire had not been since the 1989 WPPSS / 1980s zero
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[geico]] — record underwriting profit ($221M); policy count declined slightly; Lou Simpson outperforming Buffett
-- [[national-indemnity]] — Ajit Jain post-9/11 jumbo book; "circle of competence" rule never broken
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [geico](../entities/geico.md) — record underwriting profit ($221M); policy count declined slightly; Lou Simpson outperforming Buffett
+- [national-indemnity](../entities/national-indemnity.md) — Ajit Jain post-9/11 jumbo book; "circle of competence" rule never broken
 - General Re — three-rule failure; $4.3B underwriting loss; Cologne Re subsidiary
-- [[american-express]], [[coca-cola]], [[gillette]], [[wells-fargo]], [[washington-post]] — major holdings; flat year
+- [american-express](../entities/american-express.md), [coca-cola](../entities/coca-cola.md), [gillette](../entities/gillette.md), [wells-fargo](../entities/wells-fargo.md), [washington-post](../entities/washington-post.md) — major holdings; flat year
 - Shaw Industries — acquired Jan 8 2001; minority bought out post-yearend; now 100%
 - Johns Manville — acquired Feb 27 2001
 - MiTek — acquired Jul 31 2001; manager-coinvestment structure
@@ -180,10 +180,10 @@ Active in 2001 in a way Berkshire had not been since the 1989 WPPSS / 1980s zero
 - MidAmerican Energy — 76%-owned; Yorkshire Electric added; HomeServices residential brokerage
 - FlightSafety — Al Ueltschi at 84; commercial training depressed post-9/11
 - NetJets — small loss; US profit offset by European losses; Rich Santulli
-- [[h-h-brown]] — Frank Rooney; absorbed Dexter operations
+- [h-h-brown](../entities/h-h-brown.md) — Frank Rooney; absorbed Dexter operations
 - Dexter Shoe — three-mistake catalog; folded under H.H. Brown
-- [[nebraska-furniture-mart]] — 450,000 sq ft Kansas City store under construction
-- [[borsheims]] — annual-meeting events
+- [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) — 450,000 sq ft Kansas City store under construction
+- [borsheims](../entities/borsheims.md) — annual-meeting events
 - FINOVA — distressed bond → Berkadia joint venture
 - Berkadia — Leucadia/Berkshire jointly-owned vehicle; $5.6B FleetBoston-syndicated loan
 - Leucadia — joint-venture partner
@@ -195,14 +195,14 @@ Active in 2001 in a way Berkshire had not been since the 1989 WPPSS / 1980s zero
 
 ## People mentioned
 
-- [[warren-buffett]], [[charlie-munger]]
-- [[ajit-jain]] — three-rule perfect record; post-9/11 jumbo policies
-- [[lou-simpson]] — outperforming Buffett "in recent years"
+- [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md)
+- [ajit-jain](../people/ajit-jain.md) — three-rule perfect record; post-9/11 jumbo policies
+- [lou-simpson](../people/lou-simpson.md) — outperforming Buffett "in recent years"
 - Tony Nicely — GEICO; "owner's dream"
 - Joe Brandon — General Re CEO from Sept 2001
 - Tad Montross — General Re president
-- [[ben-graham]] — Graham-Newman / Horace frontispiece quote
-- [[david-dodd]] — *Security Analysis* co-author
+- [ben-graham](../people/ben-graham.md) — Graham-Newman / Horace frontispiece quote
+- [david-dodd](../people/david-dodd.md) — *Security Analysis* co-author
 - Micky Newman — Buffett's 81-year-old former Graham-Newman boss; helped on Fruit of the Loom
 - Jerry Newman — Graham-Newman principal
 - Howard "Micky" Newman — same as above
@@ -230,31 +230,31 @@ Active in 2001 in a way Berkshire had not been since the 1989 WPPSS / 1980s zero
 ## Concepts introduced or discussed
 
 - **Noah rule** — predicting rain doesn't count; building arks does. Canonical first appearance.
-- **Three principles of insurance underwriting** — the canonical operational articulation of [[acquisition-criteria]]-style discipline applied to insurance.
+- **Three principles of insurance underwriting** — the canonical operational articulation of [acquisition-criteria](../concepts/acquisition-criteria.md)-style discipline applied to insurance.
 - **Experience vs. exposure** — the deep underwriting error of extrapolating past loss patterns when current exposures have shifted.
 - **"Loss development" critique** — bad terminology as the enemy of good thinking; the rented-suit metaphor; insurance accounting as a self-graded exam.
 - **Daisy-chain reinsurance risk** — "you only find out who is swimming naked when the tide goes out." Canonical first articulation.
-- [[float]] — segment table extended through 2001; 12.8% cost-of-float
-- [[super-cat-insurance]] — Ajit Jain's discipline; post-9/11 jumbo book
-- [[incentive-compensation]] — MiTek manager-coinvestment structure as the alternative to options; opening-paragraphs attack on option-repricing as the canonical executive abuse of the era
-- [[institutional-imperative]] — "difficult for able, hard-driving professionals to curb their urge to prevail over competitors"; market-share-vs-profit at General Re
-- [[mistakes-of-omission]] / mistakes-of-commission — Dexter triple-error (purchase; stock currency; procrastination); the Noah-rule failure as a mistake of inaction despite knowledge
-- [[capital-allocation]] — all-cash acquisition policy reaffirmed ("issuing shares only grudgingly")
-- [[owner-earnings]] — EBITDA / pro-forma critique reprised ("Those who believe that EBITDA is in any way equivalent to true earnings are welcome to pick up the tab" at FlightSafety where simulator capex of $162M dwarfs $95M depreciation)
+- [float](../concepts/float.md) — segment table extended through 2001; 12.8% cost-of-float
+- [super-cat-insurance](../concepts/super-cat-insurance.md) — Ajit Jain's discipline; post-9/11 jumbo book
+- [incentive-compensation](../concepts/incentive-compensation.md) — MiTek manager-coinvestment structure as the alternative to options; opening-paragraphs attack on option-repricing as the canonical executive abuse of the era
+- [institutional-imperative](../concepts/institutional-imperative.md) — "difficult for able, hard-driving professionals to curb their urge to prevail over competitors"; market-share-vs-profit at General Re
+- [mistakes-of-omission](../concepts/mistakes-of-omission.md) / mistakes-of-commission — Dexter triple-error (purchase; stock currency; procrastination); the Noah-rule failure as a mistake of inaction despite knowledge
+- [capital-allocation](../concepts/capital-allocation.md) — all-cash acquisition policy reaffirmed ("issuing shares only grudgingly")
+- [owner-earnings](../concepts/owner-earnings.md) — EBITDA / pro-forma critique reprised ("Those who believe that EBITDA is in any way equivalent to true earnings are welcome to pick up the tab" at FlightSafety where simulator capex of $162M dwarfs $95M depreciation)
 - **Elephant problem** — size now requires "elephants" to move the needle; a $10M idea ($1973 Washington Post, 1976 GEICO) no longer suffices
 - **Distressed-debt as acquisition route** — Fruit of the Loom and FINOVA both began as junk-bond positions that escalated into full-company or near-control deals
 - **Shareholders as partners vs. patsies** — the Enron / repricing / insider-selling opener; reciprocal personal commitment ("Charlie and I will keep well over 99% of my net worth in Berkshire")
 
 ## Connections to other sources
 
-- The Noah-rule essay is a new addition to the canon of risk-management framings; it complements but is sharper than the [[mistakes-of-omission]] frame because it covers mistakes of *recognized* inaction, not merely missed opportunities.
-- The three principles of insurance underwriting are the canonical operational articulation of the discipline first sketched in [[berkshire-1977-letter]] ("We tend to let our many subsidiary managers operate on their own"-style underwriting-autonomy) and explored through the cost-of-float framework canonized in [[berkshire-1990-letter]].
-- The "loss development" / loss-reserving critique extends the under-reserving disclosures Buffett made in [[berkshire-1984-letter]] (WPPSS-adjacent reserving discussion) and [[berkshire-1985-letter]], and continues the loss-reserving uncertainty theme of [[berkshire-1984-letter]]. The 2001 letter is the first to convert it into a fully developed essay on insurance-accounting euphemism.
+- The Noah-rule essay is a new addition to the canon of risk-management framings; it complements but is sharper than the [mistakes-of-omission](../concepts/mistakes-of-omission.md) frame because it covers mistakes of *recognized* inaction, not merely missed opportunities.
+- The three principles of insurance underwriting are the canonical operational articulation of the discipline first sketched in [berkshire-1977-letter](berkshire-1977-letter.md) ("We tend to let our many subsidiary managers operate on their own"-style underwriting-autonomy) and explored through the cost-of-float framework canonized in [berkshire-1990-letter](berkshire-1990-letter.md).
+- The "loss development" / loss-reserving critique extends the under-reserving disclosures Buffett made in [berkshire-1984-letter](berkshire-1984-letter.md) (WPPSS-adjacent reserving discussion) and [berkshire-1985-letter](berkshire-1985-letter.md), and continues the loss-reserving uncertainty theme of [berkshire-1984-letter](berkshire-1984-letter.md). The 2001 letter is the first to convert it into a fully developed essay on insurance-accounting euphemism.
 - The General Re underwriting reckoning forces a re-examination of the 1998 General Re acquisition (handled in the 1998 letter), where Buffett accepted the operation's claimed underwriting discipline at face value. The "I have been proven wrong" admission supersedes prior assurances and is the canonical case study in how an acquirer's enthusiasm can override underwriting due diligence.
-- The Dexter triple-mistake updates and compounds the original Dexter regret first noted in [[berkshire-1993-letter]] (acquisition) and elaborated in later letters as the [[stock-as-acquisition-currency]] mistake; the 2001 letter adds "procrastination" as a third, distinct error.
-- The Fruit of the Loom acquisition closes a personal loop reaching back to Buffett's 1955 work at Graham-Newman — paralleling and extending the Buffett-Graham origin story canonically retold in [[berkshire-1995-letter]] via the [[lorimer-davidson]] / GEICO arc.
-- The "Buffett vs. Lou Simpson" candid concession ("Lou's performance has been far better than mine") extends the [[lou-simpson]] track record introduced in [[berkshire-1995-letter]].
-- The MiTek manager-coinvestment structure operationalizes the compensation philosophy of the [[berkshire-1985-letter]] / [[berkshire-1994-letter]] essays and contrasts sharply with the option-repricing abuse the letter opens with.
+- The Dexter triple-mistake updates and compounds the original Dexter regret first noted in [berkshire-1993-letter](berkshire-1993-letter.md) (acquisition) and elaborated in later letters as the [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md) mistake; the 2001 letter adds "procrastination" as a third, distinct error.
+- The Fruit of the Loom acquisition closes a personal loop reaching back to Buffett's 1955 work at Graham-Newman — paralleling and extending the Buffett-Graham origin story canonically retold in [berkshire-1995-letter](berkshire-1995-letter.md) via the [lorimer-davidson](../people/lorimer-davidson.md) / GEICO arc.
+- The "Buffett vs. Lou Simpson" candid concession ("Lou's performance has been far better than mine") extends the [lou-simpson](../people/lou-simpson.md) track record introduced in [berkshire-1995-letter](berkshire-1995-letter.md).
+- The MiTek manager-coinvestment structure operationalizes the compensation philosophy of the [berkshire-1985-letter](berkshire-1985-letter.md) / [berkshire-1994-letter](berkshire-1994-letter.md) essays and contrasts sharply with the option-repricing abuse the letter opens with.
 - The "Great Bubble ended on March 10, 2000" framing pairs with the equity-returns dampener of the 1999 letter (referenced inline) and the December 2001 *Fortune* article, all part of Buffett's late-cycle public skepticism arc.
-- The all-cash acquisition policy ("issuing shares only grudgingly") continues the [[stock-as-acquisition-currency]] discipline canonized in [[berkshire-1982-letter]] and extended via the MBA / day-laborer analogy in [[berkshire-1994-letter]].
-- The Acme Boot bolt-on and the Fruit of the Loom déjà vu both invoke the Graham/Dodd Horace frontispiece, extending the [[ben-graham]] / [[david-dodd]] intellectual lineage threaded through every letter since the [[berkshire-1988-letter]] Dodd obituary.
+- The all-cash acquisition policy ("issuing shares only grudgingly") continues the [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md) discipline canonized in [berkshire-1982-letter](berkshire-1982-letter.md) and extended via the MBA / day-laborer analogy in [berkshire-1994-letter](berkshire-1994-letter.md).
+- The Acme Boot bolt-on and the Fruit of the Loom déjà vu both invoke the Graham/Dodd Horace frontispiece, extending the [ben-graham](../people/ben-graham.md) / [david-dodd](../people/david-dodd.md) intellectual lineage threaded through every letter since the [berkshire-1988-letter](berkshire-1988-letter.md) Dodd obituary.

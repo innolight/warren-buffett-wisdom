@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2014
 raw_path: raw/berkshire-letters/2014.md
 tags: [berkshire, annual-letter, 50th-anniversary, conglomerate, succession]
-related: [[warren-buffett]], [[charlie-munger]], [[berkshire-hathaway]], [[geico]], [[bnsf]], [[midamerican-energy]]
+related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [bnsf](../entities/bnsf.md), [midamerican-energy](../entities/midamerican-energy.md)
 ---
 
 # Berkshire Hathaway 2014 Annual Letter
@@ -29,31 +29,31 @@ The **50th anniversary** letter — fifty years since Buffett Partnership Ltd. t
 
 ## Entities discussed
 
-- [[bnsf]] — service failures in 2014; record $6B capex commitment for 2015; revenues $23.2B; net earnings $3.9B
-- [[midamerican-energy]] — renamed Berkshire Hathaway Energy; AltaLink ($3B CAD); 6% wind / 7% solar national capacity; earnings to Berkshire $1.9B
-- [[geico]] — 10.8% market share (from 2.5% at 1995 acquisition); Tony Nicely 53 years; float $13.6B; underwriting profit $1.16B
-- [[general-re]] — float $19.3B; underwriting profit $277M; international life reinsurance growth confirmed
-- [[national-indemnity]] — origin story retold; GAAP net worth $111B, largest of any insurer in the world
-- [[sees-candies]] — $1.9B cumulative pre-tax earnings on $40M of incremental investment; the "rabbits breeding" framing
-- [[dexter-shoe]] — effective cost quantified as $5.7B in Berkshire shares; "a spot in the Guinness Book of World Records"
-- [[berkshire-hathaway]] — 50-year retrospective; conglomerate defense; "nine and a half Fortune 500 companies"
-- [[coca-cola]], [[american-express]], [[wells-fargo]] — Big Four stake increases through open-market purchases and share repurchases
+- [bnsf](../entities/bnsf.md) — service failures in 2014; record $6B capex commitment for 2015; revenues $23.2B; net earnings $3.9B
+- [midamerican-energy](../entities/midamerican-energy.md) — renamed Berkshire Hathaway Energy; AltaLink ($3B CAD); 6% wind / 7% solar national capacity; earnings to Berkshire $1.9B
+- [geico](../entities/geico.md) — 10.8% market share (from 2.5% at 1995 acquisition); Tony Nicely 53 years; float $13.6B; underwriting profit $1.16B
+- [general-re](../entities/general-re.md) — float $19.3B; underwriting profit $277M; international life reinsurance growth confirmed
+- [national-indemnity](../entities/national-indemnity.md) — origin story retold; GAAP net worth $111B, largest of any insurer in the world
+- [sees-candies](../entities/sees-candies.md) — $1.9B cumulative pre-tax earnings on $40M of incremental investment; the "rabbits breeding" framing
+- [dexter-shoe](../entities/dexter-shoe.md) — effective cost quantified as $5.7B in Berkshire shares; "a spot in the Guinness Book of World Records"
+- [berkshire-hathaway](../entities/berkshire-hathaway.md) — 50-year retrospective; conglomerate defense; "nine and a half Fortune 500 companies"
+- [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md), [wells-fargo](../entities/wells-fargo.md) — Big Four stake increases through open-market purchases and share repurchases
 
 ## People mentioned
 
-- [[warren-buffett]] — author; origin story; conglomerate defense
-- [[charlie-munger]] — "Charlie Straightens Me Out" biographical section; standalone Berkshire System letter
-- [[ajit-jain]] — named by Munger as "world-leading"; architect of BH Reinsurance; potential successor
-- [[tony-nicely]] — 53 years at GEICO in 2014; "there is no better manager"
+- [warren-buffett](../people/warren-buffett.md) — author; origin story; conglomerate defense
+- [charlie-munger](../people/charlie-munger.md) — "Charlie Straightens Me Out" biographical section; standalone Berkshire System letter
+- [ajit-jain](../people/ajit-jain.md) — named by Munger as "world-leading"; architect of BH Reinsurance; potential successor
+- [tony-nicely](../people/tony-nicely.md) — 53 years at GEICO in 2014; "there is no better manager"
 
 ## Concepts introduced or discussed
 
-- [[berkshire-conglomerate-model]] — new concept: the 50th anniversary essays provide the most systematic treatment of Berkshire's structural and operating philosophy, including Munger's 15-point system
-- [[cigar-butts-vs-wonderful-businesses]] — richest articulation in the series; full origin story including the Stanton affair; See's $1.9B / $40M; Dexter $5.7B effective cost
-- [[float]] — $83.9B; 12th consecutive underwriting profit; "revolving fund" framing
-- [[risk-vs-volatility]] — equity vs. bonds essay; 50 years of evidence for productive assets over currency-based instruments
-- [[investment-categories]] — 50-year empirical endorsement of equities over Treasuries; confirms the 2011 framework
-- [[owner-earnings]] — 2014 amortization in Manufacturing/Service/Retail: $1.15B total, ~20% real; EBITDA critique reiterated
+- [berkshire-conglomerate-model](../concepts/berkshire-conglomerate-model.md) — new concept: the 50th anniversary essays provide the most systematic treatment of Berkshire's structural and operating philosophy, including Munger's 15-point system
+- [cigar-butts-vs-wonderful-businesses](../concepts/cigar-butts-vs-wonderful-businesses.md) — richest articulation in the series; full origin story including the Stanton affair; See's $1.9B / $40M; Dexter $5.7B effective cost
+- [float](../concepts/float.md) — $83.9B; 12th consecutive underwriting profit; "revolving fund" framing
+- [risk-vs-volatility](../concepts/risk-vs-volatility.md) — equity vs. bonds essay; 50 years of evidence for productive assets over currency-based instruments
+- [investment-categories](../concepts/investment-categories.md) — 50-year empirical endorsement of equities over Treasuries; confirms the 2011 framework
+- [owner-earnings](../concepts/owner-earnings.md) — 2014 amortization in Manufacturing/Service/Retail: $1.15B total, ~20% real; EBITDA critique reiterated
 
 ## Notable quotes
 
@@ -77,6 +77,6 @@ The **50th anniversary** letter — fifty years since Buffett Partnership Ltd. t
 
 ## Connections to other sources
 
-- Continues [[berkshire-2013-letter]] — 11th consecutive underwriting profit; GEICO #2 nationally; BNSF record $4B capex
+- Continues [berkshire-2013-letter](berkshire-2013-letter.md) — 11th consecutive underwriting profit; GEICO #2 nationally; BNSF record $4B capex
 - Munger's letter is his first major standalone essay in the annual report series; it anticipates the succession themes that become explicit in post-2015 letters
 - See's Candy figures updated from the 2007 letter's $1.35B / $32M to 2014 values of $1.9B / $40M — seven additional years of compounding

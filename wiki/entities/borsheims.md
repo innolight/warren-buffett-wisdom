@@ -5,12 +5,12 @@ created: 2026-05-25
 updated: 2026-05-26
 sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1995-letter]
 tags: [retail, jewelry, low-cost-operator, family-business]
-related: [[berkshire-hathaway]], [[nebraska-furniture-mart]], [[rose-blumkin]], [[helzbergs]], [[moat]]
+related: [berkshire-hathaway](berkshire-hathaway.md), [nebraska-furniture-mart](nebraska-furniture-mart.md), [rose-blumkin](../people/rose-blumkin.md), [helzbergs](helzbergs.md), [moat](../concepts/moat.md)
 ---
 
 # Borsheim's
 
-Omaha-based jewelry retailer. Berkshire acquired 80% in early 1989. The business is a near-clone of [[nebraska-furniture-mart]] in operating philosophy, run by the Friedman family — relatives of the Blumkins by blood and by approach.
+Omaha-based jewelry retailer. Berkshire acquired 80% in early 1989. The business is a near-clone of [nebraska-furniture-mart](nebraska-furniture-mart.md) in operating philosophy, run by the Friedman family — relatives of the Blumkins by blood and by approach.
 
 ## Why it matters
 
@@ -28,11 +28,11 @@ The combination of the last three lets both stores offer everyday prices no one 
 
 ## The Friedman family
 
-The connection runs through the Blumkin family. Rebecca Friedman — sister of Mrs. B ([[rose-blumkin]]) — escaped Russia via Latvia in 1922 (Mrs. B's earlier odyssey was eastward through Manchuria). The two sisters reunited their family in Omaha. In 1948 Louis Friedman bought Borsheim's; his son Ike Friedman became managing partner in 1950. Ike's son Alan and sons-in-law Marvin Cohn and Donald Yale joined later.
+The connection runs through the Blumkin family. Rebecca Friedman — sister of Mrs. B ([rose-blumkin](../people/rose-blumkin.md)) — escaped Russia via Latvia in 1922 (Mrs. B's earlier odyssey was eastward through Manchuria). The two sisters reunited their family in Omaha. In 1948 Louis Friedman bought Borsheim's; his son Ike Friedman became managing partner in 1950. Ike's son Alan and sons-in-law Marvin Cohn and Donald Yale joined later.
 
 Buffett's 1988 admission of the missed opportunity:
 
-> It was in 1983 that Berkshire purchased an 80% interest in The Nebraska Furniture Mart. Your Chairman blundered then by neglecting to ask Mrs. B a question any schoolboy would have thought of: "Are there any more at home like you?" Last month I corrected the error: We are now 80% partners with another branch of the family. ([[berkshire-1988-letter]])
+> It was in 1983 that Berkshire purchased an 80% interest in The Nebraska Furniture Mart. Your Chairman blundered then by neglecting to ask Mrs. B a question any schoolboy would have thought of: "Are there any more at home like you?" Last month I corrected the error: We are now 80% partners with another branch of the family. ([berkshire-1988-letter](../sources/berkshire-1988-letter.md))
 
 The purchase was made without an audit, inventory verification, or formal financial review — on the basis of trust in the family's word. The 1988 letter: "Ike simply told us what was so — and on that basis we drew up a one-page contract and wrote a large check."
 
@@ -58,15 +58,15 @@ The principle: in a market where the customer cannot reliably evaluate the produ
 
 ## Sources discussing this entity
 
-- [[berkshire-1988-letter]] — Berkshire acquires 80%; the "are there any more at home like you?" admission; one-page-contract acquisition style
-- [[berkshire-1989-letter]] — first full year; the five-factor operating formula formalized; the safe story
-- [[berkshire-1990-letter]] — 18% sales growth in a weak year; the mail-order protocol; "what works with diapers works with diamonds"
-- [[berkshire-1995-letter]] — Susan Jacques as new CEO; sales up 11.7%; companion to Helzberg's acquisition (a separate, larger jewelry chain — explicitly noted to operate independently from Borsheim's)
+- [berkshire-1988-letter](../sources/berkshire-1988-letter.md) — Berkshire acquires 80%; the "are there any more at home like you?" admission; one-page-contract acquisition style
+- [berkshire-1989-letter](../sources/berkshire-1989-letter.md) — first full year; the five-factor operating formula formalized; the safe story
+- [berkshire-1990-letter](../sources/berkshire-1990-letter.md) — 18% sales growth in a weak year; the mail-order protocol; "what works with diapers works with diamonds"
+- [berkshire-1995-letter](../sources/berkshire-1995-letter.md) — Susan Jacques as new CEO; sales up 11.7%; companion to Helzberg's acquisition (a separate, larger jewelry chain — explicitly noted to operate independently from Borsheim's)
 
 ## Related
 
-- [[nebraska-furniture-mart]] — the structural and family original
-- [[rose-blumkin]] — Mrs. B; Rebecca Friedman's sister
-- [[helzbergs]] — a separately acquired jewelry business; explicitly run independently
-- [[moat]] — single-location low-cost operator with broad selection as a moat
-- [[acquisition-criteria]] — Borsheim's exemplifies "the Blumkin-Friedman-Heldman mold" Buffett cites as preferred
+- [nebraska-furniture-mart](nebraska-furniture-mart.md) — the structural and family original
+- [rose-blumkin](../people/rose-blumkin.md) — Mrs. B; Rebecca Friedman's sister
+- [helzbergs](helzbergs.md) — a separately acquired jewelry business; explicitly run independently
+- [moat](../concepts/moat.md) — single-location low-cost operator with broad selection as a moat
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — Borsheim's exemplifies "the Blumkin-Friedman-Heldman mold" Buffett cites as preferred

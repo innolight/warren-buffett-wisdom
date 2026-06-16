@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1991-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-2003-letter]
 tags: [moat, competitive-advantage, business-quality, valuation]
-related: [[moat]], [[economic-goodwill]], [[commodity-business-economics]], [[capital-cities]], [[buffalo-evening-news]]
+related: [moat](moat.md), [economic-goodwill](economic-goodwill.md), [commodity-business-economics](commodity-business-economics.md), [capital-cities](../entities/capital-cities.md), [buffalo-evening-news](../entities/buffalo-evening-news.md)
 ---
 
 # Franchise vs. Business
@@ -44,9 +44,9 @@ The most consequential application in the letters. Newspapers, network televisio
 - Retailers (Wal-Mart and direct-mail) bypassing mass media.
 - Print and electronic ad channels proliferating, fragmenting audiences.
 
-The result: "advertising dollars are more widely dispersed and the pricing power of ad vendors has diminished." The intrinsic value of [[buffalo-evening-news]], [[capital-cities]], and [[washington-post]] all reduce — not because of management failure but because the franchise has weakened toward business.
+The result: "advertising dollars are more widely dispersed and the pricing power of ad vendors has diminished." The intrinsic value of [buffalo-evening-news](../entities/buffalo-evening-news.md), [capital-cities](../entities/capital-cities.md), and [washington-post](../entities/washington-post.md) all reduce — not because of management failure but because the franchise has weakened toward business.
 
-> Gone are the days of bullet-proof franchises and cornucopian economics. ([[berkshire-1991-letter]])
+> Gone are the days of bullet-proof franchises and cornucopian economics. ([berkshire-1991-letter](../sources/berkshire-1991-letter.md))
 
 By 1995, Buffett reports the franchise has lost "still another notch."
 
@@ -54,7 +54,7 @@ By 1995, Buffett reports the franchise has lost "still another notch."
 
 The asymmetry runs both directions:
 
-- A franchise **tolerates** mediocre management. Buffett's TV-station example in the 1995 letter: "if you were smart enough to buy a network TV station very early in the game, you could put in a shiftless and backward nephew to run things, and the business would still do well for decades." See [[berkshire-1995-letter]] on the "have-to-be-smart-once" vs. "have-to-be-smart-every-day" distinction.
+- A franchise **tolerates** mediocre management. Buffett's TV-station example in the 1995 letter: "if you were smart enough to buy a network TV station very early in the game, you could put in a shiftless and backward nephew to run things, and the business would still do well for decades." See [berkshire-1995-letter](../sources/berkshire-1995-letter.md) on the "have-to-be-smart-once" vs. "have-to-be-smart-every-day" distinction.
 - A business **requires** great management to survive. Retailers, airlines, commodity producers — these need talented operators day after day to stay alive, let alone profitable.
 
 The framing is a useful purchase filter: pay a franchise multiple only when the franchise test is met; otherwise pay a business multiple regardless of management quality.
@@ -71,19 +71,19 @@ The key distinction from a conventional franchise: the "moat" here is not demand
 
 This case extends the franchise/business framework: underwriting discipline, consistently applied across a full credit cycle while competitors abandoned it, can generate durable differentiated returns in commodity industries. The discipline is durable only so long as management maintains it — which is the same fragility that afflicts any culture-based competitive advantage.
 
-See [[berkshire-2003-letter]] for the full manufactured-housing industry diagnosis.
+See [berkshire-2003-letter](../sources/berkshire-2003-letter.md) for the full manufactured-housing industry diagnosis.
 
 ## How it's discussed in sources
 
-- [[berkshire-1991-letter]] — canonical definition; the three-condition test; the media valuation math; the reclassification of media from franchise to business
-- [[berkshire-1995-letter]] — the "have-to-be-smart-once" vs. "have-to-be-smart-every-day" extension; retailing as the canonical "must-be-smart-every-day" business; TV station as the canonical "must-be-smart-once" franchise
-- [[berkshire-1996-letter]] — the "Inevitables" essay: the highest tier of the franchise category (Coca-Cola, Gillette) as businesses whose global dominance over an investment lifetime is near-certain; the framing that these two cases represent genuine certainty of dominance, not merely high probability
-- [[berkshire-2003-letter]] — Clayton Homes as process-discipline franchise in manufactured housing; the originate-and-distribute securitization collapse as the case study in what happens when competitive discipline is structurally removed; "buyers who shouldn't have bought, financed by lenders who shouldn't have lent"
+- [berkshire-1991-letter](../sources/berkshire-1991-letter.md) — canonical definition; the three-condition test; the media valuation math; the reclassification of media from franchise to business
+- [berkshire-1995-letter](../sources/berkshire-1995-letter.md) — the "have-to-be-smart-once" vs. "have-to-be-smart-every-day" extension; retailing as the canonical "must-be-smart-every-day" business; TV station as the canonical "must-be-smart-once" franchise
+- [berkshire-1996-letter](../sources/berkshire-1996-letter.md) — the "Inevitables" essay: the highest tier of the franchise category (Coca-Cola, Gillette) as businesses whose global dominance over an investment lifetime is near-certain; the framing that these two cases represent genuine certainty of dominance, not merely high probability
+- [berkshire-2003-letter](../sources/berkshire-2003-letter.md) — Clayton Homes as process-discipline franchise in manufactured housing; the originate-and-distribute securitization collapse as the case study in what happens when competitive discipline is structurally removed; "buyers who shouldn't have bought, financed by lenders who shouldn't have lent"
 
 ## Related
 
-- [[moat]] — the structural source of a franchise; a franchise is the economic expression of a moat
-- [[economic-goodwill]] — franchises typically embody large enduring economic Goodwill
-- [[commodity-business-economics]] — the business pole of the franchise/business spectrum
-- [[buffalo-evening-news]] — the case study of franchise erosion in real time
-- [[capital-cities]] — same; reclassification motivates Buffett's eventual Disney exchange
+- [moat](moat.md) — the structural source of a franchise; a franchise is the economic expression of a moat
+- [economic-goodwill](economic-goodwill.md) — franchises typically embody large enduring economic Goodwill
+- [commodity-business-economics](commodity-business-economics.md) — the business pole of the franchise/business spectrum
+- [buffalo-evening-news](../entities/buffalo-evening-news.md) — the case study of franchise erosion in real time
+- [capital-cities](../entities/capital-cities.md) — same; reclassification motivates Buffett's eventual Disney exchange

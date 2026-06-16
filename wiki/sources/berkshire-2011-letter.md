@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2011
 raw_path: raw/berkshire-letters/2011.md
 tags: [insurance, float, share-repurchases, investment-philosophy, regulated-infrastructure]
-related: [[warren-buffett]], [[geico]], [[bnsf]], [[midamerican-energy]], [[netjets]]
+related: [warren-buffett](../people/warren-buffett.md), [geico](../entities/geico.md), [bnsf](../entities/bnsf.md), [midamerican-energy](../entities/midamerican-energy.md), [netjets](../entities/netjets.md)
 ---
 
 # Berkshire Hathaway 2011 Annual Letter
@@ -27,27 +27,27 @@ Book value per A share grew 4.6% in 2011. The letter's most enduring sections ar
 
 ## Entities discussed
 
-- [[bnsf]] — 2011 record revenues ($19.5B) and pre-tax ($4.7B); 37% of railroad industry ton-miles; 9.5× interest coverage in a weak economy
-- [[geico]] — market share 9.3% (up from 2.0% at start of Tony Nicely's tenure); premium volume $15.4B vs. $3.3B hypothetical-static; float $11.2B
-- [[midamerican-energy]] — net earnings $1.33B; 3,316 MW wind by end of 2012; two solar projects at ~$3B; pipeline ranked #2 in customer satisfaction (from dead last in 2002)
-- [[netjets]] — $227M pre-tax under Jordan Hansell; China expansion announced; "no other fractional-ownership operator has remotely the size and breadth"
-- [[wells-fargo]] — $1B addition to position; described as prospering with strong earnings and record capital
+- [bnsf](../entities/bnsf.md) — 2011 record revenues ($19.5B) and pre-tax ($4.7B); 37% of railroad industry ton-miles; 9.5× interest coverage in a weak economy
+- [geico](../entities/geico.md) — market share 9.3% (up from 2.0% at start of Tony Nicely's tenure); premium volume $15.4B vs. $3.3B hypothetical-static; float $11.2B
+- [midamerican-energy](../entities/midamerican-energy.md) — net earnings $1.33B; 3,316 MW wind by end of 2012; two solar projects at ~$3B; pipeline ranked #2 in customer satisfaction (from dead last in 2002)
+- [netjets](../entities/netjets.md) — $227M pre-tax under Jordan Hansell; China expansion announced; "no other fractional-ownership operator has remotely the size and breadth"
+- [wells-fargo](../entities/wells-fargo.md) — $1B addition to position; described as prospering with strong earnings and record capital
 
 ## People mentioned
 
-- [[warren-buffett]] — admits Energy Future Holdings was "a major unforced error"; discusses CEO and investment-manager succession candidly
-- [[ajit-jain]] — float of $34B from a standing start in 1985; "Charlie would gladly trade me for a second Ajit. Alas, there is none."
-- [[tony-nicely]] — 50 years of service at GEICO in 2011; 18-year CEO tenure with market-share 2.0% → 9.3%
+- [warren-buffett](../people/warren-buffett.md) — admits Energy Future Holdings was "a major unforced error"; discusses CEO and investment-manager succession candidly
+- [ajit-jain](../people/ajit-jain.md) — float of $34B from a standing start in 1985; "Charlie would gladly trade me for a second Ajit. Alas, there is none."
+- [tony-nicely](../people/tony-nicely.md) — 50 years of service at GEICO in 2011; 18-year CEO tenure with market-share 2.0% → 9.3%
 
 ## Concepts introduced or discussed
 
-- [[investment-categories]] — the three-tier taxonomy introduced in full in this letter
-- [[share-repurchases]] — IBM buyback math and Berkshire's 110%-of-book-value threshold
-- [[underwriting-discipline]] — four disciplines explicitly enumerated
-- [[float]] — $70.6B; nine consecutive years of underwriting profit; book-value distortion framing
-- [[risk-vs-volatility]] — "riskiness is not measured by beta but rather by the probability of that investment causing its owner a loss of purchasing-power"
-- [[intrinsic-value-vs-book-value]] — insurance goodwill ($15.5B on books) as a conservative placeholder for far-higher economic value
-- [[look-through-earnings]] — Big Four (AmEx, Coke, IBM, Wells Fargo): $862M dividends received vs. $3.3B Berkshire's share of their earnings; a decade out, those four holdings might produce $7B in earnings; the gap is the structural reason reported Berkshire earnings understate intrinsic compounding
+- [investment-categories](../concepts/investment-categories.md) — the three-tier taxonomy introduced in full in this letter
+- [share-repurchases](../concepts/share-repurchases.md) — IBM buyback math and Berkshire's 110%-of-book-value threshold
+- [underwriting-discipline](../concepts/underwriting-discipline.md) — four disciplines explicitly enumerated
+- [float](../concepts/float.md) — $70.6B; nine consecutive years of underwriting profit; book-value distortion framing
+- [risk-vs-volatility](../concepts/risk-vs-volatility.md) — "riskiness is not measured by beta but rather by the probability of that investment causing its owner a loss of purchasing-power"
+- [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) — insurance goodwill ($15.5B on books) as a conservative placeholder for far-higher economic value
+- [look-through-earnings](../concepts/look-through-earnings.md) — Big Four (AmEx, Coke, IBM, Wells Fargo): $862M dividends received vs. $3.3B Berkshire's share of their earnings; a decade out, those four holdings might produce $7B in earnings; the gap is the structural reason reported Berkshire earnings understate intrinsic compounding
 
 ## Notable quotes
 
@@ -67,7 +67,7 @@ Book value per A share grew 4.6% in 2011. The letter's most enduring sections ar
 
 ## Connections to other sources
 
-- Continues the float-and-underwriting-profit streak tracked from [[berkshire-2003-letter]] through each subsequent letter; 2011 is year nine of the unbroken run (the 2003 calendar year was the first profit year; 2002 still had a positive cost of float)
-- The investment-categories essay is the fullest expression of the purchasing-power-loss risk framework first stated in [[berkshire-1993-letter]]
-- The BNSF "social compact" framing first articulated in [[berkshire-2009-letter]] is extended here: BNSF as "the circulatory system of our economy"
-- Combs (introduced in [[berkshire-2010-letter]]) is confirmed managing a few billion; Weschler joins shortly after yearend — both now confirmed as eventual portfolio successors, with each receiving 80% of performance compensation from own results and 20% from the partner's
+- Continues the float-and-underwriting-profit streak tracked from [berkshire-2003-letter](berkshire-2003-letter.md) through each subsequent letter; 2011 is year nine of the unbroken run (the 2003 calendar year was the first profit year; 2002 still had a positive cost of float)
+- The investment-categories essay is the fullest expression of the purchasing-power-loss risk framework first stated in [berkshire-1993-letter](berkshire-1993-letter.md)
+- The BNSF "social compact" framing first articulated in [berkshire-2009-letter](berkshire-2009-letter.md) is extended here: BNSF as "the circulatory system of our economy"
+- Combs (introduced in [berkshire-2010-letter](berkshire-2010-letter.md)) is confirmed managing a few billion; Weschler joins shortly after yearend — both now confirmed as eventual portfolio successors, with each receiving 80% of performance compensation from own results and 20% from the partner's

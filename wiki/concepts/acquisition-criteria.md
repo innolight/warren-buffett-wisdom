@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-06-12
 sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2006-letter]
 tags: [capital-allocation, investment-framework, equities, acquisitions]
-related: [[warren-buffett]], [[tailwinds-vs-headwinds]], [[stock-as-acquisition-currency]], [[owner-orientation]]
+related: [warren-buffett](../people/warren-buffett.md), [tailwinds-vs-headwinds](tailwinds-vs-headwinds.md), [stock-as-acquisition-currency](stock-as-acquisition-currency.md), [owner-orientation](owner-orientation.md)
 ---
 
 # Acquisition Criteria
@@ -32,7 +32,7 @@ Plus: no unfriendly transactions; complete confidentiality; "very fast answer �
 Two implications worth holding onto from the underlying principle:
 
 - **Symmetry between whole and partial ownership.** "We select our marketable equity securities in much the same way we would evaluate a business for acquisition in its entirety." This is the philosophical bridge from private-business investing to public-market investing.
-- **The bargain in non-control.** Outstanding businesses "sometimes sell in the securities markets at very large discounts from the prices they would command in negotiated transactions involving entire companies." A disciplined buyer can sometimes do better in public markets than in M&A — the inverse of the [[stock-as-acquisition-currency]] problem.
+- **The bargain in non-control.** Outstanding businesses "sometimes sell in the securities markets at very large discounts from the prices they would command in negotiated transactions involving entire companies." A disciplined buyer can sometimes do better in public markets than in M&A — the inverse of the [stock-as-acquisition-currency](stock-as-acquisition-currency.md) problem.
 
 ## Concentration as a corollary
 
@@ -59,9 +59,9 @@ The 1983 letter codifies acquisition discipline as principles in the owner's man
 
 - Principle #4: First preference for direct ownership of diversified businesses; second preference for partial ownership via marketable equities. Driven by price and availability, not preference for control.
 - Principle #8: "A managerial 'wish list' will not be filled at shareholder expense. We will not diversify by purchasing entire businesses at control prices that ignore long-term economic consequences to our shareholders."
-- Principle #10: Stock issuance only at business-value-for-business-value (see [[stock-as-acquisition-currency]]).
+- Principle #10: Stock issuance only at business-value-for-business-value (see [stock-as-acquisition-currency](stock-as-acquisition-currency.md)).
 
-See [[owner-orientation]].
+See [owner-orientation](owner-orientation.md).
 
 ## Reputation as competitive advantage (1998–2003)
 
@@ -69,15 +69,15 @@ The six-point ad, published annually since 1982, functions as a self-selecting a
 
 Three reinforcing mechanisms emerged clearly in the 1998–2003 letters:
 
-**The operating mandate (1998).** Berkshire's pitch to first-class CEOs: run your business as if you own 100% of it, it is your family's only asset, and you cannot sell or merge it for a century. No backseat driving, no quarterly-earnings pressure, no investor-relations grind. Owner-operators who have built businesses under exactly these principles recognize the structure immediately and prefer it to a financial buyer's auction. See [[berkshire-1998-letter]].
+**The operating mandate (1998).** Berkshire's pitch to first-class CEOs: run your business as if you own 100% of it, it is your family's only asset, and you cannot sell or merge it for a century. No backseat driving, no quarterly-earnings pressure, no investor-relations grind. Owner-operators who have built businesses under exactly these principles recognize the structure immediately and prefer it to a financial buyer's auction. See [berkshire-1998-letter](../sources/berkshire-1998-letter.md).
 
-**"Owners who care" as a quality signal (2000).** A seller's emotional attachment to a long-time business signals honest accounting, pride of product, respect for customers, and a loyal associate base — qualities that are difficult to fake and rarely survive a "dressed-up-for-sale" process. When Berkshire commits to keeping a business in its hometown and preserving its culture, those commitments are credible precisely because Berkshire has no exit strategy to enforce. See [[berkshire-2000-letter]].
+**"Owners who care" as a quality signal (2000).** A seller's emotional attachment to a long-time business signals honest accounting, pride of product, respect for customers, and a loyal associate base — qualities that are difficult to fake and rarely survive a "dressed-up-for-sale" process. When Berkshire commits to keeping a business in its hometown and preserving its culture, those commitments are credible precisely because Berkshire has no exit strategy to enforce. See [berkshire-2000-letter](../sources/berkshire-2000-letter.md).
 
-**Permanence (2002).** The dimension absent from the original six-point ad but central to Berkshire's competitive advantage: "Unlike LBO operators and private equity firms, we have no 'exit' strategy — we buy to keep. That's one reason why Berkshire is usually the first — and sometimes the only — choice for sellers and their managers." See [[berkshire-2002-letter]].
+**Permanence (2002).** The dimension absent from the original six-point ad but central to Berkshire's competitive advantage: "Unlike LBO operators and private equity firms, we have no 'exit' strategy — we buy to keep. That's one reason why Berkshire is usually the first — and sometimes the only — choice for sellers and their managers." See [berkshire-2002-letter](../sources/berkshire-2002-letter.md).
 
 ## Speed as the operational signal of trust
 
-When both parties understand the criteria, due diligence collapses into verification and trust replaces negotiation. The McLane acquisition (2003) from Wal-Mart — a $23B-revenue distribution business agreed in a single two-hour meeting with a handshake, no due diligence, and a 29-day close — is the operational illustration. "We knew everything would be exactly as Wal-Mart said it would be — and it was." The Clayton Homes deal (2003) was agreed based on a book, a phone call, and public financials — no banker process. Both deals were sourced via relationships, not auctions. See [[berkshire-2003-letter]].
+When both parties understand the criteria, due diligence collapses into verification and trust replaces negotiation. The McLane acquisition (2003) from Wal-Mart — a $23B-revenue distribution business agreed in a single two-hour meeting with a handshake, no due diligence, and a 29-day close — is the operational illustration. "We knew everything would be exactly as Wal-Mart said it would be — and it was." The Clayton Homes deal (2003) was agreed based on a book, a phone call, and public financials — no banker process. Both deals were sourced via relationships, not auctions. See [berkshire-2003-letter](../sources/berkshire-2003-letter.md).
 
 ## The three-condition restatement (2003)
 
@@ -97,32 +97,32 @@ The deal illustrates a new dimension: sellers actively seeking Berkshire chose i
 - A **private equity firm** would load the business with debt and flip it as soon as possible.
 - That left Berkshire.
 
-The meeting was November 15th, morning. A deal was done before lunch. Andrews wrote afterward: "After our meeting, I am confident that Berkshire is the right owner for TTI … I am proud of our past and excited about our future." ([[berkshire-2006-letter]])
+The meeting was November 15th, morning. A deal was done before lunch. Andrews wrote afterward: "After our meeting, I am confident that Berkshire is the right owner for TTI … I am proud of our past and excited about our future." ([berkshire-2006-letter](../sources/berkshire-2006-letter.md))
 
 The structural logic: Berkshire's permanent-capital, no-exit stance is not a positioning claim — it is observable history. Sellers who have watched prior Berkshire acquisitions (GEICO, See's, NFM, ISCAR) can verify the claim independently. No investment bank can manufacture this credibility; it compounds only through demonstrated behavior over decades.
 
 ## How it's discussed in sources
 
-- [[berkshire-1977-letter]] — first formulation; introduced in the "Insurance Investments" section as the rationale for treating marketable equities as business-ownership decisions
-- [[berkshire-1978-letter]] — concentration corollary added; SAFECO as the paradigm case
-- [[berkshire-1981-letter]] — the three motivations behind value-destroying acquisitions; the two categories of acquisition success; the Noah principle
-- [[berkshire-1982-letter]] — six-point operational ad first published
-- [[berkshire-1983-letter]] — codified in the owner's manual; six-point ad republished ("repetition is a key to results")
-- [[berkshire-1984-letter]] — six-point ad republished verbatim; concentration policy stated explicitly via the Billy Rose quote
-- [[berkshire-1998-letter]] — "GEICO environment" pitch operationalizes the criteria from the seller's perspective; permanent-capital structure as the precondition for credibility
-- [[berkshire-1999-letter]] — "wait for the phone to ring"; anti-investment-banker stance hardened; cash preference stated explicitly (both 1999 deals cash-only)
-- [[berkshire-2000-letter]] — "owners who care" as quality signal; auction-vs-permanent-home distinction; eight-business spree shows criteria in practice
-- [[berkshire-2001-letter]] — all-cash acquisition policy reaffirmed; "issuing shares only grudgingly"
-- [[berkshire-2002-letter]] — "no exit strategy" crystallized; permanence as the distinguishing feature vs. LBO/private-equity
-- [[berkshire-2003-letter]] — three-condition restatement; McLane handshake deal as operational illustration; Clayton via Tennessee-students as reputation-sourced deal
-- [[berkshire-2006-letter]] — international extension: ISCAR sourced by a 1¼-page letter; TTI seller-choice dynamics (strategic buyer dismantles, PE flips, Berkshire keeps); explicit articulation of why sellers choose Berkshire over higher bids
+- [berkshire-1977-letter](../sources/berkshire-1977-letter.md) — first formulation; introduced in the "Insurance Investments" section as the rationale for treating marketable equities as business-ownership decisions
+- [berkshire-1978-letter](../sources/berkshire-1978-letter.md) — concentration corollary added; SAFECO as the paradigm case
+- [berkshire-1981-letter](../sources/berkshire-1981-letter.md) — the three motivations behind value-destroying acquisitions; the two categories of acquisition success; the Noah principle
+- [berkshire-1982-letter](../sources/berkshire-1982-letter.md) — six-point operational ad first published
+- [berkshire-1983-letter](../sources/berkshire-1983-letter.md) — codified in the owner's manual; six-point ad republished ("repetition is a key to results")
+- [berkshire-1984-letter](../sources/berkshire-1984-letter.md) — six-point ad republished verbatim; concentration policy stated explicitly via the Billy Rose quote
+- [berkshire-1998-letter](../sources/berkshire-1998-letter.md) — "GEICO environment" pitch operationalizes the criteria from the seller's perspective; permanent-capital structure as the precondition for credibility
+- [berkshire-1999-letter](../sources/berkshire-1999-letter.md) — "wait for the phone to ring"; anti-investment-banker stance hardened; cash preference stated explicitly (both 1999 deals cash-only)
+- [berkshire-2000-letter](../sources/berkshire-2000-letter.md) — "owners who care" as quality signal; auction-vs-permanent-home distinction; eight-business spree shows criteria in practice
+- [berkshire-2001-letter](../sources/berkshire-2001-letter.md) — all-cash acquisition policy reaffirmed; "issuing shares only grudgingly"
+- [berkshire-2002-letter](../sources/berkshire-2002-letter.md) — "no exit strategy" crystallized; permanence as the distinguishing feature vs. LBO/private-equity
+- [berkshire-2003-letter](../sources/berkshire-2003-letter.md) — three-condition restatement; McLane handshake deal as operational illustration; Clayton via Tennessee-students as reputation-sourced deal
+- [berkshire-2006-letter](../sources/berkshire-2006-letter.md) — international extension: ISCAR sourced by a 1¼-page letter; TTI seller-choice dynamics (strategic buyer dismantles, PE flips, Berkshire keeps); explicit articulation of why sellers choose Berkshire over higher bids
 
 ## Related
 
-- [[return-on-equity-yardstick]] — what "favorable long-term prospects" cashes out to
-- [[tailwinds-vs-headwinds]] — the structural correlate of "favorable long-term prospects"
-- [[look-through-earnings]] — what "honest and competent" management does for partial owners
-- [[stock-as-acquisition-currency]] — the inverse problem: how acquisition-currency mistakes destroy value
-- [[turnarounds-seldom-turn]] — why criterion 2 cannot be satisfied by cheapness alone
-- [[institutional-imperative]] — the structural force the discipline must resist
-- [[owner-orientation]] — the operating-mandate framework that makes the criteria credible to sellers
+- [return-on-equity-yardstick](return-on-equity-yardstick.md) — what "favorable long-term prospects" cashes out to
+- [tailwinds-vs-headwinds](tailwinds-vs-headwinds.md) — the structural correlate of "favorable long-term prospects"
+- [look-through-earnings](look-through-earnings.md) — what "honest and competent" management does for partial owners
+- [stock-as-acquisition-currency](stock-as-acquisition-currency.md) — the inverse problem: how acquisition-currency mistakes destroy value
+- [turnarounds-seldom-turn](turnarounds-seldom-turn.md) — why criterion 2 cannot be satisfied by cheapness alone
+- [institutional-imperative](institutional-imperative.md) — the structural force the discipline must resist
+- [owner-orientation](owner-orientation.md) — the operating-mandate framework that makes the criteria credible to sellers

@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-1995-letter]
 tags: [jewelry, acquisition, berkshire, referral-chain]
-related: [[berkshire-hathaway]], [[acquisition-criteria]], [[nebraska-furniture-mart]], [[borsheims]]
+related: [berkshire-hathaway](berkshire-hathaway.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [nebraska-furniture-mart](nebraska-furniture-mart.md), [borsheims](borsheims.md)
 ---
 
 # Helzberg Diamonds
@@ -14,6 +14,6 @@ Kansas City jewelry retailer acquired by Berkshire in 1995. Sourced by Barnett H
 
 ## Sources discussing this entity
 
-- [[berkshire-1995-letter]] — acquisition; Barnett Helzberg introduction
-- [[berkshire-1999-letter]] — margins restored under Jeff Comment
-- [[berkshire-2000-letter]] — Helzberg referral of Ben Bridge noted
+- [berkshire-1995-letter](../sources/berkshire-1995-letter.md) — acquisition; Barnett Helzberg introduction
+- [berkshire-1999-letter](../sources/berkshire-1999-letter.md) — margins restored under Jeff Comment
+- [berkshire-2000-letter](../sources/berkshire-2000-letter.md) — Helzberg referral of Ben Bridge noted

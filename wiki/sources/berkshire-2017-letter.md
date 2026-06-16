@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2017
 raw_path: raw/berkshire-letters/2017.md
 tags: [berkshire, annual-letter, insurance, investment-friction, succession]
-related: [[warren-buffett]], [[charlie-munger]], [[ajit-jain]], [[greg-abel]], [[berkshire-hathaway]]
+related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [ajit-jain](../people/ajit-jain.md), [greg-abel](../people/greg-abel.md), [berkshire-hathaway](../entities/berkshire-hathaway.md)
 ---
 
 # Berkshire Hathaway 2017 Annual Letter
@@ -27,33 +27,33 @@ Published February 24, 2018. The letter closes three major threads: the 10-year 
 
 ## Entities discussed
 
-- [[berkshire-hathaway]] — $116B cash and T-bills at yearend; $170B equity portfolio; GAAP net income rendered "useless" by new unrealized-gains rule; $20B pre-tax non-insurance operating income
-- [[bnsf]] — BNSF + BHE together = 44% of 2017 non-insurance pre-tax profit; primary infrastructure pillar alongside BHE
-- [[geico]] — part of the insurance empire that produced $114.5B float; endured hurricane losses alongside BH Reinsurance
-- [[midamerican-energy]] — (Berkshire Hathaway Energy) BNSF + BHE = 44% of non-insurance profit; anchor of the regulated-utility/energy segment
-- [[clayton-homes]] — bolt-on acquisitions in 2017: Oakwood Homes and Harris Doyle added to manufactured-housing footprint
-- [[shaw-industries]] — bolt-on: acquired U.S. Floors (luxury vinyl plank) in 2017 to broaden flooring offerings
-- [[national-indemnity]] — wrote world-record single-premium reinsurance deal: $10.2B from AIG for up to $20B of long-tail losses; central to the float milestone
+- [berkshire-hathaway](../entities/berkshire-hathaway.md) — $116B cash and T-bills at yearend; $170B equity portfolio; GAAP net income rendered "useless" by new unrealized-gains rule; $20B pre-tax non-insurance operating income
+- [bnsf](../entities/bnsf.md) — BNSF + BHE together = 44% of 2017 non-insurance pre-tax profit; primary infrastructure pillar alongside BHE
+- [geico](../entities/geico.md) — part of the insurance empire that produced $114.5B float; endured hurricane losses alongside BH Reinsurance
+- [midamerican-energy](../entities/midamerican-energy.md) — (Berkshire Hathaway Energy) BNSF + BHE = 44% of non-insurance profit; anchor of the regulated-utility/energy segment
+- [clayton-homes](../entities/clayton-homes.md) — bolt-on acquisitions in 2017: Oakwood Homes and Harris Doyle added to manufactured-housing footprint
+- [shaw-industries](../entities/shaw-industries.md) — bolt-on: acquired U.S. Floors (luxury vinyl plank) in 2017 to broaden flooring offerings
+- [national-indemnity](../entities/national-indemnity.md) — wrote world-record single-premium reinsurance deal: $10.2B from AIG for up to $20B of long-tail losses; central to the float milestone
 
 ## People mentioned
 
-- [[warren-buffett]] — author; focuses on investments and capital allocation; warns on new GAAP unrealized-gains rule; closes the ten-year Bet
-- [[charlie-munger]] — vice chairman; co-focuses on investments and capital allocation with Buffett; praised in letter closing
-- [[ajit-jain]] — named Vice Chairman of insurance operations in early 2018; architect of the AIG reinsurance deal; "the character of each man matches his talents"
-- [[greg-abel]] — named Vice Chairman of non-insurance operations in early 2018; oversees BNSF, BHE, manufacturing, retail, and services
+- [warren-buffett](../people/warren-buffett.md) — author; focuses on investments and capital allocation; warns on new GAAP unrealized-gains rule; closes the ten-year Bet
+- [charlie-munger](../people/charlie-munger.md) — vice chairman; co-focuses on investments and capital allocation with Buffett; praised in letter closing
+- [ajit-jain](../people/ajit-jain.md) — named Vice Chairman of insurance operations in early 2018; architect of the AIG reinsurance deal; "the character of each man matches his talents"
+- [greg-abel](../people/greg-abel.md) — named Vice Chairman of non-insurance operations in early 2018; oversees BNSF, BHE, manufacturing, retail, and services
 
 ## Concepts introduced or discussed
 
-- [[float]] — AIG deal; hurricane losses; $114.5B milestone; 14-year streak broken; catastrophe resilience quantified
-- [[gaap-distortion]] — new FASB rule requiring unrealized equity gains/losses in net income; $170B in equities, potential $10B+ quarterly swings; GAAP bottom-line "useless for analytical purposes"; Friday-evening release as the practical remedy
-- [[passive-investing]] — ten-year Bet final tally (S&P 125.8% vs. FoF 0.3%–6.5% annualized); "performance comes, performance goes, fees never falter"; the 2012 bond-to-Berkshire B swap as the one decision made during the bet; purchasing-power risk argument; estate prescription (90% S&P / 10% short-term bonds)
-- [[investment-friction]] — underpins the Bet's result; fee-drag arithmetic as the structural reason the index fund won
-- [[earnings-quality]] — new GAAP unrealized-gains rule compounds the pre-existing realized-gains exclusion problem; two categories of earnings-quality failure distinguished
-- [[risk-vs-volatility]] — purchasing-power risk definition; horizon-dependence (stocks riskier short-term, bonds riskier long-term); bonds-to-stocks ratio is the wrong risk gauge for long-horizon investors
-- [[acquisition-criteria]] — all-equity evaluation; no leverage-induced math; M&A frenzy and CEO psychology critique
-- [[leverage-discipline]] — four major Berkshire price declines (59%, 37%, 49%, 51%) as the argument against borrowing to own stocks
-- [[underwriting-discipline]] — hurricane losses; catastrophe resilience; 14-year streak context
-- [[liquidity-fortress]] — restatement of the "never depend on the kindness of strangers" principle; T-bill holdings as protection against needing external funding even during extended market closures
+- [float](../concepts/float.md) — AIG deal; hurricane losses; $114.5B milestone; 14-year streak broken; catastrophe resilience quantified
+- [gaap-distortion](../concepts/gaap-distortion.md) — new FASB rule requiring unrealized equity gains/losses in net income; $170B in equities, potential $10B+ quarterly swings; GAAP bottom-line "useless for analytical purposes"; Friday-evening release as the practical remedy
+- [passive-investing](../concepts/passive-investing.md) — ten-year Bet final tally (S&P 125.8% vs. FoF 0.3%–6.5% annualized); "performance comes, performance goes, fees never falter"; the 2012 bond-to-Berkshire B swap as the one decision made during the bet; purchasing-power risk argument; estate prescription (90% S&P / 10% short-term bonds)
+- [investment-friction](../concepts/investment-friction.md) — underpins the Bet's result; fee-drag arithmetic as the structural reason the index fund won
+- [earnings-quality](../concepts/earnings-quality.md) — new GAAP unrealized-gains rule compounds the pre-existing realized-gains exclusion problem; two categories of earnings-quality failure distinguished
+- [risk-vs-volatility](../concepts/risk-vs-volatility.md) — purchasing-power risk definition; horizon-dependence (stocks riskier short-term, bonds riskier long-term); bonds-to-stocks ratio is the wrong risk gauge for long-horizon investors
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — all-equity evaluation; no leverage-induced math; M&A frenzy and CEO psychology critique
+- [leverage-discipline](../concepts/leverage-discipline.md) — four major Berkshire price declines (59%, 37%, 49%, 51%) as the argument against borrowing to own stocks
+- [underwriting-discipline](../concepts/underwriting-discipline.md) — hurricane losses; catastrophe resilience; 14-year streak context
+- [liquidity-fortress](../concepts/liquidity-fortress.md) — restatement of the "never depend on the kindness of strangers" principle; T-bill holdings as protection against needing external funding even during extended market closures
 
 ## Notable quotes
 
@@ -69,6 +69,6 @@ Published February 24, 2018. The letter closes three major threads: the 10-year 
 
 ## Connections to other sources
 
-- Closes the Bet opened in [[berkshire-2007-letter]] and reported nine-year in [[berkshire-2016-letter]]; the Gotrocks allegory originates in [[berkshire-2005-letter]]
-- Continues [[berkshire-2016-letter]] — float at $91.6B → $114.5B; 14th underwriting profit year gives way to first loss in 14 years; succession signaled in [[berkshire-2014-letter]] becomes concrete
-- The risk-as-purchasing-power-loss thread runs from [[berkshire-1993-letter]] (beta critique) through [[berkshire-2011-letter]] (three investment categories) to this letter (cleanest single-sentence definition, applied to a concrete episode)
+- Closes the Bet opened in [berkshire-2007-letter](berkshire-2007-letter.md) and reported nine-year in [berkshire-2016-letter](berkshire-2016-letter.md); the Gotrocks allegory originates in [berkshire-2005-letter](berkshire-2005-letter.md)
+- Continues [berkshire-2016-letter](berkshire-2016-letter.md) — float at $91.6B → $114.5B; 14th underwriting profit year gives way to first loss in 14 years; succession signaled in [berkshire-2014-letter](berkshire-2014-letter.md) becomes concrete
+- The risk-as-purchasing-power-loss thread runs from [berkshire-1993-letter](berkshire-1993-letter.md) (beta critique) through [berkshire-2011-letter](berkshire-2011-letter.md) (three investment categories) to this letter (cleanest single-sentence definition, applied to a concrete episode)

@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-16
 sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2023-letter]
 tags: [financial-strength, capital-allocation, risk-management, berkshire]
-related: [[berkshire-hathaway]], [[capital-allocation]], [[inversion]], [[float]], [[volatility-as-opportunity]], [[derivatives]]
+related: [berkshire-hathaway](../entities/berkshire-hathaway.md), [capital-allocation](capital-allocation.md), [inversion](inversion.md), [float](float.md), [volatility-as-opportunity](volatility-as-opportunity.md), [derivatives](derivatives.md)
 ---
 
 # Liquidity Fortress
@@ -34,7 +34,7 @@ Financial crises are recurring, not exceptional. The history of capital markets 
 
 Berkshire's structural advantages that make the fortress sustainable:
 
-1. **Float from insurance operations.** The $62B of float (2009) is a permanent, self-replenishing pool of investable capital that doesn't depend on financial-market conditions. See [[float]].
+1. **Float from insurance operations.** The $62B of float (2009) is a permanent, self-replenishing pool of investable capital that doesn't depend on financial-market conditions. See [float](float.md).
 2. **Diverse, non-correlated operating earnings.** "Our liquidity will be constantly refreshed by a gusher of earnings from our many and diverse businesses." No single subsidiary failure can drain the reservoir.
 3. **Absence of external financing dependencies.** No commercial paper program, no revolving credit facility that could be pulled, no short-term debt that must roll. The absence of these dependencies is as important as the presence of the cash.
 
@@ -45,13 +45,13 @@ Buffett explicitly acknowledges the price: "The $20 billion-plus of cash-equival
 This is a recurring Berkshire trade: accept a certain small cost (low yield on cash) to eliminate a catastrophic tail risk (being forced to sell assets or seek capital at the worst moment). The same logic underlies:
 - Maintaining insurance reserves conservatively rather than optimistically
 - Avoiding leverage that could create margin calls or forced asset sales
-- Not writing derivatives that require posting large collateral under stress (see [[derivatives]])
+- Not writing derivatives that require posting large collateral under stress (see [derivatives](derivatives.md))
 
 The cumulative effect is a balance sheet that *improves* its relative position during crises — not through luck but because the premium was paid in advance.
 
 ## Supplier, not supplicant
 
-The framing Buffett uses most pointedly in the 2009 letter: during the 2008 crisis, Berkshire was a *supplier* of liquidity to the financial system, not a supplicant. This is the inversion of the failure mode (see [[inversion]]): most institutions needed capital; Berkshire provided it.
+The framing Buffett uses most pointedly in the 2009 letter: during the 2008 crisis, Berkshire was a *supplier* of liquidity to the financial system, not a supplicant. This is the inversion of the failure mode (see [inversion](inversion.md)): most institutions needed capital; Berkshire provided it.
 
 This is not just a financial outcome — it is a positioning advantage. Companies that receive capital during a crisis from a counterparty that *chooses* to invest (rather than being compelled to) negotiate from weakness. Berkshire negotiates from strength. The Goldman Sachs preferred, the GE preferred, and the Wrigley financing all carried terms (10% preferred yields, warrants) that are available only in the context of genuine crisis and genuine counterparty strength.
 
@@ -81,14 +81,14 @@ This complements the 2009 "kindness of strangers" framing. September 2008 came "
 
 ## How it's discussed in sources
 
-- [[berkshire-2009-letter]] — canonical "kindness of strangers" statement; $15.5B deployment during 2008 crisis; $20B+ customary holding; "supplier not supplicant" framing; "sleep well" close
-- [[berkshire-2010-letter]] — explicit $10B minimum pledge; customarily $20B; Treasury bills only, no commercial paper; no bank lines; no collateral contracts; "credit is like oxygen"; grandfather Ernest's 1939 letter; Lehman: $15.6B deployed in 25 panic days; 40 years without dividends or repurchases; net worth $48M → $157B
-- [[berkshire-2023-letter]] — "Our Not-So-Secret Weapon": markets can "seize up or even vanish" (four months in 1914, days in 2001, September 2008), and "instant panics … will happen"; the fortress is what lets Berkshire "immediately respond to market seizures with both huge sums and certainty of performance"; cash and Treasury bills held "far in excess of what conventional wisdom deems necessary"; in 2008 Berkshire took nothing from commercial paper, bank lines, or debt markets; no dividend, 100%-discretionary repurchases, never-material debt maturities; the goal of being "an asset to the country" that helps "extinguish the financial fire"; **"Extreme fiscal conservatism is a corporate pledge"** — likened to insurance on a fortress-like building thought to be fireproof; closes **"Berkshire is built to last"**
+- [berkshire-2009-letter](../sources/berkshire-2009-letter.md) — canonical "kindness of strangers" statement; $15.5B deployment during 2008 crisis; $20B+ customary holding; "supplier not supplicant" framing; "sleep well" close
+- [berkshire-2010-letter](../sources/berkshire-2010-letter.md) — explicit $10B minimum pledge; customarily $20B; Treasury bills only, no commercial paper; no bank lines; no collateral contracts; "credit is like oxygen"; grandfather Ernest's 1939 letter; Lehman: $15.6B deployed in 25 panic days; 40 years without dividends or repurchases; net worth $48M → $157B
+- [berkshire-2023-letter](../sources/berkshire-2023-letter.md) — "Our Not-So-Secret Weapon": markets can "seize up or even vanish" (four months in 1914, days in 2001, September 2008), and "instant panics … will happen"; the fortress is what lets Berkshire "immediately respond to market seizures with both huge sums and certainty of performance"; cash and Treasury bills held "far in excess of what conventional wisdom deems necessary"; in 2008 Berkshire took nothing from commercial paper, bank lines, or debt markets; no dividend, 100%-discretionary repurchases, never-material debt maturities; the goal of being "an asset to the country" that helps "extinguish the financial fire"; **"Extreme fiscal conservatism is a corporate pledge"** — likened to insurance on a fortress-like building thought to be fireproof; closes **"Berkshire is built to last"**
 
 ## Related
 
-- [[inversion]] — the liquidity fortress is Rule 2 of the "What We Don't Do" framework; the inversion of the failure mode "becoming dependent on external capital"
-- [[float]] — the self-replenishing pool that makes the fortress sustainable without sacrificing returns on operating capital
-- [[capital-allocation]] — deploying the fortress during crises is Berkshire's highest-return capital-allocation activity
-- [[volatility-as-opportunity]] — the constructive corollary: the fortress enables exploitation of the very crises it protects against
-- [[derivatives]] — same underlying logic: avoid positions that force you to post collateral or raise capital at bad moments
+- [inversion](inversion.md) — the liquidity fortress is Rule 2 of the "What We Don't Do" framework; the inversion of the failure mode "becoming dependent on external capital"
+- [float](float.md) — the self-replenishing pool that makes the fortress sustainable without sacrificing returns on operating capital
+- [capital-allocation](capital-allocation.md) — deploying the fortress during crises is Berkshire's highest-return capital-allocation activity
+- [volatility-as-opportunity](volatility-as-opportunity.md) — the constructive corollary: the fortress enables exploitation of the very crises it protects against
+- [derivatives](derivatives.md) — same underlying logic: avoid positions that force you to post collateral or raise capital at bad moments

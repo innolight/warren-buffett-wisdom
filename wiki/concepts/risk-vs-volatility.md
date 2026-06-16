@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-16
 sources: [berkshire-1993-letter, berkshire-2011-letter, berkshire-2014-letter, berkshire-2017-letter, berkshire-2023-letter]
 tags: [risk, beta, valuation, academic-finance, graham]
-related: [[mr-market]], [[volatility-as-opportunity]], [[concentration-vs-diversification]], [[margin-of-safety]], [[investment-categories]]
+related: [mr-market](mr-market.md), [volatility-as-opportunity](volatility-as-opportunity.md), [concentration-vs-diversification](concentration-vs-diversification.md), [margin-of-safety](margin-of-safety.md), [investment-categories](investment-categories.md)
 ---
 
 # Risk vs. Volatility
@@ -20,7 +20,7 @@ The 1993 letter contains Buffett's most fully developed rejection of beta-as-ris
 
 ### Part 1: beta is logically inconsistent with how a business owner thinks
 
-> For owners of a business — and that's the way we think of shareholders — the academics' definition of risk is far off the mark, so much so that it produces absurdities. For example, under beta-based theory, a stock that has dropped very sharply compared to the market — as had Washington Post when we bought it in 1973 — becomes "riskier" at the lower price than it was at the higher price. Would that description have then made any sense to someone who was offered the entire company at a vastly-reduced price? ([[berkshire-1993-letter]])
+> For owners of a business — and that's the way we think of shareholders — the academics' definition of risk is far off the mark, so much so that it produces absurdities. For example, under beta-based theory, a stock that has dropped very sharply compared to the market — as had Washington Post when we bought it in 1973 — becomes "riskier" at the lower price than it was at the higher price. Would that description have then made any sense to someone who was offered the entire company at a vastly-reduced price? ([berkshire-1993-letter](../sources/berkshire-1993-letter.md))
 
 A price decline makes a stock *cheaper* relative to the business's earning power. Under any definition of risk that an owner of the business would recognize, cheaper is less risky, not more. Beta inverts the sign.
 
@@ -56,15 +56,15 @@ The Coca-Cola and Gillette test: dominant share, durable brands, expanding inter
 
 ## The wider implication: concentration is not riskier
 
-The beta-replacement framework dissolves the academic case for diversification. Under beta, holding a small number of stocks is "risky" because of lower correlation-based smoothing. Under Buffett's framework, **concentration in a small number of well-understood businesses with low fundamental risk is *less* risky than diversification across many businesses one does not understand.** See [[concentration-vs-diversification]].
+The beta-replacement framework dissolves the academic case for diversification. Under beta, holding a small number of stocks is "risky" because of lower correlation-based smoothing. Under Buffett's framework, **concentration in a small number of well-understood businesses with low fundamental risk is *less* risky than diversification across many businesses one does not understand.** See [concentration-vs-diversification](concentration-vs-diversification.md).
 
-> We believe that a policy of portfolio concentration may well decrease risk if it raises, as it should, both the intensity with which an investor thinks about a business and the comfort-level he must feel with its economic characteristics before buying into it. ([[berkshire-1993-letter]])
+> We believe that a policy of portfolio concentration may well decrease risk if it raises, as it should, both the intensity with which an investor thinks about a business and the comfort-level he must feel with its economic characteristics before buying into it. ([berkshire-1993-letter](../sources/berkshire-1993-letter.md))
 
 ## Why the academic view persists
 
 Buffett's 1988 framing in the Efficient Market Theory section is sharper: complicated methods are valuable to those selling investment advice. A discipline that says "understand the business" pays no professional rents; a discipline requiring computers, data, and Greek letters pays many.
 
-> Naturally the disservice done students and gullible investment professionals who have swallowed [Efficient Market Theory] has been an extraordinary service to us and other followers of Graham. In any sort of a contest — financial, mental, or physical — it's an enormous advantage to have opponents who have been taught that it's useless to even try. ([[berkshire-1988-letter]])
+> Naturally the disservice done students and gullible investment professionals who have swallowed [Efficient Market Theory] has been an extraordinary service to us and other followers of Graham. In any sort of a contest — financial, mental, or physical — it's an enormous advantage to have opponents who have been taught that it's useless to even try. ([berkshire-1988-letter](../sources/berkshire-1988-letter.md))
 
 ## The purchasing-power formulation sharpened (2011)
 
@@ -72,7 +72,7 @@ The 2011 letter offers the most direct single-sentence statement of Buffett's ri
 
 > The riskiness of an investment is not measured by beta (a Wall Street term encompassing volatility and often used in measuring risk) but rather by the **probability — the reasoned probability — of that investment causing its owner a loss of purchasing-power over his contemplated holding period.** Assets can fluctuate greatly in price and not be risky as long as they are reasonably certain to deliver increased purchasing power over their holding period. And as we will see, a non-fluctuating asset can be laden with risk.
 
-The last sentence is the key: currency-based instruments (bonds, cash) can have near-zero price volatility and yet carry enormous risk in the purchasing-power sense — especially at low interest rates when inflation runs ahead of nominal yields. This directly connects to [[investment-categories]]: "safe" Category 1 instruments are the most systematically risky in the purchasing-power sense, even though their beta is near zero. ([[berkshire-2011-letter]])
+The last sentence is the key: currency-based instruments (bonds, cash) can have near-zero price volatility and yet carry enormous risk in the purchasing-power sense — especially at low interest rates when inflation runs ahead of nominal yields. This directly connects to [investment-categories](investment-categories.md): "safe" Category 1 instruments are the most systematically risky in the purchasing-power sense, even though their beta is near zero. ([berkshire-2011-letter](../sources/berkshire-2011-letter.md))
 
 ## Horizon-dependence and the purchasing-power standard (2017)
 
@@ -92,22 +92,22 @@ The portfolio-construction implication follows:
 
 > It is a terrible mistake for investors with long-term horizons — among them, pension funds, college endowments and savings-minded individuals — to measure their investment "risk" by their portfolio's ratio of bonds to stocks. Often, high-grade bonds in an investment portfolio increase its risk.
 
-For a 20- or 30-year investor, maintaining a heavy bond allocation is not risk management — it is the principal source of purchasing-power risk. The conventional risk gauge (bonds-to-stocks ratio) is precisely wrong for anyone whose actual objective is purchasing-power preservation over time. See [[berkshire-2017-letter]].
+For a 20- or 30-year investor, maintaining a heavy bond allocation is not risk management — it is the principal source of purchasing-power risk. The conventional risk gauge (bonds-to-stocks ratio) is precisely wrong for anyone whose actual objective is purchasing-power preservation over time. See [berkshire-2017-letter](../sources/berkshire-2017-letter.md).
 
 ## How it's discussed in sources
 
-- [[berkshire-1988-letter]] — the Efficient Market Theory critique; 63-year arbitrage track record at Graham-Newman, Buffett Partnership, and Berkshire (~20% annual vs. ~10% market) as empirical refutation
-- [[berkshire-1993-letter]] — canonical essay on risk vs. beta; the five-factor framework; the Washington Post inversion-of-sign example; the pet-rocks-vs-Monopoly toy example; Coca-Cola/Gillette as illustration
-- [[berkshire-1994-letter]] — "Investors should remember that their scorecard is not computed using Olympic-diving methods: degree-of-difficulty doesn't count" — companion principle
-- [[berkshire-2011-letter]] — sharpest single-sentence formulation: risk = probability of loss of purchasing power over the holding period; explicitly links to why low-volatility bonds are the most dangerous long-term asset class
-- [[berkshire-2014-letter]] — the most extensive empirical statement in the series: "the unconventional, but inescapable, conclusion to be drawn from the past fifty years is that it has been far safer to invest in a diversified collection of American businesses than to invest in securities — Treasuries, for example — whose values have been tied to American currency"; extends the purchasing-power-loss framework with 50 years of retrospective evidence and projects the same conclusion forward for the next century; included in the "Next 50 Years" essay as both a historical observation and a forward-looking prescription
-- [[berkshire-2017-letter]] — cleanest single-sentence risk definition ("risk is the possibility that [the objective of greater future consumption] won't be attained"); horizon-dependence made explicit (stocks riskier short-term, bonds riskier long-term); bonds-to-stocks ratio named as the wrong risk gauge for long-horizon investors; applied to the 2012 Bet bond-to-Berkshire swap as a concrete episode
-- [[berkshire-2023-letter]] — the principle distilled to a single corporate vow: **"One investment rule at Berkshire has not and will not change: Never risk permanent loss of capital."** The volatility/risk distinction restated operationally — "quotational shrinkage for extended periods can't be avoided," but Berkshire "does not want to inflict permanent financial damage"; survival through "financial disasters of a magnitude beyond any heretofore experienced" is the explicit goal, paired with the [[liquidity-fortress]]; the realistic aspiration of "materially less risk of permanent loss of capital" than the average American corporation
+- [berkshire-1988-letter](../sources/berkshire-1988-letter.md) — the Efficient Market Theory critique; 63-year arbitrage track record at Graham-Newman, Buffett Partnership, and Berkshire (~20% annual vs. ~10% market) as empirical refutation
+- [berkshire-1993-letter](../sources/berkshire-1993-letter.md) — canonical essay on risk vs. beta; the five-factor framework; the Washington Post inversion-of-sign example; the pet-rocks-vs-Monopoly toy example; Coca-Cola/Gillette as illustration
+- [berkshire-1994-letter](../sources/berkshire-1994-letter.md) — "Investors should remember that their scorecard is not computed using Olympic-diving methods: degree-of-difficulty doesn't count" — companion principle
+- [berkshire-2011-letter](../sources/berkshire-2011-letter.md) — sharpest single-sentence formulation: risk = probability of loss of purchasing power over the holding period; explicitly links to why low-volatility bonds are the most dangerous long-term asset class
+- [berkshire-2014-letter](../sources/berkshire-2014-letter.md) — the most extensive empirical statement in the series: "the unconventional, but inescapable, conclusion to be drawn from the past fifty years is that it has been far safer to invest in a diversified collection of American businesses than to invest in securities — Treasuries, for example — whose values have been tied to American currency"; extends the purchasing-power-loss framework with 50 years of retrospective evidence and projects the same conclusion forward for the next century; included in the "Next 50 Years" essay as both a historical observation and a forward-looking prescription
+- [berkshire-2017-letter](../sources/berkshire-2017-letter.md) — cleanest single-sentence risk definition ("risk is the possibility that [the objective of greater future consumption] won't be attained"); horizon-dependence made explicit (stocks riskier short-term, bonds riskier long-term); bonds-to-stocks ratio named as the wrong risk gauge for long-horizon investors; applied to the 2012 Bet bond-to-Berkshire swap as a concrete episode
+- [berkshire-2023-letter](../sources/berkshire-2023-letter.md) — the principle distilled to a single corporate vow: **"One investment rule at Berkshire has not and will not change: Never risk permanent loss of capital."** The volatility/risk distinction restated operationally — "quotational shrinkage for extended periods can't be avoided," but Berkshire "does not want to inflict permanent financial damage"; survival through "financial disasters of a magnitude beyond any heretofore experienced" is the explicit goal, paired with the [liquidity-fortress](liquidity-fortress.md); the realistic aspiration of "materially less risk of permanent loss of capital" than the average American corporation
 
 ## Related
 
-- [[mr-market]] — the allegory that frames why volatility is opportunity rather than risk
-- [[volatility-as-opportunity]] — the constructive corollary
-- [[concentration-vs-diversification]] — the portfolio-construction implication
-- [[margin-of-safety]] — the discipline that compensates for the irreducible fuzziness of the five factors
-- [[investment-categories]] — the 2011 taxonomy that illustrates the risk-as-purchasing-power-loss framework across all asset classes
+- [mr-market](mr-market.md) — the allegory that frames why volatility is opportunity rather than risk
+- [volatility-as-opportunity](volatility-as-opportunity.md) — the constructive corollary
+- [concentration-vs-diversification](concentration-vs-diversification.md) — the portfolio-construction implication
+- [margin-of-safety](margin-of-safety.md) — the discipline that compensates for the irreducible fuzziness of the five factors
+- [investment-categories](investment-categories.md) — the 2011 taxonomy that illustrates the risk-as-purchasing-power-loss framework across all asset classes

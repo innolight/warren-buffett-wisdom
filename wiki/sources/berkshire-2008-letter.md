@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2008
 raw_path: raw/berkshire-letters/2008.md
 tags: [financial-crisis, derivatives, float, insurance, utilities, manufactured-housing, lending]
-related: [[warren-buffett]], [[charlie-munger]], [[berkshire-hathaway]], [[geico]], [[midamerican-energy]], [[clayton-homes]], [[ajit-jain]]
+related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [midamerican-energy](../entities/midamerican-energy.md), [clayton-homes](../entities/clayton-homes.md), [ajit-jain](../people/ajit-jain.md)
 ---
 
 # Berkshire Hathaway 2008 Annual Letter
@@ -31,26 +31,26 @@ Written during the worst financial crisis since the Great Depression, the 2008 l
 
 ## Entities discussed
 
-- [[berkshire-hathaway]] — 9.6% book value decline (worst since modern management took over); insurance float $58.5B; six consecutive years of underwriting profit; three large fixed-income investments at crisis-period terms
-- [[geico]] — 7.7% market share, #3 auto insurer nationally (up from #7 in 1995); 439 policies/employee vs. 299 five years prior; commercial auto launched
-- [[general-re]] — outstanding year; underwriting culture repair complete; Joe Brandon departs having righted the ship, Tad Montross assumes CEO role
-- [[midamerican-energy]] — #1 in wind capacity among U.S. regulated utilities; Kern River pipeline #1 and Northern Natural #3 in Mastio customer-satisfaction rankings; $1.8B wind investment in single year; Iowa electricity prices flat since 1995 acquisition
-- [[clayton-homes]] — 27,499 units delivered = 34% of industry; thesis proved under stress; 3.6% delinquency despite subprime borrower profile; funding model threatened by government-backed competitor advantage
+- [berkshire-hathaway](../entities/berkshire-hathaway.md) — 9.6% book value decline (worst since modern management took over); insurance float $58.5B; six consecutive years of underwriting profit; three large fixed-income investments at crisis-period terms
+- [geico](../entities/geico.md) — 7.7% market share, #3 auto insurer nationally (up from #7 in 1995); 439 policies/employee vs. 299 five years prior; commercial auto launched
+- [general-re](../entities/general-re.md) — outstanding year; underwriting culture repair complete; Joe Brandon departs having righted the ship, Tad Montross assumes CEO role
+- [midamerican-energy](../entities/midamerican-energy.md) — #1 in wind capacity among U.S. regulated utilities; Kern River pipeline #1 and Northern Natural #3 in Mastio customer-satisfaction rankings; $1.8B wind investment in single year; Iowa electricity prices flat since 1995 acquisition
+- [clayton-homes](../entities/clayton-homes.md) — 27,499 units delivered = 34% of industry; thesis proved under stress; 3.6% delinquency despite subprime borrower profile; funding model threatened by government-backed competitor advantage
 
 ## People mentioned
 
-- [[warren-buffett]] — admits major mistakes: ConocoPhillips bought at energy-price peak; $244M Irish bank investment → $27M (89% loss); credits these as "unforced errors"
-- [[charlie-munger]] — steady partner; Buffett contrasts his own ConocoPhillips dithering with what "Charlie would have done immediately"
-- [[ajit-jain]] — 31-person operation generating $24B of float plus hundreds of millions of underwriting profit; now also running BHAC
-- [[tony-nicely]] — 48th year at GEICO; driving the #3 market position from a standing start at #7 in 1995
-- [[dave-sokol]] — MidAmerican record earnings in 2008; wind energy leadership cited as his and Greg Abel's achievement
+- [warren-buffett](../people/warren-buffett.md) — admits major mistakes: ConocoPhillips bought at energy-price peak; $244M Irish bank investment → $27M (89% loss); credits these as "unforced errors"
+- [charlie-munger](../people/charlie-munger.md) — steady partner; Buffett contrasts his own ConocoPhillips dithering with what "Charlie would have done immediately"
+- [ajit-jain](../people/ajit-jain.md) — 31-person operation generating $24B of float plus hundreds of millions of underwriting profit; now also running BHAC
+- [tony-nicely](../people/tony-nicely.md) — 48th year at GEICO; driving the #3 market position from a standing start at #7 in 1995
+- [dave-sokol](../people/dave-sokol.md) — MidAmerican record earnings in 2008; wind energy leadership cited as his and Greg Abel's achievement
 
 ## Concepts introduced or discussed
 
-- [[derivatives]] — most comprehensive treatment in any letter: Bear Stearns counterparty-daisy-chain case; Berkshire's 251 contracts (structure, terms, rationale); Black-Scholes critique for long-dated options; too-big-to-fail governance perversity; "beware of geeks bearing formulas"
-- [[float]] — $58.5B yearend; sixth consecutive year of underwriting profit; paid $2.8B to hold float (cost below zero)
-- [[moat]] — one of four permanent operational goals; "widening the moats around our operating businesses"
-- [[underwriting-discipline]] — sixth consecutive year of profit; insurance as economic powerhouse via disciplined underwriting regardless of economic conditions
+- [derivatives](../concepts/derivatives.md) — most comprehensive treatment in any letter: Bear Stearns counterparty-daisy-chain case; Berkshire's 251 contracts (structure, terms, rationale); Black-Scholes critique for long-dated options; too-big-to-fail governance perversity; "beware of geeks bearing formulas"
+- [float](../concepts/float.md) — $58.5B yearend; sixth consecutive year of underwriting profit; paid $2.8B to hold float (cost below zero)
+- [moat](../concepts/moat.md) — one of four permanent operational goals; "widening the moats around our operating businesses"
+- [underwriting-discipline](../concepts/underwriting-discipline.md) — sixth consecutive year of profit; insurance as economic powerhouse via disciplined underwriting regardless of economic conditions
 
 ## Notable quotes
 
@@ -70,7 +70,7 @@ Written during the worst financial crisis since the Great Depression, the 2008 l
 
 ## Connections to other sources
 
-- Fulfills the systemic-risk scenario in [[berkshire-2005-letter]]: "one or more firms with positions many multiples of ours attempting to liquidate in chaotic markets" — that scenario materialized as Bear Stearns
-- The Clayton Homes thesis was established in [[berkshire-2003-letter]]; 2008 is its stress test and vindication
-- The manufactured housing 1997–2000 collapse, described in [[berkshire-2003-letter]], is explicitly cited as the ignored canary for the conventional-mortgage crisis
-- The Black-Scholes critique extends the derivatives analysis from [[berkshire-2002-letter]] through [[berkshire-2006-letter]] to a new domain: the model's failure for long-dated instruments
+- Fulfills the systemic-risk scenario in [berkshire-2005-letter](berkshire-2005-letter.md): "one or more firms with positions many multiples of ours attempting to liquidate in chaotic markets" — that scenario materialized as Bear Stearns
+- The Clayton Homes thesis was established in [berkshire-2003-letter](berkshire-2003-letter.md); 2008 is its stress test and vindication
+- The manufactured housing 1997–2000 collapse, described in [berkshire-2003-letter](berkshire-2003-letter.md), is explicitly cited as the ignored canary for the conventional-mortgage crisis
+- The Black-Scholes critique extends the derivatives analysis from [berkshire-2002-letter](berkshire-2002-letter.md) through [berkshire-2006-letter](berkshire-2006-letter.md) to a new domain: the model's failure for long-dated instruments

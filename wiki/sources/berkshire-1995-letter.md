@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1995
 raw_path: raw/berkshire-letters/1995.md
 tags: [berkshire, annual-letter, geico-acquisition, helzbergs, r-c-willey, disney, float-as-equity, class-b]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[geico]], [[helzbergs]], [[disney]], [[float]], [[lorimer-davidson]], [[charlie-munger]], [[capital-cities]], [[coca-cola]], [[gillette]], [[wells-fargo]], [[american-express]], [[salomon]], [[usair]], [[national-indemnity]], [[borsheims]], [[washington-post]], [[lou-simpson]], [[tom-murphy]], [[ajit-jain]], [[ralph-schey]], [[franchise-vs-business]], [[moat]], [[super-cat-insurance]], [[mistakes-of-omission]], [[capital-allocation]]
+related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [helzbergs](../entities/helzbergs.md), [disney](../entities/disney.md), [float](../concepts/float.md), [lorimer-davidson](../people/lorimer-davidson.md), [charlie-munger](../people/charlie-munger.md), [capital-cities](../entities/capital-cities.md), [coca-cola](../entities/coca-cola.md), [gillette](../entities/gillette.md), [wells-fargo](../entities/wells-fargo.md), [american-express](../entities/american-express.md), [salomon](../entities/salomon.md), [usair](../entities/usair.md), [national-indemnity](../entities/national-indemnity.md), [borsheims](../entities/borsheims.md), [washington-post](../entities/washington-post.md), [lou-simpson](../people/lou-simpson.md), [tom-murphy](../people/tom-murphy.md), [ajit-jain](../people/ajit-jain.md), [ralph-schey](../people/ralph-schey.md), [franchise-vs-business](../concepts/franchise-vs-business.md), [moat](../concepts/moat.md), [super-cat-insurance](../concepts/super-cat-insurance.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md), [capital-allocation](../concepts/capital-allocation.md)
 ---
 
 # Berkshire Hathaway 1995 Annual Letter
@@ -17,15 +17,15 @@ Dated March 1, 1996. Per-share book value up 43.1% to $14,426. The headline 1995
 
 ## Key themes
 
-- **GEICO acquired 100%.** $2.3B for the remaining 50% Berkshire didn't own. Tony Nicely (insurance) and Lou Simpson (investments) as managers. The canonical retelling of the 45-year Buffett-GEICO history. See [[geico]] and [[lorimer-davidson]].
-- **Helzberg's Diamond Shops acquired.** "ABWA" (acquisitions-by-walking-around) — Barnett Helzberg met Buffett crossing 58th & Fifth in NYC. Jeff Comment (formerly Wanamaker's). 134 stores in 23 states; $282M 1994 sales. Tax-free stock exchange. See [[helzbergs]] — actually, per the editorial scope, Helzberg's is not getting a standalone page; folded into source and entity-mention context.
+- **GEICO acquired 100%.** $2.3B for the remaining 50% Berkshire didn't own. Tony Nicely (insurance) and Lou Simpson (investments) as managers. The canonical retelling of the 45-year Buffett-GEICO history. See [geico](../entities/geico.md) and [lorimer-davidson](../people/lorimer-davidson.md).
+- **Helzberg's Diamond Shops acquired.** "ABWA" (acquisitions-by-walking-around) — Barnett Helzberg met Buffett crossing 58th & Fifth in NYC. Jeff Comment (formerly Wanamaker's). 134 stores in 23 states; $282M 1994 sales. Tax-free stock exchange. See [helzbergs](../entities/helzbergs.md) — actually, per the editorial scope, Helzberg's is not getting a standalone page; folded into source and entity-mention context.
 - **R.C. Willey Home Furnishings acquired.** Largest home-furnishings business in Utah. Bill Child (CEO, started with $250K in 1954); now $257M sales, 50% of Utah furniture market. NFM's Irv Blumkin made the introduction. Folded into source page.
-- **Disney/Cap Cities merger announced.** Closes early 1996. Berkshire's 20M Cap Cities shares exchange into Disney stock + cash; Berkshire requests all stock. See [[disney]].
+- **Disney/Cap Cities merger announced.** Closes early 1996. Berkshire's 20M Cap Cities shares exchange into Disney stock + cash; Berkshire requests all stock. See [disney](../entities/disney.md).
 - **Class B share recapitalization proposed.** 1/30th the economic interest of A shares, 1/200th the voting rights; non-eligible for shareholder-designated contributions. Designed to defeat third-party "Berkshire clone" unit trusts being marketed to retail investors.
 - **Float-as-equity essay.** Counterfactual: had Berkshire replaced its $3.4B of float with $3.4B of equity, "we would have owned no more assets … would have had somewhat lower earnings … and, of course, to obtain the replacement equity, we would have needed to sell many new shares of Berkshire."
 - **Convertible preferreds five-year retrospective.** Only Gillette has been a true win. Salomon "modestly outperformed" fixed-income substitutes. Champion converted in August 1995; First Empire will be called March 1996. USAir partially recovered. "Eating my words has never given me indigestion." (Churchill)
 - **"Just tell me the bad news" / honest reporting.** Charlie's dictum.
-- **The "have-to-be-smart-once" vs. "have-to-be-smart-every-day" framing.** TV station vs. retailer. See [[franchise-vs-business]].
+- **The "have-to-be-smart-once" vs. "have-to-be-smart-every-day" framing.** TV station vs. retailer. See [franchise-vs-business](../concepts/franchise-vs-business.md).
 
 ## Notable quotes
 
@@ -63,10 +63,10 @@ $2.3B for the half Berkshire didn't own. Berkshire's interest had grown from 33.
 
 The 1995 letter retells the 45-year Buffett-GEICO history at length. Highlights:
 
-- January 1951: Buffett, then studying under [[ben-graham]] at Columbia, travels to Washington on Saturday to find GEICO's offices closed; pounds on door; custodian directs him to Lorimer Davidson on sixth floor; four-hour education.
-- 1951: Four GEICO purchases for Buffett's personal account; September 26 the last. Year-end position 350 shares at $13,125 — 65% of net worth. Funds partly earned delivering [[washington-post]] as a boy.
+- January 1951: Buffett, then studying under [ben-graham](../people/ben-graham.md) at Columbia, travels to Washington on Saturday to find GEICO's offices closed; pounds on door; custodian directs him to Lorimer Davidson on sixth floor; four-hour education.
+- 1951: Four GEICO purchases for Buffett's personal account; September 26 the last. Year-end position 350 shares at $13,125 — 65% of net worth. Funds partly earned delivering [washington-post](../entities/washington-post.md) as a boy.
 - 1952: Sells entire position for $15,259 to switch into Western Insurance Securities ("p/e ratio that for some reason caught my eye"). By the 1970s, the GEICO sold would have been worth $1.3M.
-- 1976: Berkshire builds large position during [[jack-byrne]] rescue era.
+- 1976: Berkshire builds large position during [jack-byrne](../people/jack-byrne.md) rescue era.
 - 1980: Berkshire owns 33.3% at $45.7M cost.
 - 1996: Acquires remaining 50% for $2.3B.
 
@@ -74,23 +74,23 @@ Tony Nicely (34 years at GEICO) named the operating leader. Lou Simpson runs inv
 
 The moat reaffirmed: "In business, I look for economic castles protected by unbreachable 'moats.' Thanks to Tony and his management team, GEICO's moat widened in 1995."
 
-See [[geico]], [[lorimer-davidson]], [[lou-simpson]].
+See [geico](../entities/geico.md), [lorimer-davidson](../people/lorimer-davidson.md), [lou-simpson](../people/lou-simpson.md).
 
 ## Helzberg's and R.C. Willey
 
 **Helzberg's:** ABWA encounter on 58th & Fifth. Barnett Helzberg (4 shares of Berkshire); third-generation owner since grandfather started in 1915. Jeff Comment as CEO. 134 stores in 23 states; $282M sales 1994. Tax-free stock exchange; Barnett shared proceeds with associates.
 
-**R.C. Willey:** Bill Child (took over from father-in-law in 1954 at $250K sales; now $257M). [[nebraska-furniture-mart]]'s Irv Blumkin made the introduction; Bill Child told Irv that he and other owners might be interested in selling. Mid-1995 closing. Both Helzberg's and R.C. Willey emphasize the "have-to-be-smart-every-day" retail discipline.
+**R.C. Willey:** Bill Child (took over from father-in-law in 1954 at $250K sales; now $257M). [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md)'s Irv Blumkin made the introduction; Bill Child told Irv that he and other owners might be interested in selling. Mid-1995 closing. Both Helzberg's and R.C. Willey emphasize the "have-to-be-smart-every-day" retail discipline.
 
 ## Disney/Cap Cities merger
 
 July 14, 1995: Buffett met Eisner on Wildflower Lane in Sun Valley (after Eisner's presentation at Allen's conference). Mention of merger possibility. Murphy joined them. Both sides willing to bend on stock/cash mix. Contract in three busy days.
 
-[[capital-cities]] shareholders received either Disney stock + cash, or (subject to allocation) all stock / all cash. Berkshire requested all stock; ~20M+ Disney shares.
+[capital-cities](../entities/capital-cities.md) shareholders received either Disney stock + cash, or (subject to allocation) all stock / all cash. Berkshire requested all stock; ~20M+ Disney shares.
 
 Buffett's 1966-67 Disney history retold: bought BPL position at $0.31; sold at $0.48; stock now $66.
 
-See [[disney]] and [[tom-murphy]].
+See [disney](../entities/disney.md) and [tom-murphy](../people/tom-murphy.md).
 
 ## Class B share recapitalization
 
@@ -112,7 +112,7 @@ Important: Buffett says publicly that Berkshire at $36,000 (early 1996) is "not 
 
 Only Gillette was a clear win. The retrospective on USAir: "we feel much better about our USAir preferred than we did a year ago, but your guess is as good as mine as to its ultimate value." The Gillette retrospective: "$625 million" gain foregone by structuring as preferred rather than common. Major Buffett self-criticism: "this is also the purchase in which I made my biggest mistake — of a kind, however, never recognized on financial statements."
 
-See [[gillette]], [[salomon]], [[usair]].
+See [gillette](../entities/gillette.md), [salomon](../entities/salomon.md), [usair](../entities/usair.md).
 
 ## Cost of float — third consecutive negative year
 
@@ -135,14 +135,14 @@ The framework formalized:
 
 "Since our float has cost us virtually nothing over the years, it has in effect served as equity. Of course, it differs from true equity in that it doesn't belong to us."
 
-See [[float]].
+See [float](../concepts/float.md).
 
 ## Three operating-business declines
 
 Three "decent or better" returns but earnings declined:
 
 - **Shoe group** — cyclical industry weakness; "no doubt that our shoe operations will climb back to top-grade earnings"
-- **[[buffalo-evening-news|Buffalo News]]** — another secular notch lost; industry still profitable
+- **[Buffalo News](../entities/buffalo-evening-news.md)** — another secular notch lost; industry still profitable
 - **World Book** — increasingly tough competition from CD-ROM and online; "Berkshire's most difficult problem"; major distribution changes in late 1995
 
 Charlie's dictum: "Just tell me the bad news; the good news will take care of itself."
@@ -161,29 +161,29 @@ Charlie's dictum: "Just tell me the bad news; the good news will take care of it
 | | Others | $1,379.0M | $2,655.4M |
 | | **Total Common Stocks** | **$5,745.1M** | **$22,000.3M** |
 
-Only major position change in 1995: [[american-express]] added (to just under 10% of company).
+Only major position change in 1995: [american-express](../entities/american-express.md) added (to just under 10% of company).
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[geico]] — 100% acquisition closes early 1996
-- [[disney]] — Cap Cities exchange
-- [[capital-cities]] — to be exchanged
-- [[coca-cola]], [[gillette]], [[wells-fargo]], [[american-express]], [[washington-post]] — major holdings
-- [[salomon]], [[usair]] — convertible preferreds in retrospect
-- [[national-indemnity]] — super-cat
-- [[borsheims]] — Susan Jacques continues
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [geico](../entities/geico.md) — 100% acquisition closes early 1996
+- [disney](../entities/disney.md) — Cap Cities exchange
+- [capital-cities](../entities/capital-cities.md) — to be exchanged
+- [coca-cola](../entities/coca-cola.md), [gillette](../entities/gillette.md), [wells-fargo](../entities/wells-fargo.md), [american-express](../entities/american-express.md), [washington-post](../entities/washington-post.md) — major holdings
+- [salomon](../entities/salomon.md), [usair](../entities/usair.md) — convertible preferreds in retrospect
+- [national-indemnity](../entities/national-indemnity.md) — super-cat
+- [borsheims](../entities/borsheims.md) — Susan Jacques continues
 - Helzberg's, R.C. Willey — acquired (folded into source page)
 
 ## People mentioned
 
-- [[warren-buffett]], [[charlie-munger]]
-- [[lorimer-davidson]] — canonical retelling of 1951 meeting
+- [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md)
+- [lorimer-davidson](../people/lorimer-davidson.md) — canonical retelling of 1951 meeting
 - Tony Nicely — GEICO insurance head (canonical introduction)
-- [[lou-simpson]] — 22.8% vs. S&P 15.7%
-- [[tom-murphy]] — Sun Valley encounter; canonical tribute
-- [[ajit-jain]] — super-cat; non-cat business
-- [[ralph-schey]] — Scott Fetzer
+- [lou-simpson](../people/lou-simpson.md) — 22.8% vs. S&P 15.7%
+- [tom-murphy](../people/tom-murphy.md) — Sun Valley encounter; canonical tribute
+- [ajit-jain](../people/ajit-jain.md) — super-cat; non-cat business
+- [ralph-schey](../people/ralph-schey.md) — Scott Fetzer
 - Barnett Helzberg, Jeff Comment — Helzberg's
 - Bill Child — R.C. Willey
 - Michael Eisner — Disney
@@ -191,22 +191,22 @@ Only major position change in 1995: [[american-express]] added (to just under 10
 
 ## Concepts introduced or discussed
 
-- [[float]] — float-as-equity essay
-- [[franchise-vs-business]] — "have-to-be-smart-once" vs. "have-to-be-smart-every-day"
-- [[moat]] — "economic castles protected by unbreachable moats" — GEICO 1995
-- [[super-cat-insurance]] — three lucky years; Tyson/Lloyd's/satellite illustrations
-- [[volatility-as-opportunity]] — implicit
-- [[capital-allocation]] — opportunity-cost framing; "no strategic plan"
-- [[mistakes-of-omission]] — Disney 1967, Cap Cities sales
-- [[concentration-vs-diversification]] — "one good idea a year" implicit
+- [float](../concepts/float.md) — float-as-equity essay
+- [franchise-vs-business](../concepts/franchise-vs-business.md) — "have-to-be-smart-once" vs. "have-to-be-smart-every-day"
+- [moat](../concepts/moat.md) — "economic castles protected by unbreachable moats" — GEICO 1995
+- [super-cat-insurance](../concepts/super-cat-insurance.md) — three lucky years; Tyson/Lloyd's/satellite illustrations
+- [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — implicit
+- [capital-allocation](../concepts/capital-allocation.md) — opportunity-cost framing; "no strategic plan"
+- [mistakes-of-omission](../concepts/mistakes-of-omission.md) — Disney 1967, Cap Cities sales
+- [concentration-vs-diversification](../concepts/concentration-vs-diversification.md) — "one good idea a year" implicit
 
 ## Connections to other sources
 
-- The GEICO 100% acquisition is the culmination of the GEICO arc beginning in [[berkshire-1977-letter]] (first position) and extending through every letter.
-- The float-as-equity essay extends and formalizes the [[float]] framework from [[berkshire-1990-letter]].
-- The Disney exchange completes the Cap Cities arc from [[berkshire-1977-letter]] (first position, sold in 1978-80) and [[berkshire-1985-letter]] (re-entry at $172.50).
-- The convertible-preferred retrospective extends the four 1989-91 commitments tracked across [[berkshire-1989-letter]], [[berkshire-1990-letter]], [[berkshire-1991-letter]], [[berkshire-1992-letter]], [[berkshire-1994-letter]].
-- The "have-to-be-smart-once" framework extends the [[franchise-vs-business]] essay of [[berkshire-1991-letter]].
+- The GEICO 100% acquisition is the culmination of the GEICO arc beginning in [berkshire-1977-letter](berkshire-1977-letter.md) (first position) and extending through every letter.
+- The float-as-equity essay extends and formalizes the [float](../concepts/float.md) framework from [berkshire-1990-letter](berkshire-1990-letter.md).
+- The Disney exchange completes the Cap Cities arc from [berkshire-1977-letter](berkshire-1977-letter.md) (first position, sold in 1978-80) and [berkshire-1985-letter](berkshire-1985-letter.md) (re-entry at $172.50).
+- The convertible-preferred retrospective extends the four 1989-91 commitments tracked across [berkshire-1989-letter](berkshire-1989-letter.md), [berkshire-1990-letter](berkshire-1990-letter.md), [berkshire-1991-letter](berkshire-1991-letter.md), [berkshire-1992-letter](berkshire-1992-letter.md), [berkshire-1994-letter](berkshire-1994-letter.md).
+- The "have-to-be-smart-once" framework extends the [franchise-vs-business](../concepts/franchise-vs-business.md) essay of [berkshire-1991-letter](berkshire-1991-letter.md).
 - The class B recapitalization extends the shareholder-base goals stated at the 1988 NYSE listing.
-- The 1951 Davidson story is the canonical account of how [[ben-graham]]'s teaching led directly to the GEICO investment — complementing the intellectual lineage described in [[berkshire-1984-letter]] (Graham retrospective on the value framework). Both letters together trace how Graham shaped Buffett's two most foundational investment relationships.
-- The retailing discipline ("have-to-be-smart-every-day") introduced here through R.C. Willey parallels the NFM/[[rose-blumkin]] case study developed in [[berkshire-1983-letter]]: both frame the irreplaceability of owner-operators in retail as a precondition for any acquisition.
+- The 1951 Davidson story is the canonical account of how [ben-graham](../people/ben-graham.md)'s teaching led directly to the GEICO investment — complementing the intellectual lineage described in [berkshire-1984-letter](berkshire-1984-letter.md) (Graham retrospective on the value framework). Both letters together trace how Graham shaped Buffett's two most foundational investment relationships.
+- The retailing discipline ("have-to-be-smart-every-day") introduced here through R.C. Willey parallels the NFM/[rose-blumkin](../people/rose-blumkin.md) case study developed in [berkshire-1983-letter](berkshire-1983-letter.md): both frame the irreplaceability of owner-operators in retail as a precondition for any acquisition.

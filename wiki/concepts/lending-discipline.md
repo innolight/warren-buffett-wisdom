@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-2008-letter, berkshire-2003-letter]
 tags: [lending, credit, mortgage, underwriting, consumer-finance]
-related: [[underwriting-discipline]], [[clayton-homes]], [[model-risk]], [[float]]
+related: [underwriting-discipline](underwriting-discipline.md), [clayton-homes](../entities/clayton-homes.md), [model-risk](model-risk.md), [float](float.md)
 ---
 
 # Lending Discipline
@@ -14,7 +14,7 @@ related: [[underwriting-discipline]], [[clayton-homes]], [[model-risk]], [[float
 
 Lending discipline is the commitment to extend consumer credit only when three structural conditions are met: (1) an honest down payment of at least 10%, sourced from the borrower's actual savings — not borrowed funds or gift equity; (2) monthly payments that are genuinely within the borrower's actual income — not projected, hoped-for, or teaser-rate income; and (3) that income carefully and independently verified. All three conditions must hold simultaneously. A borrower who clears two of three is not a disciplined lending situation; it is a deferred default.
 
-Buffett distilled these principles from [[clayton-homes]]'s performance during the 2008 housing crash, describing them as "Lending 101." See [[berkshire-2008-letter]].
+Buffett distilled these principles from [clayton-homes](../entities/clayton-homes.md)'s performance during the 2008 housing crash, describing them as "Lending 101." See [berkshire-2008-letter](../sources/berkshire-2008-letter.md).
 
 ## Why it matters
 
@@ -32,7 +32,7 @@ FICO score measures a borrower's historical relationship with debt. It does not 
 - Whether the down payment is genuine savings or borrowed funds
 - Whether the monthly payment fits actual income or requires an optimistic scenario
 
-The manufactured housing crisis of the late 1990s and the residential mortgage crisis of 2008 share a common cause: lenders replaced the three structural conditions with a proxy (FICO score, or simply "can they qualify?") that was correlated with historical behavior but uncorrelated with the specific transaction's structure. When the originate-and-distribute securitization model removed lenders from the consequences of their underwriting — no skin in the game — even the weak FICO proxy disappeared. Buyers who should not have bought were financed by lenders who should not have lent. (See [[berkshire-2003-letter]] for Buffett's earliest articulation of this dynamic, written in 2004, three years before the residential mortgage version exploded.)
+The manufactured housing crisis of the late 1990s and the residential mortgage crisis of 2008 share a common cause: lenders replaced the three structural conditions with a proxy (FICO score, or simply "can they qualify?") that was correlated with historical behavior but uncorrelated with the specific transaction's structure. When the originate-and-distribute securitization model removed lenders from the consequences of their underwriting — no skin in the game — even the weak FICO proxy disappeared. Buyers who should not have bought were financed by lenders who should not have lent. (See [berkshire-2003-letter](../sources/berkshire-2003-letter.md) for Buffett's earliest articulation of this dynamic, written in 2004, three years before the residential mortgage version exploded.)
 
 Clayton's borrowers were labeled "subprime" — technically accurate as a description of their credit files. But the label says nothing about whether their specific loans were structured responsibly. They were. That is why they performed.
 
@@ -51,7 +51,7 @@ A borrower who made no down payment, or who borrowed the down payment, has no re
 
 ## The "keeping them in homes" framing
 
-> Putting people into homes, though a desirable goal, shouldn't be our country's primary objective. Keeping them in their homes should be the ambition. — [[berkshire-2008-letter]]
+> Putting people into homes, though a desirable goal, shouldn't be our country's primary objective. Keeping them in their homes should be the ambition. — [berkshire-2008-letter](../sources/berkshire-2008-letter.md)
 
 This framing identifies the error in the policy goal, not merely in the execution. Maximizing homeownership by relaxing underwriting standards does not expand durable homeownership. It creates a cohort of people who were briefly in homes and are then foreclosed out of them — often in worse financial condition than if they had rented. The social objective (stable homeownership) is undermined by the lending objective (volume) when the three structural conditions are not met.
 
@@ -59,7 +59,7 @@ The principle generalizes: any consumer credit product framed as "expanding acce
 
 ## Connection to underwriting-discipline
 
-[[underwriting-discipline]] governs the insurance side of Berkshire's portfolio with the same structural logic: accept risk only at a price and structure that makes it rational to hold; refuse business when pricing is unavailable or structure is wrong; never let competitive pressure override discipline.
+[underwriting-discipline](underwriting-discipline.md) governs the insurance side of Berkshire's portfolio with the same structural logic: accept risk only at a price and structure that makes it rational to hold; refuse business when pricing is unavailable or structure is wrong; never let competitive pressure override discipline.
 
 Lending discipline is the consumer-finance analog. The parallel is exact:
 
@@ -70,22 +70,22 @@ Lending discipline is the consumer-finance analog. The parallel is exact:
 | Never substitute volume for discipline | Never substitute FICO proxies for structural analysis |
 | Retain the risk you originate | Service the loans you make (no originate-and-distribute) |
 
-Both disciplines fail the same way: competitive pressure creates a rationalization loop in which participants tell themselves that standards are only temporarily relaxed, that a rising market will bail out the underwriting, or that the historical loss record validates current exposure. Both disciplines hold for the same reason: an institution that bears the full economic consequence of its own underwriting — no securitization exit, no government backstop, no portfolio sale — has the correct incentive structure. See [[underwriting-discipline]].
+Both disciplines fail the same way: competitive pressure creates a rationalization loop in which participants tell themselves that standards are only temporarily relaxed, that a rising market will bail out the underwriting, or that the historical loss record validates current exposure. Both disciplines hold for the same reason: an institution that bears the full economic consequence of its own underwriting — no securitization exit, no government backstop, no portfolio sale — has the correct incentive structure. See [underwriting-discipline](underwriting-discipline.md).
 
 ## How it's discussed in sources
 
-- [[berkshire-2003-letter]] — the manufactured housing industry collapse as the first illustration: securitization-enabled originate-and-distribute as the structural cause of underwriting collapse; Clayton's retained-loan model as the structural countermeasure; "buyers who shouldn't have bought, financed by lenders who shouldn't have lent"
-- [[berkshire-2008-letter]] — the stress test that proved the thesis; the three non-negotiable conditions stated explicitly; the FICO paradox demonstrated empirically; the monthly-payment-vs.-underwater insight; the "keeping them in homes" framing
+- [berkshire-2003-letter](../sources/berkshire-2003-letter.md) — the manufactured housing industry collapse as the first illustration: securitization-enabled originate-and-distribute as the structural cause of underwriting collapse; Clayton's retained-loan model as the structural countermeasure; "buyers who shouldn't have bought, financed by lenders who shouldn't have lent"
+- [berkshire-2008-letter](../sources/berkshire-2008-letter.md) — the stress test that proved the thesis; the three non-negotiable conditions stated explicitly; the FICO paradox demonstrated empirically; the monthly-payment-vs.-underwater insight; the "keeping them in homes" framing
 
 ## Notable quotes
 
-> Putting people into homes, though a desirable goal, shouldn't be our country's primary objective. Keeping them in their homes should be the ambition. — [[berkshire-2008-letter]]
+> Putting people into homes, though a desirable goal, shouldn't be our country's primary objective. Keeping them in their homes should be the ambition. — [berkshire-2008-letter](../sources/berkshire-2008-letter.md)
 
-> Much of its volume a few years back came from buyers who shouldn't have bought, financed by lenders who shouldn't have lent. — [[berkshire-2003-letter]]
+> Much of its volume a few years back came from buyers who shouldn't have bought, financed by lenders who shouldn't have lent. — [berkshire-2003-letter](../sources/berkshire-2003-letter.md)
 
 ## Related
 
-- [[underwriting-discipline]] — the insurance parallel; same structural principle applied to policy pricing rather than loan structuring
-- [[clayton-homes]] — the entity whose stress-test performance generated these principles
-- [[model-risk]] — the broader failure of history-based quantitative models to capture structural shifts in the underwriting universe
-- [[float]] — lending discipline determines the quality of the receivable book that generates Clayton's earnings, just as underwriting discipline determines the quality of float
+- [underwriting-discipline](underwriting-discipline.md) — the insurance parallel; same structural principle applied to policy pricing rather than loan structuring
+- [clayton-homes](../entities/clayton-homes.md) — the entity whose stress-test performance generated these principles
+- [model-risk](model-risk.md) — the broader failure of history-based quantitative models to capture structural shifts in the underwriting universe
+- [float](float.md) — lending discipline determines the quality of the receivable book that generates Clayton's earnings, just as underwriting discipline determines the quality of float

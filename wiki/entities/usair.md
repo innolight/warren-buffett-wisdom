@@ -5,7 +5,7 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter]
 tags: [airlines, convertible-preferred, mistake, commodity-business]
-related: [[berkshire-hathaway]], [[warren-buffett]], [[commodity-business-economics]], [[salomon]], [[gillette]]
+related: [berkshire-hathaway](berkshire-hathaway.md), [warren-buffett](../people/warren-buffett.md), [commodity-business-economics](../concepts/commodity-business-economics.md), [salomon](salomon.md), [gillette](gillette.md)
 ---
 
 # USAir Group
@@ -16,7 +16,7 @@ Major U.S. airline. Berkshire purchased a $358M 9 1/4% convertible preferred in 
 
 USAir is the canonical Buffett cautionary tale for three lessons:
 
-1. **The "unforced error."** The 1990 letter introduces the term and the 1994 letter elaborates: "I was neither pushed into the investment nor misled by anyone when making it. Rather, this was a case of sloppy analysis, a lapse that may have been caused by the fact that we were buying a senior security or by hubris." The mistake was made *inside Buffett's circle of competence* — he simply did the work poorly. Distinct from missing-an-opportunity errors ([[mistakes-of-omission]]), USAir was an error of commission.
+1. **The "unforced error."** The 1990 letter introduces the term and the 1994 letter elaborates: "I was neither pushed into the investment nor misled by anyone when making it. Rather, this was a case of sloppy analysis, a lapse that may have been caused by the fact that we were buying a senior security or by hubris." The mistake was made *inside Buffett's circle of competence* — he simply did the work poorly. Distinct from missing-an-opportunity errors ([mistakes-of-omission](../concepts/mistakes-of-omission.md)), USAir was an error of commission.
 
 2. **Commodity-business economics in unregulated form.** The 1994 retrospective is the cleanest articulation:
 
@@ -24,7 +24,7 @@ USAir is the canonical Buffett cautionary tale for three lessons:
    >
    > When deregulation came along, it did not immediately change the picture: The capacity of low-cost carriers was so small that the high-cost lines could, in large part, maintain their existing fare structures. During this period, with the longer-term problems largely invisible but slowly metastasizing, the costs that were non-sustainable became further embedded.
    >
-   > As the seat capacity of the low-cost operators expanded, their fares began to force the old-line, high-cost airlines to cut their own. … In an unregulated commodity business, a company must lower its costs to competitive levels or face extinction. ([[berkshire-1994-letter]])
+   > As the seat capacity of the low-cost operators expanded, their fares began to force the old-line, high-cost airlines to cut their own. … In an unregulated commodity business, a company must lower its costs to competitive levels or face extinction. ([berkshire-1994-letter](../sources/berkshire-1994-letter.md))
 
    The general principle: lagging effects can disguise commodity-economic vulnerability for years. The competitive force is structural; the timing of its arrival is the only variable.
 
@@ -58,8 +58,8 @@ By 1994 Buffett and Munger had resigned from the USAir board.
 
 Several Buffett rules emerge from the USAir reflection, each restated in different years:
 
-- "You don't have to make it back the way that you lost it." ([[berkshire-1994-letter]])
-- "In a business selling a commodity-type product, it's impossible to be a lot smarter than your dumbest competitor." ([[berkshire-1990-letter]])
+- "You don't have to make it back the way that you lost it." ([berkshire-1994-letter](../sources/berkshire-1994-letter.md))
+- "In a business selling a commodity-type product, it's impossible to be a lot smarter than your dumbest competitor." ([berkshire-1990-letter](../sources/berkshire-1990-letter.md))
 - The "kamikaze pricing tactics of certain carriers" and the "competitive tontine" of an industry intent on collective destruction — observations about airlines specifically that generalize to other commodity industries with high fixed costs.
 - "Bankruptcy court for airlines has become a health spa" (quoting Southwest's Herb Kelleher in the 1994 letter) — bankrupt carriers' ability to under-price reorganized cost bases drags solvent competitors to the floor.
 
@@ -67,9 +67,9 @@ Several Buffett rules emerge from the USAir reflection, each restated in differe
 
 The write-down to 25% of par in 1993–1994 and Buffett's post-mortem across those years (documented above) were accurate at the time. The story continued, however — and its conclusion was unexpected.
 
-In [[berkshire-1996-letter]], Stephen Wolf's turnaround of US Airways triggered payment of $47.9M in penalty-rate arrearages. The 1989 preferred contract had included an unusual provision: a prime + 5% penalty dividend on suspended dividends, so unpaid dividends compounded at 13.25–14% during the dark years — a structural feature Buffett noted he had "gotten right" in an otherwise sloppy investment. Buffett had tried to sell the position twice during the trough: in 1995 at 50% of face, and in early 1996 at approximately $335M (of $358M par). Both attempts failed, and the preferred subsequently rallied back toward par. Buffett's description: "I again failed in my attempt to snatch defeat from the jaws of victory."
+In [berkshire-1996-letter](../sources/berkshire-1996-letter.md), Stephen Wolf's turnaround of US Airways triggered payment of $47.9M in penalty-rate arrearages. The 1989 preferred contract had included an unusual provision: a prime + 5% penalty dividend on suspended dividends, so unpaid dividends compounded at 13.25–14% during the dark years — a structural feature Buffett noted he had "gotten right" in an otherwise sloppy investment. Buffett had tried to sell the position twice during the trough: in 1995 at 50% of face, and in early 1996 at approximately $335M (of $358M par). Both attempts failed, and the preferred subsequently rallied back toward par. Buffett's description: "I again failed in my attempt to snatch defeat from the jaws of victory."
 
-By [[berkshire-1997-letter]], the resolution was complete. The preferred was called for redemption on March 15, 1998. Cumulative dividends received totaled $240.5M. The common stock had surged from a $4 low to a $73 high, and the conversion rights — once thought nearly worthless — had become valuable. Buffett: "the gain could even prove indecent." On his own record in the investment: "Those who have watched my moves in this investment know that I have compiled a record that is unblemished by success." Stephen Wolf received the credit: "Next time I make a big, dumb decision, Berkshire shareholders will know what to do: *Phone Mr. Wolf*."
+By [berkshire-1997-letter](../sources/berkshire-1997-letter.md), the resolution was complete. The preferred was called for redemption on March 15, 1998. Cumulative dividends received totaled $240.5M. The common stock had surged from a $4 low to a $73 high, and the conversion rights — once thought nearly worthless — had become valuable. Buffett: "the gain could even prove indecent." On his own record in the investment: "Those who have watched my moves in this investment know that I have compiled a record that is unblemished by success." Stephen Wolf received the credit: "Next time I make a big, dumb decision, Berkshire shareholders will know what to do: *Phone Mr. Wolf*."
 
 The durable lessons are not overwritten by this resolution. The analysis of commodity-business economics, the critique of high-fixed-cost regulated industries after deregulation, and the self-description as an "unforced error" remain fully valid. The final result was fortunate — a structural penalty-rate feature from the preferred contract and a skilled turnaround CEO together rescued a position that Buffett's own analysis had written off. The airline industry remains, in Buffett's framework, a business to avoid.
 
@@ -77,25 +77,25 @@ The durable lessons are not overwritten by this resolution. The analysis of comm
 
 The 1992 letter offers the broader lesson:
 
-> "We have no ability to forecast the economics of the investment banking business, the airline industry, or the paper industry." At the time some of you may have doubted this confession of ignorance. Now, however, even my mother acknowledges its truth. ([[berkshire-1992-letter]])
+> "We have no ability to forecast the economics of the investment banking business, the airline industry, or the paper industry." At the time some of you may have doubted this confession of ignorance. Now, however, even my mother acknowledges its truth. ([berkshire-1992-letter](../sources/berkshire-1992-letter.md))
 
 USAir is the case study Buffett returns to whenever he wants to make a point about the limits of his ability to predict industry economics — and about the asymmetry between accepting that limit and trying to negotiate around it through structural seniority.
 
 ## Sources discussing this entity
 
-- [[berkshire-1989-letter]] — original $358M preferred purchase; included with Gillette and Champion in the "industries we don't understand" framing
-- [[berkshire-1990-letter]] — first downward revaluation; "unforced error" coined; "impossible to be smarter than your dumbest competitor"
-- [[berkshire-1991-letter]] — industry collapses; airline-bankruptcy bookings as a cascading effect; "decimating period"
-- [[berkshire-1992-letter]] — British Airways stake; Buffett and Munger join board; mother joke
-- [[berkshire-1993-letter]] — implicit in the convertible-preferred discussion; Seth Schofield as CEO working on cost reductions
-- [[berkshire-1994-letter]] — canonical post-mortem; "unforced error"; commodity-business essay; $269M writedown; the "you don't have to make it back the way you lost it" line; Buffett/Munger resign from board
-- [[berkshire-1995-letter]] — partial recovery; dividends unpaid but compounding at 5% over prime; junior preferred trading at 82-97% of par
-- [[berkshire-1996-letter]] — Wolf turnaround; $47.9M arrearages paid; two failed sale attempts; "snatch defeat from the jaws of victory"; $240.5M cumulative dividends collected to date (per 1996 letter, including $30M received in early 1997)
-- [[berkshire-1997-letter]] — preferred called for redemption March 1998; conversion rights valuable; "gain could even prove indecent"; "Phone Mr. Wolf"
+- [berkshire-1989-letter](../sources/berkshire-1989-letter.md) — original $358M preferred purchase; included with Gillette and Champion in the "industries we don't understand" framing
+- [berkshire-1990-letter](../sources/berkshire-1990-letter.md) — first downward revaluation; "unforced error" coined; "impossible to be smarter than your dumbest competitor"
+- [berkshire-1991-letter](../sources/berkshire-1991-letter.md) — industry collapses; airline-bankruptcy bookings as a cascading effect; "decimating period"
+- [berkshire-1992-letter](../sources/berkshire-1992-letter.md) — British Airways stake; Buffett and Munger join board; mother joke
+- [berkshire-1993-letter](../sources/berkshire-1993-letter.md) — implicit in the convertible-preferred discussion; Seth Schofield as CEO working on cost reductions
+- [berkshire-1994-letter](../sources/berkshire-1994-letter.md) — canonical post-mortem; "unforced error"; commodity-business essay; $269M writedown; the "you don't have to make it back the way you lost it" line; Buffett/Munger resign from board
+- [berkshire-1995-letter](../sources/berkshire-1995-letter.md) — partial recovery; dividends unpaid but compounding at 5% over prime; junior preferred trading at 82-97% of par
+- [berkshire-1996-letter](../sources/berkshire-1996-letter.md) — Wolf turnaround; $47.9M arrearages paid; two failed sale attempts; "snatch defeat from the jaws of victory"; $240.5M cumulative dividends collected to date (per 1996 letter, including $30M received in early 1997)
+- [berkshire-1997-letter](../sources/berkshire-1997-letter.md) — preferred called for redemption March 1998; conversion rights valuable; "gain could even prove indecent"; "Phone Mr. Wolf"
 
 ## Related
 
-- [[salomon]] — the other major preferred-stock commitment of the same era; different failure mode (reputational crisis, recovered) but same structural vulnerability
-- [[gillette]] — the same-year preferred that succeeded; the comparison sharpens the USAir lesson
-- [[commodity-business-economics]] — USAir is the unregulated-airline case study
-- [[warren-buffett]] — "unforced error" enters Buffett's permanent vocabulary
+- [salomon](salomon.md) — the other major preferred-stock commitment of the same era; different failure mode (reputational crisis, recovered) but same structural vulnerability
+- [gillette](gillette.md) — the same-year preferred that succeeded; the comparison sharpens the USAir lesson
+- [commodity-business-economics](../concepts/commodity-business-economics.md) — USAir is the unregulated-airline case study
+- [warren-buffett](../people/warren-buffett.md) — "unforced error" enters Buffett's permanent vocabulary

@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1978
 raw_path: raw/berkshire-letters/1978.md
 tags: [berkshire, insurance, equities, capital-allocation]
-related: [[warren-buffett]], [[berkshire-hathaway]]
+related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md)
 ---
 
 # Berkshire Hathaway 1978 Shareholder Letter
@@ -17,20 +17,20 @@ The year of the Diversified Retailing merger (yearend 1978), which brought Blue 
 
 ## Key themes
 
-- **SAFECO as the canonical passive-ownership case.** SAFECO is explicitly named the best-run large P&C insurer in the US, yet Berkshire bought it below book value. The argument: if you controlled a superbly managed company, you'd sit back and let management do its job anyway — so what exactly does the control premium buy? The [[passive-ownership-advantage]] framework gets its fullest early articulation here.
-- **Concentration policy.** "We try to avoid buying a little of this or that when we are only lukewarm... When we are convinced as to attractiveness, we believe in buying worthwhile amounts." Extends [[acquisition-criteria]] with an explicit portfolio-sizing corollary.
-- **Look-through earnings expanded.** SAFECO: $6.1M in attributable 1978 earnings, only ~18% distributed as dividends. "We believe the balance, although not reportable, to be just as real in terms of eventual benefit to us as the amount distributed." Converts [[look-through-earnings]] from a footnote observation to a load-bearing framework.
+- **SAFECO as the canonical passive-ownership case.** SAFECO is explicitly named the best-run large P&C insurer in the US, yet Berkshire bought it below book value. The argument: if you controlled a superbly managed company, you'd sit back and let management do its job anyway — so what exactly does the control premium buy? The [passive-ownership-advantage](../concepts/passive-ownership-advantage.md) framework gets its fullest early articulation here.
+- **Concentration policy.** "We try to avoid buying a little of this or that when we are only lukewarm... When we are convinced as to attractiveness, we believe in buying worthwhile amounts." Extends [acquisition-criteria](../concepts/acquisition-criteria.md) with an explicit portfolio-sizing corollary.
+- **Look-through earnings expanded.** SAFECO: $6.1M in attributable 1978 earnings, only ~18% distributed as dividends. "We believe the balance, although not reportable, to be just as real in terms of eventual benefit to us as the amount distributed." Converts [look-through-earnings](../concepts/look-through-earnings.md) from a footnote observation to a load-bearing framework.
 - **Retained earnings at good companies worth ≥ 100 cents on the dollar.** Extends look-through: if management can deploy retained earnings at attractive rates, minority holders benefit even without receiving those earnings. The inverse also holds — low-capital businesses or poor allocators should return capital or buy back shares.
-- **Reinsurance self-delusion.** "Long tail" casualty lines allow years of undetected underwriting losses to fester. Self-deception in reserving suppresses industry-wide rate levels, hurting even the disciplined. Early warning on structural opacity as an [[institutional-imperative]] failure.
+- **Reinsurance self-delusion.** "Long tail" casualty lines allow years of undetected underwriting losses to fester. Self-deception in reserving suppresses industry-wide rate levels, hurting even the disciplined. Early warning on structural opacity as an [institutional-imperative](../concepts/institutional-imperative.md) failure.
 - **Insurance cycle turning.** After the 1976–1977 tailwind, 1979 expected to see combined ratios rise. Rate increases slowing while loss costs still rising ~9%.
 
 ## Concepts introduced or discussed
 
-- [[passive-ownership-advantage]] — fullest early articulation via SAFECO
-- [[look-through-earnings]] — expanded from foreshadowed concept to core framework
-- [[acquisition-criteria]] — concentration corollary added
-- [[float]] — insurance equity investments at cost $129.1M / market $216.5M at yearend 1978; three-year unrealized + realized equity gains ~$112M
-- [[institutional-imperative]] — reinsurance self-delusion as a collective institutional failure in reserving
+- [passive-ownership-advantage](../concepts/passive-ownership-advantage.md) — fullest early articulation via SAFECO
+- [look-through-earnings](../concepts/look-through-earnings.md) — expanded from foreshadowed concept to core framework
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — concentration corollary added
+- [float](../concepts/float.md) — insurance equity investments at cost $129.1M / market $216.5M at yearend 1978; three-year unrealized + realized equity gains ~$112M
+- [institutional-imperative](../concepts/institutional-imperative.md) — reinsurance self-delusion as a collective institutional failure in reserving
 
 ## Notable quotes
 
@@ -46,5 +46,5 @@ The year of the Diversified Retailing merger (yearend 1978), which brought Blue 
 
 ## Connections to other sources
 
-- Continues [[berkshire-1977-letter]] — the same four-point equity criteria, now with SAFECO as the paradigm case
-- The reinsurance self-delusion warning anticipates the deteriorating conditions documented in [[berkshire-1979-letter]]
+- Continues [berkshire-1977-letter](berkshire-1977-letter.md) — the same four-point equity criteria, now with SAFECO as the paradigm case
+- The reinsurance self-delusion warning anticipates the deteriorating conditions documented in [berkshire-1979-letter](berkshire-1979-letter.md)

@@ -5,22 +5,22 @@ created: 2026-05-25
 updated: 2026-06-16
 sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2022-letter]
 tags: [consumer-brand, global-franchise, marketable-equities, permanent-holding]
-related: [[berkshire-hathaway]], [[roberto-goizueta]], [[franchise-vs-business]], [[moat]], [[economic-goodwill]], [[concentration-vs-diversification]], [[look-through-earnings]]
+related: [berkshire-hathaway](berkshire-hathaway.md), [roberto-goizueta](../people/roberto-goizueta.md), [franchise-vs-business](../concepts/franchise-vs-business.md), [moat](../concepts/moat.md), [economic-goodwill](../concepts/economic-goodwill.md), [concentration-vs-diversification](../concepts/concentration-vs-diversification.md), [look-through-earnings](../concepts/look-through-earnings.md)
 ---
 
 # Coca-Cola
 
-The global syrup/beverage franchise. Berkshire began accumulating in 1988 and by yearend 1995 owned 100 million shares — Berkshire's largest single equity position, the canonical post-1980s "wonderful business at a fair price" purchase, and the modern flagship in the [[franchise-vs-business]] framework.
+The global syrup/beverage franchise. Berkshire began accumulating in 1988 and by yearend 1995 owned 100 million shares — Berkshire's largest single equity position, the canonical post-1980s "wonderful business at a fair price" purchase, and the modern flagship in the [franchise-vs-business](../concepts/franchise-vs-business.md) framework.
 
 ## Why it matters
 
 Coca-Cola is the case study for three load-bearing Buffett themes:
 
-1. **The global consumer franchise.** Worldwide pricing power, brand-driven preference, distribution moat (independent bottler network), and structurally low capital intensity at the syrup-concentrate level. In Buffett's 1993 framing: "Coke sells about 44% of all soft drinks" worldwide — share so large that competitive disruption from below is implausible. See [[franchise-vs-business]].
+1. **The global consumer franchise.** Worldwide pricing power, brand-driven preference, distribution moat (independent bottler network), and structurally low capital intensity at the syrup-concentrate level. In Buffett's 1993 framing: "Coke sells about 44% of all soft drinks" worldwide — share so large that competitive disruption from below is implausible. See [franchise-vs-business](../concepts/franchise-vs-business.md).
 
-2. **The pivot from cigar-butt to wonderful business.** Buffett's 1989 confession — that he had observed Coke since 1936 and "carefully avoided buying even a single share" for 52 years before finally acting — is the canonical illustration of how the Buffett-of-the-1980s differed from the Buffett-of-the-1950s. The shift was not in the company; it was in Buffett's framework. See [[cigar-butts-vs-wonderful-businesses]].
+2. **The pivot from cigar-butt to wonderful business.** Buffett's 1989 confession — that he had observed Coke since 1936 and "carefully avoided buying even a single share" for 52 years before finally acting — is the canonical illustration of how the Buffett-of-the-1980s differed from the Buffett-of-the-1950s. The shift was not in the company; it was in Buffett's framework. See [cigar-butts-vs-wonderful-businesses](../concepts/cigar-butts-vs-wonderful-businesses.md).
 
-3. **The concentration discipline.** By yearend 1995, Coca-Cola was carried at $7.4B against a cost of $1.3B — a single position larger than the entire 1985 Berkshire equity portfolio. Concentration at this scale is the operational expression of the [[concentration-vs-diversification]] doctrine: a few outstanding businesses at sensible prices, sized to matter.
+3. **The concentration discipline.** By yearend 1995, Coca-Cola was carried at $7.4B against a cost of $1.3B — a single position larger than the entire 1985 Berkshire equity portfolio. Concentration at this scale is the operational expression of the [concentration-vs-diversification](../concepts/concentration-vs-diversification.md) doctrine: a few outstanding businesses at sensible prices, sized to matter.
 
 ## Position evolution
 
@@ -39,11 +39,11 @@ Position is "Rip Van Winkle" thereafter. Additions in 1989 and 1994; otherwise u
 
 ## The Goizueta and Keough partnership
 
-[[roberto-goizueta]] became CEO in 1981, with Don Keough as president and partner. The 1989 letter:
+[roberto-goizueta](../people/roberto-goizueta.md) became CEO in 1981, with Don Keough as president and partner. The 1989 letter:
 
 > After drifting somewhat in the 1970's, Coca-Cola had in 1981 become a new company with the move of Roberto Goizueta to CEO. Roberto, along with Don Keough … first rethought and focused the company's policies and then energetically carried them out. What was already the world's most ubiquitous product gained new momentum, with sales overseas virtually exploding.
 >
-> Through a truly rare blend of marketing and financial skills, Roberto has maximized both the growth of his product and the rewards that this growth brings to shareholders. ([[berkshire-1989-letter]])
+> Through a truly rare blend of marketing and financial skills, Roberto has maximized both the growth of his product and the rewards that this growth brings to shareholders. ([berkshire-1989-letter](../sources/berkshire-1989-letter.md))
 
 A pre-Berkshire personal note from the 1993 letter: Don Keough lived directly across the street from Buffett in Omaha starting in 1958 ("then a coffee salesman with a big family and a small income"). The decades-old neighborhood acquaintance contributed materially to Buffett's confidence in the partnership running the company.
 
@@ -57,7 +57,7 @@ The 1993 letter offers the historical-compounding illustration: $40 invested in 
 
 A precondition Buffett does not always state but is clear in the letters: in 1988, Coca-Cola was selling at a price that made the math work *as a wonderful business at a fair price*, not as a bargain. The 1991 letter notes the dramatic post-purchase re-rating ("we got a double-dip benefit, delivered partly by the excellent earnings growth and even more so by the market's reappraisal of these stocks") but the original investment thesis depended on business compounding alone, not on the re-rating.
 
-The 1993 letter's reflection on the post-1991 dynamic — Coke's earnings up 38% over 1991-93 while the stock rose only 11% — is the disciplined inverse: business success eventually shows up in the weighing machine, but the timing is irregular. See [[mr-market]].
+The 1993 letter's reflection on the post-1991 dynamic — Coke's earnings up 38% over 1991-93 while the stock rose only 11% — is the disciplined inverse: business success eventually shows up in the weighing machine, but the timing is irregular. See [mr-market](../concepts/mr-market.md).
 
 ## Permanent holding
 
@@ -73,30 +73,30 @@ The 2022 letter provides the most complete quantification of the Coke position's
 - **Market value**: $25 billion at yearend 2022.
 - **Portfolio weight**: approximately 5% of Berkshire's net worth, essentially unchanged from when the position was assembled — but the absolute dollar figure has grown 19-fold.
 
-The comparison Buffett constructs in the 2022 letter illustrates the portfolio-weight dynamics of holding great businesses over decades: a $1.3 billion investment that merely retained its value (a high-grade 30-year bond) would now represent 0.3% of Berkshire's net worth and deliver an unchanged ~$80M in annual income. Coke at $25B and 5% of net worth is the contrast. "The weeds wither away in significance as the flowers bloom. Over time, it takes just a few winners to work wonders." See [[passive-ownership-advantage]].
+The comparison Buffett constructs in the 2022 letter illustrates the portfolio-weight dynamics of holding great businesses over decades: a $1.3 billion investment that merely retained its value (a high-grade 30-year bond) would now represent 0.3% of Berkshire's net worth and deliver an unchanged ~$80M in annual income. Coke at $25B and 5% of net worth is the contrast. "The weeds wither away in significance as the flowers bloom. Over time, it takes just a few winners to work wonders." See [passive-ownership-advantage](../concepts/passive-ownership-advantage.md).
 
-The dividend compounding tells a parallel story: every dollar of dividends paid in 1994 has grown to nearly $9.40 paid in 2022, with no additional capital deployed and no management decisions required of Berkshire beyond cashing quarterly checks. The implicit look-through story — Coke's retained earnings reinvested in distribution, marketing, and brand — is what drives the dividend growth. See [[look-through-earnings]].
+The dividend compounding tells a parallel story: every dollar of dividends paid in 1994 has grown to nearly $9.40 paid in 2022, with no additional capital deployed and no management decisions required of Berkshire beyond cashing quarterly checks. The implicit look-through story — Coke's retained earnings reinvested in distribution, marketing, and brand — is what drives the dividend growth. See [look-through-earnings](../concepts/look-through-earnings.md).
 
 ## Sources discussing this entity
 
-- [[berkshire-1988-letter]] — initial 14.2M-share position; framed alongside Freddie Mac as the year's major equity moves; "favorite holding period is forever"
-- [[berkshire-1989-letter]] — addition to 23.4M shares; Buffett's 52-year-late confession; Goizueta-Keough articulation; "My response time to the next glaringly attractive idea will be slashed to well under 50 years"
-- [[berkshire-1990-letter]] — split-adjusted to 46.7M shares; position untouched; market $2.2B
-- [[berkshire-1991-letter]] — post-1989 doubling of market value; the "double-dip" framing
-- [[berkshire-1992-letter]] — split-adjusted to 93.4M shares; position untouched
-- [[berkshire-1993-letter]] — Coke/Gillette earnings up 38%/37% but stock prices up only 11%/6%; the 1919 share at $40 → $2.1M illustration; the 1938 Fortune "looking too late" passage
-- [[berkshire-1994-letter]] — addition to 100M shares; "21 billion attributable servings"; the "first business venture" childhood retrospective on selling six-packs of Coke
-- [[berkshire-1995-letter]] — position untouched; carried at $7.4B; included in the "Rip Van Winkle" framing of the year's portfolio activity
+- [berkshire-1988-letter](../sources/berkshire-1988-letter.md) — initial 14.2M-share position; framed alongside Freddie Mac as the year's major equity moves; "favorite holding period is forever"
+- [berkshire-1989-letter](../sources/berkshire-1989-letter.md) — addition to 23.4M shares; Buffett's 52-year-late confession; Goizueta-Keough articulation; "My response time to the next glaringly attractive idea will be slashed to well under 50 years"
+- [berkshire-1990-letter](../sources/berkshire-1990-letter.md) — split-adjusted to 46.7M shares; position untouched; market $2.2B
+- [berkshire-1991-letter](../sources/berkshire-1991-letter.md) — post-1989 doubling of market value; the "double-dip" framing
+- [berkshire-1992-letter](../sources/berkshire-1992-letter.md) — split-adjusted to 93.4M shares; position untouched
+- [berkshire-1993-letter](../sources/berkshire-1993-letter.md) — Coke/Gillette earnings up 38%/37% but stock prices up only 11%/6%; the 1919 share at $40 → $2.1M illustration; the 1938 Fortune "looking too late" passage
+- [berkshire-1994-letter](../sources/berkshire-1994-letter.md) — addition to 100M shares; "21 billion attributable servings"; the "first business venture" childhood retrospective on selling six-packs of Coke
+- [berkshire-1995-letter](../sources/berkshire-1995-letter.md) — position untouched; carried at $7.4B; included in the "Rip Van Winkle" framing of the year's portfolio activity
 
-- [[berkshire-2022-letter]] — the 28-year compounding arc quantified: $1.3B cost → $25B market value; $75M dividends → $704M annually; the "flowers/weeds" portfolio-weight contrast with a flat bond investment; "just as certain as birthdays"
+- [berkshire-2022-letter](../sources/berkshire-2022-letter.md) — the 28-year compounding arc quantified: $1.3B cost → $25B market value; $75M dividends → $704M annually; the "flowers/weeds" portfolio-weight contrast with a flat bond investment; "just as certain as birthdays"
 
 ## Related
 
-- [[roberto-goizueta]] — the CEO whose 1981 arrival made the modern Coca-Cola possible
-- [[franchise-vs-business]] — Coca-Cola is the textbook three-criteria franchise
-- [[moat]] — brand, distribution, share — the most explicit moat in the Berkshire portfolio
-- [[economic-goodwill]] — minimal tangible capital relative to franchise earning power
-- [[gillette]] — Berkshire's paired consumer-franchise position, often discussed jointly
-- [[concentration-vs-diversification]] — Coke is the largest expression of the concentration discipline
-- [[cigar-butts-vs-wonderful-businesses]] — Coke is the canonical "wonderful business at a fair price"
-- [[mr-market]] — the 1991-93 earnings-vs-price divergence is a Mr. Market case study
+- [roberto-goizueta](../people/roberto-goizueta.md) — the CEO whose 1981 arrival made the modern Coca-Cola possible
+- [franchise-vs-business](../concepts/franchise-vs-business.md) — Coca-Cola is the textbook three-criteria franchise
+- [moat](../concepts/moat.md) — brand, distribution, share — the most explicit moat in the Berkshire portfolio
+- [economic-goodwill](../concepts/economic-goodwill.md) — minimal tangible capital relative to franchise earning power
+- [gillette](gillette.md) — Berkshire's paired consumer-franchise position, often discussed jointly
+- [concentration-vs-diversification](../concepts/concentration-vs-diversification.md) — Coke is the largest expression of the concentration discipline
+- [cigar-butts-vs-wonderful-businesses](../concepts/cigar-butts-vs-wonderful-businesses.md) — Coke is the canonical "wonderful business at a fair price"
+- [mr-market](../concepts/mr-market.md) — the 1991-93 earnings-vs-price divergence is a Mr. Market case study

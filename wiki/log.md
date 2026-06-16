@@ -110,7 +110,7 @@ First post-Munger letter (released Feb 24, 2024); reflective/late-period, mostly
 - **Updated (light touch)** `wiki/concepts/american-tailwind.md` — 2023 source entry: March 11, 1942 first purchase; "sit quietly, listening to no one"; Bertie's 43-year hold; fixed stale "only source to date" wording
 - **Updated** `wiki/index.md` — added 2023 source line; added `japanese-trading-houses` entity; appended 2023 angle to `midamerican-energy` entity line
 
-**Deliberately skipped** (per scope filter, captured on the source page only): Occidental Petroleum (large but not yet a timeless load-bearing case study — folded into [[passive-ownership-advantage]] framing); Bertie as model reader, the "Omaha Effect," McCulloch's "never deal with a rascal," Poor Charlie's Almanack plug, and the Munger memorial framing (flavor/communication philosophy, not durable concepts); the 2023 operating-earnings scorecard table (year-specific, lives on the source page).
+**Deliberately skipped** (per scope filter, captured on the source page only): Occidental Petroleum (large but not yet a timeless load-bearing case study — folded into [passive-ownership-advantage](concepts/passive-ownership-advantage.md) framing); Bertie as model reader, the "Omaha Effect," McCulloch's "never deal with a rascal," Poor Charlie's Almanack plug, and the Munger memorial framing (flavor/communication philosophy, not durable concepts); the 2023 operating-earnings scorecard table (year-specific, lives on the source page).
 
 ---
 
@@ -168,7 +168,7 @@ Six findings from /review-ingest corrected:
 Three findings from review-ingest corrected:
 
 - `sources/berkshire-2019-letter.md` — Keynes Notable Quote restored to full version: dropped opening sentences ("Well-managed industrial companies do not, as a rule, distribute to the shareholders the whole of their earned profits. In good years, if not in all years, they retain a part of their profits and put them back into the business. Thus there is an element of compound interest (Keynes' italics)…") had been truncated to start at "There is an element of compound interest…", omitting the mechanism (retained earnings reinvested) that causes the compound-interest effect
-- `sources/berkshire-2019-letter.md` — Connections: "first articulated in [[berkshire-1980-letter]]" corrected to "canonically articulated" (the look-through concept was introduced in 1977, deepened in 1978; 1980 is where the canonical articulation appears, per `look-through-earnings.md`)
+- `sources/berkshire-2019-letter.md` — Connections: "first articulated in [berkshire-1980-letter](sources/berkshire-1980-letter.md)" corrected to "canonically articulated" (the look-through concept was introduced in 1977, deepened in 1978; 1980 is where the canonical articulation appears, per `look-through-earnings.md`)
 - `concepts/equity-return-expectations.md` — added `berkshire-2019-letter` to frontmatter sources list and "How it's discussed" source bullet; the 2019 letter makes a substantive real-portfolio comparison (20%+ on net tangible equity vs. 2.5% on 30-year Treasuries) that was listed as a concept in the source page but absent from the concept page itself; updated `updated` date to 2026-06-15
 
 ## [2026-06-15] lint | berkshire-2017-letter post-ingest review
@@ -225,11 +225,11 @@ Four corrections from /review-ingest audit:
 ## [2026-06-15] ingest | berkshire-2016-letter
 
 - Created `sources/berkshire-2016-letter.md` — key themes: share-repurchases doctrine (three-partner analogy, two exceptions, 120%-of-book threshold); revolving-fund float framing and GAAP distortion; The Bet nine-year empirical proof; adjusted earnings critique; BNSF depreciation gap
-- Created `concepts/earnings-quality.md` — new; restructuring and SBC exclusions from "adjusted earnings"; culture-of-number-manufacturing downstream risk; insurer reserve underestimation as existential failure mode; cross-linked to [[owner-earnings]], [[incentive-compensation]], [[underwriting-discipline]]
+- Created `concepts/earnings-quality.md` — new; restructuring and SBC exclusions from "adjusted earnings"; culture-of-number-manufacturing downstream risk; insurer reserve underestimation as existential failure mode; cross-linked to [owner-earnings](concepts/owner-earnings.md), [incentive-compensation](concepts/incentive-compensation.md), [underwriting-discipline](concepts/underwriting-discipline.md)
 - Updated `concepts/share-repurchases.md` — three-partner analogy (sharpest concrete illustration in series); two legitimate exceptions; "What is smart at one price is stupid at another"; Berkshire's 120%-of-book authorization explained; missing price-ceiling critique; "un-American" objection rebutted
 - Updated `concepts/float.md` — revolving-fund framing (most explicit articulation); GAAP overstates float liability ("owing $1 that will never leave the premises"); $100B milestone; 14 consecutive underwriting-profit years ($28B pre-tax); $64B goodwill gap quantification
 - Updated `entities/geico.md` — 12% market share (from 2.5% in 1995); employment 8,575→36,085; $8M annual (1951) → $8M every 3 hours (2016); counter-cycle growth in H2 2016 as moat reinforcing under stress; Tony Nicely 55 years
-- Updated `entities/bnsf.md` — GAAP depreciation ($2.1B) vs. true maintenance capex; structural cause (historical cost vs. replacement cost, multi-decade gap); industry-wide effect on reported earnings; cross-linked to [[owner-earnings]]; competitive benchmarks: 3¢/ton-mile, 6:1 interest coverage, 4× fuel advantage over trucks
+- Updated `entities/bnsf.md` — GAAP depreciation ($2.1B) vs. true maintenance capex; structural cause (historical cost vs. replacement cost, multi-decade gap); industry-wide effect on reported earnings; cross-linked to [owner-earnings](concepts/owner-earnings.md); competitive benchmarks: 3¢/ton-mile, 6:1 interest coverage, 4× fuel advantage over trucks
 - Updated `concepts/investment-friction.md` — Group A/B mathematical identity (active and passive must average before costs; lower cost wins); The Bet nine-year scorecard (S&P +85.4% vs. ~2.2% average); ~60% of active gains captured by fee layers; Jack Bogle tribute; wealthy-investor paradox ($100B+ waste estimate)
 - Updated `wiki/index.md` — added berkshire-2016-letter (Sources); added earnings-quality (Concepts)
 - Deliberately skipped: MidAmerican Energy stats (Iowa wind 55%, rates locked to 2029 — time-bound figures, no new durable principle beyond what 2015 letter captured); Ajit Jain (origin story retold but no new insight beyond existing page); Kara Raiguel as new General Re CEO (transactional personnel change); Clayton Homes details (foreclosure rates, loss-mitigation programs — year-specific); investment portfolio table (year-specific; Apple position noted on source page only); tax treatment of dividends vs. capital gains (2016 tax-code specific); annual meeting logistics (pure ephemera)
@@ -453,7 +453,7 @@ Ten-year batch ingest. User confirmed scope before writing: full proposed covera
 - Smaller portfolio holdings: Champion International (preferred), Freddie Mac, Guinness, Gannett, PNC Bank, General Dynamics, ACF Industries, First Empire State, Texaco bonds, RJR Nabisco bonds. Mentioned on source pages only.
 - Period-specific topics: Tax Reform Act of 1986 details, zero-coupon bond issuance mechanics, NYSE listing process, Class B share recap mechanics, shareholder-designated contributions program, accounting rule changes for deferred tax / common-equity-at-market.
 - Disney: created a thin page because the Cap Cities exchange placed Berkshire substantially into Disney as 1996 began; subsequent letters will deepen.
-- Tony Nicely: deliberately not yet a standalone page; appears only in 1995. Folded into [[geico]] for now. Revisit if subsequent letters elevate him to shaping status.
+- Tony Nicely: deliberately not yet a standalone page; appears only in 1995. Folded into [geico](entities/geico.md) for now. Revisit if subsequent letters elevate him to shaping status.
 
 **Open threads:**
 - Dexter Shoe is framed in 1993 as "one of the best-managed companies Charlie and I have seen" but later letters reveal this assessment was incorrect — flag for entity page when Buffett admits the mistake.
@@ -496,11 +496,11 @@ User confirmed scope before writing: 4 new pages + targeted updates only, ~9 lig
 **Open threads:**
 - Tom Murphy and Kay Graham approaching the threshold for dedicated person pages. Revisit on 1986/1987 ingest.
 - Scott Fetzer / World Book economics will need ongoing development as the businesses report through later letters.
-- "Capacity is attitudinal" formulation in insurance — worth cross-referencing into [[float]] if the insurance-cycle treatment in 1986–87 letters extends it further.
+- "Capacity is attitudinal" formulation in insurance — worth cross-referencing into [float](concepts/float.md) if the insurance-cycle treatment in 1986–87 letters extends it further.
 
 ## [2026-05-25] ingest | berkshire-1980-letter through berkshire-1984-letter
 
-Five-year ingest. User decisions before writing: (1) fold Jack Byrne and Tom Murphy into [[geico]] and [[capital-cities]] rather than creating dedicated person pages; (2) create `passive-return-crossbar` and `bonds-as-a-business` as new concepts (rather than folding into existing `bonds-and-inflation`).
+Five-year ingest. User decisions before writing: (1) fold Jack Byrne and Tom Murphy into [geico](entities/geico.md) and [capital-cities](entities/capital-cities.md) rather than creating dedicated person pages; (2) create `passive-return-crossbar` and `bonds-as-a-business` as new concepts (rather than folding into existing `bonds-and-inflation`).
 
 **Created sources (5):**
 - `sources/berkshire-1980-letter.md` — look-through canonical articulation; GEICO franchise-vs-turnaround; bond-duration trap
@@ -551,13 +551,13 @@ Five-year ingest. User decisions before writing: (1) fold Jack Byrne and Tom Mur
 **Deliberately skipped (per scope filter — recorded for audit):**
 - Portfolio holdings without enduring lesson: General Foods, R.J. Reynolds, Time, Affiliated Publications, Handy & Harman, Interpublic, Aluminum Co., Media General, Ogilvy & Mather, Northwest Industries (as held by Berkshire). Exxon position only initial in 1984; revisit when developed.
 - WPPSS as entity — the bond purchase teaches `bonds-as-a-business`; the issuer doesn't warrant its own page.
-- Operational managers — Jack Byrne and Tom Murphy folded per user direction; Chuck Huggins, Stan Lipsey, Mike Goldberg, Lou Simpson, Bill Snyder remain plain-text mentions per prior operational-manager decision. Gene Abegg obituary folded into [[berkshire-hathaway]]. Ben Rosner / Henry Urban / Phil Liesche retirements: source-page mentions only.
+- Operational managers — Jack Byrne and Tom Murphy folded per user direction; Chuck Huggins, Stan Lipsey, Mike Goldberg, Lou Simpson, Bill Snyder remain plain-text mentions per prior operational-manager decision. Gene Abegg obituary folded into [berkshire-hathaway](entities/berkshire-hathaway.md). Ben Rosner / Henry Urban / Phil Liesche retirements: source-page mentions only.
 - Berkshire-internal mechanics: shareholder-designated contributions program; Bancorp spinoff structure; Diversified Retailing merger backstory.
 - Mutual Savings & Loan, Associated Retail Stores, Precision Steel, Waumbec Mills — peripheral subsidiaries; source-page mentions only.
 
 **Open threads:**
-- The Cap Cities/ABC deal closes "very late in 1985" per the 1984 subsequent event — flesh out [[capital-cities]] further when ingesting 1985.
-- Mrs. B's eventual departure / return (the post-1989 episode) will inflect [[rose-blumkin]] and [[nebraska-furniture-mart]] later.
+- The Cap Cities/ABC deal closes "very late in 1985" per the 1984 subsequent event — flesh out [capital-cities](entities/capital-cities.md) further when ingesting 1985.
+- Mrs. B's eventual departure / return (the post-1989 episode) will inflect [rose-blumkin](people/rose-blumkin.md) and [nebraska-furniture-mart](entities/nebraska-furniture-mart.md) later.
 - Lou Simpson is borderline operational-vs-shaping — revisit if GEICO investment role becomes a teaching topic in later letters.
 
 **Net page count change:** 18 → 33 substantive pages. Within the spirit of the scope discipline given that 1983 alone contained four landmark essays.
@@ -679,7 +679,7 @@ Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages 
 - New sections added: "The intellectual shift: cigar-butts to wonderful businesses" (1989), "Two jobs framework" (1986), "Mental models attributed to Munger" (inversion, bad-news dictum, lumpy returns), "Judgment as check on Buffett" (2003 Gen Re confession), "Operator trust" (K&W/Harry Bottle 1987), "Capital allocation philosophy" (1998), "Derivatives" (2002)
 - Added 7 notable quotes (was 2)
 - Key editorial decision: the Gen Re 2003 confession ("Charlie would have moved swiftly… I, however, dithered") is the most significant Munger reference in the 1996–2003 period — Buffett's only explicit acknowledgment that Munger had the better call on a specific material decision
-- Added wikilinks to [[inversion]] and [[cigar-butts-vs-wonderful-businesses]] (both may be stubs or missing — flag for future creation)
+- Added wikilinks to [inversion](concepts/inversion.md) and [cigar-butts-vs-wonderful-businesses](concepts/cigar-butts-vs-wonderful-businesses.md) (both may be stubs or missing — flag for future creation)
 
 ## [2026-06-13] ingest | berkshire-2004-letter
 
@@ -711,7 +711,7 @@ Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages 
 ## [2026-06-13] refactor | berkshire-2005-letter post-ingest quality fixes
 
 - `sources/berkshire-2005-letter.md` — added currency/trade key theme (GAAP mark-to-market asymmetry; $955M 2005 loss; +$2.0B since inception; shift to foreign equities); expanded management succession bullet to surface the CEO/investment-manager separation as structural governance design; removed incorrect 1988 letter cross-reference ("arbitrage essay on transaction costs" mischaracterized that essay — it's about Berkshire's own risk-arb methodology, not aggregate investor friction); 1999 letter connection retained and tightened
-- `concepts/investment-friction.md` — corrected two descriptions of [[passive-ownership-advantage]]: "partial ownership at public-market prices can outperform control" replaced with the accurate framing (passive minority stakes in *excellent* businesses outperform active control of mediocre ones — the business-quality dimension, not the pricing mechanism)
+- `concepts/investment-friction.md` — corrected two descriptions of [passive-ownership-advantage](concepts/passive-ownership-advantage.md): "partial ownership at public-market prices can outperform control" replaced with the accurate framing (passive minority stakes in *excellent* businesses outperform active control of mediocre ones — the business-quality dimension, not the pricing mechanism)
 
 ## [2026-06-14] ingest | berkshire-2007-letter
 
@@ -720,8 +720,8 @@ Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages 
 - `concepts/great-good-gruesome.md` — introduced in this letter; three-tier savings-account taxonomy; See's (great), FlightSafety (good), airlines (gruesome); moat-endurance and manager-dependency corollaries
 
 **Updated (5):**
-- `entities/sees-candies.md` — added 2007 full 35-year case study section ($32M incremental capital → $1.35B cumulative pre-tax); near-miss purchase anecdote; [[great-good-gruesome]] link
-- `entities/flightsafety.md` — added 2007 good-business case study section ($923M depreciation / $1.635B capex / $509M incremental capital for $159M earnings growth); [[great-good-gruesome]] link
+- `entities/sees-candies.md` — added 2007 full 35-year case study section ($32M incremental capital → $1.35B cumulative pre-tax); near-miss purchase anecdote; [great-good-gruesome](concepts/great-good-gruesome.md) link
+- `entities/flightsafety.md` — added 2007 good-business case study section ($923M depreciation / $1.635B capex / $509M incremental capital for $159M earnings growth); [great-good-gruesome](concepts/great-good-gruesome.md) link
 - `concepts/moat.md` — added endurance-and-manager-dependency section (brain surgeon vs. Mayo Clinic; stable-industry precondition; "continuously rebuilt = no moat at all")
 - `concepts/investment-friction.md` — added 2007 Dow-century arithmetic section (Dow at 2,000,000 by 2099; 10% forecasts imply 24,000,000; pension 8% assumption dissected)
 - `entities/dexter-shoe.md` — added 2007 source bullet with $3.5B effective-cost explicit calculation
@@ -736,7 +736,7 @@ Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages 
 - Pension accounting manipulation — interesting but adequately covered under corporate-governance; no new page warranted
 - Richline Group, BoatU.S. — minor acquisitions; no enduring lesson
 - Specific subsidiary operating tables — year-specific; live on source page
-- Derivatives page update — 2007 contract growth (62→94) and put-option category added to source page Concepts section; no new timeless principle beyond existing [[derivatives]] coverage
+- Derivatives page update — 2007 contract growth (62→94) and put-option category added to source page Concepts section; no new timeless principle beyond existing [derivatives](concepts/derivatives.md) coverage
 - Investment succession update — four candidates now named; outcome (Combs/Weschler) not yet known; continuation of 2006 thread; no new concept warranted
 
 ## [2026-06-14] ingest | berkshire-2008-letter
@@ -753,7 +753,7 @@ Eight-year batch ingest (1996–2003). Three-wave execution: (1) 8 source pages 
   - Financial crisis government intervention commentary — period-specific framing
   - Joe Brandon / Tad Montross succession at General Re — noted only in source page; minor personnel change, no new durable principle
   - Clayton credit crisis funding model — government-backstop perversity captured in source page key themes and clayton entity page as a structural aside
-  - Private equity / LBO critique (raw pp. 307–323) — timeless principle (incentive misalignment of financial buyers vs. Berkshire's buy-and-hold model; leverage destroys acquirees) adequately captured on [[acquisition-criteria]]; no new concept or entity page warranted
+  - Private equity / LBO critique (raw pp. 307–323) — timeless principle (incentive misalignment of financial buyers vs. Berkshire's buy-and-hold model; leverage destroys acquirees) adequately captured on [acquisition-criteria](concepts/acquisition-criteria.md); no new concept or entity page warranted
 
 ## [2026-06-14] refactor | berkshire-2006-letter post-ingest quality fixes
 
@@ -818,7 +818,7 @@ Full review of `wiki/sources/` (1977–2008, 32 letters) against `wiki/concepts/
 - `concepts/tax-deferral` — Rip-Van-Winkle and Li'l Abner arithmetic; deferred tax as interest-free government loan (sources: 1989, 1993)
 - `concepts/lending-discipline` — three non-negotiables; Clayton Homes 3.6% delinquency as stress-test proof (sources: 2008, 2003)
 - `concepts/media-economics` — distribution-based franchise economics and structural collapse (sources: 2006, 1991)
-- `concepts/cost-of-float` — redirect/definition page resolving 5 broken wikilinks; points to [[float]]
+- `concepts/cost-of-float` — redirect/definition page resolving 5 broken wikilinks; points to [float](concepts/float.md)
 
 **Created (entity stubs):**
 - `entities/h-h-brown` — 1991 footwear acquisition; resolved broken wikilink

@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1985
 raw_path: raw/berkshire-letters/1985.md
 tags: [berkshire, annual-letter, textile-shutdown, incentive-compensation, capital-cities, scott-fetzer, firemans-fund]
-related: [[warren-buffett]], [[charlie-munger]], [[berkshire-hathaway]], [[capital-cities]], [[scott-fetzer]], [[jack-byrne]], [[incentive-compensation]]
+related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [capital-cities](../entities/capital-cities.md), [scott-fetzer](../entities/scott-fetzer.md), [jack-byrne](../people/jack-byrne.md), [incentive-compensation](../concepts/incentive-compensation.md)
 ---
 
 # Berkshire Hathaway 1985 Annual Letter
@@ -100,7 +100,7 @@ Buffett's caveat: some managers he admires use fixed-price options well within s
 - A small-unit manager can earn more than a large-unit manager.
 - Managers may use bonus or borrowed money to buy Berkshire stock in the market — they walk in the shoes of owners by *purchase*, not by *grant*.
 
-See [[incentive-compensation]].
+See [incentive-compensation](../concepts/incentive-compensation.md).
 
 ## The three businesses — economic-goodwill arithmetic
 
@@ -133,7 +133,7 @@ The "Except-For Insurance Company" anecdote — General Reinsurance's old chairm
 
 ## Fireman's Fund quota-share
 
-A 7% participation in all FFIC in-force business as of September 1, 1985, four-year term. Following Jack Byrne (see [[jack-byrne]]) — "never one to let go of a meal ticket." Berkshire holds the float between premium receipt and loss payment; Buffett is available for general investment consultation only, not specific decisions and not underwriting. FFIC unearned premium reserve $1.324B → 7% transfer of $92.7M to Berkshire, less $29.4M of pre-incurred underwriting expense. All FFIC business written through National Indemnity; two-sevenths of Berkshire's share passed to Wes-FIC, a new Wesco-organized subsidiary.
+A 7% participation in all FFIC in-force business as of September 1, 1985, four-year term. Following Jack Byrne (see [jack-byrne](../people/jack-byrne.md)) — "never one to let go of a meal ticket." Berkshire holds the float between premium receipt and loss payment; Buffett is available for general investment consultation only, not specific decisions and not underwriting. FFIC unearned premium reserve $1.324B → 7% transfer of $92.7M to Berkshire, less $29.4M of pre-incurred underwriting expense. All FFIC business written through National Indemnity; two-sevenths of Berkshire's share passed to Wes-FIC, a new Wesco-organized subsidiary.
 
 Subsequent to year-end, a second quota-share contract with 1986 volume "over $50M."
 
@@ -155,7 +155,7 @@ Position recap: $10.6M cost (1973), $8M market by yearend 1974 (a 25% loss), $22
 
 - **Murphy (or Burke as CEO) votes Berkshire's stock for an extended period.**
 - **Berkshire is restricted in the sale of its shares** to prevent the block landing with an unfriendly large holder.
-- Same structural model as the [[geico]] and [[washington-post]] arrangements.
+- Same structural model as the [geico](../entities/geico.md) and [washington-post](../entities/washington-post.md) arrangements.
 
 > We feel the long-term economic prospects for these businesses — and, thus, for ourselves as owners — are enhanced by the arrangements. With them in place, the first-class managers with whom we have aligned ourselves can focus their efforts entirely upon running the businesses and maximizing long-term values for owners. Certainly this is much better than having those managers distracted by "revolving-door capitalists" hoping to put the company "in play".
 
@@ -163,11 +163,11 @@ A self-deprecating note: "some of you probably wonder why we are now buying Cap 
 
 ## Scott & Fetzer
 
-Acquired right after year-end for ~$320M (plus ~$90M of existing debt). Sales ~$700M from 17 businesses, led by **World Book** (~40% of sales, "by far the leader in its industry, selling more than twice as many encyclopedia sets annually as its nearest competitor"). Other names: Kirby, Campbell Hausfeld, Wayne. **Ralph Schey**, CEO of nine years, who narrowed Scott Fetzer from 31 businesses to a focused portfolio while preserving the right ones (World Book acquired 1978). The deal history Buffett enjoys: an ESOP-led sale process failed mid-1985; Buffett wrote a single letter to Schey on October 10, dinner October 22, contract signed within the week. See [[scott-fetzer]].
+Acquired right after year-end for ~$320M (plus ~$90M of existing debt). Sales ~$700M from 17 businesses, led by **World Book** (~40% of sales, "by far the leader in its industry, selling more than twice as many encyclopedia sets annually as its nearest competitor"). Other names: Kirby, Campbell Hausfeld, Wayne. **Ralph Schey**, CEO of nine years, who narrowed Scott Fetzer from 31 businesses to a focused portfolio while preserving the right ones (World Book acquired 1978). The deal history Buffett enjoys: an ESOP-led sale process failed mid-1985; Buffett wrote a single letter to Schey on October 10, dinner October 22, contract signed within the week. See [scott-fetzer](../entities/scott-fetzer.md).
 
 ## The six-point acquisition ad — 1985 version
 
-The threshold for after-tax earnings raised — now "at least $10 million." All other criteria preserved. See [[acquisition-criteria]].
+The threshold for after-tax earnings raised — now "at least $10 million." All other criteria preserved. See [acquisition-criteria](../concepts/acquisition-criteria.md).
 
 ## General Foods — sold to Philip Morris
 
@@ -191,49 +191,49 @@ WPPSS bonds: $194M amortized cost in Projects 1, 2, 3; $62M unrealized gain at y
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[capital-cities]] — major new position
-- [[scott-fetzer]] — major new acquisition
-- [[geico]] — Byrne departure
-- [[washington-post]] — triple-dip case study
-- [[buffalo-evening-news]]
-- [[sees-candies]]
-- [[nebraska-furniture-mart]]
-- [[national-indemnity]] — writer of the FFIC contract
-- [[wesco-financial]] — organizes Wes-FIC
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [capital-cities](../entities/capital-cities.md) — major new position
+- [scott-fetzer](../entities/scott-fetzer.md) — major new acquisition
+- [geico](../entities/geico.md) — Byrne departure
+- [washington-post](../entities/washington-post.md) — triple-dip case study
+- [buffalo-evening-news](../entities/buffalo-evening-news.md)
+- [sees-candies](../entities/sees-candies.md)
+- [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md)
+- [national-indemnity](../entities/national-indemnity.md) — writer of the FFIC contract
+- [wesco-financial](../entities/wesco-financial.md) — organizes Wes-FIC
 
 ## People mentioned
 
-- [[warren-buffett]]
-- [[charlie-munger]]
-- [[jack-byrne]] — Byrne moves from GEICO to FFIC
-- [[rose-blumkin]] — at 92
-- [[ben-graham]] — the oil prospector story
-- Tom Murphy, Dan Burke (Cap Cities) — folded into [[capital-cities]]
-- Ralph Schey (Scott Fetzer) — folded into [[scott-fetzer]]
-- Kay Graham (WaPo) — folded into [[washington-post]]
-- Bill Snyder, Lou Simpson (GEICO post-Byrne) — folded into [[geico]]
-- Mike Goldberg (insurance operations) — folded into [[berkshire-hathaway]]
+- [warren-buffett](../people/warren-buffett.md)
+- [charlie-munger](../people/charlie-munger.md)
+- [jack-byrne](../people/jack-byrne.md) — Byrne moves from GEICO to FFIC
+- [rose-blumkin](../people/rose-blumkin.md) — at 92
+- [ben-graham](../people/ben-graham.md) — the oil prospector story
+- Tom Murphy, Dan Burke (Cap Cities) — folded into [capital-cities](../entities/capital-cities.md)
+- Ralph Schey (Scott Fetzer) — folded into [scott-fetzer](../entities/scott-fetzer.md)
+- Kay Graham (WaPo) — folded into [washington-post](../entities/washington-post.md)
+- Bill Snyder, Lou Simpson (GEICO post-Byrne) — folded into [geico](../entities/geico.md)
+- Mike Goldberg (insurance operations) — folded into [berkshire-hathaway](../entities/berkshire-hathaway.md)
 - Chuck Huggins (See's), Stan Lipsey (News) — folded into respective entity pages
 - Ken Chace, Garry Morrison (textiles)
 
 ## Concepts introduced or discussed
 
-- [[incentive-compensation]] — **new concept in this letter**
-- [[commodity-business-economics]] — Burlington case study; "capacity is attitudinal"
-- [[tailwinds-vs-headwinds]] — "business boat" formulation; textile auction as evidence
-- [[economic-goodwill]] — the three-business math
-- [[share-repurchases]] — WPC triple-dip
-- [[turnarounds-seldom-turn]] — textile post-mortem
-- [[acquisition-criteria]] — $10M after-tax earnings threshold
-- [[passive-ownership-advantage]]
-- [[look-through-earnings]]
-- [[moat]] — Cap Cities deal as bet on durable management quality
-- [[intrinsic-value-vs-book-value]] — textile auction as the ultimate empirical demonstration
+- [incentive-compensation](../concepts/incentive-compensation.md) — **new concept in this letter**
+- [commodity-business-economics](../concepts/commodity-business-economics.md) — Burlington case study; "capacity is attitudinal"
+- [tailwinds-vs-headwinds](../concepts/tailwinds-vs-headwinds.md) — "business boat" formulation; textile auction as evidence
+- [economic-goodwill](../concepts/economic-goodwill.md) — the three-business math
+- [share-repurchases](../concepts/share-repurchases.md) — WPC triple-dip
+- [turnarounds-seldom-turn](../concepts/turnarounds-seldom-turn.md) — textile post-mortem
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — $10M after-tax earnings threshold
+- [passive-ownership-advantage](../concepts/passive-ownership-advantage.md)
+- [look-through-earnings](../concepts/look-through-earnings.md)
+- [moat](../concepts/moat.md) — Cap Cities deal as bet on durable management quality
+- [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) — textile auction as the ultimate empirical demonstration
 
 ## Connections to other sources
 
-- Continues the [[commodity-business-economics]] thread from [[berkshire-1982-letter]] — Burlington completes the case made there.
-- Closes the textile-as-headwind narrative running through [[berkshire-1977-letter]], [[berkshire-1979-letter]] (Waumbec), and [[berkshire-1981-letter]].
-- The Cap Cities arrangement extends the friendly-block-holder model that originated with [[geico]] and [[washington-post]].
-- The economic-goodwill math operationalizes the Appendix to [[berkshire-1983-letter]] with specific dollar figures.
+- Continues the [commodity-business-economics](../concepts/commodity-business-economics.md) thread from [berkshire-1982-letter](berkshire-1982-letter.md) — Burlington completes the case made there.
+- Closes the textile-as-headwind narrative running through [berkshire-1977-letter](berkshire-1977-letter.md), [berkshire-1979-letter](berkshire-1979-letter.md) (Waumbec), and [berkshire-1981-letter](berkshire-1981-letter.md).
+- The Cap Cities arrangement extends the friendly-block-holder model that originated with [geico](../entities/geico.md) and [washington-post](../entities/washington-post.md).
+- The economic-goodwill math operationalizes the Appendix to [berkshire-1983-letter](berkshire-1983-letter.md) with specific dollar figures.

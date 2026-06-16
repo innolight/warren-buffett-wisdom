@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1988
 raw_path: raw/berkshire-letters/1988.md
 tags: [berkshire, annual-letter, coca-cola, borsheims, arbitrage, efficient-market-theory, nyse-listing]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[coca-cola]], [[borsheims]], [[mr-market]], [[charlie-munger]], [[capital-cities]], [[geico]], [[washington-post]], [[salomon]], [[national-indemnity]], [[scott-fetzer]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]], [[ben-graham]], [[david-dodd]], [[ajit-jain]], [[tom-murphy]], [[kay-graham]], [[lou-simpson]], [[concentration-vs-diversification]], [[risk-vs-volatility]], [[capital-allocation]], [[acquisition-criteria]]
+related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [coca-cola](../entities/coca-cola.md), [borsheims](../entities/borsheims.md), [mr-market](../concepts/mr-market.md), [charlie-munger](../people/charlie-munger.md), [capital-cities](../entities/capital-cities.md), [geico](../entities/geico.md), [washington-post](../entities/washington-post.md), [salomon](../entities/salomon.md), [national-indemnity](../entities/national-indemnity.md), [scott-fetzer](../entities/scott-fetzer.md), [sees-candies](../entities/sees-candies.md), [buffalo-evening-news](../entities/buffalo-evening-news.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md), [ben-graham](../people/ben-graham.md), [david-dodd](../people/david-dodd.md), [ajit-jain](../people/ajit-jain.md), [tom-murphy](../people/tom-murphy.md), [kay-graham](../people/kay-graham.md), [lou-simpson](../people/lou-simpson.md), [concentration-vs-diversification](../concepts/concentration-vs-diversification.md), [risk-vs-volatility](../concepts/risk-vs-volatility.md), [capital-allocation](../concepts/capital-allocation.md), [acquisition-criteria](../concepts/acquisition-criteria.md)
 ---
 
 # Berkshire Hathaway 1988 Annual Letter
@@ -17,13 +17,13 @@ Dated February 28, 1989. Net worth up $569M (20%). Per-share book value to $2,97
 
 ## Key themes
 
-- **Coca-Cola purchase.** First major position. 14.2M shares, $592.5M cost. "Our favorite holding period is forever." See [[coca-cola]].
+- **Coca-Cola purchase.** First major position. 14.2M shares, $592.5M cost. "Our favorite holding period is forever." See [coca-cola](../entities/coca-cola.md).
 - **Freddie Mac preferred.** $71.7M cost / $121.2M market by yearend. Maximum permitted by law. Held in Mutual Savings & Loan (a non-insurance Berkshire sub).
-- **Borsheim's announced.** 80% interest acquired early 1989. The Friedman family (sister-of-Mrs.-B branch) operating the jewelry equivalent of NFM's discipline. See [[borsheims]].
+- **Borsheim's announced.** 80% interest acquired early 1989. The Friedman family (sister-of-Mrs.-B branch) operating the jewelry equivalent of NFM's discipline. See [borsheims](../entities/borsheims.md).
 - **Arbitrage essay.** Detailed treatment of the four-question framework (probability, time, alternative outcomes, downside). The Rockwood (1954) and Arcata (1981-88) case studies; RJR Nabisco position at yearend; the EMT critique that follows from 63 years of Graham-Newman / Buffett Partnership / Berkshire arbitrage records.
 - **Efficient Market Theory rejected on empirical grounds.** 63-year arbitrage track record averaging ~20% pre-tax annually vs. ~10% for the broader market. "Apparently, a reluctance to recant, and thereby to demystify the priesthood, is not limited to theologians."
 - **NYSE listing.** Berkshire listed November 29, 1988. Explicit owner-orientation goals: narrow trading range close to intrinsic value (no overvaluation or undervaluation preferred); low trading volume; long-term-owner shareholder base.
-- **David Dodd obituary.** Buffett's tribute to his teacher; "any long-time shareholder of Berkshire is appreciably wealthier because of the indirect influence he had upon our company." See [[david-dodd]].
+- **David Dodd obituary.** Buffett's tribute to his teacher; "any long-time shareholder of Berkshire is appreciably wealthier because of the indirect influence he had upon our company." See [david-dodd](../people/david-dodd.md).
 - **Two CEO governance essays.** (1) The "CEO is the only employee with no immediate superior" framework — why incompetent CEOs persist for years where incompetent staff would be fired in weeks. (2) The accounting essay (three-question test: what is this worth, can it meet obligations, how well is management doing).
 
 ## Notable quotes
@@ -46,7 +46,7 @@ Dated February 28, 1989. Net worth up $569M (20%). Per-share book value to $2,97
 
 ## The Coca-Cola purchase
 
-14,172,500 shares at $592.5M cost; $632.4M market at yearend 1988. The position is held in Berkshire's insurance subsidiaries. The 1988 letter announces it tersely; the substantive personal history (Buffett's 1936 awareness; Goizueta's 1981 arrival; the "52 years late" admission) appears in [[berkshire-1989-letter]]. The framing of intent is clear from the start: this is a permanent holding, like [[capital-cities]], [[geico]], and [[washington-post]].
+14,172,500 shares at $592.5M cost; $632.4M market at yearend 1988. The position is held in Berkshire's insurance subsidiaries. The 1988 letter announces it tersely; the substantive personal history (Buffett's 1936 awareness; Goizueta's 1981 arrival; the "52 years late" admission) appears in [berkshire-1989-letter](berkshire-1989-letter.md). The framing of intent is clear from the start: this is a permanent holding, like [capital-cities](../entities/capital-cities.md), [geico](../entities/geico.md), and [washington-post](../entities/washington-post.md).
 
 The letter pairs the Coca-Cola purchase with the Freddie Mac preferred as the two "major purchases" of the year — together accounting for most of the year's new equity deployment.
 
@@ -72,21 +72,21 @@ The 1988 letter's most substantive theoretical essay. The 63-year track record a
 
 The conclusion: a 20% annual return vs. 10%, on $1,000 starting capital, becomes $97M vs. $405,000 over 63 years. EMT proponents "have never seemed interested in discordant evidence of this type." The continuing teaching of EMT is described as a service to value investors: "From a selfish point of view, Grahamites should probably endow chairs to ensure the perpetual teaching of EMT."
 
-See [[risk-vs-volatility]] for the 1993 extension on beta.
+See [risk-vs-volatility](../concepts/risk-vs-volatility.md) for the 1993 extension on beta.
 
 ## Insurance results
 
 Industry combined ratio 105.4 (1988). Berkshire's: 104. Florida hurricane and California earthquake risk discussion continues. Buffett's volume forecast (1989-90) is for low premium because of disciplined pricing.
 
-The structural-advantages section of the insurance essay: Berkshire's [[float]]-to-premium ratio is now exceptional ("at least three times that of the typical property/casualty company" expected for 1989-90). Mike Goldberg, [[ajit-jain]], Dinos Iordanou, and the [[national-indemnity]] team named. Ajit's first mention in any Berkshire letter.
+The structural-advantages section of the insurance essay: Berkshire's [float](../concepts/float.md)-to-premium ratio is now exceptional ("at least three times that of the typical property/casualty company" expected for 1989-90). Mike Goldberg, [ajit-jain](../people/ajit-jain.md), Dinos Iordanou, and the [national-indemnity](../entities/national-indemnity.md) team named. Ajit's first mention in any Berkshire letter.
 
 GEICO note: Proposition 103 in California threatens to force auto-insurance rate cuts. Direct effect on Berkshire small; effect on GEICO (10% of premium volume from California) significant; bigger concern that similar measures pass in other states.
 
 ## NYSE listing — owner-orientation goals
 
-Listed November 29, 1988. Two explicit [[owner-orientation]] goals distinguishing Berkshire from typical companies:
+Listed November 29, 1988. Two explicit [owner-orientation](../concepts/owner-orientation.md) goals distinguishing Berkshire from typical companies:
 
-1. **Stock should trade close to [[intrinsic-value-vs-book-value|intrinsic value]], not above or below.** "Both extremes will inevitably produce results for many shareholders that will differ sharply from Berkshire's business results."
+1. **Stock should trade close to [intrinsic value](../concepts/intrinsic-value-vs-book-value.md), not above or below.** "Both extremes will inevitably produce results for many shareholders that will differ sharply from Berkshire's business results."
 2. **Very little trading activity.** "We don't understand the CEO who wants lots of stock activity, for that can be achieved only if many of his owners are constantly exiting. At what other organization — school, club, church, etc. — do leaders cheer when members leave?"
 
 The shareholder-base engineering implicit in these goals becomes the recurring Berkshire theme (no stock splits, candid disclosure, low payout, eventually the 1996 Class B share design).
@@ -105,46 +105,46 @@ The "permanent holdings" (Cap Cities, GEICO, WaPo) plus Coca-Cola and Freddie Ma
 
 ## David Dodd
 
-Brief tribute upon Dodd's death at 93. Buffett's teacher and friend for 38 years. "In Berkshire's investments, Charlie and I have employed the principles taught by Dave and [[ben-graham]]. Our prosperity is the fruit of their intellectual tree." See [[david-dodd]].
+Brief tribute upon Dodd's death at 93. Buffett's teacher and friend for 38 years. "In Berkshire's investments, Charlie and I have employed the principles taught by Dave and [ben-graham](../people/ben-graham.md). Our prosperity is the fruit of their intellectual tree." See [david-dodd](../people/david-dodd.md).
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[coca-cola]] — first major purchase
-- [[borsheims]] — announced (early 1989)
-- [[capital-cities]], [[geico]], [[washington-post]] — permanent holdings
-- [[salomon]] — held; Charlie's Wesco letter values preferred slightly above cost
-- [[national-indemnity]]
-- [[scott-fetzer]], [[sees-candies]], [[buffalo-evening-news]], [[nebraska-furniture-mart]] — Sainted Seven; now Sainted Seven Plus One with Borsheim's
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [coca-cola](../entities/coca-cola.md) — first major purchase
+- [borsheims](../entities/borsheims.md) — announced (early 1989)
+- [capital-cities](../entities/capital-cities.md), [geico](../entities/geico.md), [washington-post](../entities/washington-post.md) — permanent holdings
+- [salomon](../entities/salomon.md) — held; Charlie's Wesco letter values preferred slightly above cost
+- [national-indemnity](../entities/national-indemnity.md)
+- [scott-fetzer](../entities/scott-fetzer.md), [sees-candies](../entities/sees-candies.md), [buffalo-evening-news](../entities/buffalo-evening-news.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) — Sainted Seven; now Sainted Seven Plus One with Borsheim's
 
 ## People mentioned
 
-- [[warren-buffett]]
-- [[charlie-munger]]
-- [[ben-graham]] — arbitrage tradition origin
-- [[david-dodd]] — obituary
-- [[ajit-jain]] — first mention
-- [[tom-murphy]], [[kay-graham]], [[lou-simpson]] — permanent-holding CEOs/managers
-- Ike Friedman, Friedman family — Borsheim's (folded into [[borsheims]])
+- [warren-buffett](../people/warren-buffett.md)
+- [charlie-munger](../people/charlie-munger.md)
+- [ben-graham](../people/ben-graham.md) — arbitrage tradition origin
+- [david-dodd](../people/david-dodd.md) — obituary
+- [ajit-jain](../people/ajit-jain.md) — first mention
+- [tom-murphy](../people/tom-murphy.md), [kay-graham](../people/kay-graham.md), [lou-simpson](../people/lou-simpson.md) — permanent-holding CEOs/managers
+- Ike Friedman, Friedman family — Borsheim's (folded into [borsheims](../entities/borsheims.md))
 - Ralph Schey, Heldmans, Blumkins, Chuck Huggins, Stan Lipsey — operating units
 
 ## Concepts introduced or discussed
 
-- [[mr-market]] — reprised; the manic-depressive market metaphor implicit in the portfolio-insurance critique
-- [[volatility-as-opportunity]] — implicit in the arbitrage and EMT discussions
-- [[concentration-vs-diversification]] — "Too much of a good thing can be wonderful"
-- [[risk-vs-volatility]] — anticipated by EMT critique
-- [[capital-allocation]] — CEO-incompetence-persistence essay sharpens 1987 framing
-- [[acquisition-criteria]] — repeated
-- [[institutional-imperative]] — implicit in CEO essay; canonized 1989
+- [mr-market](../concepts/mr-market.md) — reprised; the manic-depressive market metaphor implicit in the portfolio-insurance critique
+- [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — implicit in the arbitrage and EMT discussions
+- [concentration-vs-diversification](../concepts/concentration-vs-diversification.md) — "Too much of a good thing can be wonderful"
+- [risk-vs-volatility](../concepts/risk-vs-volatility.md) — anticipated by EMT critique
+- [capital-allocation](../concepts/capital-allocation.md) — CEO-incompetence-persistence essay sharpens 1987 framing
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — repeated
+- [institutional-imperative](../concepts/institutional-imperative.md) — implicit in CEO essay; canonized 1989
 
 ## Connections to other sources
 
-- The Mr. Market allegory of [[berkshire-1987-letter]] is implicit throughout the equity-portfolio discussion.
-- The arbitrage track record adds empirical weight to the EMT-rejection argument prefigured in [[berkshire-1987-letter]].
-- Coca-Cola purchase becomes the centerpiece of [[berkshire-1989-letter]]'s self-deprecating "52 years late" admission.
-- Borsheim's acquisition acknowledges the [[nebraska-furniture-mart]] / Blumkin family connection.
-- The NYSE-listing owner-orientation principles will be extended in the 1995 Class B share recapitalization ([[berkshire-1995-letter]]).
+- The Mr. Market allegory of [berkshire-1987-letter](berkshire-1987-letter.md) is implicit throughout the equity-portfolio discussion.
+- The arbitrage track record adds empirical weight to the EMT-rejection argument prefigured in [berkshire-1987-letter](berkshire-1987-letter.md).
+- Coca-Cola purchase becomes the centerpiece of [berkshire-1989-letter](berkshire-1989-letter.md)'s self-deprecating "52 years late" admission.
+- Borsheim's acquisition acknowledges the [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) / Blumkin family connection.
+- The NYSE-listing owner-orientation principles will be extended in the 1995 Class B share recapitalization ([berkshire-1995-letter](berkshire-1995-letter.md)).
 - Dodd obituary completes the Graham-Dodd lineage references that recur in every value-investing essay across the letters.
-- The CEO-incompetence-persistence essay here is the direct precursor to [[berkshire-1989-letter]]'s formal naming of the [[institutional-imperative]] — the same behavioral dynamic (Board inertia, social pressures, no external standard) receives its canonical label one year later.
-- The Mae West "Too much of a good thing can be wonderful" line on concentration (introduced here) recurs verbatim in [[berkshire-1993-letter]]'s know-something-investor essay, cementing it as a durable Buffett shorthand for the [[concentration-vs-diversification]] principle.
+- The CEO-incompetence-persistence essay here is the direct precursor to [berkshire-1989-letter](berkshire-1989-letter.md)'s formal naming of the [institutional-imperative](../concepts/institutional-imperative.md) — the same behavioral dynamic (Board inertia, social pressures, no external standard) receives its canonical label one year later.
+- The Mae West "Too much of a good thing can be wonderful" line on concentration (introduced here) recurs verbatim in [berkshire-1993-letter](berkshire-1993-letter.md)'s know-something-investor essay, cementing it as a durable Buffett shorthand for the [concentration-vs-diversification](../concepts/concentration-vs-diversification.md) principle.

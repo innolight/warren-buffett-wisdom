@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2019
 raw_path: raw/berkshire-letters/2019.md
 tags: [berkshire, annual-letter, retained-earnings, corporate-governance, float, gaap]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[charlie-munger]]
+related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [charlie-munger](../people/charlie-munger.md)
 ---
 
 # Berkshire Hathaway 2019 Annual Letter
@@ -26,34 +26,34 @@ The 2019 letter is anchored by two major intellectual set pieces: a historical a
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[national-indemnity]]
-- [[geico]]
-- [[midamerican-energy]] (as Berkshire Hathaway Energy)
-- [[bnsf]]
-- [[coca-cola]]
-- [[american-express]]
-- [[wells-fargo]]
-- [[clayton-homes]]
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [national-indemnity](../entities/national-indemnity.md)
+- [geico](../entities/geico.md)
+- [midamerican-energy](../entities/midamerican-energy.md) (as Berkshire Hathaway Energy)
+- [bnsf](../entities/bnsf.md)
+- [coca-cola](../entities/coca-cola.md)
+- [american-express](../entities/american-express.md)
+- [wells-fargo](../entities/wells-fargo.md)
+- [clayton-homes](../entities/clayton-homes.md)
 
 ## People mentioned
 
-- [[warren-buffett]]
-- [[charlie-munger]]
-- [[ajit-jain]] — GUARD Insurance acquisition credit; named to give more exposure at annual meeting
-- [[greg-abel]] — BHE architect; named to give more exposure at annual meeting
-- [[tom-murphy]] — acquisition advice: "To achieve a reputation as a good manager, just be sure you buy good businesses"
+- [warren-buffett](../people/warren-buffett.md)
+- [charlie-munger](../people/charlie-munger.md)
+- [ajit-jain](../people/ajit-jain.md) — GUARD Insurance acquisition credit; named to give more exposure at annual meeting
+- [greg-abel](../people/greg-abel.md) — BHE architect; named to give more exposure at annual meeting
+- [tom-murphy](../people/tom-murphy.md) — acquisition advice: "To achieve a reputation as a good manager, just be sure you buy good businesses"
 
 ## Concepts introduced or discussed
 
-- [[look-through-earnings]] — Smith/Keynes retained-earnings origin story; 10-company table
-- [[gaap-distortion]] — 1,900% GAAP swing illustration (2018 vs. 2019)
-- [[corporate-governance]] — NWD fee analysis, cocker-spaniel dynamics, M&A process critique
-- [[float]] — $129.4B; P/C industry rate headwinds; Berkshire investment flexibility
-- [[share-repurchases]] — $5B in 2019 at "modestly favorable" price/value
-- [[acquisition-criteria]] — marriage analogy; poor businesses stagnate (self-correcting portfolio dynamic)
-- [[american-tailwind]] — referenced for equities vs. bonds long-run framing
-- [[equity-return-expectations]] — portfolio earning 20%+ on net tangible equity vs. 2.5% 30-year Treasuries
+- [look-through-earnings](../concepts/look-through-earnings.md) — Smith/Keynes retained-earnings origin story; 10-company table
+- [gaap-distortion](../concepts/gaap-distortion.md) — 1,900% GAAP swing illustration (2018 vs. 2019)
+- [corporate-governance](../concepts/corporate-governance.md) — NWD fee analysis, cocker-spaniel dynamics, M&A process critique
+- [float](../concepts/float.md) — $129.4B; P/C industry rate headwinds; Berkshire investment flexibility
+- [share-repurchases](../concepts/share-repurchases.md) — $5B in 2019 at "modestly favorable" price/value
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — marriage analogy; poor businesses stagnate (self-correcting portfolio dynamic)
+- [american-tailwind](../concepts/american-tailwind.md) — referenced for equities vs. bonds long-run framing
+- [equity-return-expectations](../concepts/equity-return-expectations.md) — portfolio earning 20%+ on net tangible equity vs. 2.5% 30-year Treasuries
 
 ## Notable quotes
 
@@ -75,7 +75,7 @@ The 2019 letter is anchored by two major intellectual set pieces: a historical a
 
 ## Connections to other sources
 
-- Follows [[berkshire-2018-letter]] which formally retired book value and first documented the unrealized-gains rule in practice; the 2019 letter provides the two-year comparison that makes the distortion vivid
-- The Smith/Keynes retained-earnings genealogy connects to the look-through framework canonically articulated in [[berkshire-1980-letter]]
-- Corporate governance essay builds on the four board criteria from [[berkshire-2006-letter]] and the Matthew 6:21 test from [[berkshire-2004-letter]]
-- "The Big One" tail-risk framing echoes [[berkshire-2017-letter]] and [[berkshire-2018-letter]]
+- Follows [berkshire-2018-letter](berkshire-2018-letter.md) which formally retired book value and first documented the unrealized-gains rule in practice; the 2019 letter provides the two-year comparison that makes the distortion vivid
+- The Smith/Keynes retained-earnings genealogy connects to the look-through framework canonically articulated in [berkshire-1980-letter](berkshire-1980-letter.md)
+- Corporate governance essay builds on the four board criteria from [berkshire-2006-letter](berkshire-2006-letter.md) and the Matthew 6:21 test from [berkshire-2004-letter](berkshire-2004-letter.md)
+- "The Big One" tail-risk framing echoes [berkshire-2017-letter](berkshire-2017-letter.md) and [berkshire-2018-letter](berkshire-2018-letter.md)

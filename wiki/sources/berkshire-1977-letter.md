@@ -8,7 +8,7 @@ author: warren-buffett
 year: 1977
 raw_path: raw/berkshire-letters/1977.md
 tags: [berkshire, insurance, textiles, capital-allocation]
-related: [[warren-buffett]], [[berkshire-hathaway]]
+related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md)
 ---
 
 # Berkshire Hathaway 1977 Shareholder Letter
@@ -20,39 +20,39 @@ Buffett's first letter under the modern conversational format. Operating earning
 - **Return on equity as the right scorecard.** "Record" EPS is meaningless when equity grows mechanically; even a dormant savings account compounds. Operating ROE of 19% in 1977, "slightly better than last year and above both our own long-term average and that of American industry in aggregate."
 - **Tailwinds vs. headwinds.** Textiles reaffirmed reluctantly despite poor returns (community, loyal labor, capital generated for insurance acquisition); insurance is the contrast — "a business where some mistakes can be made and yet a quite satisfactory overall performance can be achieved."
 - **Acquisition criteria, debut.** The four-part test for marketable equities: (1) understandable, (2) favorable long-term prospects, (3) honest and competent management, (4) attractive price. Applied identically to whole-company and partial-stake purchases.
-- **Underwriting discipline.** Rate increases of 1976 finally hit earnings in 1977; pendulum is reversing. Accepting reduced volume in soft markets "runs counter to normal institutional behavior" — early articulation of what later becomes the [[institutional-imperative]].
+- **Underwriting discipline.** Rate increases of 1976 finally hit earnings in 1977; pendulum is reversing. Accepting reduced volume in soft markets "runs counter to normal institutional behavior" — early articulation of what later becomes the [institutional-imperative](../concepts/institutional-imperative.md).
 - **Insurance float compounding.** Premium volume $22M (1967) → $151M (1977); investments at cost $134.6M → $252.8M in just two years. Float-funded equity portfolio is taking shape; net investment income $8.4M (1975) → $12.3M (1977).
 - **Look-through earnings, foreshadowed.** Capital Cities investment of $10.9M produced ~$1.3M in attributable earnings but only $40,000 in reported dividend income. Buffett notes the gap explicitly.
 
 ## Entities discussed
 
-- [[berkshire-hathaway]] — the parent; ROE-as-yardstick framing originates here
-- [[national-indemnity]] — the insurance flagship; outstanding 1977 underwriting under chief underwriter Phil Liesche
-- [[blue-chip-stamps]] — 36.5% owned; conduit for See's and Wesco
-- [[sees-candies]] — pre-tax operating earnings $4.2M (1972) → $12.6M (1977) on little additional capital
-- [[wesco-financial]] — 80%-owned subsidiary of Blue Chip
-- [[geico]] — major holding via convertible preferred ($19.4M cost / $33M market) plus common ($4.1M / $10.5M)
-- [[capital-cities]] — $10.9M position established in 1977; eight years before the ABC deal
-- [[washington-post]] — $10.6M cost / $33.4M market — already the largest unrealized gain in the portfolio
+- [berkshire-hathaway](../entities/berkshire-hathaway.md) — the parent; ROE-as-yardstick framing originates here
+- [national-indemnity](../entities/national-indemnity.md) — the insurance flagship; outstanding 1977 underwriting under chief underwriter Phil Liesche
+- [blue-chip-stamps](../entities/blue-chip-stamps.md) — 36.5% owned; conduit for See's and Wesco
+- [sees-candies](../entities/sees-candies.md) — pre-tax operating earnings $4.2M (1972) → $12.6M (1977) on little additional capital
+- [wesco-financial](../entities/wesco-financial.md) — 80%-owned subsidiary of Blue Chip
+- [geico](../entities/geico.md) — major holding via convertible preferred ($19.4M cost / $33M market) plus common ($4.1M / $10.5M)
+- [capital-cities](../entities/capital-cities.md) — $10.9M position established in 1977; eight years before the ABC deal
+- [washington-post](../entities/washington-post.md) — $10.6M cost / $33.4M market — already the largest unrealized gain in the portfolio
 
 Other 1977 portfolio listings and operating units (Interpublic, Kaiser Aluminum, Cypress Insurance, Illinois National Bank, the five homestate insurers) noted in the letter but not given standalone pages — they didn't carry an enduring lesson beyond the period.
 
 ## People mentioned
 
-- [[warren-buffett]] — Chairman; author
+- [warren-buffett](../people/warren-buffett.md) — Chairman; author
 
 Operational managers credited in the letter (no standalone pages — folded into the relevant entity context above): Phil Liesche (National Indemnity underwriting, "extraordinary" 1977 results), Ken Chace (textile operations; the capital bridge to insurance), Gene Abegg (founder/chairman of Illinois National Bank, still running it at 80), Chuck Huggins (See's president), Louis Vincenti (Wesco), John Ringwalt (homestate insurance), George Young (reinsurance), John Seward (Home & Automobile), Milt Thornton (Cypress), Peter Jeffrey (incoming Illinois National Bank CEO), Roland Miller, Bill Lyons, Floyd Taylor, Jim Stodolka.
 
 ## Concepts introduced or discussed
 
-- [[return-on-equity-yardstick]] — opening argument: ROE on beginning equity, not EPS
-- [[acquisition-criteria]] — the four-point test, applied to marketable equities
-- [[tailwinds-vs-headwinds]] — textiles vs. insurance, framed explicitly as a lesson learned and re-learned
-- [[float]] — premium-derived investable funds; reinsurance generates "unusually high funds for investment as a percentage of premium volume"
-- [[institutional-imperative]] — in nascent form, via "accepting reduced volume … runs counter to normal institutional behavior"
-- [[look-through-earnings]] — foreshadowed via Capital Cities
+- [return-on-equity-yardstick](../concepts/return-on-equity-yardstick.md) — opening argument: ROE on beginning equity, not EPS
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — the four-point test, applied to marketable equities
+- [tailwinds-vs-headwinds](../concepts/tailwinds-vs-headwinds.md) — textiles vs. insurance, framed explicitly as a lesson learned and re-learned
+- [float](../concepts/float.md) — premium-derived investable funds; reinsurance generates "unusually high funds for investment as a percentage of premium volume"
+- [institutional-imperative](../concepts/institutional-imperative.md) — in nascent form, via "accepting reduced volume … runs counter to normal institutional behavior"
+- [look-through-earnings](../concepts/look-through-earnings.md) — foreshadowed via Capital Cities
 
-The letter also names "social inflation" — "a broadening definition by society and juries of what is covered by insurance policies." Folded into [[float]] as one of the forces that pressures the cost of float upward.
+The letter also names "social inflation" — "a broadening definition by society and juries of what is covered by insurance policies." Folded into [float](../concepts/float.md) as one of the forces that pressures the cost of float upward.
 
 ## Notable quotes
 

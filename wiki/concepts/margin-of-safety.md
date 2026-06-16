@@ -5,14 +5,14 @@ created: 2026-05-25
 updated: 2026-05-25
 sources: [berkshire-1990-letter, berkshire-1992-letter]
 tags: [graham, risk, valuation, discipline]
-related: [[ben-graham]], [[intrinsic-value-vs-book-value]], [[risk-vs-volatility]], [[mr-market]]
+related: [ben-graham](../people/ben-graham.md), [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md), [risk-vs-volatility](risk-vs-volatility.md), [mr-market](mr-market.md)
 ---
 
 # Margin of Safety
 
 ## Definition
 
-A discipline borrowed from [[ben-graham]]: insist that the price paid for any investment be meaningfully below the estimated intrinsic value of the underlying business. The gap is the *margin of safety* — the buffer against the inevitable errors in the intrinsic-value estimate, against the bad luck and adverse business developments that no analysis can foresee, and against the unforeseeable events that affect every business at some point in time.
+A discipline borrowed from [ben-graham](../people/ben-graham.md): insist that the price paid for any investment be meaningfully below the estimated intrinsic value of the underlying business. The gap is the *margin of safety* — the buffer against the inevitable errors in the intrinsic-value estimate, against the bad luck and adverse business developments that no analysis can foresee, and against the unforeseeable events that affect every business at some point in time.
 
 Graham's three-word distillation from the final chapter of *The Intelligent Investor*, repeatedly endorsed by Buffett:
 
@@ -30,13 +30,13 @@ Two reasons make margin of safety load-bearing rather than ornamental:
 
 The 1992 articulation:
 
-> If we calculate the value of a common stock to be only slightly higher than its price, we're not interested in buying. We believe this margin-of-safety principle, so strongly emphasized by Ben Graham, to be the cornerstone of investment success. ([[berkshire-1992-letter]])
+> If we calculate the value of a common stock to be only slightly higher than its price, we're not interested in buying. We believe this margin-of-safety principle, so strongly emphasized by Ben Graham, to be the cornerstone of investment success. ([berkshire-1992-letter](../sources/berkshire-1992-letter.md))
 
 ## What replaces it when violated: the junk-bond crash (1990)
 
 The 1990 letter's extended critique of late-1980s junk-bond capital structures is, at root, a critique of investors who abandoned the margin-of-safety principle. The "dagger thesis" — that high leverage forces operating discipline — was a pseudo-rational substitute for a real cushion. Buffett's image:
 
-> Huge debt, we were told, would cause operating managers to focus their efforts as never before, much as a dagger mounted on the steering wheel of a car could be expected to make its driver proceed with intensified care. We'll acknowledge that such an attention-getter would produce a very alert driver. But another certain consequence would be a deadly — and unnecessary — accident if the car hit even the tiniest pothole or sliver of ice. The roads of business are riddled with potholes; a plan that requires dodging them all is a plan for disaster. ([[berkshire-1990-letter]])
+> Huge debt, we were told, would cause operating managers to focus their efforts as never before, much as a dagger mounted on the steering wheel of a car could be expected to make its driver proceed with intensified care. We'll acknowledge that such an attention-getter would produce a very alert driver. But another certain consequence would be a deadly — and unnecessary — accident if the car hit even the tiniest pothole or sliver of ice. The roads of business are riddled with potholes; a plan that requires dodging them all is a plan for disaster. ([berkshire-1990-letter](../sources/berkshire-1990-letter.md))
 
 Capital structures that required everything to go right — that left no margin — failed at the first pothole. The principle is the same in equity investing: a purchase price requiring everything to go right will fail at the first surprise.
 
@@ -50,19 +50,19 @@ Margin of safety is the gap between *estimated intrinsic value* and *price paid*
 
 ## The size of the margin should match the certainty
 
-A business whose long-term economics can be evaluated with high confidence requires a smaller margin of safety than one whose future is harder to estimate. Coca-Cola and Gillette ([[berkshire-1993-letter]]) — global brand franchises with predictable cash flows — can be bought closer to estimated intrinsic value because the estimate itself is more reliable. A cyclical business, a regulated business, or a business in fast-moving technology requires a larger discount because the estimate is less reliable.
+A business whose long-term economics can be evaluated with high confidence requires a smaller margin of safety than one whose future is harder to estimate. Coca-Cola and Gillette ([berkshire-1993-letter](../sources/berkshire-1993-letter.md)) — global brand franchises with predictable cash flows — can be bought closer to estimated intrinsic value because the estimate itself is more reliable. A cyclical business, a regulated business, or a business in fast-moving technology requires a larger discount because the estimate is less reliable.
 
-This is the operational link between margin of safety and the five-factor risk framework (see [[risk-vs-volatility]]). The first three factors — certainty about business economics, certainty about management, certainty about owner-orientation — directly determine how confidently intrinsic value can be estimated, and therefore how large a margin of safety the investor needs in factor four (purchase price).
+This is the operational link between margin of safety and the five-factor risk framework (see [risk-vs-volatility](risk-vs-volatility.md)). The first three factors — certainty about business economics, certainty about management, certainty about owner-orientation — directly determine how confidently intrinsic value can be estimated, and therefore how large a margin of safety the investor needs in factor four (purchase price).
 
 ## How it's discussed in sources
 
-- [[berkshire-1990-letter]] — Graham quote canonized; junk-bond critique as the contemporary failure mode of abandoning the principle
-- [[berkshire-1992-letter]] — formal articulation in the discount-flows-of-cash valuation essay; cornerstone-of-investment-success framing; the redundancy of "value investing" with "investing" itself
-- [[berkshire-1993-letter]] — implicit in the five-factor risk framework; the certainty factors govern the required margin
+- [berkshire-1990-letter](../sources/berkshire-1990-letter.md) — Graham quote canonized; junk-bond critique as the contemporary failure mode of abandoning the principle
+- [berkshire-1992-letter](../sources/berkshire-1992-letter.md) — formal articulation in the discount-flows-of-cash valuation essay; cornerstone-of-investment-success framing; the redundancy of "value investing" with "investing" itself
+- [berkshire-1993-letter](../sources/berkshire-1993-letter.md) — implicit in the five-factor risk framework; the certainty factors govern the required margin
 
 ## Related
 
-- [[ben-graham]] — the original author of the principle
-- [[intrinsic-value-vs-book-value]] — margin of safety is the gap between intrinsic value and price; book value rarely the right reference
-- [[risk-vs-volatility]] — the five-factor framework that governs the required margin
-- [[mr-market]] — the discipline of acting only when Mr. Market's offer provides the margin
+- [ben-graham](../people/ben-graham.md) — the original author of the principle
+- [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md) — margin of safety is the gap between intrinsic value and price; book value rarely the right reference
+- [risk-vs-volatility](risk-vs-volatility.md) — the five-factor framework that governs the required margin
+- [mr-market](mr-market.md) — the discipline of acting only when Mr. Market's offer provides the margin

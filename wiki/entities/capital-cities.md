@@ -5,7 +5,7 @@ created: 2026-05-24
 updated: 2026-05-26
 sources: [berkshire-1977-letter, berkshire-1981-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter]
 tags: [media, broadcasting, exemplary-management, marketable-equities, disney]
-related: [[berkshire-hathaway]], [[acquisition-criteria]], [[share-repurchases]], [[geico]], [[washington-post]], [[tom-murphy]], [[disney]], [[franchise-vs-business]], [[mistakes-of-omission]]
+related: [berkshire-hathaway](berkshire-hathaway.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [share-repurchases](../concepts/share-repurchases.md), [geico](geico.md), [washington-post](washington-post.md), [tom-murphy](../people/tom-murphy.md), [disney](disney.md), [franchise-vs-business](../concepts/franchise-vs-business.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md)
 ---
 
 # Capital Cities Communications
@@ -16,7 +16,7 @@ Media and broadcasting company led by **Tom Murphy** (CEO) and Dan Burke. Berksh
 
 Two distinct (and interlocking) reasons:
 
-1. **The look-through-earnings exemplar.** The 1977 letter used Cap Cities to illustrate how partial-equity ownership of an excellent business can outperform whole-company control of a mediocre one. Attributable earnings ~$1.3M vs. $40,000 in cash dividends — a textbook gap between accounting and economic reality. See [[look-through-earnings]].
+1. **The look-through-earnings exemplar.** The 1977 letter used Cap Cities to illustrate how partial-equity ownership of an excellent business can outperform whole-company control of a mediocre one. Attributable earnings ~$1.3M vs. $40,000 in cash dividends — a textbook gap between accounting and economic reality. See [look-through-earnings](../concepts/look-through-earnings.md).
 
 2. **Tom Murphy as Buffett's "twofer" managerial exemplar.** The 1981 letter names Murphy among the rare managers who are both Category-1 acquirers (buying inflation-friendly businesses with pricing power and low capital needs) *and* Category-2 operators (running them well after acquisition). Buffett's framing: "We salute such managers as Ben Heineman at Northwest Industries, Henry Singleton at Teledyne, Erwin Zaban at National Service Industries, and especially Tom Murphy at Capital Cities Communications (a real managerial 'twofer'…)."
 
@@ -24,7 +24,7 @@ The 1984 letter sharpens the appraisal: "Our admiration for the management of Ca
 
 ## On Tom Murphy
 
-The 1995 letter contains Buffett's most concentrated tribute to Murphy. See [[tom-murphy]] for the standalone page. Murphy is the canonical illustration of what Buffett means by a *Category 2* manager: a recognizer of mispriced businesses combined with the operating discipline to compound their value after purchase.
+The 1995 letter contains Buffett's most concentrated tribute to Murphy. See [tom-murphy](../people/tom-murphy.md) for the standalone page. Murphy is the canonical illustration of what Buffett means by a *Category 2* manager: a recognizer of mispriced businesses combined with the operating discipline to compound their value after purchase.
 
 ## Position history
 
@@ -35,14 +35,14 @@ The 1995 letter contains Buffett's most concentrated tribute to Murphy. See [[to
 | March 1985 | Commitment to 3,000,000 shares at $172.50 — $517.5M — to help finance Cap Cities' $3.5B ABC acquisition |
 | Year-end 1985 | 900,800 shares already on the books ($54.4M cost, $109.0M market — ABC shares; the broader Cap Cities position closes right after year-end) |
 | 1986-1990 | 3,000,000 shares held; market value $801M (1986) → $1,038M (1987) → $1,377M (1990) |
-| 1991 | Reclassified from franchise to business in Buffett's framework; intrinsic value reduced. See [[franchise-vs-business]]. |
-| Late 1993 | **Sold 10,000,000 shares (1/3 of holding) at $63 — $635M.** Buffett's "repeat offender" admission. By yearend 1994 the price was $85.25; foregone gain ~$222.5M; by the 1995 Disney exchange ratio the foregone gain was ~$1.27B vs. $635M received. See [[mistakes-of-omission]]. |
+| 1991 | Reclassified from franchise to business in Buffett's framework; intrinsic value reduced. See [franchise-vs-business](../concepts/franchise-vs-business.md). |
+| Late 1993 | **Sold 10,000,000 shares (1/3 of holding) at $63 — $635M.** Buffett's "repeat offender" admission. By yearend 1994 the price was $85.25; foregone gain ~$222.5M; by the 1995 Disney exchange ratio the foregone gain was ~$1.27B vs. $635M received. See [mistakes-of-omission](../concepts/mistakes-of-omission.md). |
 | Year-end 1994 | 20,000,000 shares (post 3-for-1 split adjustment) at $345M cost; $1,705M market |
-| Early 1996 | **Exchanged for Disney stock + cash.** Berkshire requested all stock; received ~20M+ Disney shares. See [[disney]]. |
+| Early 1996 | **Exchanged for Disney stock + cash.** Berkshire requested all stock; received ~20M+ Disney shares. See [disney](disney.md). |
 
 ## The friendly-block-holder arrangement (1985)
 
-The 1985 Cap Cities deal includes structural features that institutionalize a model Buffett had previously applied at [[geico]] and [[washington-post]]:
+The 1985 Cap Cities deal includes structural features that institutionalize a model Buffett had previously applied at [geico](geico.md) and [washington-post](washington-post.md):
 
 - **Tom Murphy (or Dan Burke, should he be CEO) votes Berkshire's shares for an extended period.**
 - **Berkshire is restricted in the sale of its shares** to prevent the block landing with an unfriendly large holder without management's approval.
@@ -67,7 +67,7 @@ Cap Cities' intrinsic-value impact is real but moderated by the company's debt-f
 
 The 1995 letter marks another secular notch lost. Even after the Disney exchange, Buffett's media-as-business framing persists.
 
-See [[franchise-vs-business]].
+See [franchise-vs-business](../concepts/franchise-vs-business.md).
 
 ## The Disney/Cap Cities exchange (1995-96)
 
@@ -75,28 +75,28 @@ July 14, 1995: Buffett encountered Disney CEO Michael Eisner on Wildflower Lane 
 
 The exchange: each Cap Cities share = 1 Disney share + $65 cash (or, subject to allocation, all stock or all cash). Berkshire's 20M shares requested all stock; received ~20M+ Disney shares.
 
-The 1995 letter takes the opportunity for Buffett's concentrated tribute to Murphy (see [[tom-murphy]]) and a reprise of the 1993 Cap Cities sale as the mistake-of-omission illustration.
+The 1995 letter takes the opportunity for Buffett's concentrated tribute to Murphy (see [tom-murphy](../people/tom-murphy.md)) and a reprise of the 1993 Cap Cities sale as the mistake-of-omission illustration.
 
-See [[disney]].
+See [disney](disney.md).
 
 ## Sources discussing this entity
 
-- [[berkshire-1977-letter]] — first position; framed as the look-through-earnings exemplar; "better management result through non-control than control"
-- [[berkshire-1981-letter]] — Tom Murphy cited as a managerial "twofer"; the Category 1 + Category 2 framework
-- [[berkshire-1984-letter]] — Cap Cities/ABC deal announced as subsequent event; Murphy and Burke praised for "ability and integrity"
-- [[berkshire-1985-letter]] — the 3M-share commitment at $172.50 closes; voting-delegation + sale-restriction arrangement (the same friendly-block-holder model as GEICO and WPC); price paid is "a full price" with no claim to bargain economics; Buffett's confessional aside on the 1978–80 sale at ~$43
-- [[berkshire-1990-letter]] — market value $1.377B; first signs of media-secular concern
-- [[berkshire-1991-letter]] — franchise-to-business reclassification of media; intrinsic value reduced
-- [[berkshire-1993-letter]] — partial sale of 10M shares at $63; the early articulation of the mistake
-- [[berkshire-1994-letter]] — "mistake du jour" silver medal; $222.5M foregone gain calculated
-- [[berkshire-1995-letter]] — Disney/Cap Cities merger announced; the Sun Valley genesis; concentrated Murphy tribute; the $1.27B foregone-gain restatement
+- [berkshire-1977-letter](../sources/berkshire-1977-letter.md) — first position; framed as the look-through-earnings exemplar; "better management result through non-control than control"
+- [berkshire-1981-letter](../sources/berkshire-1981-letter.md) — Tom Murphy cited as a managerial "twofer"; the Category 1 + Category 2 framework
+- [berkshire-1984-letter](../sources/berkshire-1984-letter.md) — Cap Cities/ABC deal announced as subsequent event; Murphy and Burke praised for "ability and integrity"
+- [berkshire-1985-letter](../sources/berkshire-1985-letter.md) — the 3M-share commitment at $172.50 closes; voting-delegation + sale-restriction arrangement (the same friendly-block-holder model as GEICO and WPC); price paid is "a full price" with no claim to bargain economics; Buffett's confessional aside on the 1978–80 sale at ~$43
+- [berkshire-1990-letter](../sources/berkshire-1990-letter.md) — market value $1.377B; first signs of media-secular concern
+- [berkshire-1991-letter](../sources/berkshire-1991-letter.md) — franchise-to-business reclassification of media; intrinsic value reduced
+- [berkshire-1993-letter](../sources/berkshire-1993-letter.md) — partial sale of 10M shares at $63; the early articulation of the mistake
+- [berkshire-1994-letter](../sources/berkshire-1994-letter.md) — "mistake du jour" silver medal; $222.5M foregone gain calculated
+- [berkshire-1995-letter](../sources/berkshire-1995-letter.md) — Disney/Cap Cities merger announced; the Sun Valley genesis; concentrated Murphy tribute; the $1.27B foregone-gain restatement
 
 ## Related
 
-- [[look-through-earnings]] — Cap Cities was the original illustrative case
-- [[acquisition-criteria]] — Murphy's behavior is the operational illustration of the criteria
-- [[share-repurchases]] — Cap Cities' practice exemplifies what the doctrine looks like in operation
-- [[tom-murphy]] — the CEO who is Buffett's canonical exemplar
-- [[disney]] — Berkshire's Disney holding derives from the 1996 Cap Cities exchange
-- [[franchise-vs-business]] — the 1991 reclassification of media that affects Cap Cities' valuation framework
-- [[mistakes-of-omission]] — the 1993 partial sale becomes one of Buffett's most-cited self-criticisms
+- [look-through-earnings](../concepts/look-through-earnings.md) — Cap Cities was the original illustrative case
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — Murphy's behavior is the operational illustration of the criteria
+- [share-repurchases](../concepts/share-repurchases.md) — Cap Cities' practice exemplifies what the doctrine looks like in operation
+- [tom-murphy](../people/tom-murphy.md) — the CEO who is Buffett's canonical exemplar
+- [disney](disney.md) — Berkshire's Disney holding derives from the 1996 Cap Cities exchange
+- [franchise-vs-business](../concepts/franchise-vs-business.md) — the 1991 reclassification of media that affects Cap Cities' valuation framework
+- [mistakes-of-omission](../concepts/mistakes-of-omission.md) — the 1993 partial sale becomes one of Buffett's most-cited self-criticisms

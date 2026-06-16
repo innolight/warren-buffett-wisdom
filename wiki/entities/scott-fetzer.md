@@ -5,25 +5,25 @@ created: 2026-05-25
 updated: 2026-06-13
 sources: [berkshire-1985-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1992-letter, berkshire-1994-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter]
 tags: [diversified-manufacturing, direct-sales, world-book, prototype-acquisition, capital-allocation]
-related: [[berkshire-hathaway]], [[ralph-schey]], [[acquisition-criteria]], [[owner-earnings]], [[intrinsic-value-vs-book-value]], [[incentive-compensation]]
+related: [berkshire-hathaway](berkshire-hathaway.md), [ralph-schey](../people/ralph-schey.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [owner-earnings](../concepts/owner-earnings.md), [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md), [incentive-compensation](../concepts/incentive-compensation.md)
 ---
 
 # The Scott & Fetzer Company
 
-Cleveland-based diversified industrial conglomerate acquired by Berkshire right after year-end 1985 for ~$320M (plus ~$90M of existing debt). 17 (later 22) businesses, with **World Book** (encyclopedias) and **Kirby** home-care systems as the largest lines. **Campbell Hausfeld** air compressors, **Wayne** burners and water pumps, and a dozen smaller industrial businesses round it out. CEO **[[ralph-schey]]** from before Berkshire's ownership through every year of this decade.
+Cleveland-based diversified industrial conglomerate acquired by Berkshire right after year-end 1985 for ~$320M (plus ~$90M of existing debt). 17 (later 22) businesses, with **World Book** (encyclopedias) and **Kirby** home-care systems as the largest lines. **Campbell Hausfeld** air compressors, **Wayne** burners and water pumps, and a dozen smaller industrial businesses round it out. CEO **[ralph-schey](../people/ralph-schey.md)** from before Berkshire's ownership through every year of this decade.
 
 ## Why it matters
 
 Scott Fetzer is **the prototype Berkshire acquisition** as Buffett defines the acquisition criteria — and is described as such explicitly:
 
-> Scott Fetzer is a prototype — understandable, large, well-managed, a good earner. ([[berkshire-1985-letter]])
+> Scott Fetzer is a prototype — understandable, large, well-managed, a good earner. ([berkshire-1985-letter](../sources/berkshire-1985-letter.md))
 
 By 1994, Scott Fetzer becomes the canonical case study Buffett uses to illustrate **intrinsic-value-vs-book-value divergence** and the **owner-earnings** framework. The 1986 letter's Appendix introduces owner earnings using Scott Fetzer's purchase-accounting comparison; the 1994 letter's extended walk-through traces eight years of book value declining while underlying earnings climbed.
 
 Two specific durable points:
 
 1. **World Book as a "value franchise"** through 1990, then under attack from CD-ROM and online encyclopedia products from 1993 onward. By 1995 World Book is "Berkshire's most difficult problem" — the franchise economics that justified the 1985 acquisition have largely eroded. Major distribution and product changes initiated end of 1995.
-2. **Ralph Schey as the canonical capital allocator.** Schey actively *releases* capital that cannot be deployed at high returns internally — sending it to Berkshire for redeployment. The 1992 letter notes Scott Fetzer's distribution of more than 100% of its earnings to Berkshire across seven years while *increasing* its earning power. See [[ralph-schey]].
+2. **Ralph Schey as the canonical capital allocator.** Schey actively *releases* capital that cannot be deployed at high returns internally — sending it to Berkshire for redeployment. The 1992 letter notes Scott Fetzer's distribution of more than 100% of its earnings to Berkshire across seven years while *increasing* its earning power. See [ralph-schey](../people/ralph-schey.md).
 
 ## Acquisition history
 
@@ -43,7 +43,7 @@ Scott Fetzer is the worked example for Buffett's canonical owner-earnings essay 
 - **Company O** (old, pre-acquisition): 1986 reported earnings $40.2M
 - **Company N** (new, post-purchase-price-adjustment): 1986 reported earnings $28.6M
 
-The $11.6M difference is entirely non-economic (LIFO write-up, fixed-asset depreciation step-up, Goodwill amortization, deferred-tax acrobatics). Buffett's verdict: "old" earnings are the better representation of owner earnings, because Scott Fetzer's maintenance capex is near "old" depreciation. See [[owner-earnings]].
+The $11.6M difference is entirely non-economic (LIFO write-up, fixed-asset depreciation step-up, Goodwill amortization, deferred-tax acrobatics). Buffett's verdict: "old" earnings are the better representation of owner earnings, because Scott Fetzer's maintenance capex is near "old" depreciation. See [owner-earnings](../concepts/owner-earnings.md).
 
 ## The 1994 intrinsic-value-vs-book-value case study
 
@@ -61,7 +61,7 @@ Eight-year book-value-and-earnings walk-through:
 | 1993 | $111.2M | $77.5M | $98.0M | $90.7M |
 | 1994 | $90.7M | $79.3M | $76.0M | $94.0M |
 
-Book value down 45% while pre-tax earnings nearly doubled. If standalone in 1993, Scott Fetzer would have ranked #1 on Fortune 500 in ROE (excluding bankruptcy-emergence companies). The framework: "Scott Fetzer's success comes from the managerial expertise of CEO Ralph Schey." See [[intrinsic-value-vs-book-value]].
+Book value down 45% while pre-tax earnings nearly doubled. If standalone in 1993, Scott Fetzer would have ranked #1 on Fortune 500 in ROE (excluding bankruptcy-emergence companies). The framework: "Scott Fetzer's success comes from the managerial expertise of CEO Ralph Schey." See [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md).
 
 ## The 1994 compensation essay
 
@@ -73,7 +73,7 @@ The five-minute Schey compensation arrangement is reported in the 1994 letter an
 - Symmetric in both directions.
 - Unchanged since 1986.
 
-The structural point: "alignment means being a partner in both directions, not just on the upside." See [[incentive-compensation]].
+The structural point: "alignment means being a partner in both directions, not just on the upside." See [incentive-compensation](../concepts/incentive-compensation.md).
 
 ## Operating composition over the decade
 
@@ -83,34 +83,34 @@ The structural point: "alignment means being a partner in both directions, not j
 
 ## Schey's final years and Berkshire Hall of Fame (1996–2000)
 
-By the late 1990s, Scott Fetzer had become a mature, consistently profitable holding within Berkshire — a case study in what happens when a well-managed, capital-light business is owned indefinitely rather than recycled. Pre-tax operating earnings reached **$118.9M in 1997** (see [[berkshire-1997-letter]]). In 1998, Scott Fetzer earned a record **$96.5M after-tax on $112M of net worth**, operating with essentially no financial leverage beyond a conservative finance subsidiary. In the [[berkshire-1998-letter]], Buffett revisited his 1994 tribute — that Schey had been "just warming up" — as a marker for how far the business had compounded under consistent management.
+By the late 1990s, Scott Fetzer had become a mature, consistently profitable holding within Berkshire — a case study in what happens when a well-managed, capital-light business is owned indefinitely rather than recycled. Pre-tax operating earnings reached **$118.9M in 1997** (see [berkshire-1997-letter](../sources/berkshire-1997-letter.md)). In 1998, Scott Fetzer earned a record **$96.5M after-tax on $112M of net worth**, operating with essentially no financial leverage beyond a conservative finance subsidiary. In the [berkshire-1998-letter](../sources/berkshire-1998-letter.md), Buffett revisited his 1994 tribute — that Schey had been "just warming up" — as a marker for how far the business had compounded under consistent management.
 
-When Schey retired at year-end 2000 after fifteen years under Berkshire ownership, Buffett published the full reckoning in [[berkshire-2000-letter]]: Scott Fetzer had distributed **$1.03 billion to Berkshire** against a **$230 million net purchase price**, with the contribution to Berkshire's present value placed "well into the billions of dollars." Schey was inducted into "Berkshire's Hall of Fame." Scott Fetzer pre-tax earnings continued after his departure: $122M in 2000 and $129M in 2001 (see [[berkshire-2001-letter]]).
+When Schey retired at year-end 2000 after fifteen years under Berkshire ownership, Buffett published the full reckoning in [berkshire-2000-letter](../sources/berkshire-2000-letter.md): Scott Fetzer had distributed **$1.03 billion to Berkshire** against a **$230 million net purchase price**, with the contribution to Berkshire's present value placed "well into the billions of dollars." Schey was inducted into "Berkshire's Hall of Fame." Scott Fetzer pre-tax earnings continued after his departure: $122M in 2000 and $129M in 2001 (see [berkshire-2001-letter](../sources/berkshire-2001-letter.md)).
 
-The broader holding-period lesson: a mature, unglamorous industrial conglomerate, held indefinitely under the right manager, compounds capital quietly and reliably. The $1.03B cumulative distribution against a $230M investment is the empirical record. Scott Fetzer after 1994 is not a story of growth but of accumulation — sustained high returns on a declining capital base, with surplus cash flowing to Berkshire year after year without any pressure to sell, restructure, or justify the holding to outside constituents. See [[ralph-schey]].
+The broader holding-period lesson: a mature, unglamorous industrial conglomerate, held indefinitely under the right manager, compounds capital quietly and reliably. The $1.03B cumulative distribution against a $230M investment is the empirical record. Scott Fetzer after 1994 is not a story of growth but of accumulation — sustained high returns on a declining capital base, with surplus cash flowing to Berkshire year after year without any pressure to sell, restructure, or justify the holding to outside constituents. See [ralph-schey](../people/ralph-schey.md).
 
 ## Sources discussing this entity
 
-- [[berkshire-1985-letter]] — acquired right after year-end; the cold-letter origin story
-- [[berkshire-1986-letter]] — Appendix worked example for canonical owner-earnings essay
-- [[berkshire-1987-letter]] — first full year; one of Sainted Seven
-- [[berkshire-1988-letter]] — World Book Soviet expansion; Campbell Hausfeld doubled earnings
-- [[berkshire-1989-letter]] — international Kirby growth; "an enterprise large enough, were it standing alone, to be on the Fortune 500"
-- [[berkshire-1990-letter]] — Fortune 500-tier ROE; finance subsidiary record $12.2M
-- [[berkshire-1992-letter]] — record $110M pre-tax on $116M equity; distributing more than 100% of earnings
-- [[berkshire-1994-letter]] — **canonical case study** of intrinsic-value-vs-book-value divergence; five-minute compensation arrangement reported
-- [[berkshire-1995-letter]] — World Book attacked by CD-ROM/online; "Berkshire's most difficult problem"
-- [[berkshire-1997-letter]] — operating earnings $118.9M
-- [[berkshire-1998-letter]] — record $96.5M after-tax on $112M net worth; Buffett tribute "just warming up" in 1994
-- [[berkshire-1999-letter]] — the 1985 acquisition anecdote retold (Charlie's "I'll pay $2.5M not to read it")
-- [[berkshire-2000-letter]] — Schey's retirement; $1.03B cumulative distributions vs. $230M net purchase price; Hall of Fame induction
-- [[berkshire-2001-letter]] — continued strong earnings ($122M pre-tax in 2000, $129M in 2001)
+- [berkshire-1985-letter](../sources/berkshire-1985-letter.md) — acquired right after year-end; the cold-letter origin story
+- [berkshire-1986-letter](../sources/berkshire-1986-letter.md) — Appendix worked example for canonical owner-earnings essay
+- [berkshire-1987-letter](../sources/berkshire-1987-letter.md) — first full year; one of Sainted Seven
+- [berkshire-1988-letter](../sources/berkshire-1988-letter.md) — World Book Soviet expansion; Campbell Hausfeld doubled earnings
+- [berkshire-1989-letter](../sources/berkshire-1989-letter.md) — international Kirby growth; "an enterprise large enough, were it standing alone, to be on the Fortune 500"
+- [berkshire-1990-letter](../sources/berkshire-1990-letter.md) — Fortune 500-tier ROE; finance subsidiary record $12.2M
+- [berkshire-1992-letter](../sources/berkshire-1992-letter.md) — record $110M pre-tax on $116M equity; distributing more than 100% of earnings
+- [berkshire-1994-letter](../sources/berkshire-1994-letter.md) — **canonical case study** of intrinsic-value-vs-book-value divergence; five-minute compensation arrangement reported
+- [berkshire-1995-letter](../sources/berkshire-1995-letter.md) — World Book attacked by CD-ROM/online; "Berkshire's most difficult problem"
+- [berkshire-1997-letter](../sources/berkshire-1997-letter.md) — operating earnings $118.9M
+- [berkshire-1998-letter](../sources/berkshire-1998-letter.md) — record $96.5M after-tax on $112M net worth; Buffett tribute "just warming up" in 1994
+- [berkshire-1999-letter](../sources/berkshire-1999-letter.md) — the 1985 acquisition anecdote retold (Charlie's "I'll pay $2.5M not to read it")
+- [berkshire-2000-letter](../sources/berkshire-2000-letter.md) — Schey's retirement; $1.03B cumulative distributions vs. $230M net purchase price; Hall of Fame induction
+- [berkshire-2001-letter](../sources/berkshire-2001-letter.md) — continued strong earnings ($122M pre-tax in 2000, $129M in 2001)
 
 ## Related
 
-- [[ralph-schey]] — the CEO whose operating record is the principal explanatory variable
-- [[acquisition-criteria]] — Scott Fetzer satisfies the six-point ad and is the prototype illustration
-- [[owner-earnings]] — Scott Fetzer is the worked example in the 1986 Appendix
-- [[intrinsic-value-vs-book-value]] — Scott Fetzer is the canonical 1994 case study
-- [[incentive-compensation]] — the five-minute Schey arrangement is the textbook structure
-- [[berkshire-hathaway]] — Scott Fetzer becomes a major operating subsidiary
+- [ralph-schey](../people/ralph-schey.md) — the CEO whose operating record is the principal explanatory variable
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — Scott Fetzer satisfies the six-point ad and is the prototype illustration
+- [owner-earnings](../concepts/owner-earnings.md) — Scott Fetzer is the worked example in the 1986 Appendix
+- [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) — Scott Fetzer is the canonical 1994 case study
+- [incentive-compensation](../concepts/incentive-compensation.md) — the five-minute Schey arrangement is the textbook structure
+- [berkshire-hathaway](berkshire-hathaway.md) — Scott Fetzer becomes a major operating subsidiary

@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-14
 sources: [berkshire-2007-letter]
 tags: [business-quality, capital-efficiency, investing, moat]
-related: [[moat]], [[sees-candies]], [[flightsafety]], [[economic-goodwill]], [[capital-allocation]], [[commodity-business-economics]], [[cigar-butts-vs-wonderful-businesses]]
+related: [moat](moat.md), [sees-candies](../entities/sees-candies.md), [flightsafety](../entities/flightsafety.md), [economic-goodwill](economic-goodwill.md), [capital-allocation](capital-allocation.md), [commodity-business-economics](commodity-business-economics.md), [cigar-butts-vs-wonderful-businesses](cigar-butts-vs-wonderful-businesses.md)
 ---
 
 # Great, Good, and Gruesome Businesses
@@ -22,13 +22,13 @@ A three-tier taxonomy for business quality introduced in the 2007 Berkshire lett
 
 The framework corrects a common confusion: **growth is not inherently good.** A business that grows rapidly and requires significant capital to sustain that growth may destroy value if returns on that capital are inadequate. The relevant question is not "does this business grow?" but "what does it earn on each incremental dollar of capital required to produce that growth?"
 
-The taxonomy also clarifies the relationship between [[moat]] and capital efficiency. A great business needs both: a durable competitive advantage that protects high returns, *and* a structure where growth consumes minimal additional capital. A business with a moat but requiring constant reinvestment to defend it is good at best. Without a moat, competitive dynamics guarantee returns normalize toward the cost of capital — gruesome territory.
+The taxonomy also clarifies the relationship between [moat](moat.md) and capital efficiency. A great business needs both: a durable competitive advantage that protects high returns, *and* a structure where growth consumes minimal additional capital. A business with a moat but requiring constant reinvestment to defend it is good at best. Without a moat, competitive dynamics guarantee returns normalize toward the cost of capital — gruesome territory.
 
 ## The three archetypes
 
 ### Great: See's Candies
 
-[[sees-candies]] is the definitive great-business case study. Bought for $25M in 1972 when sales were $30M and pre-tax earnings were less than $5M; tangible capital then required was $8M. By 2007:
+[sees-candies](../entities/sees-candies.md) is the definitive great-business case study. Bought for $25M in 1972 when sales were $30M and pre-tax earnings were less than $5M; tangible capital then required was $8M. By 2007:
 
 | Metric | 1972 | 2007 |
 | --- | ---: | ---: |
@@ -44,7 +44,7 @@ This is structurally possible because: (1) the product is sold for cash — no r
 
 ### Good: FlightSafety
 
-[[flightsafety]] is the good-business case study. Acquired in 1996; pre-tax earnings then $111M on $570M net fixed assets. By 2007:
+[flightsafety](../entities/flightsafety.md) is the good-business case study. Acquired in 1996; pre-tax earnings then $111M on $570M net fixed assets. By 2007:
 
 | Metric | Since 1996 |
 | --- | ---: |
@@ -66,7 +66,7 @@ The structural problem: airlines are commodity businesses (most passengers choos
 
 ## The savings-account formulation
 
-Buffett's own summary from [[berkshire-2007-letter]]:
+Buffett's own summary from [berkshire-2007-letter](../sources/berkshire-2007-letter.md):
 
 > To sum up, think of three types of "savings accounts." The great one pays an extraordinarily high interest rate that will rise as the years pass. The good one pays an attractive rate of interest that will be earned also on deposits that are added. Finally, the gruesome account both pays an inadequate interest rate and requires you to keep adding money at those disappointing returns.
 
@@ -76,18 +76,18 @@ The formulation makes clear that the value of a great business is not just its c
 
 The great-business framework depends on an **enduring** moat — not just a current competitive advantage. "Our criterion of 'enduring' causes us to rule out companies in industries prone to rapid and continuous change. Though capitalism's 'creative destruction' is highly beneficial for society, it precludes investment certainty. A moat that must be continuously rebuilt will eventually be no moat at all."
 
-The endurance criterion also rules out businesses whose results depend on a great manager. A superstar is a moat that goes when the manager goes. The brain surgeon's practice earns outsized returns while the surgeon is there; the Mayo Clinic's moat is institutional. The distinction matters for valuation: institutional moats command a premium; manager-dependent "moats" belong to the person, not the asset. See [[moat]].
+The endurance criterion also rules out businesses whose results depend on a great manager. A superstar is a moat that goes when the manager goes. The brain surgeon's practice earns outsized returns while the surgeon is there; the Mayo Clinic's moat is institutional. The distinction matters for valuation: institutional moats command a premium; manager-dependent "moats" belong to the person, not the asset. See [moat](moat.md).
 
 ## How it's discussed in sources
 
-- [[berkshire-2007-letter]] — **introduced here**; full Great/Good/Gruesome taxonomy; See's and FlightSafety as paired case studies with detailed arithmetic; airlines as the cautionary archetype; savings-account formulation; the moat-endurance and manager-dependency corollaries
+- [berkshire-2007-letter](../sources/berkshire-2007-letter.md) — **introduced here**; full Great/Good/Gruesome taxonomy; See's and FlightSafety as paired case studies with detailed arithmetic; airlines as the cautionary archetype; savings-account formulation; the moat-endurance and manager-dependency corollaries
 
 ## Related
 
-- [[moat]] — structural precondition for a great business; must be enduring and institutional, not manager-dependent
-- [[sees-candies]] — the canonical great business
-- [[flightsafety]] — the canonical good business
-- [[economic-goodwill]] — the accounting expression of a great business's earning power on minimal tangible capital
-- [[capital-allocation]] — great businesses (low reinvestment requirements) produce superior capital allocation outcomes; earnings freed for redeployment elsewhere
-- [[commodity-business-economics]] — the structural opposite; what the gruesome archetype looks like from an industry-economics lens
-- [[cigar-butts-vs-wonderful-businesses]] — the foundational 1989 realization that time is the friend of the wonderful business; the precursor framework this taxonomy extends
+- [moat](moat.md) — structural precondition for a great business; must be enduring and institutional, not manager-dependent
+- [sees-candies](../entities/sees-candies.md) — the canonical great business
+- [flightsafety](../entities/flightsafety.md) — the canonical good business
+- [economic-goodwill](economic-goodwill.md) — the accounting expression of a great business's earning power on minimal tangible capital
+- [capital-allocation](capital-allocation.md) — great businesses (low reinvestment requirements) produce superior capital allocation outcomes; earnings freed for redeployment elsewhere
+- [commodity-business-economics](commodity-business-economics.md) — the structural opposite; what the gruesome archetype looks like from an industry-economics lens
+- [cigar-butts-vs-wonderful-businesses](cigar-butts-vs-wonderful-businesses.md) — the foundational 1989 realization that time is the friend of the wonderful business; the precursor framework this taxonomy extends

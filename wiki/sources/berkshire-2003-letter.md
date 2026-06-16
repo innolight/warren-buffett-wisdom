@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2003
 raw_path: raw/berkshire-letters/2003.md
 tags: [berkshire, annual-letter, clayton-homes, mclane, corporate-governance, mutual-fund-governance, owner-capitalism, gen-re-derivatives, float, foreign-currency]
-related: [[warren-buffett]], [[charlie-munger]], [[berkshire-hathaway]], [[geico]], [[national-indemnity]], [[ajit-jain]], [[tom-murphy]], [[coca-cola]], [[american-express]], [[gillette]], [[washington-post]], [[wells-fargo]], [[nebraska-furniture-mart]], [[rose-blumkin]], [[buffalo-evening-news]], [[sees-candies]], [[borsheims]], [[ben-graham]], [[float]], [[owner-orientation]], [[incentive-compensation]], [[institutional-imperative]], [[capital-allocation]], [[mistakes-of-omission]], [[acquisition-criteria]], [[moat]]
+related: [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [geico](../entities/geico.md), [national-indemnity](../entities/national-indemnity.md), [ajit-jain](../people/ajit-jain.md), [tom-murphy](../people/tom-murphy.md), [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md), [gillette](../entities/gillette.md), [washington-post](../entities/washington-post.md), [wells-fargo](../entities/wells-fargo.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md), [rose-blumkin](../people/rose-blumkin.md), [buffalo-evening-news](../entities/buffalo-evening-news.md), [sees-candies](../entities/sees-candies.md), [borsheims](../entities/borsheims.md), [ben-graham](../people/ben-graham.md), [float](../concepts/float.md), [owner-orientation](../concepts/owner-orientation.md), [incentive-compensation](../concepts/incentive-compensation.md), [institutional-imperative](../concepts/institutional-imperative.md), [capital-allocation](../concepts/capital-allocation.md), [mistakes-of-omission](../concepts/mistakes-of-omission.md), [acquisition-criteria](../concepts/acquisition-criteria.md), [moat](../concepts/moat.md)
 ---
 
 # Berkshire Hathaway 2003 Annual Letter
@@ -18,13 +18,13 @@ Dated February 27, 2004. Per-share book value up 21% to $50,498; net-worth gain 
 ## Key themes
 
 - **Clayton Homes acquisition (the Tennessee-students story).** A class of University of Tennessee finance students gifted Buffett Jim Clayton's autobiography; one phone call to CEO Kevin Clayton followed by an offer based on "the book, my evaluation of Kevin, the public financials of Clayton and what I had learned from the Oakwood experience." Buffett had earlier bought distressed Oakwood Homes junk debt and learned how toxic the industry's consumer-finance practices had become. The manufactured-housing industry case study: a viable product (15%+ of U.S. homes built for decades) destroyed by a securitization-enabled originate-and-distribute model in which "buyers who shouldn't have bought" were "financed by lenders who shouldn't have lent." A foreshadowing critique of the financial-crisis dynamic four years before it hit housing more broadly.
-- **McLane acquisition.** Wal-Mart-owned distributor of groceries and nonfood to convenience stores, drug stores, theaters, etc. $23B sales on ~1% pre-tax margins. Single two-hour meeting with Wal-Mart CFO Tom Schoewe; handshake deal; no due diligence; 29 days to close. The canonical example of [[acquisition-criteria]] applied at speed — when both sides are honest and the asset fits, friction collapses. Byron Trott (Goldman Sachs) brought it; Buffett's tribute: "he understands Berkshire far better than any investment banker with whom we have talked."
+- **McLane acquisition.** Wal-Mart-owned distributor of groceries and nonfood to convenience stores, drug stores, theaters, etc. $23B sales on ~1% pre-tax margins. Single two-hour meeting with Wal-Mart CFO Tom Schoewe; handshake deal; no due diligence; 29 days to close. The canonical example of [acquisition-criteria](../concepts/acquisition-criteria.md) applied at speed — when both sides are honest and the asset fits, friction collapses. Byron Trott (Goldman Sachs) brought it; Buffett's tribute: "he understands Berkshire far better than any investment banker with whom we have talked."
 - **Mutual-fund governance — vindication and indictment.** The 2002 letter critiqued statutory-independent fund directors as lapdogs; in 2003 the Spitzer-era market-timing/late-trading scandals broke. Buffett's "Be careful what you wish for" reply to the ICI chairman's complaint. Concrete reform proposals: directors should annually affirm that (1) they reviewed other management companies and chose among the better operators, and (2) they negotiated a fee comparable to what equivalent third-party clients would receive. The structural critique: a director receiving 100% of his income from director fees is deemed "independent" while [[ron-olson|Ron Olson]], who gets ~3% of his income from Berkshire legal fees, is not. The Vanguard-style low-cost index fund as the disclaimer-friendly default for most retail investors.
 - **Berkshire governance and "owner-capitalism."** Eleven directors, each (with family) owning >$4M of Berkshire — six own hundreds of millions, held for 30+ years; all bought in the open market, "we've never passed out options or restricted shares." No D&O insurance — directors' downside exceeds shareholders'. "You win, they win big; you lose, they lose big." The "potted plant" line on directors lacking business savvy. Four new directors elected (David Gottesman, Charlotte Guyman, Don Keough, Tom Murphy) after a self-nomination call drew 20+ qualified applicants. The board's primary job stated explicitly: select Buffett's successor.
-- **Gen Re Securities confession.** "Charlie would have moved swiftly to close down Gen Re Securities – no question about that. I, however, dithered." $173M pre-tax loss in 2002, $99M in 2003 — and these are losses in a benign, orderly wind-down with no credit losses. Started with 23,218 tickets and 884 counterparties; still 7,580 tickets and 453 counterparties at yearend 2003. The framework critique extended: "the more you know about derivatives, the less you will feel you can learn from the disclosures normally proffered you." Darwin quote — "Ignorance more frequently begets confidence than does knowledge." A canonical Buffett extension of the [[mistakes-of-omission]] family into mistakes of inaction on known problems.
-- **Float at $44.2B with $1.7B underwriting profit.** [[geico]] premium volume from $2.2B (1992, Nicely takeover) to $8.1B; market share 2.1% → 5.0%. Gen Re "fixed" under Joe Brandon and Tad Montross; Gen Re and [[national-indemnity]] now the only AAA-rated reinsurers among world majors. [[ajit-jain]] runs the largest reinsurance operation in the world with a staff of 23; PepsiCo $1B-prize policy ($250M present-value exposure) as illustrative. The float table now spans 1967 ($20M) → 2003 ($44.22B).
-- **Foreign-currency contracts ($12B notional) — Buffett's first macro position.** "The cemetery for seers has a huge section set aside for macro forecasters." Trade-deficit thesis: U.S. is "force-feeding huge amounts of claims on, and ownership in, America to the rest of the world." Junk-bond round-trip: $8B bought in 2002, now "yesterday's weeds are today being priced as flowers." A study in [[volatility-as-opportunity]] — the pendulum swing exploited in a single cycle.
-- **CEO-pay critique extended.** "Overreaching by CEOs greatly accelerated in the 1990s as compensation packages gained by the most avaricious… were promptly replicated elsewhere." The "play-money" framing of comp-committee negotiations where neither grant has any effect on reported earnings. Compensation consultants as "couriers for this epidemic of greed." Jeff Immelt at GE singled out as an example "more admired than followed." Extends the [[incentive-compensation]] essay arc and the stock-options-as-expense essay of [[berkshire-1992-letter]].
+- **Gen Re Securities confession.** "Charlie would have moved swiftly to close down Gen Re Securities – no question about that. I, however, dithered." $173M pre-tax loss in 2002, $99M in 2003 — and these are losses in a benign, orderly wind-down with no credit losses. Started with 23,218 tickets and 884 counterparties; still 7,580 tickets and 453 counterparties at yearend 2003. The framework critique extended: "the more you know about derivatives, the less you will feel you can learn from the disclosures normally proffered you." Darwin quote — "Ignorance more frequently begets confidence than does knowledge." A canonical Buffett extension of the [mistakes-of-omission](../concepts/mistakes-of-omission.md) family into mistakes of inaction on known problems.
+- **Float at $44.2B with $1.7B underwriting profit.** [geico](../entities/geico.md) premium volume from $2.2B (1992, Nicely takeover) to $8.1B; market share 2.1% → 5.0%. Gen Re "fixed" under Joe Brandon and Tad Montross; Gen Re and [national-indemnity](../entities/national-indemnity.md) now the only AAA-rated reinsurers among world majors. [ajit-jain](../people/ajit-jain.md) runs the largest reinsurance operation in the world with a staff of 23; PepsiCo $1B-prize policy ($250M present-value exposure) as illustrative. The float table now spans 1967 ($20M) → 2003 ($44.22B).
+- **Foreign-currency contracts ($12B notional) — Buffett's first macro position.** "The cemetery for seers has a huge section set aside for macro forecasters." Trade-deficit thesis: U.S. is "force-feeding huge amounts of claims on, and ownership in, America to the rest of the world." Junk-bond round-trip: $8B bought in 2002, now "yesterday's weeds are today being priced as flowers." A study in [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — the pendulum swing exploited in a single cycle.
+- **CEO-pay critique extended.** "Overreaching by CEOs greatly accelerated in the 1990s as compensation packages gained by the most avaricious… were promptly replicated elsewhere." The "play-money" framing of comp-committee negotiations where neither grant has any effect on reported earnings. Compensation consultants as "couriers for this epidemic of greed." Jeff Immelt at GE singled out as an example "more admired than followed." Extends the [incentive-compensation](../concepts/incentive-compensation.md) essay arc and the stock-options-as-expense essay of [berkshire-1992-letter](berkshire-1992-letter.md).
 - **Tax essay.** Berkshire's $3.3B 2003 federal tax bill — 2.5% of all U.S. corporate income tax. "If only 540 taxpayers paid the amount Berkshire will pay, no other individual or corporation would have to pay anything to Uncle Sam." Corporate share of federal receipts: 32% (1952 peak) → 7.4% (2003). "If class warfare is being waged in America, my class is clearly winning." The 1944 first-1040 anecdote (newspaper-carrier income, $35 bicycle deduction, $7 tax bill) as ironic ballast.
 - **Portfolio nearly frozen.** Last position changes among the six largest holdings: Wells Fargo (added 2003); Moody's (2000); American Express (1998); Coca-Cola (1994); Gillette (1989); Washington Post (1973). "Brokers don't love us." Portfolio "fully priced" by Buffett's own admission — and the self-criticism on not selling during the bubble: "if these stocks are fully priced now, you may wonder what I was thinking four years ago when their intrinsic value was lower and their prices far higher. So do I."
 
@@ -133,7 +133,7 @@ Eleven directors; each with family ownership over $4M of Berkshire; six families
 
 "After all, who ever washes a rental car?"
 
-Four new directors added in 2003: David Gottesman, Charlotte Guyman, Don Keough, [[tom-murphy]]. Self-nomination call from the prior year drew 20+ qualified shareholder applicants (most with family Berkshire holdings >$1M); Buffett and Munger ultimately invited four shareholders who hadn't nominated themselves.
+Four new directors added in 2003: David Gottesman, Charlotte Guyman, Don Keough, [tom-murphy](../people/tom-murphy.md). Self-nomination call from the prior year drew 20+ qualified shareholder applicants (most with family Berkshire holdings >$1M); Buffett and Munger ultimately invited four shareholders who hadn't nominated themselves.
 
 The "potted plant" framing for directors without business savvy:
 
@@ -141,7 +141,7 @@ The "potted plant" framing for directors without business savvy:
 
 Board's primary stated job: select Buffett's successor. Real boardroom discussion (with and without Buffett in the room) centers on the four internal candidates.
 
-This extends the [[owner-orientation]] doctrine articulated in the Owner's Manual (referenced as page 69 of the report). The board itself is restructured to embody the same principles.
+This extends the [owner-orientation](../concepts/owner-orientation.md) doctrine articulated in the Owner's Manual (referenced as page 69 of the report). The board itself is restructured to embody the same principles.
 
 ## Gen Re Securities — the dithering confession
 
@@ -173,11 +173,11 @@ Berkshire's wider derivatives critique would canonize in the 2002 letter ("finan
 | Other Primary | $74 | $32 |
 | **Total** | **$1,718** | **$(398)** |
 
-Gen Re "fixed" under Joe Brandon and Tad Montross. Gen Re and [[national-indemnity]] now the only AAA-rated reinsurers among world majors. "Unlike most reinsurers, we retain virtually all of the risks we assume."
+Gen Re "fixed" under Joe Brandon and Tad Montross. Gen Re and [national-indemnity](../entities/national-indemnity.md) now the only AAA-rated reinsurers among world majors. "Unlike most reinsurers, we retain virtually all of the risks we assume."
 
-[[ajit-jain]] — staff of 23, world's largest reinsurance operation. PepsiCo $1B-prize policy retained entirely (present-value exposure $250M); drawing held September 14; "Ajit and I held our breath, as did the finalist in the contest, and we left happier than he."
+[ajit-jain](../people/ajit-jain.md) — staff of 23, world's largest reinsurance operation. PepsiCo $1B-prize policy retained entirely (present-value exposure $250M); drawing held September 14; "Ajit and I held our breath, as did the finalist in the contest, and we left happier than he."
 
-[[geico]] under Tony Nicely (CEO from 1992): premium volume $2.2B → $8.1B; market share 2.1% → 5.0%; preferred policy count +8.2% in 2003; standard/non-standard +21.4%. New 2,500-job customer service center announced for Buffalo (Stan Lipsey of [[buffalo-evening-news]] instrumental).
+[geico](../entities/geico.md) under Tony Nicely (CEO from 1992): premium volume $2.2B → $8.1B; market share 2.1% → 5.0%; preferred policy count +8.2% in 2003; standard/non-standard +21.4%. New 2,500-job customer service center announced for Buffalo (Stan Lipsey of [buffalo-evening-news](../entities/buffalo-evening-news.md) instrumental).
 
 ## Float table
 
@@ -196,7 +196,7 @@ Gen Re "fixed" under Joe Brandon and Tad Montross. Gen Re and [[national-indemni
 
 "In 18 of the 37 years Berkshire has been in the insurance business, we have operated at an underwriting profit, meaning we were actually paid for holding money. And the quantity of this cheap money has grown far beyond what I dreamed it could when we entered the business in 1967."
 
-See [[float]].
+See [float](../concepts/float.md).
 
 ## MidAmerican Energy
 
@@ -253,21 +253,21 @@ Through 2002, Berkshire ran a shareholder-designated charitable contributions pr
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[geico]] — Nicely 11-year track record canonically articulated
-- [[national-indemnity]] — AAA pair with Gen Re
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [geico](../entities/geico.md) — Nicely 11-year track record canonically articulated
+- [national-indemnity](../entities/national-indemnity.md) — AAA pair with Gen Re
 - General Reinsurance — "fixed" under Brandon/Montross; Gen Re Securities unwound
 - Gen Re Securities — derivatives confession
 - MidAmerican Energy Holdings — UK + Iowa + pipelines + Home Services
 - Clayton Homes — acquired (Tennessee-students origin story)
 - McLane — acquired from Wal-Mart
 - Oakwood Homes — distressed junk debt; bankrupt; assets bought by Clayton
-- [[coca-cola]], [[american-express]], [[gillette]], [[washington-post]], [[wells-fargo]] — long-frozen major positions
+- [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md), [gillette](../entities/gillette.md), [washington-post](../entities/washington-post.md), [wells-fargo](../entities/wells-fargo.md) — long-frozen major positions
 - Moody's, M&T Bank, H&R Block, HCA, PetroChina — other portfolio
-- [[nebraska-furniture-mart]] — new Kansas City store (largest-volume U.S. home-furnishings store)
-- [[buffalo-evening-news]] — Lipsey instrumental in GEICO Buffalo expansion
-- [[sees-candies]] — $59M retail pre-tax
-- [[borsheims]] — annual meeting events
+- [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) — new Kansas City store (largest-volume U.S. home-furnishings store)
+- [buffalo-evening-news](../entities/buffalo-evening-news.md) — Lipsey instrumental in GEICO Buffalo expansion
+- [sees-candies](../entities/sees-candies.md) — $59M retail pre-tax
+- [borsheims](../entities/borsheims.md) — annual meeting events
 - Shaw Industries — Dixie Group acquisition; ~$5B sales
 - Fruit of the Loom — 42.3% of men's/boys' mass-market underwear
 - Acme Brick, Benjamin Moore, MiTek, Johns Manville — building products; 21% on tangible net worth
@@ -275,8 +275,8 @@ Through 2002, Berkshire ran a shareholder-designated charitable contributions pr
 
 ## People mentioned
 
-- [[warren-buffett]], [[charlie-munger]]
-- [[tom-murphy]] — new Berkshire director
+- [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md)
+- [tom-murphy](../people/tom-murphy.md) — new Berkshire director
 - David Gottesman, Charlotte Guyman, Don Keough — new Berkshire directors
 - Ron Olson — Berkshire director/lawyer; illustrative of independence-rule absurdity
 - Jim Clayton, Kevin Clayton — Clayton Homes
@@ -285,12 +285,12 @@ Through 2002, Berkshire ran a shareholder-designated charitable contributions pr
 - Tom Schoewe — Wal-Mart CFO (McLane handshake)
 - Joe Brandon, Tad Montross — Gen Re turnaround
 - Tony Nicely — GEICO (1992–)
-- [[ajit-jain]] — reinsurance one-of-a-kind
+- [ajit-jain](../people/ajit-jain.md) — reinsurance one-of-a-kind
 - Dave Sokol, Greg Abel, Walter Scott — MidAmerican
 - Ron Peltier — Home Services of America
 - Rod Eldred, John Kizer, Tom Nerney, Don Towle, Don Wurster — smaller insurers
 - Stan Lipsey — Buffalo News publisher; Buffalo–GEICO bridge
-- [[rose-blumkin]] — "Mrs. B"; the bottom-of-a-river quote
+- [rose-blumkin](../people/rose-blumkin.md) — "Mrs. B"; the bottom-of-a-river quote
 - Bob Shaw — Shaw Industries
 - John Holland — Fruit of the Loom CEO
 - Rich Santulli — NetJets CEO
@@ -304,34 +304,34 @@ Through 2002, Berkshire ran a shareholder-designated charitable contributions pr
 - George Pataki — NY Governor; Buffalo expansion
 - Leo Goodwin — GEICO founder, 67 years ago
 - Maggie Mahar, Bethany McLean, Peter Elkind, Bob Rubin, Jason Zweig — book recommendations
-- [[ben-graham]] — *The Intelligent Investor* / Jason Zweig revision
+- [ben-graham](../people/ben-graham.md) — *The Intelligent Investor* / Jason Zweig revision
 
 ## Concepts introduced or discussed
 
-- [[float]] — table extended to 2003; $44.2B; 18-of-37 underwriting-profit years
-- [[owner-orientation]] — "owner-capitalism" coined; board restructured to embody it
-- [[incentive-compensation]] — CEO-pay critique extended; comp consultants as couriers
-- [[institutional-imperative]] — "compensation packages gained by the most avaricious… were promptly replicated elsewhere"
-- [[capital-allocation]] — "underutilized" capital framing; "painful but not as painful as doing something stupid"
-- [[mistakes-of-omission]] — Gen Re Securities dithering; not selling at the bubble
-- [[acquisition-criteria]] — three-condition restatement: favorable & enduring economics, talented & honest managers, sensible price; McLane as the operational illustration
-- [[moat]] — implicit insurance critique: "no installed base, key patents, critical real estate or natural resource position protects an insurer's competitive position. Typically, brands do not mean much either" — making managerial brains/discipline/integrity the moat
-- [[volatility-as-opportunity]] — junk-bond round-trip 2002 → 2003
-- [[turnarounds-seldom-turn]] — implicit corollary to the manufactured-housing critique; Buffett's Oakwood loss as the lesson
-- Mutual-fund governance — extension of [[corporate-governance]] thinking; statutory-independence rules as counter-productive
+- [float](../concepts/float.md) — table extended to 2003; $44.2B; 18-of-37 underwriting-profit years
+- [owner-orientation](../concepts/owner-orientation.md) — "owner-capitalism" coined; board restructured to embody it
+- [incentive-compensation](../concepts/incentive-compensation.md) — CEO-pay critique extended; comp consultants as couriers
+- [institutional-imperative](../concepts/institutional-imperative.md) — "compensation packages gained by the most avaricious… were promptly replicated elsewhere"
+- [capital-allocation](../concepts/capital-allocation.md) — "underutilized" capital framing; "painful but not as painful as doing something stupid"
+- [mistakes-of-omission](../concepts/mistakes-of-omission.md) — Gen Re Securities dithering; not selling at the bubble
+- [acquisition-criteria](../concepts/acquisition-criteria.md) — three-condition restatement: favorable & enduring economics, talented & honest managers, sensible price; McLane as the operational illustration
+- [moat](../concepts/moat.md) — implicit insurance critique: "no installed base, key patents, critical real estate or natural resource position protects an insurer's competitive position. Typically, brands do not mean much either" — making managerial brains/discipline/integrity the moat
+- [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — junk-bond round-trip 2002 → 2003
+- [turnarounds-seldom-turn](../concepts/turnarounds-seldom-turn.md) — implicit corollary to the manufactured-housing critique; Buffett's Oakwood loss as the lesson
+- Mutual-fund governance — extension of [corporate-governance](../concepts/corporate-governance.md) thinking; statutory-independence rules as counter-productive
 - Owner-capitalism — board-as-shareholders structural philosophy
 - "Every tub on its own bottom" — Clayton-funding philosophy
 - Foreign-currency contracts as macro hedge — Buffett's first macro position
 
 ## Connections to other sources
 
-- The corporate-governance essay continues the three-modes critique from [[berkshire-1993-letter]] and the mutual-fund-board piece of the 2002 letter, now operationally vindicated by the Spitzer-era scandals.
-- The CEO-pay critique extends the canonical [[incentive-compensation]] essay arc from [[berkshire-1985-letter]] (savings-account analogy) and [[berkshire-1994-letter]] (Schey compensation essay), and the stock-options-as-expense essay of [[berkshire-1992-letter]].
+- The corporate-governance essay continues the three-modes critique from [berkshire-1993-letter](berkshire-1993-letter.md) and the mutual-fund-board piece of the 2002 letter, now operationally vindicated by the Spitzer-era scandals.
+- The CEO-pay critique extends the canonical [incentive-compensation](../concepts/incentive-compensation.md) essay arc from [berkshire-1985-letter](berkshire-1985-letter.md) (savings-account analogy) and [berkshire-1994-letter](berkshire-1994-letter.md) (Schey compensation essay), and the stock-options-as-expense essay of [berkshire-1992-letter](berkshire-1992-letter.md).
 - The Gen Re Securities confession is a delayed sequel to the 1998 General Reinsurance acquisition; the framework of derivatives-disclosure inadequacy would canonize in the 2002 letter ("financial weapons of mass destruction").
-- The float table extends the cost-of-float framework from [[berkshire-1990-letter]] and the float-as-equity essay from [[berkshire-1995-letter]].
-- The Clayton manufactured-housing critique foreshadows the broader [[turnarounds-seldom-turn]] case against industries built on bad incentives — and is a securitization-era extension of the [[commodity-business-economics]] framework.
-- The McLane handshake-deal narrative is the operational instantiation of the published [[acquisition-criteria]] ad that dates back to [[berkshire-1982-letter]].
-- The portfolio-frozen status — "we last changed our position in Coca-Cola in 1994, … Gillette in 1989, Washington Post in 1973" — extends the patience doctrine threaded since [[berkshire-1977-letter]] and the concentration discipline of [[berkshire-1993-letter]].
-- The "owner-capitalism" board structure is a direct extension of the 13-principle owner's manual of [[berkshire-1983-letter]] and the shareholder-base engineering of the 1988 NYSE listing.
-- The GEICO Nicely 1992–2003 retrospective extends the canonical Davidson/GEICO arc retold in [[berkshire-1995-letter]].
-- The Mrs. B "bottom of a river" quote and Kansas City NFM expansion extend the low-cost-retailer case study introduced in [[berkshire-1983-letter]].
+- The float table extends the cost-of-float framework from [berkshire-1990-letter](berkshire-1990-letter.md) and the float-as-equity essay from [berkshire-1995-letter](berkshire-1995-letter.md).
+- The Clayton manufactured-housing critique foreshadows the broader [turnarounds-seldom-turn](../concepts/turnarounds-seldom-turn.md) case against industries built on bad incentives — and is a securitization-era extension of the [commodity-business-economics](../concepts/commodity-business-economics.md) framework.
+- The McLane handshake-deal narrative is the operational instantiation of the published [acquisition-criteria](../concepts/acquisition-criteria.md) ad that dates back to [berkshire-1982-letter](berkshire-1982-letter.md).
+- The portfolio-frozen status — "we last changed our position in Coca-Cola in 1994, … Gillette in 1989, Washington Post in 1973" — extends the patience doctrine threaded since [berkshire-1977-letter](berkshire-1977-letter.md) and the concentration discipline of [berkshire-1993-letter](berkshire-1993-letter.md).
+- The "owner-capitalism" board structure is a direct extension of the 13-principle owner's manual of [berkshire-1983-letter](berkshire-1983-letter.md) and the shareholder-base engineering of the 1988 NYSE listing.
+- The GEICO Nicely 1992–2003 retrospective extends the canonical Davidson/GEICO arc retold in [berkshire-1995-letter](berkshire-1995-letter.md).
+- The Mrs. B "bottom of a river" quote and Kansas City NFM expansion extend the low-cost-retailer case study introduced in [berkshire-1983-letter](berkshire-1983-letter.md).

@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2021
 raw_path: raw/berkshire-letters/2021.md
 tags: [berkshire, annual-letter, capital-allocation, insurance, float, repurchases]
-related: [[warren-buffett]], [[berkshire-hathaway]], [[charlie-munger]]
+related: [warren-buffett](../people/warren-buffett.md), [berkshire-hathaway](../entities/berkshire-hathaway.md), [charlie-munger](../people/charlie-munger.md)
 ---
 
 # Berkshire Hathaway 2021 Annual Letter
@@ -27,27 +27,27 @@ Warren Buffett's letter for fiscal year 2021, released February 26, 2022. A rela
 
 ## Entities discussed
 
-- [[berkshire-hathaway]]
-- [[apple]]
-- [[bnsf]]
-- [[national-indemnity]]
+- [berkshire-hathaway](../entities/berkshire-hathaway.md)
+- [apple](../entities/apple.md)
+- [bnsf](../entities/bnsf.md)
+- [national-indemnity](../entities/national-indemnity.md)
 
 ## People mentioned
 
-- [[warren-buffett]]
-- [[charlie-munger]]
-- [[ajit-jain]]
-- [[greg-abel]]
+- [warren-buffett](../people/warren-buffett.md)
+- [charlie-munger](../people/charlie-munger.md)
+- [ajit-jain](../people/ajit-jain.md)
+- [greg-abel](../people/greg-abel.md)
 
 ## Concepts introduced or discussed
 
-- [[float]]
-- [[look-through-earnings]]
-- [[share-repurchases]]
-- [[capital-allocation]]
-- [[earnings-quality]]
-- [[berkshire-conglomerate-model]]
-- [[valuation-framework]]
+- [float](../concepts/float.md)
+- [look-through-earnings](../concepts/look-through-earnings.md)
+- [share-repurchases](../concepts/share-repurchases.md)
+- [capital-allocation](../concepts/capital-allocation.md)
+- [earnings-quality](../concepts/earnings-quality.md)
+- [berkshire-conglomerate-model](../concepts/berkshire-conglomerate-model.md)
+- [valuation-framework](../concepts/valuation-framework.md)
 
 ## Notable quotes
 
@@ -67,5 +67,5 @@ Warren Buffett's letter for fiscal year 2021, released February 26, 2022. A rela
 
 ## Connections to other sources
 
-- Continues [[berkshire-2020-letter]] — the $51.7B repurchase figure spans 2020–2021; Apple stake and look-through-earnings framing carry forward; liquidity-fortress positioning unchanged
-- The TTI acquisition (2006) led directly to the BNSF acquisition (2009); see [[berkshire-2009-letter]] for the full BNSF story
+- Continues [berkshire-2020-letter](berkshire-2020-letter.md) — the $51.7B repurchase figure spans 2020–2021; Apple stake and look-through-earnings framing carry forward; liquidity-fortress positioning unchanged
+- The TTI acquisition (2006) led directly to the BNSF acquisition (2009); see [berkshire-2009-letter](berkshire-2009-letter.md) for the full BNSF story
