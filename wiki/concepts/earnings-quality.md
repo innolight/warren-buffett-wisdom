@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-15
 updated: 2026-06-16
-sources: [berkshire-2016-letter, berkshire-2017-letter, berkshire-2018-letter, berkshire-2021-letter]
+sources: [berkshire-2016-letter, berkshire-2017-letter, berkshire-2018-letter, berkshire-2021-letter, berkshire-2022-letter]
 tags: [accounting, earnings, management-integrity]
 related: [[owner-earnings]], [[incentive-compensation]], [[underwriting-discipline]]
 ---
@@ -50,12 +50,30 @@ The 2018 letter returns to earnings-quality manipulation with two additions: a m
 
 The resulting framework: not all non-cash charges are alike. Acquisition amortization is a bookkeeping artifact with no economic content and can reasonably be excluded. Depreciation is an *understatement* of real cost and cannot. EBITDA that eliminates both without distinction conflates two opposite cases. ([[berkshire-2018-letter]])
 
+## Even the preferred metric can be manipulated (2022)
+
+The 2016–2018 critique of earnings quality focused on two failure modes: (1) management voluntarily excluding real recurring costs from "adjusted earnings," and (2) GAAP rules mandating distortions regardless of intent. The 2022 letter adds a third layer — a warning that applies even to Berkshire's own preferred measure:
+
+> Even the operating earnings figure that we favor can easily be manipulated by managers who wish to do so. Such tampering is often thought of as sophisticated by CEOs, directors and their advisors. Reporters and analysts embrace its existence as well. Beating "expectations" is heralded as a managerial triumph. That activity is disgusting. It requires no talent to manipulate numbers: Only a deep desire to deceive is required. "Bold imaginative accounting," as a CEO once described his deception to me, has become one of the shames of capitalism. ([[berkshire-2022-letter]])
+
+This closes a logical gap in the prior framework. Buffett had championed operating earnings as the remedy for GAAP's volatility — but operating earnings themselves involve estimates and management choices (revenue recognition, expense categorization, segment definitions) that can be shaded. The 2022 statement does not invalidate the operating earnings preference; it insists on reading them with the same skepticism applied to any management-reported number.
+
+The complete earnings-quality hierarchy as the letters develop it:
+1. GAAP net income — distorted by rule-mandated items (unrealized gains/losses) and management-chosen exclusions; "useless for analytical purposes" in some periods.
+2. "Adjusted earnings" / Adjusted EBITDA — management's preferred presentation; systematically removes real recurring costs and understates depreciation as an economic charge.
+3. Operating earnings (Berkshire's preferred) — closer to economic reality but still **manipulable**; requires the same scrutiny as any reported figure.
+4. Owner earnings — Buffett's 1986 formula (reported earnings + non-cash charges − true maintenance capex); the closest approximation to economic cash generation, but requires independent capex estimation. See [[owner-earnings]].
+
+The honest analyst works down this hierarchy with independent judgment at each step rather than accepting any self-reported figure at face value.
+
 ## How it's discussed in sources
 
 - [[berkshire-2016-letter]] — Buffett catalogs the two favorite techniques managements use to inflate "adjusted earnings": restructuring cost exclusions and stock-based compensation exclusions. On restructuring: Berkshire has been restructuring since 1965, yet every year managements tell owners to ignore these costs. On SBC: excluding stock compensation from earnings is equivalent to saying compensation paid in equity is not a cost — a claim no CEO can honestly defend. The letter illustrates the absurdity via a hypothetical Berkshire "accounting laboratory" that reclassifies cash pay as "cash paid in lieu of SBC" to produce identically inflated adjusted figures. Buffett and Munger treat "always makes the numbers" as a red flag, not a compliment: businesses are too unpredictable for numbers to always be met, and a CEO focused on Wall Street will be tempted to manufacture them when surprises occur. Bad behavior is described as contagious — CEOs who overtly seek to report high numbers tend to cultivate a culture in which subordinates try to be "helpful."
 - [[berkshire-2017-letter]] — a new FASB rule mandates unrealized investment gains/losses in net income; with $170B in equities, quarterly swings will produce "truly wild and capricious swings" in GAAP net income, rendering the bottom-line "useless for analytical purposes"; contrasted with the existing realized-gains exclusion already in place; the two-category framework (management-originated vs. rule-originated distortion)
 - [[berkshire-2018-letter]] — Lincoln's dog-tail riddle applied to Adjusted EBITDA as the sharpest rhetorical frame for the naming-game problem; SBC distilled to one parenthetical question; restructuring exclusions addressed directly with Berkshire's own history as evidence; the amortization/depreciation split: acquisition amortization ($1.4B) is a legitimate add-back, depreciation ($8.4B) is not merely irrelevant but actually understates true economic maintenance cost in capital-intensive businesses
 - [[berkshire-2021-letter]] — BNSF's record $6B earnings cited as "the old-fashioned sort of earnings that we favor: a figure calculated after interest, taxes, depreciation, amortization and all forms of compensation"; immediately followed by a warning that "deceptive 'adjustments' to earnings — to use a polite description — have become both more frequent and more fanciful as stocks have risen"; the sharpest one-liner in the series: "Speaking less politely, I would say that bull markets breed bloviated bull"; no new analytical content beyond 2016–2018, but the juxtaposition — good earnings defined right next to bad earnings defined wrong — is the cleanest teaching moment in the letter series
+
+- [[berkshire-2022-letter]] — the new caveat: even operating earnings (Berkshire's own preferred metric) can be manipulated; "bold imaginative accounting" requires no talent, only a desire to deceive; "beating expectations is heralded as a managerial triumph" is part of the same culture; the earnings-quality hierarchy now has four rungs from GAAP to owner earnings, each requiring independent scrutiny
 
 ## Related
 

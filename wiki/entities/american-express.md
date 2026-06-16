@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-05-25
-updated: 2026-06-13
-sources: [berkshire-1980-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+updated: 2026-06-16
+sources: [berkshire-1980-letter, berkshire-1991-letter, berkshire-1992-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2022-letter]
 tags: [financial-services, brand, marketable-equities, perc]
 related: [[berkshire-hathaway]], [[warren-buffett]], [[franchise-vs-business]], [[geico]], [[concentration-vs-diversification]]
 ---
@@ -79,6 +79,20 @@ The dot-com bubble years tested the conviction. American Express badly lagged th
 
 By the 2003 letter the market value had recovered to $7,312M at 11.8% ownership. Buffett's summary: "We own pieces of excellent businesses — all of which had good gains in intrinsic value last year — but their current prices reflect their excellence." American Express had completed the arc from the salad-oil scandal of 1963 through the Shearson/IDS turbulence of the 1980s-1990s into a stable, high-return franchise fully exploiting its network moat.
 
+## The 28-year compounding arc (2022)
+
+The 2022 letter pairs the AmEx arc directly with Coke's, presenting both as the canonical "Secret Sauce" case for long-horizon minority ownership of wonderful businesses.
+
+- **Cost**: $1.3 billion, with purchases "essentially completed" in 1995.
+- **Annual cash dividend then**: $41 million (1995).
+- **Annual cash dividend now**: $302 million (2022) — a 7.4× increase with no additional capital deployed.
+- **Market value**: $22 billion at yearend 2022.
+- **Portfolio weight**: approximately 5% of Berkshire's net worth — the same proportional weight as when the position was assembled, but the absolute dollar figure has grown roughly 17-fold.
+
+The contrast with a flat bond equivalent ($1.3B producing ~$80M forever, shrinking to 0.3% of net worth) is the key teaching: the same capital that anchored itself in a mediocre investment has been surpassed many times over by the compounding of a great franchise. The dividend growing from $41M to $302M is not incidental to the investment — it is the mechanism of value creation, driven by AmEx's card network economics and the retained earnings reinvested to expand it. See [[passive-ownership-advantage]] and [[look-through-earnings]].
+
+Buffett's framing across both positions in the 2022 letter: "All Charlie and I were required to do was cash [the] quarterly dividend checks. We expect that those checks are highly likely to grow."
+
 ## Sources discussing this entity
 
 - [[berkshire-1991-letter]] — PERC purchased; structure described; first appearance in fixed-income table
@@ -93,6 +107,8 @@ By the 2003 letter the market value had recovered to $7,312M at 11.8% ownership.
 - [[berkshire-2001-letter]] — held through 9/11 downturn; $5,410M market
 - [[berkshire-2002-letter]] — "earnings up, valuations down"; $5,359M market
 - [[berkshire-2003-letter]] — "last position change in 1998"; $7,312M market; 11.8% ownership; position fully priced but business quality intact
+
+- [[berkshire-2022-letter]] — the 28-year compounding arc quantified: $1.3B cost → $22B market value; $41M dividends → $302M annually; paired with Coke as the definitive "Secret Sauce" illustration; "all we were required to do was cash the quarterly dividend checks"
 
 ## Related
 

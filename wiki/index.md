@@ -53,6 +53,8 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[berkshire-2019-letter]] — Smith/Keynes retained-earnings origin story; 1,900% GAAP swing illustration; richest board governance essay in the series (NWD fees, cocker-spaniel dynamics, M&A advisory capture)
 - [[berkshire-2020-letter]] — "Two Strings to Our Bow" conglomerate failure essay; Apple double-compounding as the definitive repurchase illustration; $24.7B Berkshire buybacks; PCC write-down as transparent valuation-mistake admission
 - [[berkshire-2021-letter]] — three-path capital allocation hierarchy; float-per-share compounding via buybacks; Apple as the definitive look-through-earnings illustration ($785M GAAP vs. $5.6B look-through); infrastructure scale ($158B PP&E); "bull markets breed bloviated bull"
+- [[berkshire-2022-letter]] — "flowers bloom, weeds wither" portfolio compounding asymmetry (Coke/AmEx 28-year arcs); operating-earnings-manipulation caveat; float to $164B via Alleghany; richest Munger aphorism collection in the series
+- [[berkshire-2023-letter]] — first post-Munger letter; "Operating Results, Fact and Fiction" (net income "worse-than-useless," EBITDA banned); "Berkshire is built to last" liquidity essay; BHE regulatory-compact "costly mistake"; BNSF replacement-cost vs. capital-eating reality; Coke/AMEX "stick with a wonderful business"; the five Japanese trading houses
 
 ## Entities
 
@@ -75,7 +77,8 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[gillette]] — global razor/blade franchise; Berkshire's second great consumer brand; $600M preferred 1989 → $2.5B common 1995; moat sustained through 2003
 - [[helzbergs]] — Kansas City jewelry retailer; 1995 acquisition; sourced by Barnett Helzberg; referral-chain extension
 - [[h-h-brown]] — New England footwear manufacturer; 1991 acquisition; Frank Rooney; first in the Berkshire shoe group
-- [[midamerican-energy]] — regulated utility holding acquired 2000; Dave Sokol operator; capital-intensive with highly predictable earnings
+- [[japanese-trading-houses]] — the five sōgō shōsha (Itochu, Marubeni, Mitsubishi, Mitsui, Sumitomo); passive ~9% stakes from 2019; yen-bond currency hedge; shareholder-friendly capital allocation as the buy thesis
+- [[midamerican-energy]] — regulated utility holding acquired 2000; Dave Sokol operator; capital-intensive with highly predictable earnings; the 2023 regulatory-compact "costly mistake"
 - [[national-indemnity]] — Berkshire's insurance flagship; the empirical basis of the float framework; super-cat platform
 - [[nebraska-furniture-mart]] — Mrs. B's home-furnishings retailer; canonical Berkshire low-cost operator; the $55M handshake deal
 - [[netjets]] — fractional aircraft ownership; Rich Santulli founder; premium service model; acquired 1998; capital-intensive with strong recurring demand
@@ -166,6 +169,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [[return-on-equity-yardstick]] — ROE on beginning equity, not EPS, as the right managerial scorecard; the "stopped clock" corollary
 - [[risk-vs-volatility]] — the 1993 rejection of beta-as-risk; the five-factor framework; permanent loss of purchasing power as the true risk
 - [[share-repurchases]] — sub-intrinsic-value buybacks as canonical capital allocation; arithmetic plus pro-shareholder signaling; post-bubble intrinsic-value threshold analysis
+- [[size-as-anchor-on-returns]] — why a large capital base lowers achievable returns; "huge sums forge their own anchor" (1989→2023); the only open question is how slowly the anchor can be dragged
 - [[stock-as-acquisition-currency]] — issuing undervalued stock is a partial sale at a discount; the linguistic reframe "Part of A sold to acquire B"; Dexter Shoe and Gen Re as cautionary cases
 - [[super-cat-insurance]] — catastrophe reinsurance written by Berkshire from 1989; "lumpy 15% vs. smooth 12%"; 9/11 as the stress test; Gen Re failure as the contrast
 - [[tailwinds-vs-headwinds]] — industry structure dominates managerial effort; TV station vs. textile mill as the extreme cases

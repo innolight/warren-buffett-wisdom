@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-06-14
 updated: 2026-06-16
-sources: [berkshire-2014-letter, berkshire-2020-letter, berkshire-2021-letter]
+sources: [berkshire-2014-letter, berkshire-2020-letter, berkshire-2021-letter, berkshire-2022-letter]
 tags: [capital-allocation, governance, berkshire, conglomerate, management-system, succession]
 related: [[berkshire-hathaway]], [[capital-allocation]], [[owner-orientation]], [[institutional-imperative]], [[charlie-munger]], [[ajit-jain]], [[stock-as-acquisition-currency]], [[liquidity-fortress]]
 ---
@@ -122,11 +122,27 @@ Munger: "Provided that most of the Berkshire system remains in place, the combin
 
 The person built the system — but the system outlasts the person.
 
+## The CEO as Chief Risk Officer (2022)
+
+The 2022 letter adds an explicit governance principle to the succession and operating architecture that had been developed in 2014: the CEO of Berkshire must never delegate the risk-stewardship function.
+
+> As for the future, Berkshire will always hold a boatload of cash and U.S. Treasury bills along with a wide array of businesses. We will also avoid behavior that could result in any uncomfortable cash needs at inconvenient times, including financial panics and unprecedented insurance losses. Our CEO will always be the Chief Risk Officer — a task it is irresponsible to delegate. ([[berkshire-2022-letter]])
+
+And on successor alignment: "our future CEOs will have a significant part of their net worth in Berkshire shares, bought with their own money."
+
+These two requirements close a gap in the 2014 succession framework. The 2014 letter specified *who* could succeed (Howard Buffett as non-executive chairman, Combs/Weschler for investments, Jain/Abel for operations) and *what character* a CEO must have (rational, calm, decisive, "all in for Berkshire, not for himself"). The 2022 additions specify two structural constraints that no capable successor should be permitted to waive:
+
+1. **Personal risk custody.** The Berkshire CEO is the one person in the organization who must maintain a system-level view of all risk — across insurance, regulated utilities, manufacturing, and the investment portfolio — simultaneously. Delegating this to a committee, a Chief Risk Officer title, or a quant function would create the institutional-imperative failure mode: risk becomes owned by no one while appearing to be owned by everyone. See [[institutional-imperative]].
+
+2. **Skin in the game.** Requiring CEOs to hold material personal stakes *bought with their own money* (not granted as compensation) aligns successor interest with shareholder interest in the most direct way possible. Compensation-granted stock is subject to the ratchet dynamic (executives don't lose money when the stock declines, only fail to gain); purchased stock creates genuine downside exposure. See [[incentive-compensation]].
+
 ## How it's discussed in sources
 
 - [[berkshire-2014-letter]] — the primary and most systematic treatment: Buffett's "Berkshire Today" and "The Next 50 Years" essays; Munger's standalone "Vice Chairman's Thoughts — Past and Future"; all fifteen Berkshire System principles; the four-factor diagnosis of why Berkshire succeeded; the succession architecture
 - [[berkshire-2020-letter]] — "Two Strings to Our Bow" essay: the access-failure chain (best businesses won't sell → adverse selection into mediocre targets → control premiums → overvalued-stock currency → deceptive accounting → collapse); the non-controlling minority stake as the structural solution; "owning a non-controlling portion of a wonderful business is more profitable, more enjoyable and far less work than struggling with 100% of a marginal enterprise"
 - [[berkshire-2021-letter]] — two reinforcing data points: (1) infrastructure scale — Berkshire owns more U.S.-based property, plant, and equipment ($158B at yearend 2021) than any other American corporation, an unintended but now definitive consequence of compounding capital into productive assets for decades; (2) Paul Andrews / TTI as the most vivid "preferred home" illustration in the series — Andrews chose Berkshire after a year of weighing competitors (would fire associates) and LBO firms (would flip the business), concluding Berkshire was "the only guy left"; that reputation compounded: TTI led to the BNSF acquisition four years later, Berkshire's largest-ever deal
+
+- [[berkshire-2022-letter]] — CEO as Chief Risk Officer: "a task it is irresponsible to delegate"; future CEOs required to hold significant personal Berkshire stakes "bought with their own money"; closes the succession framework by specifying two structural constraints beyond character and competence
 
 ## Related
 

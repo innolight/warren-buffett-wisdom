@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-13
-sources: [berkshire-1987-letter, berkshire-1993-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2002-letter]
+updated: 2026-06-16
+sources: [berkshire-1987-letter, berkshire-1993-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2002-letter, berkshire-2022-letter, berkshire-2023-letter]
 tags: [psychology, valuation, graham, market-behavior]
 related: [[ben-graham]], [[volatility-as-opportunity]], [[margin-of-safety]], [[intrinsic-value-vs-book-value]]
 ---
@@ -61,6 +61,8 @@ The dot-com era enduring lesson: Mr. Market's most dangerous manifestation is no
 - [[berkshire-1999-letter]] — dot-com trough year; Berkshire's tech abstention framed explicitly as circle-of-competence, not contrarianism; the market as a "voting machine" running on speculation, not business value
 - [[berkshire-2000-letter]] — the "clocks have no hands" Cinderella update; Aesop's bird-in-hand as the invariant valuation formula Mr. Market's prices should be measured against; "nothing sedates rationality like large doses of effortless money"
 - [[berkshire-2002-letter]] — post-bubble reckoning; "the hangover may prove proportional to the binge"; the sustained three-year decline as Mr. Market's depressive phase creating opportunity for the patient investor
+- [[berkshire-2022-letter]] — the "What We Do" restatement of the efficient-market critique: "'Efficient' markets exist only in textbooks"; stocks "often trade at truly foolish prices, both high and low"; marketable securities are "baffling, their behavior usually understandable only in retrospect" — the manic-depressive market is exactly what lets Berkshire "episodically" buy "pieces of wonderful businesses at wonderful prices," while controlled businesses "are almost never available at bargain valuations"
+- [[berkshire-2023-letter]] — late-period restatement: the "voting machine … weighing machine" line attributed again to Graham, used to argue against judging Berkshire on the market's "capricious day-by-day and … year-by-year movements"; markets "now exhibit far more casino-like behavior" and can "unpredictably seize up or even vanish" (1914, 2001, September 2008) — Mr. Market's seizures reframed as the source of "occasional large-scale opportunity" for a prepared buyer (see [[liquidity-fortress]])
 
 ## Related
 

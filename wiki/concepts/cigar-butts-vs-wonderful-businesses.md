@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-14
-sources: [berkshire-1989-letter, berkshire-1992-letter, berkshire-2014-letter]
+updated: 2026-06-16
+sources: [berkshire-1989-letter, berkshire-1992-letter, berkshire-2014-letter, berkshire-2023-letter]
 tags: [valuation, business-quality, graham, evolution-of-buffett]
 related: [[economic-goodwill]], [[turnarounds-seldom-turn]], [[franchise-vs-business]], [[ben-graham]], [[charlie-munger]], [[stock-as-acquisition-currency]]
 ---
@@ -91,6 +91,7 @@ The cigar-butt critique is aimed at (3), not at (1).
 - [[berkshire-1992-letter]] — toad-kissing acquirers; "buy good businesses at fair prices"; "growth and value are joined at the hip" companion essay
 - [[berkshire-1993-letter]] — the Coca-Cola compounding case study (1919 share at $40 → $2.1M by 1993 with reinvested dividends)
 - [[berkshire-2014-letter]] — the richest single-source articulation in the series: "Charlie Straightens Me Out" covers the full origin story (the Stanton affair; the textile-mill cigar butt; Charlie's blueprint); the scalability limit of cigar-butt investing; See's updated to $1.9B cumulative earnings on $40M incremental investment; Dexter Shoe's effective cost quantified as $5.7B in Berkshire shares; stock-for-bad-business as the mechanism of irreversible value destruction
+- [[berkshire-2023-letter]] — the Coca-Cola and American Express retrospective as a late-period restatement of the holding-period corollary: neither share bought or sold in 2023, "extending our own Rip Van Winkle slumber that has now lasted well over two decades"; Berkshire's share of AMEX 2023 earnings "considerably exceeded the $1.3 billion cost of our long-ago purchase"; both businesses "tried expanding into unrelated areas" and "were even mismanaged" in the past yet endured because their products "traveled" (global brands meeting "timeless essentials"). The distilled lesson: **"When you find a truly wonderful business, stick with it. Patience pays, and one wonderful business can offset the many mediocre decisions that are inevitable."** Paired with the price-dependent-buyback caveat: "What is sensible at a discount to business-value becomes stupid if done at a premium" (see [[share-repurchases]])
 
 ## Related
 

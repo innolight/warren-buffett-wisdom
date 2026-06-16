@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-14
-updated: 2026-06-14
-sources: [berkshire-2009-letter, berkshire-2010-letter]
+updated: 2026-06-16
+sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2023-letter]
 tags: [financial-strength, capital-allocation, risk-management, berkshire]
 related: [[berkshire-hathaway]], [[capital-allocation]], [[inversion]], [[float]], [[volatility-as-opportunity]], [[derivatives]]
 ---
@@ -83,6 +83,7 @@ This complements the 2009 "kindness of strangers" framing. September 2008 came "
 
 - [[berkshire-2009-letter]] — canonical "kindness of strangers" statement; $15.5B deployment during 2008 crisis; $20B+ customary holding; "supplier not supplicant" framing; "sleep well" close
 - [[berkshire-2010-letter]] — explicit $10B minimum pledge; customarily $20B; Treasury bills only, no commercial paper; no bank lines; no collateral contracts; "credit is like oxygen"; grandfather Ernest's 1939 letter; Lehman: $15.6B deployed in 25 panic days; 40 years without dividends or repurchases; net worth $48M → $157B
+- [[berkshire-2023-letter]] — "Our Not-So-Secret Weapon": markets can "seize up or even vanish" (four months in 1914, days in 2001, September 2008), and "instant panics … will happen"; the fortress is what lets Berkshire "immediately respond to market seizures with both huge sums and certainty of performance"; cash and Treasury bills held "far in excess of what conventional wisdom deems necessary"; in 2008 Berkshire took nothing from commercial paper, bank lines, or debt markets; no dividend, 100%-discretionary repurchases, never-material debt maturities; the goal of being "an asset to the country" that helps "extinguish the financial fire"; **"Extreme fiscal conservatism is a corporate pledge"** — likened to insurance on a fortress-like building thought to be fireproof; closes **"Berkshire is built to last"**
 
 ## Related
 

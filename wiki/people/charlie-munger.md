@@ -2,8 +2,8 @@
 type: person
 status: draft
 created: 2026-05-25
-updated: 2026-06-14
-sources: [berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1989-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2014-letter]
+updated: 2026-06-16
+sources: [berkshire-1980-letter, berkshire-1981-letter, berkshire-1982-letter, berkshire-1983-letter, berkshire-1984-letter, berkshire-1986-letter, berkshire-1987-letter, berkshire-1989-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1996-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2014-letter, berkshire-2022-letter]
 tags: [investor, berkshire, wesco, partner]
 related: [[warren-buffett]], [[berkshire-hathaway]], [[wesco-financial]], [[owner-orientation]], [[economic-goodwill]], [[berkshire-conglomerate-model]]
 ---
@@ -57,6 +57,40 @@ The 2014 letter contains two distinct Munger contributions — the richest treat
 
 Munger also addressed succession directly — the most pointed statement in the letter series to that point: "Ajit Jain and Greg Abel are proven performers who would probably be under-described as 'world-class.' 'World-leading' would be the description I would choose. In some important ways, each is a better business executive than Buffett." And he concluded that the Berkshire System is durable enough that Berkshire "would almost surely remain a better-than-normal company for a very long time even if (1) Buffett left tomorrow, (2) his successors were persons of only moderate ability, and (3) Berkshire never again purchased a large business." The system, not the person, is the primary asset.
 
+### The 2022 podcast collection: distilled investor wisdom
+
+The 2022 letter contains the most concentrated single-letter presentation of Munger's thinking in the entire series — fifteen bullet-point aphorisms drawn from a recent podcast, presented by Buffett as the clearest available distillation of his partner's wisdom. Key items, organized by theme:
+
+**On patience and rationality:**
+- "The world is full of foolish gamblers, and they will not do as well as the patient investor."
+- "Patience can be learned. Having a long attention span and the ability to concentrate on one thing for a long time is a huge advantage."
+- "If you don't care whether you are rational or not, you won't work on it. Then you will stay irrational and get lousy results."
+- "If you don't see the world the way it is, it's like judging something through a distorted lens."
+
+**On leverage and certainty:**
+- "There is no such thing as a 100% sure thing when investing. Thus, the use of leverage is dangerous. A string of wonderful numbers times zero will always equal zero. Don't count on getting rich twice."
+
+This is the sharpest single-sentence argument against leverage in the letter series. The "zero product" frame is mathematically precise: even a very long run of positive outcomes cannot survive a single catastrophic outcome multiplied by leverage. The implication: never take on risk that can destroy the enterprise, no matter how favorable the odds appear.
+
+**On business quality and holding:**
+- "A great company keeps working after you are not; a mediocre company won't do that." — the criterion for a wonderful business stated from the holding-period perspective: it compounds on your behalf without your intervention.
+- "Warren and I don't focus on the froth of the market. We seek out good long-term investments and stubbornly hold them for a long time."
+- "Don't bail away in a sinking boat if you can swim to one that is seaworthy." — the turnaround-vs-switch decision criterion; do not pour effort into a structurally flawed business when a sound one is accessible. See [[turnarounds-seldom-turn]].
+- "You don't, however, need to own a lot of things in order to get rich."
+
+**On continuous learning and adaptation:**
+- "You can learn a lot from dead people. Read of the deceased you admire and detest."
+- "You have to keep learning if you want to become a great investor. When the world changes, you must change."
+- "Warren and I hated railroad stocks for decades, but the world changed and finally the country had four huge railroads of vital importance to the American economy. We were slow to recognize the change, but better late than never." — the candid admission that [[circle-of-competence]] boundaries are not permanent; intellectual honesty about a long-standing error that eventually was corrected.
+
+**On life framing:**
+- "All I want to know is where I'm going to die, so I'll never go there." ([[berkshire-1996-letter]]) — the [[inversion]] principle, restated here with its companion: "Early on, write your desired obituary — and then behave accordingly."
+
+**On markets:**
+- "Ben Graham said, 'Day to day, the stock market is a voting machine; in the long term it's a weighing machine.' If you keep making something more valuable, then some wise person is going to notice it and start buying." — Munger citing Graham to restate the [[mr-market]] framework: short-term prices reflect sentiment; long-term prices reflect intrinsic value.
+
+Buffett's response to the full section: "I never have a phone call with Charlie without learning something. And, while he makes me think, he also makes me laugh." His addendum to the partnership: "Find a very smart high-grade partner – preferably slightly older than you – and then listen very carefully to what he says." ([[berkshire-2022-letter]])
+
 ### Capital allocation philosophy
 
 The 1998 letter provides the most explicit joint statement of Berkshire's capital allocation style: "Charlie and I have the easy jobs at Berkshire: We do very little except allocate capital. And, even then, we are not all that energetic. We have one excuse, though: In allocating capital, activity does not correlate with achievement. Indeed, in the fields of investments and acquisitions, frenetic behavior is often counterproductive. Therefore, Charlie and I mainly just wait for the phone to ring." The 1993 letter captures the distilled investment posture: "In an investment lifetime it's just too hard to make hundreds of smart decisions. … We'll now settle for one good idea a year. (Charlie says it's my turn.)"
@@ -64,6 +98,22 @@ The 1998 letter provides the most explicit joint statement of Berkshire's capita
 ### Derivatives
 
 The 2002 letter gives the sharpest joint statement on derivatives: "Charlie and I are of one mind in how we feel about derivatives and the trading activities that go with them: We view them as time bombs, both for the parties that deal in them and the economic system." Written before the 2008 crisis, this became one of the most cited passages from the letters.
+
+## Notable quotes from the 2022 letter
+
+> The world is full of foolish gamblers, and they will not do as well as the patient investor. — [[berkshire-2022-letter]]
+
+> Patience can be learned. Having a long attention span and the ability to concentrate on one thing for a long time is a huge advantage. — [[berkshire-2022-letter]]
+
+> There is no such thing as a 100% sure thing when investing. Thus, the use of leverage is dangerous. A string of wonderful numbers times zero will always equal zero. Don't count on getting rich twice. — [[berkshire-2022-letter]]
+
+> A great company keeps working after you are not; a mediocre company won't do that. — [[berkshire-2022-letter]]
+
+> You have to keep learning if you want to become a great investor. When the world changes, you must change. — [[berkshire-2022-letter]]
+
+> Warren and I hated railroad stocks for decades, but the world changed and finally the country had four huge railroads of vital importance to the American economy. We were slow to recognize the change, but better late than never. — [[berkshire-2022-letter]]
+
+> Warren, think more about it. You're smart and I'm right. — [[berkshire-2022-letter]] (Munger's decision-clinching formula for decades)
 
 ## Notable quotes from the 2014 letter
 
@@ -94,6 +144,10 @@ The 2002 letter gives the sharpest joint statement on derivatives: "Charlie and 
 > [On Scott Fetzer's acquisition book:] I'll pay $2.5 million not to read it. — [[berkshire-1999-letter]]
 
 ## Sources discussing this person
+
+- [[berkshire-2022-letter]] — 15 aphorisms from a recent podcast, the most concentrated single-letter collection of Munger wisdom in the series; new articulations on patience as learnable, leverage zero-product risk, great companies compounding without you, the need to adapt when the world changes, and the railroad stocks admission; Buffett's tribute: "I never have a phone call with Charlie without learning something"; plus the meta-lesson: "Find a very smart high-grade partner – preferably slightly older than you – and then listen very carefully to what he says"
+
+
 
 - [[berkshire-2014-letter]] — "Charlie Straightens Me Out" (Buffett): biographical portrait of Munger, his architecture passion, the 1959 Omaha meeting, and the See's Candy turning point; standalone letter: codification of the 15-point Berkshire System; four-factor diagnosis of why Berkshire succeeded; naming of Jain and Abel as "world-leading" successors; "The system, not the person, is the durable advantage"
 

@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
-sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter]
+updated: 2026-06-16
+sources: [berkshire-1988-letter, berkshire-1989-letter, berkshire-1990-letter, berkshire-1991-letter, berkshire-1993-letter, berkshire-1994-letter, berkshire-1995-letter, berkshire-1997-letter, berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2022-letter]
 tags: [consumer-brand, global-franchise, marketable-equities, permanent-holding]
 related: [[berkshire-hathaway]], [[roberto-goizueta]], [[franchise-vs-business]], [[moat]], [[economic-goodwill]], [[concentration-vs-diversification]], [[look-through-earnings]]
 ---
@@ -63,6 +63,20 @@ The 1993 letter's reflection on the post-1991 dynamic — Coke's earnings up 38%
 
 Treated as permanent from the start. The 1988 letter — discussing Freddie Mac and Coke — articulates the holding policy: "when we own portions of outstanding businesses with outstanding managements, our favorite holding period is forever." Through 1995, the position is touched only twice (the 1989 addition and the 1994 addition).
 
+## The 28-year compounding arc (2022)
+
+The 2022 letter provides the most complete quantification of the Coke position's long-run economics. The full arc of the purchase and what it has delivered:
+
+- **Cost**: $1.3 billion, with Berkshire completing its seven-year purchase in August 1994.
+- **Annual cash dividend then**: $75 million (1994).
+- **Annual cash dividend now**: $704 million (2022) — growth "every year, just as certain as birthdays."
+- **Market value**: $25 billion at yearend 2022.
+- **Portfolio weight**: approximately 5% of Berkshire's net worth, essentially unchanged from when the position was assembled — but the absolute dollar figure has grown 19-fold.
+
+The comparison Buffett constructs in the 2022 letter illustrates the portfolio-weight dynamics of holding great businesses over decades: a $1.3 billion investment that merely retained its value (a high-grade 30-year bond) would now represent 0.3% of Berkshire's net worth and deliver an unchanged ~$80M in annual income. Coke at $25B and 5% of net worth is the contrast. "The weeds wither away in significance as the flowers bloom. Over time, it takes just a few winners to work wonders." See [[passive-ownership-advantage]].
+
+The dividend compounding tells a parallel story: every dollar of dividends paid in 1994 has grown to nearly $9.40 paid in 2022, with no additional capital deployed and no management decisions required of Berkshire beyond cashing quarterly checks. The implicit look-through story — Coke's retained earnings reinvested in distribution, marketing, and brand — is what drives the dividend growth. See [[look-through-earnings]].
+
 ## Sources discussing this entity
 
 - [[berkshire-1988-letter]] — initial 14.2M-share position; framed alongside Freddie Mac as the year's major equity moves; "favorite holding period is forever"
@@ -73,6 +87,8 @@ Treated as permanent from the start. The 1988 letter — discussing Freddie Mac 
 - [[berkshire-1993-letter]] — Coke/Gillette earnings up 38%/37% but stock prices up only 11%/6%; the 1919 share at $40 → $2.1M illustration; the 1938 Fortune "looking too late" passage
 - [[berkshire-1994-letter]] — addition to 100M shares; "21 billion attributable servings"; the "first business venture" childhood retrospective on selling six-packs of Coke
 - [[berkshire-1995-letter]] — position untouched; carried at $7.4B; included in the "Rip Van Winkle" framing of the year's portfolio activity
+
+- [[berkshire-2022-letter]] — the 28-year compounding arc quantified: $1.3B cost → $25B market value; $75M dividends → $704M annually; the "flowers/weeds" portfolio-weight contrast with a flat bond investment; "just as certain as birthdays"
 
 ## Related
 

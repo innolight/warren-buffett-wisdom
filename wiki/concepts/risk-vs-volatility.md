@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-15
-sources: [berkshire-1993-letter, berkshire-2011-letter, berkshire-2014-letter, berkshire-2017-letter]
+updated: 2026-06-16
+sources: [berkshire-1993-letter, berkshire-2011-letter, berkshire-2014-letter, berkshire-2017-letter, berkshire-2023-letter]
 tags: [risk, beta, valuation, academic-finance, graham]
 related: [[mr-market]], [[volatility-as-opportunity]], [[concentration-vs-diversification]], [[margin-of-safety]], [[investment-categories]]
 ---
@@ -102,6 +102,7 @@ For a 20- or 30-year investor, maintaining a heavy bond allocation is not risk m
 - [[berkshire-2011-letter]] — sharpest single-sentence formulation: risk = probability of loss of purchasing power over the holding period; explicitly links to why low-volatility bonds are the most dangerous long-term asset class
 - [[berkshire-2014-letter]] — the most extensive empirical statement in the series: "the unconventional, but inescapable, conclusion to be drawn from the past fifty years is that it has been far safer to invest in a diversified collection of American businesses than to invest in securities — Treasuries, for example — whose values have been tied to American currency"; extends the purchasing-power-loss framework with 50 years of retrospective evidence and projects the same conclusion forward for the next century; included in the "Next 50 Years" essay as both a historical observation and a forward-looking prescription
 - [[berkshire-2017-letter]] — cleanest single-sentence risk definition ("risk is the possibility that [the objective of greater future consumption] won't be attained"); horizon-dependence made explicit (stocks riskier short-term, bonds riskier long-term); bonds-to-stocks ratio named as the wrong risk gauge for long-horizon investors; applied to the 2012 Bet bond-to-Berkshire swap as a concrete episode
+- [[berkshire-2023-letter]] — the principle distilled to a single corporate vow: **"One investment rule at Berkshire has not and will not change: Never risk permanent loss of capital."** The volatility/risk distinction restated operationally — "quotational shrinkage for extended periods can't be avoided," but Berkshire "does not want to inflict permanent financial damage"; survival through "financial disasters of a magnitude beyond any heretofore experienced" is the explicit goal, paired with the [[liquidity-fortress]]; the realistic aspiration of "materially less risk of permanent loss of capital" than the average American corporation
 
 ## Related
 

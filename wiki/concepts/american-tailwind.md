@@ -2,8 +2,8 @@
 type: concept
 status: draft
 created: 2026-06-15
-updated: 2026-06-15
-sources: [berkshire-2018-letter]
+updated: 2026-06-16
+sources: [berkshire-2018-letter, berkshire-2023-letter]
 tags: [investing, long-term, america, compounding, optimism]
 related: [[warren-buffett]], [[investment-friction]], [[tailwinds-vs-headwinds]], [[berkshire-2018-letter]]
 ---
@@ -70,7 +70,8 @@ The statement is prospective. The 11.8% historical compound rate is not a promis
 
 ## How it's discussed in sources
 
-- [[berkshire-2018-letter]] — the primary and only source to date; introduced as the culminating section of Buffett's investing essay; the 1942 Cities Service investment as the autobiographical entry point; the 77-year S&P compounding case; the fee-drag calculation; gold vs. American business; the debt-hysteria check; bipartisan prosperity across 14 presidencies; the Wren epitaph; the Normandy humility point; the prospective forward claim
+- [[berkshire-2023-letter]] — a compact restatement: the March 11, 1942 first stock purchase reprised (Dow below 100 that day, "now … around 38,000"); "America has been a terrific country for investors. All they have needed to do is sit quietly, listening to no one"; "the American tailwind and the power of compound interest" named as the force that rewards "a couple of good decisions during a lifetime"; sister Bertie's 43-year buy-and-hold as the behavioral embodiment
+- [[berkshire-2018-letter]] — the primary source, where the concept is named and developed; introduced as the culminating section of Buffett's investing essay; the 1942 Cities Service investment as the autobiographical entry point; the 77-year S&P compounding case; the fee-drag calculation; gold vs. American business; the debt-hysteria check; bipartisan prosperity across 14 presidencies; the Wren epitaph; the Normandy humility point; the prospective forward claim
 
 ## Related
 

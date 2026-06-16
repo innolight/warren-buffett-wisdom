@@ -25,20 +25,20 @@ One-paragraph summary.
 
 ## Key themes
 
-- Theme 1
-- Theme 2
+- Theme 1: distillation of the key points and durable investment lessons of the theme.
+- Theme 2: distillation...
 
 ## Entities discussed
 
-- [[<entity-slug>]]
+- [[<entity-slug>]] brief summary of the points
 
 ## People mentioned
 
-- [[<person-slug>]]
+- [[<person-slug>]] brief summary of the points
 
 ## Concepts introduced or discussed
 
-- [[<concept-slug>]]
+- [[<concept-slug>]] brief summary of the points
 
 ## Notable quotes
 
@@ -46,7 +46,7 @@ One-paragraph summary.
 
 ## Connections to other sources
 
-- References [[<source-slug>]] — e.g. continues a thread from the prior letter
+- References [[<source-slug>]] brief summary of the points
 ```
 
 ## `source_type` values

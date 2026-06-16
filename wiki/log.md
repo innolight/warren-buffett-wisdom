@@ -8,6 +8,66 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-16] lint | berkshire-2022/2023-letter post-ingest review + new concept page
+
+Findings from /review-ingest audit of the 2022 and 2023 ingests, applied after user confirmation.
+
+**Quality/accuracy fixes:**
+- `sources/berkshire-2023-letter.md` — Connections: Japanese-houses prior mention corrected from `[[berkshire-2022-letter]]` (contains zero Japan content) to `[[berkshire-2020-letter]]` (the actual first disclosure)
+- `entities/american-express.md` — market-value multiple corrected: "grown 15-fold" → "roughly 17-fold" ($22B/$1.3B ≈ 17×; parity with the Coke page's correct 19-fold)
+- `concepts/share-repurchases.md` — repaired garbled 2022 source bullet: removed an erroneous copy-paste of the 2021 bullet's tail (float-per-share / $79,387 / three-path hierarchy) that had been appended after the 2022 content
+- `concepts/float.md` — relocated orphaned 2022 source bullet from a stray position near the page bottom into the "How it's discussed in sources" list (after the 2021 entry)
+
+**Attribution gaps closed (concepts substantively discussed but unlinked on source pages):**
+- `concepts/mr-market.md` + `sources/berkshire-2022-letter.md` — added the 2022 efficient-market-critique restatement ("'Efficient' markets exist only in textbooks"; stocks "trade at truly foolish prices"); added `[[mr-market]]` to the 2022 source page Concepts and a 2022 bullet + frontmatter source to the concept page
+- `concepts/passive-ownership-advantage.md` — added 2023 source bullet (Japanese houses + Occidental as the non-U.S. / non-consumer application) + frontmatter source; closes the loop the 2023 source page and log had claimed
+- `sources/berkshire-2023-letter.md` — added `[[owner-earnings]]` to Concepts (the BNSF capital-eating / depreciation-gap passage was a major theme but `owner-earnings` was entirely unlinked on the page)
+
+**Structural:**
+- Bumped stale `updated` frontmatter to 2026-06-16 on seven 2023-touched pages that had new content but un-bumped dates: `liquidity-fortress`, `cigar-butts-vs-wonderful-businesses`, `risk-vs-volatility`, `bnsf`, `midamerican-energy`, `mr-market`, `american-tailwind`
+
+**Created `concepts/size-as-anchor-on-returns.md`** — new timeless concept the review surfaced as substantively discussed across many letters but attributed to no concept page. Traces the theme 1989→2023: "high growth rates must self-destruct" / "forges its own anchor" (1989); "incontestable" drag, drag the anchor slowly (1992); generalized law for all managers + 1966 BPL closing (2016); Berkshire trajectory (2009 advantage "shrunk dramatically"; 2010 "tougher as numbers get larger" + partial offsets; 2023 $561B / ~6% of S&P / "doubling… simply not possible" / aspiration "a bit better than the average American corporation"). Cross-linked to capital-allocation, berkshire-conglomerate-model, investment-friction, passive-investing, equity-return-expectations. Added to `index.md` Concepts and to the 2023 source page Concepts + "size anchor" key theme.
+
+- **Skipped (per scope filter):** Schumpeterian "creative destruction" (2022, named once; ephemeral, adequately covered by turnarounds/cigar-butts framing) — left on the source page only
+
+---
+
+## [2026-06-16] ingest | berkshire-2022-letter
+
+- **Created** `wiki/sources/berkshire-2022-letter.md` — key themes: "flowers/weeds" portfolio asymmetry (Coke $75M→$704M dividends/$25B market; AmEx $41M→$302M/$22B vs. flat $1.3B bond at 0.3% of net worth); record $30.8B operating earnings; GAAP Q2 −$43.8B vs. operating $9.3B; float $147B→$164B via Alleghany (Joe Brandon); 1.2% buyback; operating-earnings-manipulation caveat ("bold imaginative accounting"); 15 Munger aphorisms from recent podcast; CEO as Chief Risk Officer
+- **Updated** `wiki/entities/coca-cola.md` — "The 28-year compounding arc": $1.3B cost → $25B market value; $75M → $704M annual dividends; portfolio-weight comparison to flat bond alternative at 0.3% of net worth
+- **Updated** `wiki/entities/american-express.md` — paired arc: $1.3B → $22B market value; $41M → $302M dividends; "all we were required to do was cash quarterly dividend checks"
+- **Updated** `wiki/concepts/earnings-quality.md` — new section: four-rung hierarchy (GAAP → adjusted → operating → owner earnings); operating earnings themselves can be manipulated; "bold imaginative accounting" as "one of the shames of capitalism"
+- **Updated** `wiki/people/charlie-munger.md` — new section "The 2022 podcast collection": 15 aphorisms organized by theme; new Notable Quotes (2022) section; leverage zero-product formulation; patience as learnable; great companies keep working after you; railroad stocks as a circle-of-competence adaptation; new source bullet
+- **Updated** `wiki/concepts/passive-ownership-advantage.md` — new section "The flowers-and-weeds portfolio dynamic": portfolio-weight law; Coke/AmEx worked example; why the dynamic requires genuinely excellent businesses held without trading
+- **Updated** `wiki/concepts/share-repurchases.md` — new section "The political defense": three-partner auto dealership analogy; "economic illiterate or silver-tongued demagogue"; new source bullet
+- **Updated** `wiki/concepts/berkshire-conglomerate-model.md` — new section "The CEO as Chief Risk Officer": non-delegable risk stewardship; personal-stake requirement for successors ("bought with their own money"); closes 2014 succession framework on structural constraints beyond character; new source bullet
+- **Updated** `wiki/concepts/float.md` — 2022 row added to cost-of-float table ($164B; Alleghany; 8,000-fold from 1967); source bullet noting 2020/2021 intermediate rows ($138B/$147B) not in table — deferred to next lint pass
+- **Updated** `wiki/index.md` — berkshire-2022-letter entry added between 2021 and 2023
+- **Skipped:** Alleghany entity page (brief acquisition, no durable lesson beyond float); Joe Brandon person page (transactional manager, General Re cleanup already documented); tax-contribution illustration ($32B/decade) — period-specific; American Tailwind — fully covered; BNSF/BHE record earnings — source page only; annual meeting/See's sales — ephemeral; 2020/2021 float table rows — prior ingest omissions, flagged for lint
+
+---
+
+## [2026-06-16] ingest | berkshire-2023-letter
+
+First post-Munger letter (released Feb 24, 2024); reflective/late-period, mostly restating settled doctrine. Plan agreed with user before writing: 1 new entity (Japanese trading houses), 6 tributes, 2 light touches, source page.
+
+- **Created** `wiki/sources/berkshire-2023-letter.md` — home for chronology and figures: operating earnings vs. GAAP net income ($90B/–$23B/$96B vs. $27.6B/$30.9B/$37.4B), EBITDA banned; "Not-So-Secret Weapon" liquidity essay / "built to last"; BNSF replacement cost ($70B vs. ~$500B) and $22B above-depreciation; BHE broken regulatory compact / "costly mistake"; Coke & AMEX "stick with it"; Japanese houses (¥1.6T cost / ¥2.9T value, yen-bond hedge); insurance records; Occidental; size anchor ($561B net worth, ~6% of S&P aggregate). Source-template update mid-task added brief summaries after each entity/person/concept wikilink
+- **Created** `wiki/entities/japanese-trading-houses.md` — new entity (user chose one combined page over source-only): the five sōgō shōsha; ~9% stakes / 9.9% pledge from July 4, 2019; currency hedging via ¥1.3T yen bonds (not forecasting); shareholder-friendly capital allocation as buy thesis; partnership optionality; Tokyo trip with Greg Abel
+- **Updated** `wiki/concepts/gaap-distortion.md` — 2023 source entry: "worse-than-useless" net income, three-year swing, $5B/day, EBITDA banned, the 2018-mandate gripe restated
+- **Updated** `wiki/concepts/liquidity-fortress.md` — 2023 source entry: "Our Not-So-Secret Weapon," market seizures (1914/2001/2008), "extreme fiscal conservatism," "Berkshire is built to last"
+- **Updated** `wiki/concepts/cigar-butts-vs-wonderful-businesses.md` — 2023 source entry: Coke/AMEX "Rip Van Winkle slumber"; "when you find a truly wonderful business, stick with it … one wonderful business can offset … many mediocre decisions"
+- **Updated** `wiki/concepts/risk-vs-volatility.md` — 2023 source entry: "Never risk permanent loss of capital"; quotational shrinkage vs. permanent damage
+- **Updated** `wiki/entities/bnsf.md` — new "2023" body section + source entry: replacement-cost gap, $22B above-depreciation, earnings disappointment (D.C.-mandated wages), margins slipped vs. five peers, "a century from now … a major asset"
+- **Updated** `wiki/entities/midamerican-energy.md` — new "2023" body section + source entry: the broken fixed-return compact (PG&E/Hawaii), forest-fire losses, the admitted "costly mistake," public-power endgame; the most substantive update of the ingest
+- **Updated (light touch)** `wiki/concepts/mr-market.md` — 2023 source entry: voting/weighing machine reprised; "casino-like behavior"; seizures as opportunity
+- **Updated (light touch)** `wiki/concepts/american-tailwind.md` — 2023 source entry: March 11, 1942 first purchase; "sit quietly, listening to no one"; Bertie's 43-year hold; fixed stale "only source to date" wording
+- **Updated** `wiki/index.md` — added 2023 source line; added `japanese-trading-houses` entity; appended 2023 angle to `midamerican-energy` entity line
+
+**Deliberately skipped** (per scope filter, captured on the source page only): Occidental Petroleum (large but not yet a timeless load-bearing case study — folded into [[passive-ownership-advantage]] framing); Bertie as model reader, the "Omaha Effect," McCulloch's "never deal with a rascal," Poor Charlie's Almanack plug, and the Munger memorial framing (flavor/communication philosophy, not durable concepts); the 2023 operating-earnings scorecard table (year-specific, lives on the source page).
+
+---
+
 ## [2026-06-16] lint | berkshire-2021-letter post-ingest review
 
 Two quote corrections from /review-ingest audit:

@@ -2,8 +2,8 @@
 type: entity
 status: draft
 created: 2026-06-14
-updated: 2026-06-15
-sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter, berkshire-2016-letter]
+updated: 2026-06-16
+sources: [berkshire-2009-letter, berkshire-2010-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter, berkshire-2016-letter, berkshire-2023-letter]
 tags: [railroad, infrastructure, regulated, capital-intensive, acquisition]
 related: [[berkshire-hathaway]], [[midamerican-energy]], [[warren-buffett]], [[capital-allocation]], [[liquidity-fortress]], [[stock-as-acquisition-currency]]
 ---
@@ -141,6 +141,16 @@ This is the railroad-specific illustration of the [[owner-earnings]] principle f
 - 1 gallon of diesel per ton per 500 miles — 4× more fuel-efficient than trucks
 - Despite a disappointing freight environment, interest coverage remained **6:1** in Buffett's preferred measure (EBIT/interest, not EBITDA/interest — Buffett calls EBITDA-based coverage "seriously flawed" because it ignores the real capex burden)
 
+## 2023: Replacement cost, the capital-eating reality, and an earnings disappointment
+
+The 2023 letter is the most pointed statement of why railroads are structurally hard businesses for owners, even as it reaffirms BNSF's century-long strategic value. Buffett quantifies the replacement-cost gap that the 2010 purchase exploited: BNSF carries its 23,759 miles of main track, 99 tunnels, 13,495 bridges, 7,521 locomotives, and other fixed assets at **$70 billion** on the balance sheet, "but my guess is that it would cost at least **$500 billion** to replicate those assets and decades to complete the job." Berkshire could buy BNSF in 2010 "at a small fraction of its replacement value" precisely because the economics are unforgiving.
+
+The capital-eating reality is stated more bluntly than in any prior letter: "BNSF must annually spend more than its depreciation charge to simply maintain its present level of business. This reality is bad for owners, whatever the industry … but it is particularly disadvantageous in capital-intensive industries." Over the 14 years since purchase, above-depreciation outlays have totaled **$22 billion (more than $1.5 billion annually)** — which is why dividends to Berkshire "will regularly fall considerably short of BNSF's reported earnings unless we regularly increase the railroad's debt. And that we do not intend to do." The result is "an acceptable return on its purchase price, though less than it might appear, and also a pittance on the replacement value of the property." This is the [[owner-earnings]] / [[gaap-distortion]] depreciation gap (first quantified in the 2015–2016 letters) carried to its conclusion for the equity owner.
+
+2023 was a genuine earnings disappointment: revenues fell, and although fuel costs also fell, wage increases "promulgated in Washington[] were far beyond the country's inflation goals" — a differential Buffett warns "may recur." BNSF's profit margins "have slipped relative to all five" other major North American railroads since the purchase, though Buffett argues its "vast service territory is second to none" and that margins "can and should improve." He also catalogs the trade's hardships — back-haul revenue problems, extreme weather, dangerous outdoor work, common-carrier obligations to haul hazardous cargo, and the roughly daily trauma of suicide-by-train.
+
+The long-horizon verdict is unchanged: **"A century from now, BNSF will continue to be a major asset of the country and of Berkshire. You can count on that."** ([[berkshire-2023-letter]])
+
 ## Sources discussing this entity
 
 - [[berkshire-2009-letter]] — full acquisition narrative; social compact framing; economic characteristics vs. utilities; Matt Rose noted; BNSF to join regulated-utility reporting segment
@@ -150,4 +160,5 @@ This is the railroad-specific illustration of the [[owner-earnings]] principle f
 - [[berkshire-2013-letter]] — revenues $22.014B, net $3.793B (new records); 9:1 interest coverage; $4B capex delivered (record for any railroad, double depreciation); 15% of all U.S. inter-city freight by ton-miles; 500 miles/ton/gallon vs. trucks at 4× the fuel; operations leadership: Matt Rose and Carl Ice
 - [[berkshire-2014-letter]] — service failures and lost market share to Union Pacific (whose earnings beat BNSF by a record margin); $6B capex committed for 2015 (26% of revenues; ~50% more than any railroad in a single year); revenues $23.239B; net earnings $3.869B; 8:1 interest coverage; the social-compact response to adversity: massive capital commitment, not retrenchment
 - [[berkshire-2015-letter]] — service dramatically improved after $5.8B capex (record for any American railroad, ~3× depreciation); pre-tax income $6.8B (record, up $606M from 2014); net earnings $4.248B; 17% of all U.S. intercity freight by ton-miles (across all modes), 45% more than closest competitor; revenue/ton-mile under 3¢ vs. competitors' 4.2–5.3¢; 702M ton-miles with 47,000 employees (vs. 411M with 45,000 in 1996); railroad depreciation understates true maintenance capex — GAAP earnings overstate true owner earnings at all railroads; 2016 outlook: lower earnings expected
+- [[berkshire-2023-letter]] — replacement cost $500B+ vs. $70B carrying value (bought 2010 "at a small fraction of replacement value"); $22B of above-depreciation outlays over 14 years (~$1.5B/yr), so dividends to Berkshire fall short of reported earnings; "an acceptable return on purchase price … and a pittance on the replacement value"; 2023 earnings declined on lower revenues and Washington-mandated wage increases beyond inflation; margins slipped vs. all five peers since purchase; "a century from now, BNSF will continue to be a major asset of the country and of Berkshire"
 - [[berkshire-2016-letter]] — most explicit treatment of the GAAP depreciation gap: $2.1B depreciation charge vs. true maintenance capex needed to hold competitive position; structural cause is historical-cost depreciation vs. current replacement costs; disparity "will prevail for decades"; industry-wide across Class I railroads; illustrates [[owner-earnings]] applied to infrastructure; competitive context: 3¢/ton-mile vs. 4–5¢ for other four Class I railroads; 6:1 interest coverage in a weak freight year; Buffett rejects EBITDA-based coverage as "seriously flawed"

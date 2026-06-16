@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-25
 updated: 2026-06-16
-sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2016-letter, berkshire-2020-letter, berkshire-2021-letter]
+sources: [berkshire-1980-letter, berkshire-1982-letter, berkshire-1984-letter, berkshire-1985-letter, berkshire-1999-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2016-letter, berkshire-2020-letter, berkshire-2021-letter, berkshire-2022-letter]
 tags: [capital-allocation, repurchases, signaling]
 related: [[stock-as-acquisition-currency]], [[intrinsic-value-vs-book-value]], [[dividend-policy]], [[washington-post]], [[incentive-compensation]], [[owner-orientation]]
 ---
@@ -161,6 +161,16 @@ Critics sometimes argue that share repurchases divert capital from productive en
 
 The objection conflates financial-market activity with real-economy investment. When a company repurchases shares, it does not destroy capital — it returns it to shareholders who redeploy it elsewhere. Whether that redeployment is more or less productive than what the original company would have done with the funds is an empirical question in each case, but the capital itself continues to circulate. ([[berkshire-2016-letter]])
 
+## The political defense (2022)
+
+The 2022 letter adds the sharpest political rhetoric against repurchase critics in the series — a rebuttal not of the economics but of the rhetorical attack. In prior letters, Buffett had addressed the "un-American" charge (2016) by arguing that repurchases return capital to shareholders who redeploy it elsewhere. The 2022 letter takes a harder line:
+
+> When you are told that all repurchases are harmful to shareholders or to the country, or to CEOs, you are listening to either an economic illiterate or a silver-tongued demagogue (characters that are not mutually exclusive). ([[berkshire-2022-letter]])
+
+The context is the three-partner auto dealership analogy: "Imagine… three fully-informed shareholders of a local auto dealership, one of whom manages the business. Imagine, further, that one of the passive owners wishes to sell his interest back to the company at a price attractive to the two continuing shareholders. When completed, has this transaction harmed anyone? Is the manager somehow favored over the continuing passive owners? Has the public been hurt?" 
+
+The analogy captures three things the political critique misses: (1) the selling shareholder is willing, fully informed, and receives a fair price; (2) continuing shareholders gain; (3) no public harm occurs. The only condition under which repurchases are harmful — overpaying, thereby transferring value from continuing owners to departing ones — is exactly the condition responsible managers must avoid, and it's already covered by the core doctrine.
+
 ## How it's discussed in sources
 
 - [[berkshire-1980-letter]] — debut as a recurring theme; the auction-vs-negotiated framing
@@ -173,6 +183,7 @@ The objection conflates financial-market activity with real-economy investment. 
 - [[berkshire-2016-letter]] — the three-partner arithmetic illustration; the CEO declaration ("what is smart at one price is stupid at another"); two exceptions when underpriced shares should still not be repurchased; the 120%-of-book authorization interpreted (not "propping"; blend meaningful volume with market restraint); the missing price-ceiling discipline in most corporate announcements; the "un-American" charge rebutted
 - [[berkshire-2020-letter]] — the Apple double-compounding example (5.2% → 5.4% despite selling a portion); CEOs' anti-pattern of buying high rather than low; $24.7B Berkshire buybacks (~5% of shares)
 - [[berkshire-2021-letter]] — the float-per-share multiplier: buybacks automatically increase float per share; 9% share-count reduction over 2019–2021 produced 25% float-per-"A"-share growth ($79,387 → $99,497); the three-path hierarchy (internal growth > minority stakes > buybacks) with 2021's explicit ranking; $51.7B of repurchases over 2020–2021 retiring 9% of outstanding shares; the high-class investor base noted as a natural structural limiter on buyback volume (low turnover means fewer sellers at discounted prices)
+- [[berkshire-2022-letter]] — 1.2% buyback of Berkshire shares; Apple and AmEx simultaneously reduced share counts, increasing Berkshire's ownership "without any cost to us"; the three-partner auto dealership analogy for why value-accretive repurchases benefit all continuing owners; the political defense ("economic illiterate or silver-tongued demagogue"); the math restated plainly: "When the share count goes down, your interest in our many businesses goes up. Every small bit helps if repurchases are made at value-accretive prices"
 
 ## Related
 

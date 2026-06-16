@@ -3,7 +3,7 @@ type: concept
 status: draft
 created: 2026-05-24
 updated: 2026-06-16
-sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-2020-letter]
+sources: [berkshire-1977-letter, berkshire-1978-letter, berkshire-2020-letter, berkshire-2022-letter, berkshire-2023-letter]
 tags: [equities, capital-allocation, investment-framework, control]
 related: [[acquisition-criteria]], [[look-through-earnings]]
 ---
@@ -39,11 +39,27 @@ Passive ownership only realizes its full advantage when pursued with conviction.
 
 Half-hearted diversification into many minority stakes eliminates the price-discount advantage without the benefits of conviction concentration.
 
+## The flowers-and-weeds portfolio dynamic (2022)
+
+The 2022 letter articulates a portfolio-level consequence of the passive-ownership advantage that goes beyond the per-position economics: over long holding periods, a few great minority positions grow to dominate a portfolio by sheer weight, while mediocre investments shrink to irrelevance in percentage terms — even if they are never sold.
+
+The illustration: Berkshire purchased $1.3 billion of Coca-Cola (completing in 1994) and $1.3 billion of American Express (completing in 1995). By yearend 2022, Coke was worth $25 billion and AmEx was worth $22 billion — each approximately 5% of Berkshire's net worth. A hypothetical flat investment of the same $1.3 billion (Buffett's example: "a high-grade 30-year bond") would now represent an insignificant 0.3% of Berkshire's net worth, producing an unchanged ~$80 million of annual income.
+
+Buffett's summary: "The lesson for investors: The weeds wither away in significance as the flowers bloom. Over time, it takes just a few winners to work wonders." ([[berkshire-2022-letter]])
+
+The implication for portfolio construction: because excellent businesses compound their value and their dividends over decades, the investor does not need to exit mediocre holdings — time itself corrects the portfolio composition. The principal requirement is that the *flowers* exist and are held. This dynamic is why the know-something investor's decision of where to concentrate, rather than how many positions to hold, determines long-run outcomes.
+
+Importantly, this dynamic only works for minority positions in genuinely excellent businesses — businesses whose retained earnings compound into rising franchise value and growing dividends. The same holding-period arithmetic applied to a mediocre business produces flat returns that indeed wither to irrelevance, but without the flower that grows in proportion. The two-part criterion — wonderful business at a sensible price, held without trading — is what makes the asymmetry possible. See [[cigar-butts-vs-wonderful-businesses]] and [[concentration-vs-diversification]].
+
 ## How it's discussed in sources
 
 - [[berkshire-1977-letter]] — introduced via Capital Cities; the "unorthodox view" that non-control can produce better management results than control
 - [[berkshire-1978-letter]] — deepened via SAFECO; the explicit logic that controlling an excellent business would lead to the same behavior as passive ownership anyway, at a much higher cost
 - [[berkshire-2020-letter]] — the clearest articulation in the letter series: "Two Strings to Our Bow" explains why passive minority ownership escapes the failure cascade that destroyed 1960s conglomerates; the access-failure chain (best businesses won't sell → adverse selection into mediocre targets → control premiums → overvalued-stock currency → deceptive accounting → collapse); the structural escape: "Owning a non-controlling portion of a wonderful business is more profitable, more enjoyable and far less work than struggling with 100% of a marginal enterprise." The Apple stake (5.2% → 5.4% despite selling) is the worked case
+
+- [[berkshire-2022-letter]] — the "flowers bloom, weeds wither" portfolio-weight dynamic: Coke ($1.3B → $25B) and AmEx ($1.3B → $22B) each now 5% of net worth; a flat $1.3B bond equivalent would be 0.3% of net worth delivering unchanged income; "over time, it takes just a few winners to work wonders"
+
+- [[berkshire-2023-letter]] — the principle applied outside the U.S. and outside consumer franchises: the five [[japanese-trading-houses]] (large, long-term, non-controlling ~9% stakes "we expect to maintain indefinitely") and Occidental Petroleum (27.8% plus warrants) are both described as "passive and long-term" positions that "illustrate our thought processes" — not controlled and not intended to be; the Japanese stakes are explicitly capped at 9.9% by pledge. The frame is the same as Coke/AmEx: own meaningful pieces of well-run businesses with shareholder-friendly capital allocation, hold them, and let the businesses do the work
 
 ## Related
 
