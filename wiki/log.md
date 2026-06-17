@@ -8,6 +8,30 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-17] refactor | berkshire-2003-letter
+
+Before scores: A2 / B2 / C3 / D1 / E2 — average 2.0. After scores: A4 / B4 / C4 / D4 / E4 — average 4.0. Page was `draft`; remains `draft`.
+
+**Cut:**
+- 11 extra sections outside template (Clayton origin story, McLane standalone, two corporate-governance subsections, Gen Re confession subsection, Insurance segment table, Float table [10-row × 5-col], MidAmerican Energy detail, Earnings growth table, Portfolio table [11-row × 5-col], Designated gifts program)
+- 13 notable quotes dropped (from 23 to 10); all 10 retained quotes map to a surviving Key theme
+- `related` trimmed from 27 to 11 load-bearing slugs
+- `tags` trimmed from 10 to 5
+- People list cut from 30+ to 4 (dropped Phil Fulmer, George W. Bush, George Pataki, Pamela Olson, Leo Goodwin, Eliot Spitzer, Rod Eldred/Kizer/Nerney/Towle/Wurster, Ron Peltier, Joe Steinberg, Ian Cumming, Mark Byrne, Maggie Mahar, Bethany McLean, Peter Elkind, Bob Rubin, Jason Zweig, Dr. Al Auxier, Byron Trott, Jim/Kevin Clayton, Tom Schoewe, Joe Brandon, Tad Montross, Tony Nicely, Stan Lipsey, Bob Shaw, John Holland, Rich Santulli, Ron Olson, David Gottesman, Charlotte Guyman, Don Keough, Ben Graham, Rose Blumkin, Dave Sokol, Greg Abel, Walter Scott — all transactional or peripheral)
+- Entities cut from 24+ to 6 (dropped Oakwood Homes, Coca-Cola, American Express, Gillette, Washington Post, Wells Fargo, Moody's, M&T Bank, H&R Block, HCA, PetroChina, Nebraska Furniture Mart, Buffalo Evening News, See's Candies, Borsheims, Shaw Industries, Fruit of the Loom, Acme Brick, Benjamin Moore, MiTek, Johns Manville, FlightSafety, NetJets)
+- Removed residual wiki-link syntax `[[ron-olson|Ron Olson]]`
+
+**Reframed:**
+- Summary rewritten from events-recap to lesson-forward; opening now names 4 durable principles, not headline transactions
+- Key themes restructured as titled mini-essays, each stating the transferable principle and why it generalizes
+- Clayton theme reframed from "Tennessee-students story" to "how securitization destroys a viable industry"
+- Two governance themes (mutual funds + Berkshire board) unified into one mini-essay
+- Gen Re theme reframed as "the compounding cost of known inaction" with 1974 precedent included
+
+**Index corrected:** old entry said "the Noah Rule coined" — phrase does not appear in the raw 2003 letter; replaced with accurate angle.
+
+**Deliberately skipped:** CEO-pay theme demoted from Key theme to Concepts entry (thinner material; no theme-specific quote kept); MidAmerican efficiency data point noted in entity entry only; "every tub on its own bottom" phrasing folded into securitization Key theme; foreign-currency position noted in Capital-allocation concept entry; junk-bond round-trip not surfaced as a standalone theme.
+
 ## [2026-06-16] lint | berkshire-2024-letter post-ingest review
 
 Findings from /review-ingest audit of the 2024 ingest, applied after user confirmation.

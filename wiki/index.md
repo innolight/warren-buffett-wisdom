@@ -96,7 +96,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [berkshire-2000-letter](sources/berkshire-2000-letter.md) — Aesop bird-in-hand investment reformulation; dot-com critique
 - [berkshire-2001-letter](sources/berkshire-2001-letter.md) — super-cat market hardens; Gen Re reserve shortfall; terrorism risk essay
 - [berkshire-2002-letter](sources/berkshire-2002-letter.md) — "financial weapons of mass destruction" derivatives essay; corporate governance critique; "owner-capitalism" coined
-- [berkshire-2003-letter](sources/berkshire-2003-letter.md) — McLane and Clayton acquisitions; the Noah Rule coined; Gen Re derivatives runoff
+- [berkshire-2003-letter](sources/berkshire-2003-letter.md) — securitization corrupts originate-and-distribute (Clayton diagnosis); owner-capitalism vs. statutory independence; the compounding cost of known inaction (Gen Re dithering)
 - [berkshire-2004-letter](sources/berkshire-2004-letter.md) — definitive GEICO founding history; NICO cultural model and fear-factor countermeasure; Lou Simpson as the cleanest second-Buffett record; Matthew 6:21 director independence test
 - [berkshire-2005-letter](sources/berkshire-2005-letter.md) — Gotrocks investment-friction essay; Fred Futile CEO-compensation arithmetic
 - [berkshire-2006-letter](sources/berkshire-2006-letter.md) — 2-and-20 arithmetic; Walter Schloss as efficient-market refutation; newspaper moat erosion essay; first international acquisition (ISCAR)
