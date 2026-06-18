@@ -62,7 +62,7 @@ Rewrite the page from the critique toward the gold standard. The target shape, i
 
 **Faithfulness:** every retained figure and quote must match the raw letter. Do not invent or smooth numbers. Preserve genuine [supersession](#) nuance per CLAUDE.md (don't flatten a view that shifted across years).
 
-**Length:** the rewrite should end up **materially shorter** than the original — the gold-standard pages run ~1,200–2,200 words. Cutting tables but letting prose balloon means you're still transcribing; if the rewrite isn't clearly shorter, you haven't distilled. Compress operational recaps into the lesson; don't relocate them.
+**Length:** the rewrite should end up **materially shorter** than the original — the gold-standard pages run ~1,200–2,200 words for the whole body (everything after the frontmatter, quotes and lists included). Cutting tables but letting prose balloon means you're still transcribing; if the rewrite isn't clearly shorter, you haven't distilled. Compress operational recaps into the lesson; don't relocate them. Exception: if the original is already inside that band, the win is structural (kill tables and off-template sections, lift altitude) rather than raw word reduction — don't pad, but don't force a deep cut that wasn't there.
 
 **Frontmatter:** update `updated` to today; trim `related` to ~8 load-bearing slugs (the gold-standard pages run 7–11) and `tags` to ~5 (drop tags that merely echo a `related` slug); if `status` was `reviewed`, demote to `draft` (a `draft` page stays `draft`).
 

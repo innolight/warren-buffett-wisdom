@@ -89,13 +89,13 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [berkshire-1993-letter](sources/berkshire-1993-letter.md) — risk-vs-beta canonical essay; concentration-vs-diversification essay; corporate-governance three modes; Dexter Shoe mistake
 - [berkshire-1994-letter](sources/berkshire-1994-letter.md) — Scott Fetzer intrinsic-value-vs-book-value case study; capital-allocation essay (MBA/day-laborer); USAir post-mortem
 - [berkshire-1995-letter](sources/berkshire-1995-letter.md) — GEICO taken to full ownership; float-as-equity; the Davidson tribute
-- [berkshire-1996-letter](sources/berkshire-1996-letter.md) — GEICO fully integrated; Dexter Shoe stock-payment admission
-- [berkshire-1997-letter](sources/berkshire-1997-letter.md) — General Re announced; Goizueta tribute; look-through earnings table
-- [berkshire-1998-letter](sources/berkshire-1998-letter.md) — General Re closes; derivatives-book concern first raised; stock-options expensing fight
-- [berkshire-1999-letter](sources/berkshire-1999-letter.md) — 20th-century equity return framework; circle of competence and tech abstention
-- [berkshire-2000-letter](sources/berkshire-2000-letter.md) — Aesop bird-in-hand investment reformulation; dot-com critique
-- [berkshire-2001-letter](sources/berkshire-2001-letter.md) — super-cat market hardens; Gen Re reserve shortfall; terrorism risk essay
-- [berkshire-2002-letter](sources/berkshire-2002-letter.md) — "financial weapons of mass destruction" derivatives essay; corporate governance critique; "owner-capitalism" coined
+- [berkshire-1996-letter](sources/berkshire-1996-letter.md) — "The Inevitables" framework named (Coke, Gillette); GEICO virtuous circle articulated; first unhedged index-fund recommendation
+- [berkshire-1997-letter](sources/berkshire-1997-letter.md) — Ted Williams strike zone, hamburger/"dis-investors" analogy, "A Confession" on stock-issuance, catastrophe-bond dice essay, and first margin-of-safety warning
+- [berkshire-1998-letter](sources/berkshire-1998-letter.md) — canonical float three-determinants essay; permanent capital dissolves the reinsurance paradox; Son of Gresham on earnings management
+- [berkshire-1999-letter](sources/berkshire-1999-letter.md) — dot-com trough; canonical circle-of-competence statement, post-bubble buyback-abuse critique, goodwill-accounting reform, and General Re's first expensive float lesson
+- [berkshire-2000-letter](sources/berkshire-2000-letter.md) — canonical Aesop three-question valuation framework; float's permanent structural cost via retroactive reinsurance; seller character as acquisition quality signal
+- [berkshire-2001-letter](sources/berkshire-2001-letter.md) — Noah rule; experience-vs.-exposure pricing error; "loss development" accounting critique; MiTek owner-alignment as the antidote to option repricing
+- [berkshire-2002-letter](sources/berkshire-2002-letter.md) — "weapons of mass destruction" derivatives essay; three insurance disciplines via Gen Re's failure; boardroom-atmosphere theory of governance
 - [berkshire-2003-letter](sources/berkshire-2003-letter.md) — securitization corrupts originate-and-distribute (Clayton diagnosis); owner-capitalism vs. statutory independence; the compounding cost of known inaction (Gen Re dithering)
 - [berkshire-2004-letter](sources/berkshire-2004-letter.md) — definitive GEICO founding history; NICO cultural model and fear-factor countermeasure; Lou Simpson as the cleanest second-Buffett record; Matthew 6:21 director independence test
 - [berkshire-2005-letter](sources/berkshire-2005-letter.md) — Gotrocks investment-friction essay; Fred Futile CEO-compensation arithmetic

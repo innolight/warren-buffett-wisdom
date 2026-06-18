@@ -8,6 +8,87 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-18] refactor | berkshire-2002-letter
+
+- Refined via `/refine-source --auto`. Before A2 B3 C3 D1 E2 (avg 2.2) → after A4 B5 C4 D5 E5 (avg 4.6)
+- ~4,628-word archive transcript → ~2,014-word distillation (~57% shorter)
+- Cut 12 non-template sub-sections (derivatives essay, Gen Re cleanup, cost-of-float table, GEICO update, Ajit mechanics, MidAmerican, acquisitions, governance essay, audit committee, FASB/options history, investor suggestions, investments table); 2 archive tables replaced with one-line summaries in Entities entries
+- 36 quotes → 10 (all verified verbatim against raw; none orphaned; all tied to surviving Key themes)
+- People 26+ → 4; Entities 20+ → 5; Concepts 16 (8 unlinked plain-text) → 8 (all linked, added corporate-governance.md)
+- `related` 20 → 9; `tags` 9 → 5
+- Corrected index entry: removed incorrect "owner-capitalism coined" attribution (coined in 2003, not 2002)
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-2001-letter
+
+- Refined via `/refine-source`. Before A2 B3 C3 D1 E2 (avg 2.2) → after A4 B5 C4 D5 E5 (avg 4.6)
+- ~4,100-word archive transcript → ~1,750-word distillation (~57% shorter)
+- Cut 3 data tables (float by segment, sources of reported earnings, portfolio) + 1 verbatim-section reproduction (three underwriting principles) + 5 extra non-template sections
+- 15 Key themes → 5 titled mini-essays; 20 quotes → 9 (all verified verbatim, none orphaned)
+- People 29 → 4; Entities 32 → 4; Concepts 16 → 7; `related` 21 → 8; `tags` 10 → 5
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-2000-letter
+
+- Refined via `/refine-source`. Before A2 B3 C3 D1 E2 (avg 2.2) → after A4 B4 C4 D4 E5 (avg 4.2)
+- ~4,070-word archive transcript → ~2,190-word distillation (~46% shorter)
+- Cut 5 archive tables (eight-acquisitions, cost-of-float, GEICO history, portfolio, look-through earnings); 6 off-template sections collapsed; 12 Key themes → 7 mini-essays; 22 quotes → 9 (all verified verbatim, none orphaned)
+- People 20+ named entries → 5 wiki-linked (applied People test; acquisition principals, Aesop, Ben Franklin, Arthur Levitt Jr., minor insurance managers all removed); Entities 15 → 6; Concepts 10 → 7 (removed 2 implicit entries: `franchise-vs-business`, `owner-earnings`); `related` 31 → 8; `tags` 8 → 5
+- `valuation-framework` slug now used (was absent despite the page existing); two structures (pain-today vs. retroactive reinsurance) now correctly distinguished in the float theme
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-1998-letter
+
+- Refined via `/refine-source`. Before A4 B4 C4 D4 E3 (avg 3.8) → after A4 B4 C4 D5 E4 (avg 4.2)
+- Added entity hyperlinks (General Re, Executive Jet/NetJets) and person hyperlink (Tony Nicely); removed Ron Ferguson from People (no page, fails People test)
+- Rewrote "Size creates its own ceiling" → "Scale forces discipline" (now opens with the generalizable principle); trimmed permanent-capital deal chronicle to one principle-forward sentence
+- Quotes 10 → 9 (dropped a Berkshire-specific/truncated quote; all 9 verified verbatim); `related` 9 → 8
+- Corrected index entry: prior "derivatives-book concern first raised" is a 2002 theme, not 1998
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-1997-letter
+
+- Refined via `/refine-source --auto`. Before A2 B3 C3 D1 E1 (avg 2.0) → after A5 B5 C4 D5 E5 (avg 4.8)
+- ~4,200-word archive transcript → ~2,000-word distillation (~52% shorter)
+- Cut 7 off-template archive sections (intrinsic-value, cost-of-float, GEICO five-year, unconventional-commitments, portfolio holdings, look-through tables) + acquisitions narrative + convertible-preferred coda; 12 Key bullets → 6 titled mini-essays
+- 23 quotes → 9 (all verified verbatim, none orphaned)
+- `related` 33 → 8; `tags` 11 → 5; People 23 → 6; Entities 22 → 4; Concepts 11 → 6 (removed 1 implicit: institutional-imperative)
+- Corrected index entry: prior "General Re announced" is a 1998 event, not 1997
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-1996-letter
+
+- Refined via `/refine-source --auto`. Before A2 B3 C3 D1 E2 (avg 2.2) → after A5 B5 C4 D4 E5 (avg 4.6)
+- ~3,825-word archive transcript → ~2,050-word distillation (~46% shorter)
+- Cut 3 full data tables (portfolio, look-through, intrinsic-value) and 13 standalone transcript sub-sections; 15 Key-themes bullets → 6 principled mini-essays; 22 quotes → 8 (all verbatim-verified, none orphaned)
+- People 20+ → 6; Entities 19 → 7; Concepts 14 → 6 (deleted implicit mr-market entry); `related` 31 → 8; `tags` 8 → 5
+- Corrected index entry: prior "Dexter Shoe stock-payment admission" does not appear in the 1996 letter; replaced with Inevitables / GEICO virtuous circle / index-fund recommendation
+- Note: 1996 contains the first explicit circle-of-competence statement; `circle-of-competence.md` currently lists only 1999 onward — flag for concept-page update
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-1999-letter
+
+- Refined via `/refine-source`. Before A2 B3 C3 D1 E2 (avg 2.2) → after A4 B4 C4 D5 E5 (avg 4.4)
+- ~4,780-word archive transcript → ~2,340-word distillation (~51% shorter)
+- Cut 5 data tables (two-column intrinsic-value, float, look-through, portfolio, GEICO scorecard); 9 non-template sections collapsed; 14 Key themes → 6 mini-essays; 21 quotes → 9 (all verified verbatim, none orphaned)
+- People 18 → 4; Entities 18 → 6 (dropped "not active in 1999" placeholders); Concepts cut 2 implicit entries; `related` 33 → 8; `tags` 10 → 5
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-1992-letter
+
+- Refined via `/refine-source`. Before A2 B2 C2.5 D2 E2 (avg 2.1) → after A4 B4 C4 D5 E5 (avg 4.4)
+- Cut 8 non-template standalone sections and 2 archive tables (portfolio, cost-of-float); 7 thin chronicle bullets → 5 principled mini-essays; margin-of-safety promoted to a Key theme
+- Quotes 12 → 9 (all verbatim; removed 1 paraphrase); People 9 → 4; Entities 11 → 4; `related` 29 → 9; `tags` 6 → 5
+- Fixed factual error: removed Colman Mockler from People (commemorated in the 1991 letter, not mentioned in 1992); dropped `franchise-vs-business` (implicit-only)
+- Connections now trace the 1977 letter thread the raw letter explicitly cites. Status remains draft
+
+## [2026-06-18] refactor | berkshire-1985-letter
+
+- Refined via `/refine-source`. Before A3 B3 C3 D2 E3 (avg 2.8) → after A4 B5 C4 D5 E5 (avg 4.6)
+- ~2,500-word page → ~1,700 (~32% shorter); cut 4 tables (securities portfolio, Burlington, three-business goodwill, savings-account math) and 6 standalone sections, compressed into Key themes
+- Quotes 10 → 9 (none orphaned; added the buried EMT/efficient-market quote, dropped a duplicate commodity-trap quote); People 8 → 5 (removed unlinked Ken Chace/Garry Morrison); Concepts 11 → 7 (dropped 3 implied); `related` 7 → 8; `tags` 7 → 5
+- Status remains draft
+
 ## [2026-06-17] refactor | berkshire-2003-letter
 
 Before scores: A2 / B2 / C3 / D1 / E2 — average 2.0. After scores: A4 / B4 / C4 / D4 / E4 — average 4.0. Page was `draft`; remains `draft`.
