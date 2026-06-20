@@ -2,7 +2,7 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-25
+updated: 2026-06-20
 source_type: annual-letter
 author: warren-buffett
 year: 1980
@@ -22,9 +22,7 @@ Operating earnings $41.9M; return on beginning equity (securities at cost) 17.8%
 - **The investor's misery index, restated for the 1980s.** A business earning 20% on equity, paying it all out to investors in the 50% tax bracket, in 12% inflation: chews up real capital. Most equity capital is not even partially indexed — true indexing requires earnings that consistently rise with the price level *without additional capital reinvestment.* Berkshire isn't one of those rare businesses. See [investor-misery-index](../concepts/investor-misery-index.md).
 - **GEICO is a franchise, not a turnaround.** The 1980 holding of 7.2 million shares (~33%) cost $47M; market value $105.3M; estimated Berkshire share of earning power ~$20M annually vs. ~$3M actually received as dividends. The 1976 near-bankruptcy is reframed as an "extraordinary business franchise with a localized excisable cancer" — like American Express in 1964 after the salad-oil scandal — distinguished from a true turnaround "where the managers expect — and need — to pull off a corporate Pygmalion." Jack Byrne supplied the surgery; the underlying low-cost franchise was intact throughout. The GEICO buyback that reduced share equivalents from 34.2M to 21.6M is praised. See [geico](../entities/geico.md) and [turnarounds-seldom-turn](../concepts/turnarounds-seldom-turn.md).
 - **The bond-duration trap.** Many P&C insurers carry long-term bonds at amortized cost equal to 2–3x net worth; market values are far below. Recognizing the losses would wipe out stated net worth at major companies. Result: insurers cannot afford to let premium volume shrink (which would force bond sales and loss realization), so they write at any price — "asset-maintenance underwriting." This locks in industry-wide pricing inadequacy for as long as the bond losses persist. A second-order pathology: tax-exempt → taxable swaps that would otherwise be sensible become impossible.
-- **Disposition of the Illinois National Bank.** Year-end 1980, the Bank Holding Company Act forced separation; Berkshire offered shareholders a proportional exchange option. 24 of ~1,300 shareholders took the basic exchange; 39 took overexchanges. Buffett took the residual.
-- **Long-term-debt financing for unspecified opportunities.** $60M of 12¾% notes due 2005. Rationale: "we borrowed because we think that, over a period far shorter than the life of the loan, we will have many opportunities to put the money to good use. The most attractive opportunities may present themselves at a time when credit is extremely expensive — or even unavailable."
-- **Gene Abegg obituary.** Founder of the Illinois National Bank, died July 1980, age 82. "From the time we first met, Gene shot straight 100% of the time."
+- **Borrow ahead of need, while credit is available.** $60M of 12¾% notes due 2005, raised against no specific deal. The principle: liquidity is most valuable precisely when it is scarcest, so a strong balance sheet should arm itself in advance. "We borrowed because we think that, over a period far shorter than the life of the loan, we will have many opportunities to put the money to good use. The most attractive opportunities may present themselves at a time when credit is extremely expensive — or even unavailable." (The Bank Holding Company Act forced the year-end spin-off of the Illinois National Bank — chronicle on the [berkshire-hathaway](../entities/berkshire-hathaway.md) page.)
 
 ## Entities discussed
 
@@ -38,8 +36,7 @@ Operating earnings $41.9M; return on beginning equity (securities at cost) 17.8%
 
 - [warren-buffett](../people/warren-buffett.md) — author
 - Jack Byrne — GEICO operator post-1976; supplied the "managerial brilliance" needed to resuscitate (folded into [geico](../entities/geico.md) page)
-- Phil Liesche, George Young, Floyd Taylor, Milt Thornton, Dan Grossman — operating managers; year-specific
-- Gene Abegg — Illinois National Bank founder; obituary (decision per prior refactor: not separately paged; the Berkshire-Hathaway page carries the fold-in)
+- Gene Abegg — Illinois National Bank founder, died July 1980; carries the recurring manager-integrity lesson ("From the time we first met, Gene shot straight 100% of the time"). Not separately paged; fold-in lives on the [berkshire-hathaway](../entities/berkshire-hathaway.md) page
 
 ## Concepts introduced or discussed
 

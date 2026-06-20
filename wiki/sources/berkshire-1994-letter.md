@@ -2,54 +2,102 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-27
+updated: 2026-06-18
 source_type: annual-letter
 author: warren-buffett
 year: 1994
 raw_path: raw/berkshire-letters/1994.md
-tags: [berkshire, annual-letter, scott-fetzer-case-study, compensation, usair-mistake, capital-allocation, american-express]
-related: [warren-buffett, berkshire-hathaway, scott-fetzer, ralph-schey, intrinsic-value-vs-book-value, incentive-compensation, usair, charlie-munger, coca-cola, american-express, capital-cities, gillette, geico, washington-post, wells-fargo, salomon, national-indemnity, ben-graham, ajit-jain, carl-reichardt, roberto-goizueta, mistakes-of-omission, volatility-as-opportunity, float, concentration-vs-diversification, capital-allocation]
+tags: [berkshire, annual-letter, capital-allocation, intrinsic-value, mistakes]
+related: [warren-buffett, charlie-munger, berkshire-hathaway, scott-fetzer, usair, intrinsic-value-vs-book-value, incentive-compensation, capital-allocation]
 ---
 
 # Berkshire Hathaway 1994 Annual Letter
 
-Dated March 7, 1995. Per-share book value up 13.9% to $10,083. The headline 1994 events: Coca-Cola addition to 100M shares; major American Express position built; Cap Cities increased; USAir writedown ($269M to 25% of par); Carl Reichardt and Dan Burke retire. Canonical essays: the **[scott-fetzer](../entities/scott-fetzer.md) accounting case study** of intrinsic-value-vs-book-value divergence, the **compensation essay** centered on [ralph-schey](../people/ralph-schey.md), the **capital-allocation essay** with the MBA / day-laborer analogy, and the **[usair](../entities/usair.md) post-mortem** with the "unforced error" framing fully developed.
+The 1994 letter is among the most teaching-dense in the Berkshire canon. In a single year's letter Buffett delivers canonical essays on three durable problems in business and investing: why book value systematically understates intrinsic value (the Scott Fetzer eight-year proof), why most corporate compensation plans are misaligned by design (the Ralph Schey contrast), and why acquirers who track earnings-per-share destroy intrinsic value per share (the MBA/day-laborer analogy). The USAir post-mortem provides the negative case study: a commodity business that could not escape structural cost disadvantage once regulation ended. Per-share book value rose 13.9% to $10,083; the more important news was in the reasoning.
 
 ## Key themes
 
-- **Scott Fetzer case study.** Eight-year intrinsic-value-vs-book-value analysis. Book value declined from $172.6M (1986) to $94M (1994) through distributions exceeding earnings, while pre-tax earnings nearly doubled. The intrinsic-value-vs-carrying-value gap is "now huge."
-- **Compensation essay (Ralph Schey).** Five-minute agreement; symmetric incentives (capital charge for incremental capital deployed, equal credit for capital released); never amended. The structural critique of typical "alignment" plans as "heads I win, tails you lose."
-- **Capital allocation essay.** MBA / day-laborer analogy. "Animal spirits" CEOs. "Chain letter in reverse" (John Medlin, Wachovia). The interior-decorator analogy. Wayne Gretzky's "go to where the puck is going to be."
-- **USAir post-mortem.** Full "unforced error" framing. [commodity-business-economics](../concepts/commodity-business-economics.md) with regulatory lag. "You don't have to make it back the way that you lost it." $269M writedown to $89.5M (25% of par); dividend suspended September 1994; Buffett/Munger resign from board.
-- **[coca-cola](../entities/coca-cola.md) to 100M shares.** Cost $1.298B; market $5.15B at yearend.
-- **[american-express](../entities/american-express.md) major addition.** 27.76M shares; cost $723.9M; ~5.5% of company.
-- **[capital-cities](../entities/capital-cities.md) increased.** From 2M to 20M shares (3-for-1 split adjustment). Cost $345M; market $1.705B.
-- **Mistake du jour (Cap Cities 1993 sale).** Sold 10M at $63 in late 1993; year-end 1994 price $85.25. $222.5M of damage by then.
-- **PNC Bank Corporation, Gannett added.**
+### Book value is the input; intrinsic value is the measure
+
+The 1994 Scott Fetzer case study is the canonical proof that book value and intrinsic value can move in opposite directions for years. Over eight years (1986–1994), Scott Fetzer's earnings nearly doubled — from $40M to $79M — while book value declined from $172.6M to $94M as distributions consistently exceeded earnings. Carrying value on Berkshire's books fell to $148.2M (Scott Fetzer's $94M equity plus $54.2M of unamortized purchase premium). Intrinsic value "has consistently grown," and the gap is "now huge."
+
+The accounting mechanism is the lesson: purchase-premium amortization charges reduce both reported earnings and carrying value every year, even when the underlying business is generating more and more cash. An investor who reads book value as the measure will systematically underestimate what a high-quality, high-goodwill business is worth. The education analogy sharpens this: the cost of a degree is its book value; the stream of higher future earnings is its intrinsic value. These diverge, and only the discounted cash stream matters.
+
+See [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) and [scott-fetzer](../entities/scott-fetzer.md).
+
+### Compensation alignment requires symmetry, not just upside participation
+
+Buffett's five-minute arrangement with Scott Fetzer CEO [Ralph Schey](../people/ralph-schey.md) is the counter-example to every stock-option plan in corporate America. The structure: Schey's bonus ties to Scott Fetzer results only (not Berkshire's overall performance); capital is charged at a high rate when he deploys more and credited at an equally high rate when he releases it. Two-way, symmetric, simple — and unchanged since its inception in 1986.
+
+The structural critique of typical option plans: a ten-year option at a fixed exercise price, combined with low dividends and compound retained earnings, creates value growth that has nothing to do with management skill. "The combination of a ten-year option, a low dividend payout, and compound interest can provide lush gains to a manager who has done no more than tread water in his job." Plans marketed as "alignment" that only pay off on the upside are, in Buffett's formulation, "artful forms of 'heads I win, tails you lose.'" True alignment in the Berkshire sense means carrying the same exposure in both directions.
+
+See [incentive-compensation](../concepts/incentive-compensation.md).
+
+### Acquirers who track EPS destroy intrinsic value per share
+
+The 1994 capital-allocation essay crystallizes the most dangerous logic in corporate M&A. Managers who evaluate acquisitions by their effect on near-term earnings-per-share will reliably overpay. The MBA/day-laborer swap illustrates why: a 25-year-old MBA student, currently a non-earner, would dramatically boost current-year earnings by merging with a day laborer — and would obviously be destroying intrinsic value. Corporate acquirers make the identical error when they ignore the differing intrinsic values, growth prospects, and capital structures of target and acquirer.
+
+The institutional force amplifying this error: CEOs with "animal spirits and ego" who ask advisors whether to make deals are asking the wrong people. "That's like asking your interior decorator whether you need a $50,000 rug." When done repeatedly, value-destroying acquisitions compound into what retired Wachovia head John Medlin called "a chain letter in reverse." Buffett's alternative: follow Wayne Gretzky — "go to where the puck is going to be, not to where it is" — and evaluate targets on future intrinsic value, not current earnings dilution.
+
+See [capital-allocation](../concepts/capital-allocation.md) and [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md).
+
+### In commodity businesses, costs are destiny
+
+The USAir post-mortem is the canonical commodity-business failure case. Buffett's "unforced error" admission from 1990 ($358M preferred stock purchase) culminates here with a $269M writedown to $89.5M — 25 cents on the dollar. The diagnosis: USAir was a high-cost carrier protected by regulation, which let it pass costs through as high fares. Deregulation removed the shield gradually — initially, low-cost-carrier capacity was small enough that legacy fares held. But as Southwest and others scaled, the structural logic reasserted itself: "In an unregulated commodity business, a company must lower its costs to competitive levels or face extinction. This principle should have been obvious to your Chairman, but I missed it."
+
+The generalization extends beyond airlines: any business competing on commodity terms cannot sustain above-market costs indefinitely. Regulation can mask the problem; deregulation or commoditization reveals it. Buffett and Munger resigned from USAir's board and applied the lesson forward: "You don't have to make it back the way that you lost it."
+
+See [usair](../entities/usair.md) and [commodity-business-economics](../concepts/commodity-business-economics.md).
+
+### Price, not time — macro fear is the fundamentalist's opportunity
+
+The opening of the letter delivers a compact case against macro forecasting. In Berkshire's 30-year history, no prediction of Vietnam escalation, oil shocks, Watergate, the Soviet collapse, or the 1987 market crash would have improved capital deployment decisions. "We have usually made our best purchases when apprehensions about some macro event were at a peak. Fear is the foe of the faddist, but the friend of the fundamentalist."
+
+The practical expression: Berkshire completed its 100M-share Coca-Cola position and built a major American Express stake (27.76M shares, ~5.5% of the company, cost $723.9M) without any macro timing signal. "We try to price, rather than time, purchases. In each case, we pondered what the business was likely to do, not what the Dow, the Fed, or the economy might do." The Ted Williams selectivity principle reinforces this: waiting for your pitch — not swinging at anything to stay active — is what separates the .344 hitter from the .250 hitter.
+
+See [volatility-as-opportunity](../concepts/volatility-as-opportunity.md).
+
+## Entities discussed
+
+- [berkshire-hathaway](../entities/berkshire-hathaway.md) — book value +13.9% to $10,083/share; look-through earnings $1.03B, tracking toward $1.85B target by 2000
+- [scott-fetzer](../entities/scott-fetzer.md) — eight-year proof that declining book value ($172.6M → $94M) can accompany rising intrinsic value (earnings $40M → $79M)
+- [usair](../entities/usair.md) — $358M preferred written to $89.5M (25¢ on the dollar); commodity-business-economics failure case; Buffett and Munger resigned from board
+- [american-express](../entities/american-express.md) — major position built (27.76M shares, cost $723.9M, ~5.5%); fear-as-opportunity deployment; Buffett traces his AmEx history back to 1964 salad-oil scandal purchase
+- [coca-cola](../entities/coca-cola.md) — completed 100M-share position; cost $1.298B, market value $5.15B at yearend
+- [national-indemnity](../entities/national-indemnity.md) — second consecutive negative-cost float year; float $3.06B; worst-case super-cat exposure ~$600M after-tax; Ajit Jain wrote a single $400M California earthquake policy
+
+## People mentioned
+
+- [warren-buffett](../people/warren-buffett.md) — USAir post-mortem self-critique; Cap Cities 1993 sale acknowledged as "repeat offender" mistake of omission
+- [charlie-munger](../people/charlie-munger.md) — partner; co-resigned from USAir board
+- [ben-graham](../people/ben-graham.md) — "Ben Graham taught me 45 years ago that in investing it is not necessary to do extraordinary things to get extraordinary results" — cited in context of Ralph Schey's management style
+- [ralph-schey](../people/ralph-schey.md) — Scott Fetzer CEO; his compensation arrangement is the canonical proof of symmetric, business-unit-specific alignment
+- [ajit-jain](../people/ajit-jain.md) — super-cat manager; "underwriting skills are the finest"; Berkshire's financial strength is itself a competitive advantage (certainty that a claim will pay)
+
+## Concepts introduced or discussed
+
+- [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) — Scott Fetzer eight-year proof; canonical demonstration that GAAP carrying value systematically understates economic value in high-goodwill businesses
+- [incentive-compensation](../concepts/incentive-compensation.md) — canonical essay; Schey arrangement vs. typical option-plan misalignment; symmetry as the test of genuine alignment
+- [capital-allocation](../concepts/capital-allocation.md) — MBA/day-laborer analogy; EPS-based acquisition evaluation as the primary mechanism of intrinsic value destruction; chain-letter-in-reverse framing
+- [commodity-business-economics](../concepts/commodity-business-economics.md) — USAir as proof case; deregulation reveals cost disadvantage that regulation had masked
+- [float](../concepts/float.md) — second consecutive negative-cost year; $3.06B average; super-cat lucky (LA earthquake losses nominal; worst case ~$600M after-tax)
+- [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — "fear is friend of fundamentalist"; Coke and AmEx positions built on business analysis, not macro timing
 
 ## Notable quotes
 
 > We define intrinsic value as the discounted value of the cash that can be taken out of a business during its remaining life.
 
-> A fat wallet, however, is the enemy of superior investment results.
-
-> My argument is, to be a good hitter, you've got to get a good ball to hit. It's the first rule in the book. If I have to bite at stuff that is out of my happy zone, I'm not a .344 hitter. I might only be a .250 hitter. [Buffett quoting Ted Williams.]
-
 > Fear is the foe of the faddist, but the friend of the fundamentalist.
 
-> It's far better to own a significant portion of the Hope diamond than 100% of a rhinestone.
+> My argument is, to be a good hitter, you've got to get a good ball to hit. It's the first rule in the book. If I have to bite at stuff that is out of my happy zone, I'm not a .344 hitter. I might only be a .250 hitter. — Ted Williams, cited by Buffett
 
-> Ben Graham taught me 45 years ago that in investing it is not necessary to do extraordinary things to get extraordinary results. In later life, I have been surprised to find that this statement holds true in business management as well.
-
-> What a manager must do is handle the basics well and not get diverted.
-
-> When such a CEO is encouraged by his advisors to make deals, he responds much as would a teenage boy who is encouraged by his father to have a normal sex life. It's not a push he needs.
+> In our book, alignment means being a partner in both directions, not just on the upside. Many "alignment" plans flunk this basic test, being artful forms of "heads I win, tails you lose."
 
 > The sad fact is that most major acquisitions display an egregious imbalance: They are a bonanza for the shareholders of the acquiree; they increase the income and status of the acquirer's management; and they are a honey pot for the investment bankers and other professionals on both sides. But, alas, they usually reduce the wealth of the acquirer's shareholders, often to a substantial extent.
 
-> That's like asking your interior decorator whether you need a $50,000 rug. *[paraphrase — not verbatim; original has fuller context: "Often the CEO asks a strategic planning staff, consultants or investment bankers whether an acquisition or two might make sense."]*
+> That's like asking your interior decorator whether you need a $50,000 rug.
 
-> In our book, alignment means being a partner in both directions, not just on the upside.
+> In an unregulated commodity business, a company must lower its costs to competitive levels or face extinction.
 
 > You don't have to make it back the way that you lost it.
 
@@ -57,132 +105,11 @@ Dated March 7, 1995. Per-share book value up 13.9% to $10,083. The headline 1994
 
 > We try to price, rather than time, purchases. … In each case, we pondered what the business was likely to do, not what the Dow, the Fed, or the economy might do.
 
-> Bankruptcy court for airlines has become a health spa. [Quoting Southwest's Herb Kelleher.]
-
-## Scott Fetzer eight-year case study
-
-Berkshire paid $315.2M for Scott Fetzer in 1986; book value at acquisition $172.6M; premium $142.6M.
-
-| Year | Begin BV | Earnings | Dividends | End BV |
-| ---: | ---: | ---: | ---: | ---: |
-| 1986 | $172.6M | $40.3M | $125.0M | $87.9M |
-| 1987 | $87.9M | $48.6M | $41.0M | $95.5M |
-| 1988 | $95.5M | $58.0M | $35.0M | $118.6M |
-| 1989 | $118.6M | $58.5M | $71.5M | $105.5M |
-| 1990 | $105.5M | $61.3M | $33.5M | $133.3M |
-| 1991 | $133.3M | $61.4M | $74.0M | $120.7M |
-| 1992 | $120.7M | $70.5M | $80.0M | $111.2M |
-| 1993 | $111.2M | $77.5M | $98.0M | $90.7M |
-| 1994 | $90.7M | $79.3M | $76.0M | $94.0M |
-
-Book value declined ($172.6M → $94M) while earnings climbed ($40M → $79M). Cumulative dividends $633.5M vs. cumulative earnings $555.4M. ROE rose from "exceptional" to extraordinary; would have ranked #1 in the Fortune 500 in 1993 (excluding bankruptcy-emergence companies).
-
-Eight years of purchase-premium write-down brought the carrying value down to $148.2M (Scott Fetzer's $94M book + $54.2M unamortized premium). Intrinsic value vastly exceeds carrying value. The Scott Fetzer story is the canonical illustration of how accounting earnings systematically understate economic earnings for high-Goodwill businesses.
-
-See [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) and [ralph-schey](../people/ralph-schey.md).
-
-## Compensation essay
-
-The Schey arrangement: bonuses tied to Scott Fetzer results (not [berkshire-hathaway](../entities/berkshire-hathaway.md)'s); high charge for incremental capital used; equal credit for capital released. Symmetric. Five-minute agreement at the time of acquisition. Unchanged through 1994.
-
-The structural critique of typical stock-option plans: ten-year options at fixed prices, with low dividend payouts that build up the value of the company through retained earnings — provide "lush gains to a manager who has done no more than tread water in his job."
-
-"In our book, alignment means being a partner in both directions, not just on the upside. Many 'alignment' plans flunk this basic test, being artful forms of 'heads I win, tails you lose.'"
-
-See [incentive-compensation](../concepts/incentive-compensation.md).
-
-## Capital allocation essay
-
-The [stock-as-acquisition-currency](../concepts/stock-as-acquisition-currency.md) MBA / day-laborer share-swap analogy: a young MBA student with high future earnings would dramatically boost current-year earnings by merging with a day laborer of equal current earnings — and would obviously be making a terrible decision.
-
-The "interior decorator" framing: CEOs ask consultants and bankers whether acquisitions make sense; the advisor's incentive is to find a deal. Wayne Gretzky's "go to where the puck is going to be" as the guiding principle.
-
-The "chain letter in reverse" (John Medlin, retired Wachovia head): doing destruction-of-intrinsic-value acquisitions enough times eventually undoes all the value built.
-
-See [capital-allocation](../concepts/capital-allocation.md).
-
-## USAir post-mortem
-
-Full "unforced error" essay. $358M preferred written down to $89.5M (25% of par). Dividend suspended September 1994. The commodity-business framework explicitly developed:
-
-- Pre-deregulation, high-cost airlines could pass costs along via high fares.
-- Initial post-deregulation: low-cost-carrier capacity small; high-cost lines could maintain fares.
-- Eventually: low-cost capacity expanded; "fundamental rule of economics prevailed: In an unregulated commodity business, a company must lower its costs to competitive levels or face extinction."
-
-"This principle should have been obvious to your Chairman, but I missed it."
-
-Buffett and [charlie-munger](../people/charlie-munger.md) resign from USAir board.
-
-See [usair](../entities/usair.md).
-
-## Mistake du jour: Cap Cities 1993 sale
-
-Sold 10M shares at $63 in late 1993; yearend 1994 price $85.25. $222.5M of foregone gain by then. The full cost in [disney](../entities/disney.md) shares only revealed in 1995.
-
-"When we purchased the stock at $17.25 in 1986, I told you that I had previously sold our Cap Cities holdings at $4.30 per share during 1978-80, and added that I was at a loss to explain my earlier behavior. Now I've become a repeat offender."
-
-See [mistakes-of-omission](../concepts/mistakes-of-omission.md).
-
-## Portfolio (yearend 1994)
-
-| Shares | Holding | Cost | Market |
-| ---: | --- | ---: | ---: |
-| 27,759,941 | American Express | $723.9M | $818.9M |
-| 20,000,000 | Capital Cities/ABC | $345.0M | $1,705.0M |
-| 100,000,000 | Coca-Cola | $1,298.9M | $5,150.0M |
-| 12,761,200 | Freddie Mac | $270.5M | $644.4M |
-| 6,854,500 | Gannett | $335.2M | $365.0M |
-| 34,250,000 | GEICO | $45.7M | $1,678.3M |
-| 24,000,000 | Gillette | $600.0M | $1,797.0M |
-| 19,453,300 | PNC Bank | $503.0M | $411.0M |
-| 1,727,765 | Washington Post | $9.7M | $419.0M |
-| 6,791,218 | Wells Fargo | $423.7M | $984.7M |
-
-Significant additions: American Express (PERC converted, common added), Cap Cities (large addition), Coca-Cola (small addition), Gannett (new), PNC Bank (new).
-
-## Cost of float
-
-| Year | Underwriting | Avg float | Cost of funds | Long-term Govt. yield |
-| ---: | ---: | ---: | ---: | ---: |
-| 1994 | profit | $3,056.6M | less than zero | 7.88% |
-
-Second consecutive year of negative cost of [float](../concepts/float.md). [super-cat-insurance](../concepts/super-cat-insurance.md) lucky again; Los Angeles earthquake losses "nominal" (if had been 7.5 instead of 6.8 would have been different story). Berkshire's worst-case super-cat loss now ~$600M after-tax.
-
-## Entities discussed
-
-- [berkshire-hathaway](../entities/berkshire-hathaway.md)
-- [scott-fetzer](../entities/scott-fetzer.md) — case study
-- [coca-cola](../entities/coca-cola.md), [american-express](../entities/american-express.md), [capital-cities](../entities/capital-cities.md), [gillette](../entities/gillette.md), [geico](../entities/geico.md), [washington-post](../entities/washington-post.md), [wells-fargo](../entities/wells-fargo.md) — major portfolio
-- [usair](../entities/usair.md) — full post-mortem
-- [salomon](../entities/salomon.md) — held
-- [national-indemnity](../entities/national-indemnity.md) — super-cat platform
-
-## People mentioned
-
-- [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md), [ben-graham](../people/ben-graham.md)
-- [ralph-schey](../people/ralph-schey.md) — Scott Fetzer; compensation essay
-- [ajit-jain](../people/ajit-jain.md) — super-cat
-- [carl-reichardt](../people/carl-reichardt.md) — Wells Fargo retirement
-- Dan Burke — Cap Cities retirement
-- Tom Murphy, Roberto Goizueta — referenced
-- Ted Williams, Wayne Gretzky — quoted
-
-## Concepts introduced or discussed
-
-- [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) — **Scott Fetzer case study**
-- [incentive-compensation](../concepts/incentive-compensation.md) — **canonical compensation essay**
-- [capital-allocation](../concepts/capital-allocation.md) — **canonical capital-allocation essay**
-- [mistakes-of-omission](../concepts/mistakes-of-omission.md) — Cap Cities sale
-- [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — "fear is friend of fundamentalist"
-- [float](../concepts/float.md) — table continues; second negative-cost year
-- [concentration-vs-diversification](../concepts/concentration-vs-diversification.md) — Ted Williams "happy zone"; $100M minimum
-
 ## Connections to other sources
 
-- The Scott Fetzer case study extends and operationalizes the [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) concept first articulated in [berkshire-1983-letter](berkshire-1983-letter.md).
-- The compensation essay extends the 1985 incentive-compensation essay (savings-account analogy) of [berkshire-1985-letter](berkshire-1985-letter.md).
-- The capital-allocation essay extends the canonical 1987 essay of [berkshire-1987-letter](berkshire-1987-letter.md).
-- The USAir post-mortem completes the "unforced error" admission of [berkshire-1990-letter](berkshire-1990-letter.md).
-- "Fear is friend of fundamentalist" extends the food-prices analogy of [berkshire-1990-letter](berkshire-1990-letter.md).
-- The USAir commodity-business analysis is the negative case study for the franchise-vs-business framework canonically introduced in [berkshire-1991-letter](berkshire-1991-letter.md): USAir is the paradigmatic "business" (not a franchise) unable to raise prices or lower costs, confirming the framework's predictive power.
-- The compensation essay's critique of option-plan misalignment parallels the owner-orientation principles first articulated at Berkshire's NYSE listing in [berkshire-1988-letter](berkshire-1988-letter.md), showing how misaligned incentives corrode manager focus over time.
+- The Scott Fetzer case study operationalizes the intrinsic-value-vs-book-value distinction first formally articulated in [berkshire-1983-letter](berkshire-1983-letter.md), now with eight years of evidence that the gap only widens in high-quality businesses.
+- The compensation essay extends the incentive-alignment critique introduced in [berkshire-1985-letter](berkshire-1985-letter.md) (savings-account analogy for retained-earnings-backed options), sharpening the test: symmetry in both directions is the standard.
+- The capital-allocation essay is the sharpest iteration of the acquisition-discipline theme from [berkshire-1987-letter](berkshire-1987-letter.md); the MBA/day-laborer analogy is the most direct statement of why EPS-tracking is intrinsically destructive.
+- The USAir writedown completes the "unforced error" admitted in [berkshire-1990-letter](berkshire-1990-letter.md); the 1994 post-mortem adds the commodity-economics diagnosis that was absent from the original admission.
+- The USAir commodity analysis is the negative case study for the franchise-vs-business framework canonically introduced in [berkshire-1991-letter](berkshire-1991-letter.md): USAir proves the framework's predictive power — a business without pricing power faces extinction on cost alone once regulation lifts.
+- "Fear is the friend of the fundamentalist" extends the food-prices analogy in [berkshire-1990-letter](berkshire-1990-letter.md) into a compact formula for macro positioning that recurs through subsequent letters.

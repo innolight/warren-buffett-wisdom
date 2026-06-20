@@ -8,6 +8,86 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-18] refactor | berkshire-1995-letter
+
+- Refined via `/refine-source --auto`. Before A2 B2 C3 D2 E2 (avg 2.2) → after A4 B4 C4 D5 E5 (avg 4.4)
+- Body within band before and after (~1,900w); structural win, not raw reduction
+- Cut 3 archive tables (28-row float history, 7-position portfolio, 5-row convertibles); 8 off-template freestanding sub-sections folded into Key themes; added missing summary paragraph; Notable quotes repositioned per template order
+- 8 event bullets → 6 titled mini-essays (added lumpy-vs-smooth theme to anchor "hell"/"lumpy 15%" quotes); 14 quotes → 8 (verbatim-verified, none orphaned)
+- People 11 → 5; Entities ~12 → 4; Concepts 8 → 6 (removed 2 implicit: volatility-as-opportunity, concentration-vs-diversification); `related` 22 → 8; `tags` 7 → 5
+- Status remains draft
+
+## [2026-06-20] refactor | source-pages Wave 3 (cleanup + Tier 3b triage)
+
+- Executed Wave 3 of `.plan/refine-source-pages.md` (main agent, no sub-agents needed).
+- **2015**: converted the 2 residual `[[precision-castparts]]` wiki-links to plain text (no such entity page exists yet — kept as un-linked mentions, flagged "no page yet" in the entity list). Otherwise gold-standard; no rewrite.
+- **1980**: score-only pass landed at ~3.9 (<4.0) on chronicle-as-theme + name-dump. Surgical fix, not a full rewrite: dropped the Illinois National Bank exchange-mechanics theme (pure chronicle → folded as a parenthetical) and the standalone Gene Abegg "obituary" theme; recast the long-term-debt bullet as the timeless "borrow ahead of need while credit is available" principle; trimmed the operating-manager People name-dump (Liesche/Young/Taylor/Thornton/Grossman) and preserved the Abegg manager-integrity lesson in the People entry. Now ~4.2. Status stays draft.
+- **Tier 3b score-only (1979, 1981, 1982, 1983, 1984)**: all read + rubric-scored against the gold standard; all clean (table-free, 771–1,392w, markdown links, well-threaded concepts, ~5–9 verbatim quotes) and score ≥4.3. Left untouched per guardrail (don't over-refine short, clean pages).
+- Wave 3 done; with Waves 1–2 prior, all Tier 1/2/3 source pages now meet the standard.
+
+## [2026-06-18] refactor | berkshire-1994-letter
+
+- Refined via `/refine-source --auto`. Before A2 B2 C3 D2 E2 (avg 2.2) → after A4 B4 C4 D5 E5 (avg 4.4)
+- Body within band before and after (~1,830w); structural win
+- Cut 3 archive tables (Scott Fetzer 9-row, portfolio 10-row, float); 7 off-template sections → 5 titled mini-essays; 15 quotes (incl. 1 paraphrase) → 10 verbatim, none orphaned
+- People 11 → 5; Entities 12 → 6; Concepts dropped reviewer-inferred concentration-vs-diversification; `related` 27 → 8; `tags` 7 → 5
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-1993-letter
+
+- Refined via `/refine-source --auto`. Before A3 B4 C3 D2 E3 (avg 3.0) → after A5 B4 C4 D5 E4 (avg 4.4)
+- ~2,375w → ~1,910w; cut 9-row portfolio table + full 1967–1993 float table; 8 off-template sections folded into Key themes
+- Fixed factual error: Cap Cities partial sale was 1M shares at $630/share (not 10M at $63); total $630M correct, per-share was off by 10×
+- 11 quotes → 9 (dropped a Peter-Lynch-attributed quote); People 8 → 4 (Lou Simpson wasn't in the 1993 letter at all); Concepts dropped implied stock-as-acquisition-currency; `related` 20 → 8; `tags` 7 → 5
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-1990-letter
+
+- Refined via `/refine-source --auto`. Before A2 B3 C3 D2 E2 (avg 2.4) → after A4 B4 C4 D4 E4 (avg 4.0)
+- ~2,290w → ~1,660w; cut convertible-preferreds archive table + 8 off-template H2 sections → 6 Key themes
+- Concepts: dropped franchise-vs-business (not discussed in this letter); corrected institutional-imperative from "implicit" to explicit (letter names it directly)
+- Restored "roads of business" quote to its full sentence; dropped Bertrand Russell color quote; 10 quotes → 9 verbatim, none orphaned
+- People 7 → 5; Entities ~10 → 7; `related` 21 → 10; `tags` 7 → 5
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-1989-letter
+
+- Refined via `/refine-source --auto`. Before A2 B2.5 C3 D2 E2 (avg 2.3) → after A4 B4 C4 D4 E4 (avg 4.0)
+- Cut 2 archive tables (holdings, convertible preferreds) + 6 off-template sections → 5 titled mini-essays
+- Concepts: removed implicit capital-allocation, concentration-vs-diversification, franchise-vs-business; added look-through-earnings (this letter is its definitional source); removed editorial bracket from one quote
+- 6 quotes → 7 verbatim, none orphaned; People 8 → 4; Entities 13 → 4; `related` 32 → 8; `tags` 6 → 5
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-1988-letter
+
+- Refined via `/refine-source --auto`. Before A2 B3 C2 D2 E2 (avg 2.2) → after A4 B4 C4 D4 E5 (avg 4.2)
+- Cut 5×4 portfolio archive table + 8 off-template sections → 5 titled mini-essays
+- Removed 3 implicit concepts (mr-market, volatility-as-opportunity, institutional-imperative); corrected mr-market annotation (letter discusses no portfolio insurance — factual error)
+- 8 quotes → 9 verbatim, none orphaned; People 9 → 5; Entities 8 → 7; Concepts 7 → 4; `related` 22 → 8; `tags` 7 → 5
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-1987-letter
+
+- Refined via `/refine-source --auto`. Before A2 B3 C3 D2 E2 (avg 2.4) → after A4 B4 C4 D4 E5 (avg 4.2)
+- ~1,930w → ~1,810w; cut holdings archive table + 8 off-template chronicle sections → 5 titled mini-essays; Notable quotes moved to correct template position
+- Removed implicit concepts (look-through-earnings, moat) and owner-earnings (not developed here); merged two thin EMT/currency themes into Mr. Market and financing themes
+- 8 quotes → 8 (substituted Ogilvy color quote for Graham "voting/weighing machine"), none orphaned; corrected See's 1987 volume to "slightly under 25M pounds"; People 9 → 5; `related` 21 → 8; `tags` 6 → 5
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-1991-letter
+
+- Refined via `/refine-source --auto` (agent write succeeded; report lost to a session-limit cutoff — page verified complete and faithful by main agent)
+- Distilled to four timeless lessons: canonical franchise-vs-business three-condition test + bob-around valuation cliff; See's 20-year pricing-power retrospective ($18M reinvested / ~$410M distributed); Fannie Mae $1.4B omission with the Coca-Cola counter-case; H.H. Brown capital-charge compensation; plus stay-put/concentration (Keynes 1934)
+- Page is table-free, 1,897 words, 10 verbatim quotes, all retained figures spot-checked against the raw letter; Salomon narrative deliberately deferred to the 1992 letter
+- Status remains draft
+
+## [2026-06-18] refactor | berkshire-1986-letter
+
+- Refined via `/refine-source --auto` (agent write succeeded; report lost to a session-limit cutoff — page verified complete and faithful by main agent)
+- Distilled to its enduring frameworks: owner-earnings formula (a + b − c) via Scott Fetzer's two GAAP presentations ($40.2M vs. $28.6M); "moat-around-the-castle" given canonical form on GEICO; franchise-vs-commodity tax incidence (seedbed of the 1991 essay); permanent partial-ownership policy declared
+- Page is table-free, 1,902 words, 8 verbatim quotes, all retained figures spot-checked against the raw letter
+- Status remains draft
+
 ## [2026-06-18] refactor | berkshire-2002-letter
 
 - Refined via `/refine-source --auto`. Before A2 B3 C3 D1 E2 (avg 2.2) → after A4 B5 C4 D5 E5 (avg 4.6)

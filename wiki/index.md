@@ -79,16 +79,16 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [berkshire-1983-letter](sources/berkshire-1983-letter.md) — owner's manual (13 principles); intrinsic vs. book value; economic-Goodwill appendix; shareholder-eugenics on stock splits
 - [berkshire-1984-letter](sources/berkshire-1984-letter.md) — share-repurchases doctrine; dividend-policy framework; bonds-as-a-business via WPPSS; loss-reserving uncertainty
 - [berkshire-1985-letter](sources/berkshire-1985-letter.md) — textile shutdown obituary; incentive-compensation essay; the Washington Post triple-dip
-- [berkshire-1986-letter](sources/berkshire-1986-letter.md) — canonical owner-earnings appendix and cash-flow fallacy critique
-- [berkshire-1987-letter](sources/berkshire-1987-letter.md) — Mr. Market allegory canonized; Sainted Seven coined; capital-allocation-as-CEO-skill essay; "carry a loaded gun"
-- [berkshire-1988-letter](sources/berkshire-1988-letter.md) — Coca-Cola first major purchase; arbitrage essay (Rockwood/Arcata/RJR); efficient-market critique; David Dodd tribute
-- [berkshire-1989-letter](sources/berkshire-1989-letter.md) — Mistakes of the First Twenty-five Years; zero-coupon debenture critique; super-cat reinsurance debut
-- [berkshire-1990-letter](sources/berkshire-1990-letter.md) — cost-of-float framework canonized; Wells Fargo panic accumulation; food-prices analogy; junk-bond critique
-- [berkshire-1991-letter](sources/berkshire-1991-letter.md) — franchise-vs-business canonical essay; See's retrospective; the Fannie Mae Mistake Du Jour
+- [berkshire-1986-letter](sources/berkshire-1986-letter.md) — owner-earnings formula introduced (Scott Fetzer's two GAAP presentations); "moat-around-the-castle" named; franchise-vs-commodity tax incidence; permanent-ownership policy declared
+- [berkshire-1987-letter](sources/berkshire-1987-letter.md) — Mr. Market allegory canonized; capital-allocation-as-CEO-skill essay introduced; Sainted Seven proves boring businesses compound; "carry a loaded gun" financing principle
+- [berkshire-1988-letter](sources/berkshire-1988-letter.md) — efficient-market theory demolished via 63-year arbitrage record; CEO accountability vacuum by structural design; "forever" as a principled holding period; owner-orientation codified at NYSE listing
+- [berkshire-1989-letter](sources/berkshire-1989-letter.md) — Mistakes of the First Twenty-five Years; canonical institutional-imperative naming; EBITDA/zero-coupon critique; look-through earnings definitional source
+- [berkshire-1990-letter](sources/berkshire-1990-letter.md) — four frameworks canonized: cost-of-float scorecard; food-prices buyer's-attitude analogy; super-cat lumpy-15% concentration thesis; junk-bond margin-of-safety anatomy
+- [berkshire-1991-letter](sources/berkshire-1991-letter.md) — canonical franchise-vs-business three-condition test and valuation cliff; See's 20-year pricing-power proof; Fannie Mae $1.4B omission; H.H. Brown capital-charge compensation
 - [berkshire-1992-letter](sources/berkshire-1992-letter.md) — growth-and-value-joined-at-the-hip essay; stock-options-as-expense essay
-- [berkshire-1993-letter](sources/berkshire-1993-letter.md) — risk-vs-beta canonical essay; concentration-vs-diversification essay; corporate-governance three modes; Dexter Shoe mistake
-- [berkshire-1994-letter](sources/berkshire-1994-letter.md) — Scott Fetzer intrinsic-value-vs-book-value case study; capital-allocation essay (MBA/day-laborer); USAir post-mortem
-- [berkshire-1995-letter](sources/berkshire-1995-letter.md) — GEICO taken to full ownership; float-as-equity; the Davidson tribute
+- [berkshire-1993-letter](sources/berkshire-1993-letter.md) — risk as purchasing-power loss not beta (five-factor framework); know-something concentration over diversification; Li'l Abner tax-deferral arithmetic; Dexter Shoe as the cautionary beginning
+- [berkshire-1994-letter](sources/berkshire-1994-letter.md) — intrinsic value vs. book value (Scott Fetzer eight-year proof); symmetric compensation alignment; EPS-as-acquisition-metric as value-destroyer; USAir as the commodity-business failure case
+- [berkshire-1995-letter](sources/berkshire-1995-letter.md) — float-as-equity formalized (negative-cost float beats equity on all three dimensions); GEICO moat explained at the 100% acquisition; the "have-to-be-smart-every-day" retailing test
 - [berkshire-1996-letter](sources/berkshire-1996-letter.md) — "The Inevitables" framework named (Coke, Gillette); GEICO virtuous circle articulated; first unhedged index-fund recommendation
 - [berkshire-1997-letter](sources/berkshire-1997-letter.md) — Ted Williams strike zone, hamburger/"dis-investors" analogy, "A Confession" on stock-issuance, catastrophe-bond dice essay, and first margin-of-safety warning
 - [berkshire-1998-letter](sources/berkshire-1998-letter.md) — canonical float three-determinants essay; permanent capital dissolves the reinsurance paradox; Son of Gresham on earnings management

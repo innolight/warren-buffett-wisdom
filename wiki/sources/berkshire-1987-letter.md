@@ -2,147 +2,105 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-27
+updated: 2026-06-18
 source_type: annual-letter
 author: warren-buffett
 year: 1987
 raw_path: raw/berkshire-letters/1987.md
-tags: [berkshire, annual-letter, mr-market, salomon, sainted-seven, capital-allocation]
-related: [warren-buffett, berkshire-hathaway, mr-market, salomon, capital-allocation, charlie-munger, geico, capital-cities, washington-post, scott-fetzer, sees-candies, buffalo-evening-news, nebraska-furniture-mart, national-indemnity, john-gutfreund, ralph-schey, tom-murphy, lou-simpson, ben-graham, volatility-as-opportunity, owner-earnings, commodity-business-economics, look-through-earnings]
+tags: [berkshire, annual-letter, mr-market, capital-allocation, commodity-business]
+related: [warren-buffett, ben-graham, mr-market, capital-allocation, berkshire-hathaway, salomon, float, commodity-business-economics]
 ---
 
 # Berkshire Hathaway 1987 Annual Letter
 
-Dated February 29, 1988. Net worth up $464M (19.5%). Per-share book value to $2,477.47. Two canonical essays appear in this letter: the **Mr. Market allegory** (the substantive heart of the "Marketable Securities — Permanent Holdings" section) and the first full articulation of **capital allocation as the CEO's central skill**. The headline business event is the $700M Salomon convertible preferred — Berkshire's largest single capital commitment to date.
+The 1987 letter's lasting contribution is two canonical frameworks: Ben Graham's Mr. Market allegory receives its definitive Buffett articulation, transforming a Graham chapter into an operating mental model Buffett would cite for decades; and the capital allocation problem — how CEOs become responsible for deploying most of a company's capital without ever having trained for it — is stated with precision for the first time. Surrounding these essays is an empirical argument, built around the seven operating subsidiaries Buffett calls the "Sainted Seven," that businesses doing ordinary things with extraordinary discipline reliably outcompound businesses chasing exciting change. The Salomon convertible preferred ($700M, 9%) and a $250M debt issuance in anticipation of need round out the year's teaching. Net worth rose $464M (19.5%); per-share book value reached $2,477.47.
 
 ## Key themes
 
-- **Mr. Market canonized.** The Graham allegory is given its definitive Buffett treatment in the discussion of Berkshire's three "permanent" holdings (Cap Cities, GEICO, Washington Post). The Cinderella warning, the manic-depressive characterization, the patsy line from poker — all in this letter. See [mr-market](../concepts/mr-market.md).
-- **"Sainted Seven" coined.** The seven non-insurance operating subsidiaries (Buffalo News, Fechheimer, Kirby, NFM, Scott Fetzer Manufacturing Group, See's, World Book) named collectively for the first time. Combined 57% after-tax return on equity capital. The framing is the durable point: "doing rather ordinary things — but doing them exceptionally well."
-- **Capital allocation as the CEO's untrained skill.** The 1987 letter contains the canonical argument: most CEOs have never practiced capital allocation before becoming CEOs; the 60% statistic; the musician-to-Federal-Reserve-Chairman analogy. See [capital-allocation](../concepts/capital-allocation.md).
-- **The Salomon convertible preferred.** $700M, 9% coupon, convertible at $38, mandatory redemption 1995-99. Bet on Gutfreund personally; explicit acknowledgement that the investment-banking industry is not understood by Buffett. See [salomon](../entities/salomon.md) and [john-gutfreund](../people/john-gutfreund.md).
-- **"Carry a loaded gun."** The financing-in-anticipation-of-need essay in the "Financing" section. $250M of 30-year debentures issued in early 1988 at ~10%, earning only ~6.5% in the meantime — "$160,000 per week" of negative spread, accepted as the cost of being ready to act when something big appears. The rare-elephants metaphor.
-- **Berkshire's pessimistic view of long-term currency.** The Blanche DuBois "depends on the kindness of strangers" framing of U.S. trade deficits and foreign accumulation of U.S. claims. The framework: when claim checks outstanding grow numerous and the issuer controls their purchasing power, the pressure to inflate becomes irresistible.
-- **Efficient Market Theory critique** (anticipating 1988). "Stocks cannot forever overperform their underlying businesses" — implicit anti-EMT argument grounded in business value.
+### Mr. Market: the market as an option counterparty, not a price authority
+
+Ben Graham's allegory — imagine a partner who shows up daily to name a price for your shared business, whose quotes swing between euphoria and despair, who doesn't mind being ignored — receives its definitive Buffett articulation in this letter. The lesson is not that markets are irrational. It is that market prices are *offers*, not verdicts. You may accept them, or you may not. The more manic-depressive the price-setter, the larger the window of opportunity for an investor who can independently assess value.
+
+Buffett's extension of Graham runs in two directions. First, the discipline requirement: independent valuation is the prerequisite. "If you aren't certain that you understand and can value your business far better than Mr. Market, you don't belong in the game." Using Mr. Market's quote as a guide to value inverts the only valid use of the market. Second, the 1987 crash as proof: portfolio-insurance algorithms had placed $60–90B of equities on automated sell triggers; when prices fell, the triggers fired, accelerating the collapse. This is Mr. Market in manic seizure — and the correct response is opportunity, not alarm. Volatility created by institutional programs harms only investors who must sell; it offers the independent-valuation investor a buying window.
+
+Graham's complementary line: "In the short run, the market is a voting machine but in the long run it is a weighing machine." Business success is eventually confirmed; delayed confirmation only extends the accumulation window. This is also the foundation of Berkshire's permanent-holdings stance on Capital Cities, GEICO, and Washington Post — Mr. Market's daily offer is available, but availability is not an obligation. See [mr-market](../concepts/mr-market.md).
+
+### Boring businesses compound; exciting businesses disappoint
+
+"Severe change and exceptional returns usually don't mix." The 1987 letter makes this case empirically. Of 1,000 large companies tracked by Fortune over 1977–1986, only 25 met two tests simultaneously: average ROE above 20% and no year below 15%. These 25 turned out to be mundane businesses — nondescript manufacturers, basic service providers, consumer staples — with little leverage and no exotic technology. Twenty-four of 25 outperformed the S&P 500.
+
+Berkshire's seven non-insurance operating subsidiaries — Buffalo News, Fechheimer, Kirby, Nebraska Furniture Mart, Scott Fetzer, See's Candies, and World Book — earned $180M pre-tax on $175M of equity capital in 1987, producing roughly 57% after-tax return on equity with near-zero leverage. The lesson Buffett distills is structural: a business that encounters constant major change also encounters constant major chances for major error, and never builds the fortress-like franchise that sustains high returns. Stability of business model, not novelty, is what permits a franchise to compound.
+
+The framing that generalizes: "Our managers have produced extraordinary results by doing rather ordinary things — but doing them exceptionally well." Seeking businesses doing the same thing better year after year is not a defense of complacency; it is recognition that durable franchises are hardest to build in shifting terrain, and easiest to destroy by chasing novelty the market is currently pricing as exciting.
+
+### The untrained CEO: capital allocation as the job nobody practiced
+
+Most CEOs rise to the top by excelling at marketing, engineering, administration, or institutional politics. Once in the chair, they face capital allocation — the central and most consequential executive skill — which they may never have practiced and cannot easily acquire on the job. Buffett's analogy: "it's as if the final step for a highly-talented musician was not to perform at Carnegie Hall but, instead, to be named Chairman of the Federal Reserve."
+
+The stakes compound with tenure. A CEO whose company retains earnings equal to 10% of net worth will have been responsible for deploying more than 60% of the business's capital after ten years. That is not a marginal responsibility; it is the primary job. CEOs who recognize the gap typically turn to investment bankers and consultants — whose advice, Buffett observes, tends to amplify the allocation problem rather than solve it.
+
+The implication for investors: a business with excellent capital allocation at the top is worth more than accounting comparisons suggest; one with poor allocation is worth less — because capital reinvested at inadequate rates destroys value silently, year by year. Buffett flags his controlled holdings as the pathway where he can *ensure* good allocation; in the permanent minority holdings, he relies on the managers' own skill and emphasizes the importance of evaluating that skill before investing. See [capital-allocation](../concepts/capital-allocation.md).
+
+### Financing in anticipation of need, not in reaction to it
+
+Early 1988, Berkshire issued $250M in 30-year debentures at roughly 10%, accepting a ~$160,000/week negative spread against the ~6.5% they could earn in the interim — because tight money conditions, which make borrowing expensive, tend to coincide with the best acquisition prices. The "loaded gun" principle: if you want to shoot rare, fast-moving elephants, always carry a loaded gun.
+
+The structural logic: cheap money inflates asset prices; tight money depresses them. But tight money also raises borrowing costs. Berkshire's solution is to borrow when conditions are non-oppressive, hold the capital ready, and accept the carry cost of preparedness as the price of being able to act decisively when others cannot. This is the opposite of the conventional corporate reflex — seeking financing at the moment an acquisition is in view, by which time capital markets may be exactly wrong.
+
+The broader debt philosophy is asymmetric: "we wish that to be certain" — not merely likely — that obligations can be met. Berkshire prefers satisfactory results under extraordinarily adverse conditions over optimal results under normal conditions. The cost is foregone leverage; the benefit is the capacity to act when crises create opportunity.
+
+### Insurance as commodity: two structural escape routes — and a warning on reported earnings
+
+Property-casualty insurance is a commodity business: hundreds of competitors, ease of entry, and a product that cannot be meaningfully differentiated. In such a market only a very low-cost operator or a niche operator can sustain high returns. The 1985–87 pricing cycle demonstrated the dynamic: strong premiums and favorable combined ratios attracted capacity expansion; by 1987 the party was ending; 1988–89 will bring ratio deterioration. Disraeli's dictum applies: "What we learn from history is that we do not learn from history."
+
+Berkshire's two escape routes are structural. First, financial strength: when buyers focus not on today's claim but on whether a $10M claim will actually be paid five or ten years out — when reinsurers may have failed and markets may have turned — only a few companies earn their trust, and Berkshire leads that list. This advantage is dormant in soft markets and decisive when markets turn. Second, total indifference to volume: Berkshire is willing to write one-fifth or five times as much business year over year, because idle insurance capacity (primarily people) does not generate the intolerable fixed costs of idle manufacturing capacity. No other major insurer can sustain this discipline.
+
+The warning: do not trust reported earnings from casualty insurers — including Berkshire's own. Long-tail business generates claims that take years to resolve; reserves are inherently estimates; auditors certify those estimates as "presenting fairly" while knowing they cannot evaluate them. Buffett argues the honest auditor opinion on a casualty insurer should include: "We can express no opinion about the accuracy of these figures." Where earnings can be created by the stroke of a pen, the dishonest will gather. See [commodity-business-economics](../concepts/commodity-business-economics.md) and [float](../concepts/float.md).
+
+## Entities discussed
+
+- [berkshire-hathaway](../entities/berkshire-hathaway.md) — net worth +$464M (19.5%); Sainted Seven collectively earning ~57% after-tax ROE on equity capital; $700M Salomon preferred as largest single capital commitment to date
+- [capital-cities](../entities/capital-cities.md) — permanent holding; cost $517.5M, market $1,035M at yearend; capital allocation by Tom Murphy as the standard Buffett would not trade
+- [geico](../entities/geico.md) — permanent holding; cost $45.7M, market $756.9M; $6.67 average purchase price in 1976–1980 vs. $9.01 after-tax EPS in 1987 — Mr. Market's mispricing confirmed by the weighing machine
+- [washington-post](../entities/washington-post.md) — permanent holding; cost $9.7M, market $323.1M; purchased in 1973 at $5.63/share vs. $10.30 after-tax EPS by 1987 — the same Mr. Market vindication
+- [salomon](../entities/salomon.md) — $700M 9% convertible preferred; convertible at $38 after three years; mandatory redemption 1995–99; the investment thesis is explicitly a bet on personal character (Gutfreund), not on understanding investment-banking economics
+- [scott-fetzer](../entities/scott-fetzer.md) — Sainted Seven anchor; pre-tax earnings +10%, capital employed declining; Ralph Schey running 19 businesses at capital-light compounding pace
+- [sees-candies](../entities/sees-candies.md) — Sainted Seven; volume slightly under 25 million pounds (new high); ~85% of annual profit earned in December; same-store pounds flat — an improvement, as they had fallen in each of the prior six years
+- [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) — Sainted Seven; $142.6M 1987 sales (+8%); Mrs. B at 94; customers saved ~$30M vs. market prices — the "sell cheap and tell the truth" franchise advantage made quantitative
+
+## People mentioned
+
+- [warren-buffett](../people/warren-buffett.md)
+- [charlie-munger](../people/charlie-munger.md) — co-author of the permanent-holdings philosophy and the Mr. Market operating framework; solved the K&W Products crisis by deploying Harry Bottle
+- [ben-graham](../people/ben-graham.md) — Mr. Market allegory and "voting machine / weighing machine" are both his; Buffett's teacher and the source of the two most cited frameworks in this letter
+- [john-gutfreund](../people/john-gutfreund.md) — Salomon CEO; the $700M Salomon commitment is explicitly a bet on his character and judgment, not on investment-banking economics; first appearance in a Berkshire letter
+- [rose-blumkin](../people/rose-blumkin.md) — Nebraska Furniture Mart chairman at 94; "Sell cheap and tell the truth"; the proof-point that an extraordinary manager in an ordinary business outcompetes by doing ordinary things exceptionally well
+
+## Concepts introduced or discussed
+
+- [mr-market](../concepts/mr-market.md) — **canonical introduction**; the full allegory; Cinderella warning; "voting machine / weighing machine"; the portfolio-insurance episode as the crash-test of the framework
+- [capital-allocation](../concepts/capital-allocation.md) — **canonical introduction** of the untrained-CEO argument; the 60% statistic; the Federal Reserve analogy
+- [commodity-business-economics](../concepts/commodity-business-economics.md) — insurance as the worked case; Berkshire's two structural differentiators (financial strength + volume indifference); the auditor-opinion critique on long-tail reserve unknowability
+- [float](../concepts/float.md) — underwriting results improved primarily through float growth despite a combined ratio of 105; the ratio of float to premium volume forecast to increase significantly over 1988–89
+- [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — portfolio-insurance critique as the inverse case; $60–90B on hair-trigger sell programs creates buying windows for investors who measure value independently of price
 
 ## Notable quotes
 
 > Severe change and exceptional returns usually don't mix. … For such investor-dreamers, any blind date is preferable to one with the girl next door, no matter how desirable she may be.
 
-> Our managers have produced extraordinary results by doing rather ordinary things - but doing them exceptionally well. … They work exceptionally hard at the details of their businesses, and it shows.
+> Our managers have produced extraordinary results by doing rather ordinary things — but doing them exceptionally well. … They work exceptionally hard at the details of their businesses, and it shows.
 
 > Mr. Market is there to serve you, not to guide you. It is his pocketbook, not his wisdom, that you will find useful. … If you've been in the game 30 minutes and you don't know who the patsy is, you're the patsy.
 
-> Develop your eccentricities while you are young. That way, when you get old, people won't think you're going ga-ga. [Buffett quoting David Ogilvy.]
+> In the short run, the market is a voting machine but in the long run it is a weighing machine. [Ben Graham, quoted by Buffett]
 
 > Charlie and I have found that making silk purses out of silk is the best that we can do; with sow's ears, we fail.
 
 > After ten years on the job, a CEO whose company annually retains earnings equal to 10% of net worth will have been responsible for the deployment of more than 60% of all the capital at work in the business.
 
-> …it's as if the final step for a highly-talented musician was not to perform at Carnegie Hall but, instead, to be named Chairman of the Federal Reserve. [On capital allocation as the new job a CEO must take up.]
+> …it's as if the final step for a highly-talented musician was not to perform at Carnegie Hall but, instead, to be named Chairman of the Federal Reserve.
 
-> Our basic principle is that if you want to shoot rare, fast-moving elephants, you should always carry a loaded gun. [On financing in anticipation of need.]
-
-## The Mr. Market allegory — substance
-
-Buffett's framing: imagine a business partner who shows up daily with a buy/sell quote on your shared interest. He has incurable emotional problems, swinging between euphoria and despair. He doesn't mind being ignored. He returns tomorrow with a new price regardless of today's. The more manic-depressive his behavior, the better for you.
-
-The discipline he enforces: "If he shows up some day in a particularly foolish mood, you are free to either ignore him or to take advantage of him, but it will be disastrous if you fall under his influence. Indeed, if you aren't certain that you understand and can value your business far better than Mr. Market, you don't belong in the game."
-
-The complementary [ben-graham](../people/ben-graham.md) line: "In the short run, the market is a voting machine but in the long run it is a weighing machine."
-
-See [mr-market](../concepts/mr-market.md) for the full treatment.
-
-## The Sainted Seven
-
-Seven non-insurance operating units, combined 1987 pre-tax earnings $180M, on $175M of equity capital (essentially no leverage), producing ~57% return on equity after taxes if standalone. The Fortune 500 1977-86 comparison: among 1,000 largest industrial and service companies, only 25 met "two tests of economic excellence" (10-year average ROE >20%, no year <15%); 24 of 25 outperformed the S&P 500.
-
-The lesson: "the best business returns are usually achieved by companies that are doing something quite similar today to what they were doing five or ten years ago." Stability of business model, not novelty, correlates with long-term return. The Berkshire Sainted Seven embodies the pattern.
-
-Operating updates:
-
-- **NFM.** 1987 sales $142.6M (+8%). [Mrs. B](../people/rose-blumkin.md) at 94, still working seven days a week. The "Sell cheap and tell the truth" maxim.
-- **Buffalo News.** Seven editions per 24 hours; 50% news hole maintained.
-- **See's.** Volume hit a record 25.1M pounds; Christmas-concentrated profits (85% of profit earned in December).
-- **Fechheimer.** First full year; record earnings continued the multi-generational Heldman pattern.
-- **Scott Fetzer / World Book / Kirby.** [Schey](../people/ralph-schey.md) continued to compound; 10% pre-tax earnings growth, capital base declining.
-
-See [scott-fetzer](../entities/scott-fetzer.md), [sees-candies](../entities/sees-candies.md), [buffalo-evening-news](../entities/buffalo-evening-news.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) for entity-level detail.
-
-## Insurance — 1987 results
-
-Industry combined ratio 104.7. Berkshire's: 105 (excluding structured settlements/financial reinsurance). Underwriting result improved primarily through [float](../concepts/float.md) growth, not underwriting margin. The "lag factor" Buffett describes: price changes take 6-12 months to show in earnings; the 1985-87 industry party will produce 1988-89 results improvement, then turn south.
-
-Two essays in the insurance section:
-
-1. **Commodity economics restated.** "Hundreds of competitors, ease of entry, and a product that cannot be differentiated in any meaningful way." Berkshire's two differentiation strategies: financial strength (matters mainly to sophisticated buyers); total indifference to volume (no one else can sustain it).
-
-2. **Critique of auditor opinions on long-tail insurance reserves.** Buffett suggests opinion-letter language should explicitly state the limitation: "We can express no opinion about the accuracy of these figures." The structural problem: long-tail reserves are unknowable in real time; auditors who certify them ratify what is in fact management estimate.
-
-## Permanent holdings
-
-| Shares | Holding | Cost ($000) | Market ($000) |
-| ---: | --- | ---: | ---: |
-| 3,000,000 | Capital Cities/ABC, Inc. | 517,500 | 1,035,000 |
-| 6,850,000 | GEICO Corporation | 45,713 | 756,925 |
-| 1,727,765 | The Washington Post Company | 9,731 | 323,092 |
-
-Permanent-holding policy formalized. Two main advantages of controlled vs. marketable: (1) capital allocation rights, (2) tax efficiency (intercorporate dividend penalty on partial holdings). Two disadvantages mostly: tax penalty on the partial-holding side, and inability to effect management change.
-
-## Salomon convertible preferred
-
-$700M, 9% coupon, convertible after 3 years at $38/share into Salomon common, mandatory redemption ratably 1995-99. Largest single capital commitment in Berkshire history. The structure is mostly medium-term fixed-income with a conversion kicker. Investment thesis: confidence in [Gutfreund](../people/john-gutfreund.md), not understanding of investment-banking economics.
-
-See [salomon](../entities/salomon.md) for the substantive treatment.
-
-## Other portfolio items
-
-- **Allegis arbitrage.** 1.096M shares, $76M cost, $78M market at yearend. Buffett's arbitrage practice: only large publicly-announced transactions; only a few per year.
-- **Texaco bonds.** Purchased post-bankruptcy filing; carried at $104M cost / $119M market. "The most attractive bond investment available to us" at prevailing prices.
-- **WPPSS.** Continued; $240M amortized cost / $316M market; $34M annual tax-exempt income.
-- **Medium-term tax-exempt bonds.** ~$900M position; "parking place."
-- **Portfolio insurance critique.** First mention of the October 1987 break — "$60-90 billion of equities" on hair triggers from portfolio-insurance algorithms. The farm-real-estate analogy.
-
-## Financing and debt policy
-
-$250M of debentures issued early 1988, mature 2018, sinking-fund begins 1999. Cost ~10%. Investment "in anticipation of need rather than in reaction to it." The principle: tight-money conditions create both expensive liabilities and good acquisition opportunities; cheap-money conditions create the opposite. Action on the liability side should sometimes be taken independent of the asset side.
-
-The framework on debt overall: "we wish that to be certain" (re: meeting obligations) and "we adhere to policies … that will allow us to achieve acceptable long-term results under extraordinarily adverse conditions, rather than optimal results under a normal range of conditions."
-
-## The 1987 sale of K&W Products to Harry Bottle
-
-A minor anecdote, but characteristic Berkshire: K&W Products, a small automotive-compound subsidiary, had stumbled in 1985-86. [Munger](../people/charlie-munger.md) called Harry Bottle (then 68, who had earlier solved Buffett's 1962 Dempster Mill crisis) and made him CEO. Profits up >300% in 1987; capital employed down 20%. The pattern: trust the operator, get out of the way.
-
-## Entities discussed
-
-- [berkshire-hathaway](../entities/berkshire-hathaway.md)
-- [capital-cities](../entities/capital-cities.md) — permanent holding
-- [geico](../entities/geico.md) — permanent holding
-- [washington-post](../entities/washington-post.md) — permanent holding
-- [salomon](../entities/salomon.md) — major new commitment
-- [scott-fetzer](../entities/scott-fetzer.md), [sees-candies](../entities/sees-candies.md), [buffalo-evening-news](../entities/buffalo-evening-news.md), [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md) — Sainted Seven
-- [national-indemnity](../entities/national-indemnity.md) — Berkshire insurance flagship
-
-## People mentioned
-
-- [warren-buffett](../people/warren-buffett.md)
-- [charlie-munger](../people/charlie-munger.md)
-- [john-gutfreund](../people/john-gutfreund.md) — Salomon CEO; "ability and integrity"; first Berkshire letter mention
-- [ralph-schey](../people/ralph-schey.md) — Scott Fetzer
-- [tom-murphy](../people/tom-murphy.md), Dan Burke — Cap Cities
-- Bill Snyder, [lou-simpson](../people/lou-simpson.md) — GEICO post-Byrne
-- Kay Graham, Dick Simmons — Washington Post
-- [ben-graham](../people/ben-graham.md) — Mr. Market allegory invoked
-
-## Concepts introduced or discussed
-
-- [mr-market](../concepts/mr-market.md) — **canonical introduction**
-- [capital-allocation](../concepts/capital-allocation.md) — canonical introduction as the CEO's untrained skill
-- [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — portfolio-insurance critique as the inverse case
-- [owner-earnings](../concepts/owner-earnings.md) — reprised from 1986 Appendix
-- [look-through-earnings](../concepts/look-through-earnings.md) — implicit in the discussion of permanent holdings
-- [commodity-business-economics](../concepts/commodity-business-economics.md) — insurance industry restatement
-- [moat](../concepts/moat.md) — implicit in GEICO discussion
+> Our basic principle is that if you want to shoot rare, fast-moving elephants, you should always carry a loaded gun.
 
 ## Connections to other sources
 
@@ -151,5 +109,5 @@ A minor anecdote, but characteristic Berkshire: K&W Products, a small automotive
 - The Salomon investment becomes operationally central in [berkshire-1991-letter](berkshire-1991-letter.md) (Buffett as Interim Chairman during the crisis).
 - The "carry a loaded gun" financing principle is reprised in [berkshire-1989-letter](berkshire-1989-letter.md) (zero-coupon debentures) and [berkshire-1990-letter](berkshire-1990-letter.md) (Wells Fargo panic accumulation).
 - The capital-allocation essay is sharpened in [berkshire-1994-letter](berkshire-1994-letter.md) (the MBA / day-laborer analogy).
-- The [commodity-business-economics](../concepts/commodity-business-economics.md) diagnosis of insurance (ease of entry, undifferentiated product, only low-cost or niche operators survive) is extended in [berkshire-1988-letter](berkshire-1988-letter.md), which applies the same logic to justify Berkshire's volume-indifferent underwriting stance in a softening market.
+- The commodity-economics diagnosis of insurance — ease of entry, undifferentiated product, only low-cost or niche operators survive — is extended in [berkshire-1988-letter](berkshire-1988-letter.md), which applies the same logic to justify Berkshire's volume-indifferent underwriting stance in a softening market.
 - The auditor-opinion critique on long-tail reserve unknowability prefigures the accounting-skepticism thread in [berkshire-1992-letter](berkshire-1992-letter.md) and [berkshire-1993-letter](berkshire-1993-letter.md), where Buffett consistently distinguishes GAAP-reported earnings from economic reality.

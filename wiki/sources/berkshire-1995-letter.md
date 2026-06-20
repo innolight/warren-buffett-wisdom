@@ -2,38 +2,58 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-27
+updated: 2026-06-18
 source_type: annual-letter
 author: warren-buffett
 year: 1995
 raw_path: raw/berkshire-letters/1995.md
-tags: [berkshire, annual-letter, geico-acquisition, helzbergs, r-c-willey, disney, float-as-equity, class-b]
-related: [warren-buffett, berkshire-hathaway, geico, helzbergs, disney, float, lorimer-davidson, charlie-munger, capital-cities, coca-cola, gillette, wells-fargo, american-express, salomon, usair, national-indemnity, borsheims, washington-post, lou-simpson, tom-murphy, ajit-jain, ralph-schey, franchise-vs-business, moat, super-cat-insurance, mistakes-of-omission, capital-allocation]
+tags: [berkshire, annual-letter, float, geico-acquisition, franchise-vs-business]
+related: [warren-buffett, berkshire-hathaway, geico, float, franchise-vs-business, moat, lorimer-davidson, capital-allocation]
 ---
 
 # Berkshire Hathaway 1995 Annual Letter
 
-Dated March 1, 1996. Per-share book value up 43.1% to $14,426. The headline 1995 events: **three major acquisitions** (Helzberg's Diamond Shops, R.C. Willey Home Furnishings, and — closing in early 1996 — the remaining 50% of GEICO for $2.3B). Plus the **Cap Cities-to-Disney exchange** (early 1996), the Salomon partial redemption ($140M), the proposed **Class B share recapitalization**, and the canonical **GEICO history retold** (Davidson, the 1951 Saturday, the 1952 sale).
+The 1995 letter delivers three of Buffett's most durable formulations in a single year. The float-as-equity argument reaches its clearest expression: negative-cost float is functionally superior to equity — replacing the $3.4B of float with actual equity would produce more shares, the same assets, and lower earnings, destroying per-share value. The GEICO 100% acquisition ($2.3B for the remaining half) is the culmination of a 45-year relationship whose real lesson is how a structural cost advantage compresses into an unassailable moat over time. Two retailing acquisitions — Helzberg's Diamond Shops and R.C. Willey — become the vehicle for the "have-to-be-smart-once vs. have-to-be-smart-every-day" framework: the sharpest distillation of why franchise businesses tolerate mediocrity while retailers require continuous excellence. A five-year convertible-preferred retrospective then demonstrates Buffett's willingness to quantify his own structural mistakes — only Gillette won, and even there a structure-level error cost $625M in foregone appreciation. Per-share book value grew 43.1% to $14,426.
 
 ## Key themes
 
-- **GEICO acquired 100%.** $2.3B for the remaining 50% Berkshire didn't own. Tony Nicely (insurance) and Lou Simpson (investments) as managers. The canonical retelling of the 45-year Buffett-GEICO history. See [geico](../entities/geico.md) and [lorimer-davidson](../people/lorimer-davidson.md).
-- **Helzberg's Diamond Shops acquired.** "ABWA" (acquisitions-by-walking-around) — Barnett Helzberg met Buffett crossing 58th & Fifth in NYC. Jeff Comment (formerly Wanamaker's). 134 stores in 23 states; $282M 1994 sales. Tax-free stock exchange. See [helzbergs](../entities/helzbergs.md) — actually, per the editorial scope, Helzberg's is not getting a standalone page; folded into source and entity-mention context.
-- **R.C. Willey Home Furnishings acquired.** Largest home-furnishings business in Utah. Bill Child (CEO, started with $250K in 1954); now $257M sales, 50% of Utah furniture market. NFM's Irv Blumkin made the introduction. Folded into source page.
-- **Disney/Cap Cities merger announced.** Closes early 1996. Berkshire's 20M Cap Cities shares exchange into Disney stock + cash; Berkshire requests all stock. See [disney](../entities/disney.md).
-- **Class B share recapitalization proposed.** 1/30th the economic interest of A shares, 1/200th the voting rights; non-eligible for shareholder-designated contributions. Designed to defeat third-party "Berkshire clone" unit trusts being marketed to retail investors.
-- **Float-as-equity essay.** Counterfactual: had Berkshire replaced its $3.4B of float with $3.4B of equity, "we would have owned no more assets … would have had somewhat lower earnings … and, of course, to obtain the replacement equity, we would have needed to sell many new shares of Berkshire."
-- **Convertible preferreds five-year retrospective.** Only Gillette has been a true win. Salomon "modestly outperformed" fixed-income substitutes. Champion converted in August 1995; First Empire will be called March 1996. USAir partially recovered. "Eating my words has never given me indigestion." (Churchill)
-- **"Just tell me the bad news" / honest reporting.** Charlie's dictum.
-- **The "have-to-be-smart-once" vs. "have-to-be-smart-every-day" framing.** TV station vs. retailer. See [franchise-vs-business](../concepts/franchise-vs-business.md).
+**Float is equity in disguise.** The 1995 letter formalizes what the prior decade's track record demonstrated empirically. Any company's profitability turns on three factors: (1) what its assets earn; (2) what its liabilities cost; (3) the ratio of liabilities to equity. Float at negative cost is structurally superior to equity on factor (2): equity requires shareholders to be compensated; negative-cost float is free leverage. The counterfactual makes it vivid. Had Berkshire replaced its $3.4B of float at yearend 1994 with $3.4B of actual equity, it would own the same assets, earn lower profits (because the float was generating income, not consuming it), and would have had to issue new shares to raise the equity. More shares, same assets, lower earnings — the opposite of compounding. Float had grown at 20.7% annually since 1967, reaching $3.6B by yearend 1995; three consecutive negative-cost years (1993–95) confirmed the trend was structural. The GEICO acquisition, closing in early 1996, would add nearly $3B to float immediately.
+
+**GEICO: a structural cost moat that compounds across generations.** The acquisition of the remaining 50% of GEICO is the culmination of a 45-year relationship whose lesson is not about the price ($2.3B) but about what makes a moat durable across decades. Lorimer Davidson explained it to a 20-year-old Buffett in 1951 in a single Saturday session: GEICO sold directly to customers while competitors sold through agents. The agent layer added cost; competitors' distribution networks were so embedded they could not be dismantled without destroying their own businesses. Four decades later the structural advantage remained unchanged — GEICO's operating cost ratio fell to 23.6% of premiums in 1995, nearly a point better than 1994. The corollary is the canonical mistake-of-omission: Buffett's 1952 sale of his entire GEICO position for $15,259 — to switch into a cheaper stock — left $1.3M on the table by the early 1970s. Selling a structurally superior business to buy a statistically cheaper one is almost always wrong.
+
+**The "have-to-be-smart-every-day" test in retailing.** The acquisitions of Helzberg's Diamond Shops and R.C. Willey Home Furnishings are vehicles for a principle that transfers far beyond those two companies: retailing is an unforgiving business because competitors continuously replicate whatever you do well and shoppers are always tempted by new options. The franchise counter-example sharpens the distinction — a network TV station bought early enough could survive a "shiftless and backward nephew" running it for decades because structural incumbency protects the economics. A retailer with a negligent manager goes bankrupt. The acquisition implication is direct: "Buying a retailer without good management is like buying the Eiffel Tower without an elevator." Both Helzberg's and R.C. Willey were acquired not as self-running businesses but as manager-dependent systems; Berkshire would not have purchased either without the specific operator already running it.
+
+**Acquisition discipline: no plan, no pressure.** Berkshire's structural acquisition advantage is the absence of a strategic plan. Most corporate acquirers feel internal pressure to deploy capital in an ordained direction — which almost invariably drives price discipline down and prices up. Berkshire instead evaluates every acquisition against every alternative, including partial-ownership purchases of publicly traded businesses via the stock market. This mental comparison enforces honest opportunity-cost discipline that "managers focused simply on expansion seldom use." A secondary advantage: sellers sometimes want permanence over price. A founder who built a business over a lifetime gets something from Berkshire — a permanent home, management autonomy, no second-guessing — that an auction process cannot provide. This creates deal flow that bypasses competitive processes and their associated pricing premiums.
+
+**Honest self-assessment: the convertible preferred retrospective.** The 1987–91 convertible preferred program is assessed candidly five years on: only Gillette was a genuine winner; the others "as a group have delivered us after-tax returns no more than equal to those we could have earned from the medium-term fixed-income issues that they replaced." The Gillette case carries the deepest self-criticism. Buffett paid $600M for convertible preferred rather than buying common stock directly, receiving a modest dividend premium in exchange for limited upside. Had he bought common, Berkshire would have been better off by $625M at yearend 1995 — a mistake "never recognized on financial statements" but fully real in cost. The lesson: when conviction is high about business quality, structure the investment to capture the upside. Hedged structures solve for uncertainty; when genuine uncertainty is absent, they merely forfeit the reward.
+
+**Accepting lumpy returns is itself a competitive advantage.** The super-cat reinsurance business generates large profits in most years and occasional devastating losses. Most competitors optimize for smooth, predictable earnings — which means they exit the market precisely when pricing is most attractive. Berkshire does the opposite: "we prefer a lumpy 15% to a smooth 12%." Accepting high variance in exchange for higher expected value is only viable for an operator with (1) the financial strength to absorb a bad year without distress and (2) genuine comfort with this trade-off. Both are rare, which is why the niche persists. The related discipline: reinsurance written at inadequate rates cannot be unwound. "A bad reinsurance contract is like hell: easy to enter and impossible to exit." The same character applies to any long-duration commitment made at the wrong price.
+
+## Entities discussed
+
+- [berkshire-hathaway](../entities/berkshire-hathaway.md) — per-share book value 43.1% gain to $14,426; Class B share recapitalization proposed to preempt expensive third-party "Berkshire clone" unit trusts being marketed to retail investors
+- [geico](../entities/geico.md) — 100% acquisition closes early 1996 at $2.3B; adds nearly $3B of float immediately; operating cost ratio 23.6% of premiums; Tony Nicely as insurance head, Lou Simpson as investment manager (22.8% annually vs. S&P 15.7%, 1980–1995)
+- [capital-cities](../entities/capital-cities.md) — 20M shares exchanged for Disney stock in the merger closing early 1996; culmination of the Cap Cities position reestablished in [berkshire-1985-letter](berkshire-1985-letter.md)
+- [national-indemnity](../entities/national-indemnity.md) — super-cat operations; combined ratio 84.2; Ajit Jain's large-risk non-cat policies alongside (Tyson fight, Lloyd's mortality, Chinese satellite launch and orbit)
+
+## People mentioned
+
+- [warren-buffett](../people/warren-buffett.md) — recounts the 1951 GEICO meeting as the paradigm for identifying a structural moat early; honestly quantifies the Gillette preferred structure mistake at $625M foregone
+- [charlie-munger](../people/charlie-munger.md) — "Just tell me the bad news" as Berkshire's operating standard for management transparency
+- [lorimer-davidson](../people/lorimer-davidson.md) — the 1951 Saturday tutorial is the canonical account of how to identify a structural cost moat; still attentive at 93; Buffett credits him as indispensable to Berkshire's existence
+- [lou-simpson](../people/lou-simpson.md) — GEICO's investment manager; 22.8% vs. S&P 15.7% over 1980–1995; Buffett explicitly names him as the successor guarantee for Berkshire's investments
+- [tom-murphy](../people/tom-murphy.md) — Cap Cities CEO; tribute establishes the cleanest actionable test for manager quality: "If Murph should elect to run another business, don't bother to study its value — just buy the stock"
+
+## Concepts introduced or discussed
+
+- [float](../concepts/float.md) — the "float-as-equity" formalization: the counterfactual argument (more shares, same assets, lower earnings) makes explicit why negative-cost float is functionally superior to equity; the canonical structural statement of what makes the insurance engine work
+- [franchise-vs-business](../concepts/franchise-vs-business.md) — "have-to-be-smart-once" (TV station) vs. "have-to-be-smart-every-day" (retailer): the 1995 letter's contribution is the retailing extreme, where continuous management excellence is not optional but existential
+- [moat](../concepts/moat.md) — GEICO's moat explicitly identified as its direct-marketing cost structure; the durable claim is that competitors cannot replicate it without dismantling their own distribution networks — the moat's source, not just its existence
+- [super-cat-insurance](../concepts/super-cat-insurance.md) — third consecutive lucky year; pricing weakening as new reinsurance capital entered the market; Berkshire's willingness to accept lumpy returns is itself the competitive moat ("we prefer a lumpy 15% to a smooth 12%")
+- [capital-allocation](../concepts/capital-allocation.md) — the no-strategic-plan discipline: every acquisition evaluated against partial public-market purchases; the acquisition-vs-passive-investment mental comparison as the discipline that prevents overpaying
+- [mistakes-of-omission](../concepts/mistakes-of-omission.md) — three cases quantified in one letter: 1952 GEICO sale ($1.3M foregone by the early 1970s), 1993 Cap Cities partial sale ($635M received vs. $1.27B at Disney merger value), Gillette preferred structure ($625M of appreciation foregone)
 
 ## Notable quotes
-
-> The real advantage of being bisexual is that it doubles your chances for a date on Saturday night. [Buffett quoting Woody Allen on the dual-track approach of full acquisitions and stock-market purchases.]
-
-> "I will tell you a secret: Dealmaking beats working. Dealmaking is exciting and fun, and working is grubby. Running anything is primarily an enormous amount of grubby detail work . . . dealmaking is romantic, sexy. That's why you have deals that make no sense." [Peter Drucker, as quoted by Buffett.]
-
-> Things are seldom what they seem, skim milk masquerades as cream. [HMS Pinafore, on acquisition projections.]
 
 > In retailing, to coast is to fail.
 
@@ -41,172 +61,21 @@ Dated March 1, 1996. Per-share book value up 43.1% to $14,426. The headline 1995
 
 > Buying a retailer without good management is like buying the Eiffel Tower without an elevator.
 
-> Bill took over the business from his father-in-law in 1954 when sales were about $250,000. … "It's not what you've got - it's what you do with what you've got." [Quoting Mae West on R.C. Willey.]
-
 > In business, I look for economic castles protected by unbreachable "moats." Thanks to Tony and his management team, GEICO's moat widened in 1995.
+
+> Since our float has cost us virtually nothing over the years, it has in effect served as equity. Of course, it differs from true equity in that it doesn't belong to us.
 
 > A bad reinsurance contract is like hell: easy to enter and impossible to exit.
 
-> we prefer a lumpy 15% to a smooth 12%. [Reprised on super-cat.]
+> we prefer a lumpy 15% to a smooth 12%.
 
-> Eating my words has never given me indigestion. [Buffett quoting Churchill on the convertible-preferred retrospective.]
-
-> If Murph should elect to run another business, don't bother to study its value - just buy the stock. [On Tom Murphy.]
-
-> Just tell me the bad news; the good news will take care of itself. [Charlie's dictum on management reporting.]
-
-> "It could be my money." [Anecdotal insurance CEO's gloomy summation, on the asymmetric position of capital-providers vs. fee-takers.]
-
-## GEICO 100% acquisition
-
-$2.3B for the half Berkshire didn't own. Berkshire's interest had grown from 33.3% (1980) to ~50% (1995) through GEICO's own share repurchases — Berkshire never added to its position between 1980 and 1995.
-
-The 1995 letter retells the 45-year Buffett-GEICO history at length. Highlights:
-
-- January 1951: Buffett, then studying under [ben-graham](../people/ben-graham.md) at Columbia, travels to Washington on Saturday to find GEICO's offices closed; pounds on door; custodian directs him to Lorimer Davidson on sixth floor; four-hour education.
-- 1951: Four GEICO purchases for Buffett's personal account; September 26 the last. Year-end position 350 shares at $13,125 — 65% of net worth. Funds partly earned delivering [washington-post](../entities/washington-post.md) as a boy.
-- 1952: Sells entire position for $15,259 to switch into Western Insurance Securities ("p/e ratio that for some reason caught my eye"). By the 1970s, the GEICO sold would have been worth $1.3M.
-- 1976: Berkshire builds large position during [jack-byrne](../people/jack-byrne.md) rescue era.
-- 1980: Berkshire owns 33.3% at $45.7M cost.
-- 1996: Acquires remaining 50% for $2.3B.
-
-Tony Nicely (34 years at GEICO) named the operating leader. Lou Simpson runs investments (1980-95: 22.8% annually vs. S&P 15.7%). Davidson at 93, still attentive.
-
-The moat reaffirmed: "In business, I look for economic castles protected by unbreachable 'moats.' Thanks to Tony and his management team, GEICO's moat widened in 1995."
-
-See [geico](../entities/geico.md), [lorimer-davidson](../people/lorimer-davidson.md), [lou-simpson](../people/lou-simpson.md).
-
-## Helzberg's and R.C. Willey
-
-**Helzberg's:** ABWA encounter on 58th & Fifth. Barnett Helzberg (4 shares of Berkshire); third-generation owner since grandfather started in 1915. Jeff Comment as CEO. 134 stores in 23 states; $282M sales 1994. Tax-free stock exchange; Barnett shared proceeds with associates.
-
-**R.C. Willey:** Bill Child (took over from father-in-law in 1954 at $250K sales; now $257M). [nebraska-furniture-mart](../entities/nebraska-furniture-mart.md)'s Irv Blumkin made the introduction; Bill Child told Irv that he and other owners might be interested in selling. Mid-1995 closing. Both Helzberg's and R.C. Willey emphasize the "have-to-be-smart-every-day" retail discipline.
-
-## Disney/Cap Cities merger
-
-July 14, 1995: Buffett met Eisner on Wildflower Lane in Sun Valley (after Eisner's presentation at Allen's conference). Mention of merger possibility. Murphy joined them. Both sides willing to bend on stock/cash mix. Contract in three busy days.
-
-[capital-cities](../entities/capital-cities.md) shareholders received either Disney stock + cash, or (subject to allocation) all stock / all cash. Berkshire requested all stock; ~20M+ Disney shares.
-
-Buffett's 1966-67 Disney history retold: bought BPL position at $0.31; sold at $0.48; stock now $66.
-
-See [disney](../entities/disney.md) and [tom-murphy](../people/tom-murphy.md).
-
-## Class B share recapitalization
-
-The framing: third parties were marketing "Berkshire clone" unit trusts at high commissions, targeting unsophisticated investors. Class B shares — 1/30th the economic interest of A, 1/200th the voting rights, no eligibility for contributions program, fully convertible from A (not the reverse) — make the clones "unmerchandisable."
-
-"What we wish for are shareholders of any size who are knowledgeable about our operations, share our objectives and long-term perspective, and are aware of our limitations." The shareholder-base engineering of the 1988 NYSE listing extended to a new instrument.
-
-Important: Buffett says publicly that Berkshire at $36,000 (early 1996) is "not undervalued" and "Berkshire is selling at a price at which Charlie and I would not consider buying it." Issuing Bs at the current price is therefore not value-destructive.
-
-## Convertible preferred retrospective
-
-| Issue | Cost | Dividend | Outcome |
-| --- | ---: | ---: | --- |
-| Champion International | $300M | 9 1/4% | Converted Aug 1995; modest gain |
-| First Empire State | $40M | 9% | Called March 1996; keeping common |
-| Gillette | $600M | 8 3/4% | Converted 1991; market value $2.5B (1995) |
-| Salomon | $700M | 9% | First $140M redeemed 1995; modestly outperformed fixed-income substitutes |
-| USAir | $358M | 9 1/4% | Major mistake; partial recovery |
-
-Only Gillette was a clear win. The retrospective on USAir: "we feel much better about our USAir preferred than we did a year ago, but your guess is as good as mine as to its ultimate value." The Gillette retrospective: "$625 million" gain foregone by structuring as preferred rather than common. Major Buffett self-criticism: "this is also the purchase in which I made my biggest mistake — of a kind, however, never recognized on financial statements."
-
-See [gillette](../entities/gillette.md), [salomon](../entities/salomon.md), [usair](../entities/usair.md).
-
-## Cost of float — third consecutive negative year
-
-| Year | Underwriting | Avg float | Cost of funds | Long-term Govt. yield |
-| ---: | ---: | ---: | ---: | ---: |
-| 1995 | profit | $3,607.2M | less than zero | 5.95% |
-
-Float compounded at 20.7% annual rate since 1967 (when Berkshire entered insurance).
-
-GEICO acquisition will add ~$3B to float immediately.
-
-## Float-as-equity essay
-
-Counterfactual: had Berkshire replaced $3.4B of float with $3.4B of equity (selling new Berkshire shares to obtain it), would have owned the same assets but generated lower earnings (because cost of float was negative) and would have diluted per-share value.
-
-The framework formalized:
-1. Asset returns: high.
-2. Liability costs: very low (often negative).
-3. Leverage: float-funded liabilities allow asset-base larger than equity.
-
-"Since our float has cost us virtually nothing over the years, it has in effect served as equity. Of course, it differs from true equity in that it doesn't belong to us."
-
-See [float](../concepts/float.md).
-
-## Three operating-business declines
-
-Three "decent or better" returns but earnings declined:
-
-- **Shoe group** — cyclical industry weakness; "no doubt that our shoe operations will climb back to top-grade earnings"
-- **[Buffalo News](../entities/buffalo-evening-news.md)** — another secular notch lost; industry still profitable
-- **World Book** — increasingly tough competition from CD-ROM and online; "Berkshire's most difficult problem"; major distribution changes in late 1995
-
-Charlie's dictum: "Just tell me the bad news; the good news will take care of itself."
-
-## Portfolio (yearend 1995)
-
-| Shares | Holding | Cost | Market |
-| ---: | --- | ---: | ---: |
-| 49,456,900 | American Express | $1,392.7M | $2,046.3M |
-| 20,000,000 | Capital Cities/ABC | $345.0M | $2,467.5M |
-| 100,000,000 | Coca-Cola | $1,298.9M | $7,425.0M |
-| 12,502,500 | Freddie Mac | $260.1M | $1,044.0M |
-| 34,250,000 | GEICO | $45.7M | $2,393.2M |
-| 48,000,000 | Gillette | $600.0M | $2,502.0M |
-| 6,791,218 | Wells Fargo | $423.7M | $1,466.9M |
-| | Others | $1,379.0M | $2,655.4M |
-| | **Total Common Stocks** | **$5,745.1M** | **$22,000.3M** |
-
-Only major position change in 1995: [american-express](../entities/american-express.md) added (to just under 10% of company).
-
-## Entities discussed
-
-- [berkshire-hathaway](../entities/berkshire-hathaway.md)
-- [geico](../entities/geico.md) — 100% acquisition closes early 1996
-- [disney](../entities/disney.md) — Cap Cities exchange
-- [capital-cities](../entities/capital-cities.md) — to be exchanged
-- [coca-cola](../entities/coca-cola.md), [gillette](../entities/gillette.md), [wells-fargo](../entities/wells-fargo.md), [american-express](../entities/american-express.md), [washington-post](../entities/washington-post.md) — major holdings
-- [salomon](../entities/salomon.md), [usair](../entities/usair.md) — convertible preferreds in retrospect
-- [national-indemnity](../entities/national-indemnity.md) — super-cat
-- [borsheims](../entities/borsheims.md) — Susan Jacques continues
-- Helzberg's, R.C. Willey — acquired (folded into source page)
-
-## People mentioned
-
-- [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md)
-- [lorimer-davidson](../people/lorimer-davidson.md) — canonical retelling of 1951 meeting
-- Tony Nicely — GEICO insurance head (canonical introduction)
-- [lou-simpson](../people/lou-simpson.md) — 22.8% vs. S&P 15.7%
-- [tom-murphy](../people/tom-murphy.md) — Sun Valley encounter; canonical tribute
-- [ajit-jain](../people/ajit-jain.md) — super-cat; non-cat business
-- [ralph-schey](../people/ralph-schey.md) — Scott Fetzer
-- Barnett Helzberg, Jeff Comment — Helzberg's
-- Bill Child — R.C. Willey
-- Michael Eisner — Disney
-- Susan Jacques — Borsheim's
-
-## Concepts introduced or discussed
-
-- [float](../concepts/float.md) — float-as-equity essay
-- [franchise-vs-business](../concepts/franchise-vs-business.md) — "have-to-be-smart-once" vs. "have-to-be-smart-every-day"
-- [moat](../concepts/moat.md) — "economic castles protected by unbreachable moats" — GEICO 1995
-- [super-cat-insurance](../concepts/super-cat-insurance.md) — three lucky years; Tyson/Lloyd's/satellite illustrations
-- [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — implicit
-- [capital-allocation](../concepts/capital-allocation.md) — opportunity-cost framing; "no strategic plan"
-- [mistakes-of-omission](../concepts/mistakes-of-omission.md) — Disney 1967, Cap Cities sales
-- [concentration-vs-diversification](../concepts/concentration-vs-diversification.md) — "one good idea a year" implicit
+> If Murph should elect to run another business, don't bother to study its value - just buy the stock.
 
 ## Connections to other sources
 
-- The GEICO 100% acquisition is the culmination of the GEICO arc beginning in [berkshire-1977-letter](berkshire-1977-letter.md) (first position) and extending through every letter.
-- The float-as-equity essay extends and formalizes the [float](../concepts/float.md) framework from [berkshire-1990-letter](berkshire-1990-letter.md).
-- The Disney exchange completes the Cap Cities arc from [berkshire-1977-letter](berkshire-1977-letter.md) (first position, sold in 1978-80) and [berkshire-1985-letter](berkshire-1985-letter.md) (re-entry at $172.50).
-- The convertible-preferred retrospective extends the four 1989-91 commitments tracked across [berkshire-1989-letter](berkshire-1989-letter.md), [berkshire-1990-letter](berkshire-1990-letter.md), [berkshire-1991-letter](berkshire-1991-letter.md), [berkshire-1992-letter](berkshire-1992-letter.md), [berkshire-1994-letter](berkshire-1994-letter.md).
-- The "have-to-be-smart-once" framework extends the [franchise-vs-business](../concepts/franchise-vs-business.md) essay of [berkshire-1991-letter](berkshire-1991-letter.md).
-- The class B recapitalization extends the shareholder-base goals stated at the 1988 NYSE listing.
-- The 1951 Davidson story is the canonical account of how [ben-graham](../people/ben-graham.md)'s teaching led directly to the GEICO investment — complementing the intellectual lineage described in [berkshire-1984-letter](berkshire-1984-letter.md) (Graham retrospective on the value framework). Both letters together trace how Graham shaped Buffett's two most foundational investment relationships.
-- The retailing discipline ("have-to-be-smart-every-day") introduced here through R.C. Willey parallels the NFM/[rose-blumkin](../people/rose-blumkin.md) case study developed in [berkshire-1983-letter](berkshire-1983-letter.md): both frame the irreplaceability of owner-operators in retail as a precondition for any acquisition.
+- The float-as-equity formalization builds on the cost-of-float framework and historical table first presented systematically in [berkshire-1990-letter](berkshire-1990-letter.md); the 1995 letter adds the counterfactual argument that gives the framework its structural clarity; the [berkshire-1998-letter](berkshire-1998-letter.md) extends it further with the claim that float can outrank net worth in economic value
+- The GEICO 100% acquisition closes the arc opened in [berkshire-1977-letter](berkshire-1977-letter.md) (first Berkshire position built during the 1976 rescue) and traces back to the 1951 Davidson meeting that appears nowhere else in the letter series; the moat's full story appears in [berkshire-2004-letter](berkshire-2004-letter.md)
+- The Disney exchange (closing early 1996) completes the Cap Cities arc from [berkshire-1985-letter](berkshire-1985-letter.md) (re-entry at $172.50); the 1993 partial sale is the mistakes-of-omission case quantified here
+- The convertible preferred retrospective closes five years of tracking the 1987–91 commitments from [berkshire-1989-letter](berkshire-1989-letter.md) through [berkshire-1994-letter](berkshire-1994-letter.md); the Gillette structure mistake is the canonical illustration of preferring downside protection when the downside is illusory
+- The "have-to-be-smart-once" framework extends the franchise-vs-business essay in [berkshire-1991-letter](berkshire-1991-letter.md), adding the retailing extreme as its defining case; [berkshire-1996-letter](berkshire-1996-letter.md) extends the same framework with the "Inevitables" essay
+- The 1951 Davidson tutorial is the other half of the intellectual-lineage story in [berkshire-1984-letter](berkshire-1984-letter.md): Graham's framework led Buffett to study GEICO; Davidson explained why GEICO was worth owning — together the two letters trace the foundational investment relationship

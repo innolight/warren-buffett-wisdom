@@ -2,7 +2,7 @@
 type: source
 status: draft
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-20
 source_type: annual-letter
 author: warren-buffett
 year: 2015
@@ -13,7 +13,7 @@ related: [warren-buffett, charlie-munger, geico, bnsf, midamerican-energy, gener
 
 # Berkshire Hathaway 2015 Annual Letter
 
-The 2015 letter is not a landmark year in the series — it does not introduce a new framework or represent a structural turning point. Its value lies in making existing frameworks more vivid: the direct-distribution moat receives its clearest articulation across any letter; the GAAP distortion in float accounting is deepened; and the BNSF social compact, after a year of documented service failures, is vindicated by record results. The letter also marks the arrival of Precision Castparts ([[precision-castparts]]) — Berkshire's largest-ever cash acquisition — as the would-be "Powerhouse Six."
+The 2015 letter is not a landmark year in the series — it does not introduce a new framework or represent a structural turning point. Its value lies in making existing frameworks more vivid: the direct-distribution moat receives its clearest articulation across any letter; the GAAP distortion in float accounting is deepened; and the BNSF social compact, after a year of documented service failures, is vindicated by record results. The letter also marks the arrival of Precision Castparts — Berkshire's largest-ever cash acquisition — as the would-be "Powerhouse Six."
 
 ## Key themes
 
@@ -74,7 +74,7 @@ The sustained streak is evidence that culture — not process, not rules, not in
 - [midamerican-energy](../entities/midamerican-energy.md) — 7% of U.S. wind generation capacity; 6% solar; Iowa at 47% wind-generated; zero dividends to Berkshire since acquisition
 - [general-re](../entities/general-re.md) — "General Re is now a gem"; Tad Montross; the rehabilitation arc is complete
 - [national-indemnity](../entities/national-indemnity.md) — now the world's largest property-casualty company by net worth
-- [[precision-castparts]] — $32B cash acquisition (Berkshire's largest ever); aerospace components; CEO Mark Donegan; Todd Combs instrumental in bringing the deal
+- **Precision Castparts** (no page yet) — $32B cash acquisition (Berkshire's largest ever); aerospace components; CEO Mark Donegan; Todd Combs instrumental in bringing the deal
 
 ## People mentioned
 

@@ -2,28 +2,80 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-05-27
+updated: 2026-06-18
 source_type: annual-letter
 author: warren-buffett
 year: 1991
 raw_path: raw/berkshire-letters/1991.md
-tags: [berkshire, annual-letter, franchise-vs-business, salomon, sees-twenty-years, fannie-mae, h-h-brown]
-related: [warren-buffett, berkshire-hathaway, franchise-vs-business, salomon, sees-candies, mistakes-of-omission, charlie-munger, coca-cola, capital-cities, geico, washington-post, gillette, wells-fargo, american-express, national-indemnity, usair, john-gutfreund, ajit-jain, ralph-schey, concentration-vs-diversification, float, mr-market, economic-goodwill, cigar-butts-vs-wonderful-businesses, incentive-compensation]
+tags: [berkshire, annual-letter, franchise-vs-business, sees-candies, mistakes-of-omission]
+related: [warren-buffett, berkshire-hathaway, franchise-vs-business, sees-candies, mistakes-of-omission, concentration-vs-diversification, float, incentive-compensation]
 ---
 
 # Berkshire Hathaway 1991 Annual Letter
 
-Dated February 28, 1992. Net worth up $2.1B (39.6%). Per-share book value to $6,437. The 1991 letter contains the **canonical franchise-vs-business essay**, the **See's twenty-year retrospective** (the canonical wonderful-business case study), the Fannie Mae "Mistake Du Jour" ($1.4B foregone gain), the H.H. Brown acquisition, and Buffett's interim chairmanship at Salomon.
+The 1991 letter advances four timeless investment lessons. First, Buffett's **canonical franchise-vs-business framework** — the three-condition test, the bob-around valuation math that shows why a category reclassification more than halves a property's intrinsic value, and the media industry as the live proof. Second, the **See's Candies twenty-year retrospective** — $18M reinvested against ~$410M distributed, the empirical proof of what untapped pricing power compounds to over two decades. Third, the **Fannie Mae omission** — $1.4 billion of foregone gain, no rationalization offered, and the Coca-Cola counter-example sitting in the same letter. Fourth, the **H.H. Brown compensation model** — a $7,800 base salary plus capital-charge percentage that makes managers literal co-owners. Salomon's government-bond-trading scandal brought Buffett a second job in August 1991, but the letter is restrained; the full account is in [berkshire-1992-letter](berkshire-1992-letter.md).
 
 ## Key themes
 
-- **Franchise vs. business — canonical articulation.** The three-condition franchise test; the valuation math showing how a "bob-around" reclassification collapses a 25× multiple to 10×. The media-industry reclassification from franchise to business. See [franchise-vs-business](../concepts/franchise-vs-business.md).
-- **See's twenty-year retrospective.** Acquired January 3, 1972 for ~$25M (vs. $40M ask, then $30M after excess cash). 1972 pre-tax profit $4.2M; 1991 $42.4M. Only $18M of reinvested earnings; ~$410M distributed. The canonical wonderful-business case study.
-- **Salomon interim chairmanship.** August 18, 1991 - June 1992. Government-bond-trading scandal; firm's survival in question. See [salomon](../entities/salomon.md).
-- **Fannie Mae "Mistake Du Jour."** 1988 decision to buy 30M shares; after 7M shares the price rose and Buffett stopped buying then sold. Foregone gain by yearend 1991: ~$1.4B. See [mistakes-of-omission](../concepts/mistakes-of-omission.md).
-- **H.H. Brown acquisition.** First in Berkshire's "shoe group." Frank Rooney (former Melville CEO) running it after Ray Heffernan's daughter married him. Unusual compensation system: $7,800 base salary plus designated percentage of profits-after-capital-charge.
-- **Cost-of-float worsens (positive direction).** 6.31% — the 1991 underwriting loss was $119.6M on average float of $1.895B. Above long-term government bond yield (7.4%). Acknowledged as concerning but partly volatility from new business mix.
-- **Guinness — first international holding.** $264.8M cost / $296.8M market. "Berkshire's first significant investment in a company domiciled outside the United States."
+### Franchise vs. business: the three-condition test and the valuation cliff
+
+An economic franchise arises where: (1) the product or service is needed or desired; (2) customers perceive no close substitute; and (3) pricing is not regulated. All three conditions are evidenced by the franchise's ability to regularly price aggressively and earn high returns on capital. Crucially, **franchises can tolerate mismanagement** — inept managers may reduce profitability but cannot inflict mortal damage. A business, in contrast, earns exceptional returns only as a low-cost operator or when supply is temporarily tight; poor management can kill it.
+
+The valuation implication is stark. A $1M after-tax-earnings property modeled as a 6%-growth perpetuity at a 10% discount rate is worth $25M — a 25× after-tax multiple. The same $1M treated as "bob-around" earnings — cycling around a flat mean, with growth requiring additional capital — deserves only $10M at the same discount rate. The category determines the multiple; reclassifying a property from franchise to business more than halves its value without changing a single year's earnings.
+
+The 1991 letter applies this to media. Newspapers, TV, and magazines had been textbook franchises through the 1980s — pricing nearly unlimited, economics "cornucopian." By 1991, Buffett concluded that structural forces (retailers bypassing mass advertising, audience fragmentation, channel proliferation) had moved them toward business. Berkshire's intrinsic value in Cap Cities, Washington Post, and Buffalo News declined materially — not from management failure, but from category shift.
+
+### Twenty years of pricing power: what See's Candies teaches
+
+Blue Chip Stamps bought See's on January 3, 1972 for $25M after the sellers came down from $40M (then $30M net of excess cash) and Buffett held firm at his ceiling. The key insight was not the price but the recognition: "We saw that the business had untapped pricing power." Over twenty years, pre-tax profit compounded from $4.2M to $42.4M on revenues growing from $29M to $196M. By 1991 See's needed only $25M of net worth — its $7M tangible base supplemented by just $18M of reinvested earnings over two decades. The remaining ~$410M of pre-tax profits was distributed to Blue Chip/Berkshire for redeployment.
+
+The transfer: pricing power over a loved brand, not capital deployment, generated the entire gain. Buffett credits See's with teaching him and Munger how to evaluate franchises generally — a lesson that directly informed the large equity purchases: "We've made significant money in certain common stocks because of the lessons we learned at See's."
+
+### The Fannie Mae case: what omission mistakes actually cost
+
+In early 1988, Buffett decided to buy 30 million shares of Fannie Mae — a $350–400M position. He had owned the stock before, understood the business, and personally confirmed with CEO David Maxwell that a large position was welcome. After buying 7 million shares, the price rose; Buffett stopped buying and then sold the 7 million shares he owned. Foregone gain by yearend 1991: approximately **$1.4 billion**.
+
+No rationalization was offered: "I wish I could give you a halfway rational explanation for my amateurish behavior vis-a-vis Fannie Mae. But there isn't one." The Coca-Cola counter-example sits in the same letter: when Coke rose during Buffett's 1988–89 accumulation, he did not stop. The juxtaposition names the principle precisely — within one's circle of competence, high conviction demands full execution regardless of price movement. Stopping because a stock has risen after you've identified it as a bargain is the precise error.
+
+### Owner-like incentives: the H.H. Brown compensation model
+
+H.H. Brown, acquired July 1, 1991, pays key managers $7,800 in annual salary plus a designated percentage of profits after a charge for capital employed. No guaranteed bonus, no options; just a share of what the capital earns above its cost. Managers bear the downside of capital waste and the upside of capital efficiency — they "truly stand in the shoes of owners." Buffett contrasts this with the norm: compensation systems "long on carrots but short on sticks" that treat equity capital as if it were cost-free.
+
+The broader principle: managers genuinely confident in their abilities will accept this structure. "Managers eager to bet heavily on their abilities usually have plenty of ability to bet on." The capital-charge design is the key mechanism — without a hurdle for capital employed, even well-intentioned managers systematically underweight the cost of the funds entrusted to them.
+
+### Stay-put investing and the case for concentration
+
+Six of Berkshire's eight listed equity holdings were unchanged year-over-year. Buffett's framing for the portfolio's "Rip Van Winkle" approach: "The stock market serves as a relocation center at which money is moved from the active to the patient." Patient holders are on the receiving end of that transfer.
+
+The intellectual anchor is Keynes's 1934 letter to F. C. Scott: "seldom more than two or three enterprises at any given time in which I personally feel myself entitled to put full confidence." Diversifying into businesses you understand less well does not reduce risk — it dilutes conviction with ignorance. This principle pairs directly with the Fannie Mae omission lesson in the same letter: high conviction is worthless unless you commit at full size.
+
+## Entities discussed
+
+- [berkshire-hathaway](../entities/berkshire-hathaway.md) — net worth +$2.1B (39.6%); book value per share to $6,437; Salomon interim chairmanship from August 18
+- [sees-candies](../entities/sees-candies.md) — 20-year retrospective: $18M reinvested, ~$410M distributed; the canonical wonderful-business case study
+- [salomon](../entities/salomon.md) — government-bond-trading scandal; Buffett as Interim Chairman; letter deliberately restrained; full account in [berkshire-1992-letter](berkshire-1992-letter.md)
+- [capital-cities](../entities/capital-cities.md) — media-franchise reclassification directly reduces intrinsic value; debt-free balance sheet moderates but does not eliminate the hit
+- [washington-post](../entities/washington-post.md) — same reclassification; exceptional management and no debt reduce the damage, but the category has shifted
+- [geico](../entities/geico.md) — held; $45.7M cost vs. $1.36B market value
+- [usair](../entities/usair.md) — industry decimated exactly as the 1990 letter warned; preferred marked below cost
+- [wells-fargo](../entities/wells-fargo.md) — break-even look-through earnings year; held permanently
+
+## People mentioned
+
+- [warren-buffett](../people/warren-buffett.md) — Interim Chairman of Salomon; publicly acknowledges the Fannie Mae omission with the dollar figure
+- [charlie-munger](../people/charlie-munger.md) — Berkshire's management depth enables Buffett's absence; implicitly contrasted with Buffett's thumb-sucking on Fannie Mae
+- [ajit-jain](../people/ajit-jain.md) — leads super-cat reinsurance; Berkshire's financial strength as the competitive advantage in catastrophe coverage
+- [john-gutfreund](../people/john-gutfreund.md) — resigned from Salomon; his departure is the event that required Buffett's interim role
+
+## Concepts introduced or discussed
+
+- [franchise-vs-business](../concepts/franchise-vs-business.md) — **canonical introduction**: three-condition test; bob-around valuation math; media reclassification from franchise to business
+- [mistakes-of-omission](../concepts/mistakes-of-omission.md) — Fannie Mae as the worked example; $1.4B cost quantified; Coca-Cola discipline as the counter-case in the same letter
+- [concentration-vs-diversification](../concepts/concentration-vs-diversification.md) — Keynes's 1934 letter to F. C. Scott cited verbatim: "seldom more than two or three enterprises at any given time in which I personally feel myself entitled to put full confidence"
+- [float](../concepts/float.md) — 6.31% cost of funds in 1991 (sharp rise from 1.63% in 1990 due to underwriting loss), but still below the 7.40% government bond yield; Berkshire has beaten the government rate in 20 of 25 insurance years
+- [cigar-butts-vs-wonderful-businesses](../concepts/cigar-butts-vs-wonderful-businesses.md) — See's twenty-year retrospective is the empirical proof: $18M reinvested / ~$410M distributed is only possible with franchise-level pricing power
+- [incentive-compensation](../concepts/incentive-compensation.md) — H.H. Brown's capital-charge model; the most concrete example yet of making managers literal owners; equity capital treated as having a real cost
+- [economic-goodwill](../concepts/economic-goodwill.md) — See's: nearly all of the ~$410M in distributed profits flowed from goodwill-based pricing power, not from the $7M of tangible assets purchased
 
 ## Notable quotes
 
@@ -31,140 +83,27 @@ Dated February 28, 1992. Net worth up $2.1B (39.6%). Per-share book value to $6,
 
 > Franchises can tolerate mis-management. Inept managers may diminish a franchise's profitability, but they cannot inflict mortal damage.
 
-> In contrast, "a business" earns exceptional profits only if it is the low-cost operator or if supply of its product or service is tight. Tightness in supply usually does not last long. … And a business, unlike a franchise, can be killed by poor management.
+> But gone are the days of bullet-proof franchises and cornucopian economics.
 
-> But gone are the days of bullet-proof franchises and cornucopian economics. [On media properties.]
+> In our See's purchase, Charlie and I had one important insight: We saw that the business had untapped pricing power.
 
-> What I can give you is an estimate as of yearend 1991 of the approximate gain that Berkshire didn't make because of your Chairman's mistake: about $1.4 billion.
+> We've made significant money in certain common stocks because of the lessons we learned at See's.
 
-> Managers eager to bet heavily on their abilities usually have plenty of ability to bet on. [On the H.H. Brown compensation system.]
+> I wish I could give you a halfway rational explanation for my amateurish behavior vis-a-vis Fannie Mae. But there isn't one. What I can give you is an estimate as of yearend 1991 of the approximate gain that Berkshire didn't make because of your Chairman's mistake: about $1.4 billion.
 
-> …if you advertise an interest in buying collies, a lot of people will call hoping to sell you their cocker spaniels. [On unsolicited acquisition proposals; lowercase in original — mid-sentence in raw letter.]
+> These managers therefore truly stand in the shoes of owners.
+
+> Managers eager to bet heavily on their abilities usually have plenty of ability to bet on.
 
 > The stock market serves as a relocation center at which money is moved from the active to the patient.
 
-> As time goes on, I get more and more convinced that the right method in investment is to put fairly large sums into enterprises which one thinks one knows something about and in the management of which one thoroughly believes. It is a mistake to think that one limits one's risk by spreading too much between enterprises about which one knows little and has no reason for special confidence. . . . One's knowledge and experience are definitely limited and there are seldom more than two or three enterprises at any given time in which I personally feel myself entitled to put full confidence. [Buffett quoting Keynes's August 15, 1934 letter to F. C. Scott.]
-
-## Franchise vs. business — substance
-
-Three conditions for a franchise: needed/desired; no close substitute; not price-regulated. The empirical test: aggressive pricing producing high returns on capital. Franchises tolerate mismanagement; businesses do not.
-
-The valuation math: a $1M after-tax-earnings property modeled as a 6%-growth perpetuity at 10% discount rate values at $25M (25× after-tax). The same $1M earnings modeled as cyclical "bob-around" at 10% discount values at $10M (10× after-tax). Same earnings, different category of math.
-
-The media reclassification: secular forces (declining ad-spending growth, retailer bypass, channel proliferation) have moved newspapers, TV, magazines from franchise toward business. The intrinsic-value impact on [Buffalo News](../entities/buffalo-evening-news.md), [Cap Cities](../entities/capital-cities.md), [Washington Post](../entities/washington-post.md) is significant.
-
-See [franchise-vs-business](../concepts/franchise-vs-business.md).
-
-## See's twenty-year retrospective
-
-January 3, 1972 acquisition by [Blue Chip Stamps](../entities/blue-chip-stamps.md) (later merged into Berkshire). Sellers asked $40M (calculated on the full ownership Berkshire ultimately attained); $30M after excess cash; Berkshire said $25M as ceiling. "Fortunately, the sellers accepted our offer."
-
-| | 1972 | 1991 |
-| --- | ---: | ---: |
-| Sales | $29M | $196M |
-| Pre-tax profit | $4.2M | $42.4M |
-| Net worth | $7M (tangible) | $25M |
-
-Distributed pre-tax profits over 20 years: ~$410M. Reinvested capital: ~$18M.
-
-The lesson: "In our See's purchase, Charlie and I had one important insight: We saw that the business had untapped pricing power. … We've made significant money in certain common stocks because of the lessons we learned at See's."
-
-The connection to [franchise-vs-business](../concepts/franchise-vs-business.md): See's is the textbook franchise. See [sees-candies](../entities/sees-candies.md) and [cigar-butts-vs-wonderful-businesses](../concepts/cigar-butts-vs-wonderful-businesses.md).
-
-## H.H. Brown acquisition
-
-July 1, 1991. Ray Heffernan purchased the company in 1927 for $10,000; ran it for 62 years; died late 1990. Frank Rooney (Heffernan's son-in-law, former Melville CEO 1964-86) became CEO at Heffernan's late-life request. Family wanted to sell; Rooney met Berkshire shareholder John Loomis at a Florida golf game.
-
-The unusual compensation: $7,800 base salary + designated percentage of profits after capital charge. "Managers therefore truly stand in the shoes of owners."
-
-See [incentive-compensation](../concepts/incentive-compensation.md) — H.H. Brown's compensation system extends the Berkshire-specific incentive framework.
-
-## Fannie Mae mistake
-
-Early 1988: decision to buy 30M shares ($350-400M position). After 7M shares the price climbed; Buffett stopped buying; then sold the 7M shares. By yearend 1991: ~$1.4B of foregone gain.
-
-The framing: "I wish I could give you a halfway rational explanation for my amateurish behavior vis-a-vis Fannie Mae. But there isn't one." The [Coca-Cola](../entities/coca-cola.md) counter-correction: when Coke rose during accumulation in 1988-89, Buffett did *not* stop.
-
-See [mistakes-of-omission](../concepts/mistakes-of-omission.md).
-
-## Salomon interim chairmanship
-
-August 18, 1991 - June 1992. Government-bond-trading scandal disclosed; firm in danger of losing primary-dealer status. Buffett took the job; appointed Deryck Maughan as operating head; coordinated with SEC, NY Fed, Treasury, U.S. Attorney, DoJ Antitrust. Ron Olson (Munger Tolles) as lead lawyer.
-
-The 1991 letter is restrained; details in [berkshire-1992-letter](berkshire-1992-letter.md). The framing: "My job is merely to treat them right and to allocate the capital they generate. Neither function is impeded by my work at Salomon."
-
-See [salomon](../entities/salomon.md) and [john-gutfreund](../people/john-gutfreund.md).
-
-## Cost-of-float 1991
-
-| Year | Underwriting loss | Avg float | Cost of funds | Long-term Govt. yield |
-| ---: | ---: | ---: | ---: | ---: |
-| 1990 | $26.65M | $1,637M | 1.63% | 8.24% |
-| 1991 | $119.6M | $1,895M | 6.31% | 7.40% |
-
-First year cost of funds exceeded long-term government bond yield since 1985. Loss-reserve-related; new business mix.
-
-## Convertible preferreds — Gillette converted
-
-April 1, 1991: [Gillette](../entities/gillette.md) called the preferred. Berkshire converted to 12M common (later split-adjusted to 24M). Foregone $35M annual after-tax preferred income; replaced with common position now valued at $1.35B.
-
-## Portfolio (yearend 1991)
-
-| Shares | Holding | Cost | Market |
-| ---: | --- | ---: | ---: |
-| 3,000,000 | Cap Cities/ABC | $517.5M | $1,300.5M |
-| 46,700,000 | Coca-Cola | $1,023.9M | $3,747.7M |
-| 2,495,200 | Freddie Mac | $77.2M | $343.1M |
-| 6,850,000 | GEICO | $45.7M | $1,363.2M |
-| 24,000,000 | Gillette | $600.0M | $1,347.0M |
-| 31,247,000 | Guinness | $264.8M | $296.8M |
-| 1,727,765 | Washington Post | $9.7M | $336.1M |
-| 5,000,000 | Wells Fargo | $289.4M | $290.0M |
-
-American Express PERC ($300M cost; $263.3M market) and First Empire State preferred ($40M cost) added in fixed-income table.
-
-## Entities discussed
-
-- [berkshire-hathaway](../entities/berkshire-hathaway.md)
-- [sees-candies](../entities/sees-candies.md) — twenty-year retrospective
-- [coca-cola](../entities/coca-cola.md), [capital-cities](../entities/capital-cities.md), [geico](../entities/geico.md), [washington-post](../entities/washington-post.md) — permanent four
-- [gillette](../entities/gillette.md) — preferred conversion
-- [salomon](../entities/salomon.md) — Buffett as Interim Chairman
-- [usair](../entities/usair.md) — industry decimated; "should work out all right unless the industry is decimated during the next few years" of 1990 letter proves to be precisely the operative condition
-- [wells-fargo](../entities/wells-fargo.md) — held; break-even look-through earnings
-- [american-express](../entities/american-express.md) — PERC acquired
-- [national-indemnity](../entities/national-indemnity.md) — super-cat
-- H.H. Brown — acquired (no standalone entity per scope filter)
-- Guinness — first international holding (not standalone)
-
-## People mentioned
-
-- [warren-buffett](../people/warren-buffett.md), [charlie-munger](../people/charlie-munger.md)
-- [john-gutfreund](../people/john-gutfreund.md) — Salomon crisis (resigned)
-- [ajit-jain](../people/ajit-jain.md) — super-cat
-- [ralph-schey](../people/ralph-schey.md) — Scott Fetzer
-- Frank Rooney — H.H. Brown (folded into source page)
-- Chuck Huggins — See's twenty-year manager
-- Bob Wilmers — First Empire CEO
-
-## Concepts introduced or discussed
-
-- [franchise-vs-business](../concepts/franchise-vs-business.md) — **canonical introduction**
-- [mistakes-of-omission](../concepts/mistakes-of-omission.md) — Fannie Mae case study
-- [concentration-vs-diversification](../concepts/concentration-vs-diversification.md) — Keynes 1934 letter quoted
-- [float](../concepts/float.md) — cost-of-float table continues
-- [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — implicit
-- [mr-market](../concepts/mr-market.md) — "stock market serves as a relocation center"
-- [economic-goodwill](../concepts/economic-goodwill.md) — See's case
-- [cigar-butts-vs-wonderful-businesses](../concepts/cigar-butts-vs-wonderful-businesses.md) — See's case
-- [incentive-compensation](../concepts/incentive-compensation.md) — H.H. Brown system
+> As time goes on, I get more and more convinced that the right method in investment is to put fairly large sums into enterprises which one thinks one knows something about and in the management of which one thoroughly believes. It is a mistake to think that one limits one's risk by spreading too much between enterprises about which one knows little and has no reason for special confidence. . . . One's knowledge and experience are definitely limited and there are seldom more than two or three enterprises at any given time in which I personally feel myself entitled to put full confidence. [Keynes, August 15, 1934 letter to F. C. Scott]
 
 ## Connections to other sources
 
-- The [franchise-vs-business](../concepts/franchise-vs-business.md) essay extends and operationalizes the [moat](../concepts/moat.md) discussions of 1982-85 and the [economic-goodwill](../concepts/economic-goodwill.md) analysis of 1983-85.
-- The See's twenty-year retrospective is the wonderful-business confirmation of the [cigar-butts-vs-wonderful-businesses](../concepts/cigar-butts-vs-wonderful-businesses.md) lesson articulated in [berkshire-1989-letter](berkshire-1989-letter.md).
-- Fannie Mae mistake completes the omission-mistakes framing referenced (without specifics) in [berkshire-1989-letter](berkshire-1989-letter.md).
-- Salomon interim chairmanship extends the 1987 investment thesis in [berkshire-1987-letter](berkshire-1987-letter.md); full crisis-recovery report in [berkshire-1992-letter](berkshire-1992-letter.md).
-- Cost-of-float table continues the format established in [berkshire-1990-letter](berkshire-1990-letter.md).
-- The "Rip Van Winkle" stay-put portfolio framing and the Keynes concentration passage together anticipate the extended [concentration-vs-diversification](../concepts/concentration-vs-diversification.md) argument in [berkshire-1993-letter](berkshire-1993-letter.md), where Buffett formally endorses a focused-portfolio philosophy.
-- The media-franchise reclassification is foreshadowed in [berkshire-1986-letter](berkshire-1986-letter.md), which first distinguished media properties as price-setters rather than commodity producers; the 1991 letter marks the moment Buffett acknowledges that edge is structurally eroding.
+- The [franchise-vs-business](../concepts/franchise-vs-business.md) essay here is the canonical source; it extends the moat discussions of [berkshire-1982-letter](berkshire-1982-letter.md)–[berkshire-1985-letter](berkshire-1985-letter.md) and the economic-goodwill analysis of [berkshire-1983-letter](berkshire-1983-letter.md); [berkshire-1995-letter](berkshire-1995-letter.md) extends it with the "have-to-be-smart-once vs. every-day" distinction and [berkshire-1996-letter](berkshire-1996-letter.md) names the "Inevitables" — the top tier of the franchise category
+- The See's retrospective confirms the wonderful-business thesis first articulated in [berkshire-1989-letter](berkshire-1989-letter.md); where that letter drew the principle abstractly, this one supplies twenty years of compounding data
+- The Fannie Mae omission expands on the omission framing of [berkshire-1989-letter](berkshire-1989-letter.md) by quantifying the cost to the dollar; [berkshire-1994-letter](berkshire-1994-letter.md) adds Cap Cities as a self-identified repeat offense
+- Salomon's full crisis narrative is deferred to [berkshire-1992-letter](berkshire-1992-letter.md), the primary source for the institutional-reform framing and Buffett's testimony discipline
+- The float cost-of-funds table through 1991 extends the format established in [berkshire-1990-letter](berkshire-1990-letter.md); the 6.31% result in 1991 — though still below the government yield — is a sharp reversal from the near-zero costs of 1988–90
+- The Keynes concentration passage anticipates the formal focused-portfolio essay in [berkshire-1993-letter](berkshire-1993-letter.md), where Buffett adopts the principle explicitly as Berkshire policy
