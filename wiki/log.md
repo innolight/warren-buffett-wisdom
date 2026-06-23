@@ -8,6 +8,40 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-23] query | buffett management criteria
+
+- Filed `wiki/synthesis/buffett-management-criteria.md` — synthesizes acquisition-criteria, capital-allocation, institutional-imperative, owner-orientation, incentive-compensation, franchise-vs-business, tom-murphy, carl-reichardt into six ordered criteria
+- Open questions noted: does management quality compound within Berkshire; where is the franchise-tolerance line as moats erode
+
+## [2026-06-21] note | concept-page gold standard + /refine-concept skill
+
+- Established the concept-page gold standard and tooling, mirroring the source-page effort: rewrote `.claude/rules/templates/concept.md` (thin skeleton → full spec with before/after calibrations) and added the `/refine-concept` skill (`.claude/commands/refine-concept.md`, score → roast → rewrite).
+- Two defining concept failure modes targeted (per `.plan/project_review.md`): **chronicle drift** (year-by-year source ledgers + archive tables duplicating source pages) and the **actionability gap** (reference-shaped, no decision rule). New standard: organize by the idea's anatomy not chronology, and lead with an **Actionable takeaway** decision block.
+- Skill validated end-to-end on three pages by **Sonnet** sub-agents (`float`, `moat`, `capital-allocation` — see entries below); all reached ≥4.0. Skill/template tightened from the runs (length-ceiling trigger at 15+ sources, body-word definition, internal-figure-inconsistency rule, tags-vs-related dedup example).
+- Follow-up: full concept sweep still pending (triage shows `incentive-compensation`, `derivatives`, `share-repurchases`, `corporate-governance`, `berkshire-conglomerate-model` as the next worst); `cost-of-float`→`float` and `valuation-framework`/`growth-and-value` merges flagged but not done; the Aesop framework should consolidate onto `valuation-framework` (flagged on the `capital-allocation` rewrite).
+
+## [2026-06-21] refactor | float
+
+- Refined via `/refine-concept float --auto` (Sonnet). Before A2 B1 C1 D2 E3 (avg 1.8) → after A5 B5 C5 D5 E5 (avg 5.0); independently verified.
+- Cut: 2 archive tables (10-row 1967–1995 cost-of-float, 22-row 1998–2022 float ledger); 22-bullet dated source ledger → 12-entry what-each-added thread; 5 year-titled body sections (2008/2014/2016/2017/2024) folded into idea-facet sections.
+- Added: Actionable-takeaway block (cost-not-size test; revolving-float preference; buyback→float-per-share rule; investment-options quality). Body ~3,500 → ~1,586 words.
+- Faithfulness: retained figures/quotes verified against source pages. Internal discrepancy preserved-and-flagged: 1967 starting float cited as $17M (2004/2006 sections) vs $19M (2021/2022 sections); used $19M per the more recent letters — verify against raw if precision matters.
+- Status stays `draft`. No merge candidates.
+
+## [2026-06-21] refactor | moat
+
+- Refined via `/refine-concept moat --auto` (Sonnet). Before A2 B1 C3 D2 E4 (avg 2.4) → after ~A5 B5 C5 D4 E5 (avg ~4.8); independently verified.
+- Core fix: spine reorganized from chronological (6 of 9 body sections year/era-anchored) to anatomy — Five structural signatures; What moats are not; How a moat compounds (virtuous circle); How moats fail (two failure modes); The endurance and manager-independence tests. Five case studies (GEICO, See's, Coke/Gillette, Gen Re, Dexter) preserved under facet headings.
+- Added Actionable-takeaway block (structural price-gap test, manager-independence test, endurance test, widen-vs-extract). Source list 15 → 11 (1997–2000 GEICO restatements compressed). Body 2,466 → ~1,631 words. Tags 3 → 5.
+- Cut 3 figures unverified in source pages (FlightSafety simulator specifics; NFM-vs-Levitz expense ratios; Dexter 93%-import-share) — principles kept, numbers removed. Status stays `draft`. No merges.
+
+## [2026-06-21] refactor | capital-allocation
+
+- Refined via `/refine-concept capital-allocation --auto` (Sonnet). Before A3 B1 C3 D2 E3 (avg 2.4) → after ~A4 B5 C4 D4 E4 (avg ~4.2); independently verified.
+- Primary fix the actionability gap (B was 1/5): added a 5-rule Actionable-takeaway block (per-share-intrinsic-value test; benchmark every dollar vs. best alternative; hold cash over a sub-hurdle deal; issuance test for stock deals; correct mistakes quickly).
+- Cut as scope creep / chronicle: the Aesop bird-in-hand section (~290w, belongs on `valuation-framework`), the standalone Dexter Shoe narrative (compressed to 3 sentences), and an asset-class figure ledger ($8.3B/$12B/$825M/$1.138B → one sentence). Section titles relabeled as facet claims. Body ~2,350 → ~1,250 words. Frontmatter `sources` corrected 7 → 10 to match the thread.
+- **Merge recommendation (flagged, not done):** the Aesop three-question framework should live on `valuation-framework.md`; `capital-allocation` now references it in one line. Status stays `draft`.
+
 ## [2026-06-18] refactor | berkshire-1995-letter
 
 - Refined via `/refine-source --auto`. Before A2 B2 C3 D2 E2 (avg 2.2) → after A4 B4 C4 D5 E5 (avg 4.4)

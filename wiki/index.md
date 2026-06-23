@@ -17,7 +17,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [liquidity-fortress](concepts/liquidity-fortress.md) — $20B+ cash permanently held as a strategic weapon; supplier not supplicant during crises; "never depend on the kindness of strangers"
 - [bonds-and-inflation](concepts/bonds-and-inflation.md) — fixing a price in one direction while costs move in the other destroys value; long-term bonds as the canonical case
 - [bonds-as-a-business](concepts/bonds-as-a-business.md) — applying business-valuation logic to fixed income; the WPPSS case study
-- [capital-allocation](concepts/capital-allocation.md) — CEO's central skill; 60% of capital deployed in a decade for a 10%-retention business; Berkshire's opportunity-cost discipline; Aesop bird-in-hand reformulation 2000
+- [capital-allocation](concepts/capital-allocation.md) — the five choices and the one test that governs them all: per-share intrinsic value over EPS; the acquisition trap, the advisor problem, and why inaction is a valid decision
 - [cigar-butts-vs-wonderful-businesses](concepts/cigar-butts-vs-wonderful-businesses.md) — the 1989 canonical lesson; "time is the friend of the wonderful business"; the Munger-credit pivot
 - [circle-of-competence](concepts/circle-of-competence.md) — knowing the limits of what you understand; the rationale for not investing in technology during the dot-com era
 - [commodity-business-economics](concepts/commodity-business-economics.md) — over-capacity + undifferentiated product = poor profitability unless rescued by a wide and sustainable cost advantage
@@ -29,7 +29,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [earnings-quality](concepts/earnings-quality.md) — why "adjusted earnings" excluding restructuring costs and SBC mislead shareholders; the number-manufacturing culture risk; insurer reserve underestimation as the downstream failure mode
 - [economic-goodwill](concepts/economic-goodwill.md) — durable competitive advantage producing high returns on tangible capital; Buffett's escape from Graham's tangible-asset bias
 - [equity-return-expectations](concepts/equity-return-expectations.md) — GDP-tethered ceiling on long-run aggregate equity returns; Dow-at-2,000,000 arithmetic
-- [float](concepts/float.md) — premium-derived investable funds; the engine that converts an insurer into a compounder; cost-of-float framework from 1990; Gen Re adds ~$15B to float base
+- [float](concepts/float.md) — how P/C insurance converts underwriting discipline into low-cost investable capital; the cost-of-float test, the revolving-fund framing, and float's two structural failure modes
 - [franchise-vs-business](concepts/franchise-vs-business.md) — the 1991 three-condition test; franchises tolerate mismanagement, businesses do not; the media reclassification
 - [gaap-distortion](concepts/gaap-distortion.md) — which specific GAAP rules create rule-mandated gaps between reported figures and economic reality; unrealized investment gains/losses as the primary example; Buffett's operating earnings and normalized per-share earning power as the remedy
 - [great-good-gruesome](concepts/great-good-gruesome.md) — three-tier business-quality taxonomy (2007); great = capital-light compounder (See's); good = capital-intensive but good returns (FlightSafety); gruesome = capital-hungry with poor returns (airlines)
@@ -46,7 +46,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [margin-of-safety](concepts/margin-of-safety.md) — Graham's three-word distillation; the gap between estimated intrinsic value and price paid; cornerstone of investment success
 - [media-economics](concepts/media-economics.md) — distribution-based franchise economics; why newspaper monopoly moats collapsed structurally
 - [mistakes-of-omission](concepts/mistakes-of-omission.md) — the invisible mistakes that don't appear on financial statements; Fannie Mae $1.4B; Cap Cities; Disney 1967; circle-of-competence tech abstention 1999
-- [moat](concepts/moat.md) — structural competitive advantage that resists erosion; the castle-and-moat metaphor canonized 1986; five empirical signatures including global brand
+- [moat](concepts/moat.md) — five structural forms of durable competitive advantage; the tests for endurance and manager-independence; structural vs. habitual moats and how culture-based ones erode
 - [model-risk](concepts/model-risk.md) — quantitative models fail when structural conditions change; Black-Scholes critique; "beware of geeks bearing formulas"
 - [mr-market](concepts/mr-market.md) — Graham's manic-depressive market allegory canonized by Buffett 1987; the Cinderella warning; most extreme manifestation since 1970s during dot-com
 - [noah-rule](concepts/noah-rule.md) — predicting rain vs. building arks; preparation over forecasting; Buffett's aphorism for acting on known risks without waiting for certainty
@@ -182,4 +182,4 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 
 ## Synthesis
 
-_None yet._
+- [buffett-management-criteria](synthesis/buffett-management-criteria.md) — six criteria Buffett requires of managers: integrity, capital allocation, owner orientation, institutional-imperative resistance, cost discipline, candor

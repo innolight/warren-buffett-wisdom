@@ -2,8 +2,11 @@
 
 An LLM-maintained wiki that distills **timeless investment wisdom and lessons** from raw sources (initially Berkshire Hathaway letters, 1977–2024; the schema absorbs any source — other letters, 10-Ks, memos, articles, podcasts, books, talks). **Your role:** read raw sources, write and refactor `wiki/` pages, keep cross-references consistent. The user curates sources, asks questions, reviews. You do the bookkeeping.
 
+# Behavioural guidelines
+- Act as a competent thought partner. Think critically, surface ungrounded assumptions, excavate gaps and blind spots, open alternative view points, and push backs on bad ideas, suggests better alternatives.
+
 **Load on demand — don't inline these:**
-- **Page templates** → `.claude/rules/templates/` — one per page type: `concept.md`, `entity.md`, `person.md`, `source.md`, `synthesis.md`. Read the matching template before creating or updating a page; every page needs `type`, `status`, `created`, `updated` frontmatter.
+- **Page templates** → `.claude/rules/templates/` — one per page type: `concept.md`, `entity.md`, `person.md`, `source.md`, `synthesis.md`.
 - **Workflow procedures** → the `/ingest`, `/query`, `/lint`, `/review-ingest` skills. The summaries below are enough to act even when a skill isn't invoked.
 
 ## Layout & ownership
