@@ -27,7 +27,7 @@ Score 1–5 on each axis. A 5 matches the gold standard described in `.claude/ru
 | --- | --- |
 | **A — Altitude / anatomy** | Organized by the structure of the idea; section titles are facets (mechanism, failure mode, test), **not years**; leads with the timeless principle, not what happened in a given letter. |
 | **B — Actionability** | Leads with a crisp **Actionable takeaway** — the decision rule(s) the reader acts on. The page says what to *do*, not only what the idea means. |
-| **C — Anti-chronicle threading** | "How it's discussed in sources" is a thin per-source thread (what each added, 6–12 entries) — **not** a year-by-year ledger; **no** archive tables; year-specific figures pushed to source pages. |
+| **C — Anti-chronicle threading** | "How it's discussed in sources" is a thin per-source thread (what each added) — **not** a year-by-year ledger; **no** archive tables; year-specific figures pushed to source pages. 6–12 entries is a *ceiling*, not a floor: a thread that lists exactly the 3–5 sources that materially advanced a tightly-sourced concept earns a 5 — do **not** mark down for being short or for having one entry per source, only for padding, restatement, or a dated/figure-laden ledger. |
 | **D — Structure / containment** | Follows the concept template; evidence subordinate to principle; within the length band (~500–1,200 words, deepest ~1,500); supersession handled as a `Historical` note, not a body-spanning timeline. |
 | **E — Hygiene + scope** | Markdown links only (no `[[wiki-links]]`); focused `related`/`tags`; one idea per page with no scope creep into a sibling; near-duplicate/merge candidates flagged. |
 
@@ -55,7 +55,7 @@ Rewrite the page from the critique toward the gold standard, in template order (
 - **Definition / Why it matters** — crisp, first-principles.
 - **Anatomy sections** — re-title every year-anchored section into an idea-facet (mechanism, signature, variation, failure mode, test) stated as a claim, carrying the *minimum* evidence that proves it. This is the heart of the page.
 - **Historical (superseded)** — only if a view genuinely shifted; both positions with sources. Don't manufacture one.
-- **How it's discussed in sources** — collapse the ledger to a thin thread of **6–12** sources that materially advanced the idea, each one line on what it added. Drop pure restatements or compress them ("restated annually 2008–2024").
+- **How it's discussed in sources** — collapse the ledger to a thin thread of the sources that materially advanced the idea, each one line on what it added. **6–12 is a ceiling, not a floor** — list exactly those that advanced the idea (3–5 is complete for a tightly-sourced concept; never pad to reach 6). Drop pure restatements or compress them ("restated annually 2008–2024").
 - **Related** — load-bearing links only.
 
 **Pruning rule:** kill year-by-year ledgers and multi-year tables aggressively. Where the data backs an enduring lesson, replace the table with a one-line summary of what it shows (not the full float table, but "Float compounded from $17M (1967) to $171B (2024) at near-zero average cost"). Push year-specific figures back to the source pages — do **not** relocate them into prose elsewhere on this page. Keep a figure only when it *proves* a point.

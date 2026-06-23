@@ -2,134 +2,91 @@
 type: concept
 status: draft
 created: 2026-06-13
-updated: 2026-06-16
+updated: 2026-06-23
 sources: [berkshire-1998-letter, berkshire-1999-letter, berkshire-2000-letter, berkshire-2001-letter, berkshire-2002-letter, berkshire-2003-letter, berkshire-2004-letter, berkshire-2011-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2016-letter, berkshire-2024-letter]
-tags: [insurance, underwriting, discipline]
-related: [float, ajit-jain, super-cat-insurance, institutional-imperative, general-re]
+tags: [insurance, underwriting, reinsurance, failure-mode, capital-allocation]
+related: [float, institutional-imperative, general-re, ajit-jain, national-indemnity, super-cat-insurance, incentive-compensation]
 ---
 
 # Underwriting Discipline
 
+Underwriting discipline is the commitment to price every policy for expected profit — and walk away when that price is unavailable — regardless of competitive pressure, market-share goals, or float-volume objectives.
+
+## Actionable takeaway
+
+- **Volume growth in a soft market is the primary warning sign.** An insurer that cannot shrink when prices are inadequate is being run for market share, not profit. The discipline is most visible in what the company *refuses*.
+- **Watch the reserve trend.** Under-reserving is both a symptom of pricing failure and its primary concealer — it converts losses into fictitious profits for years, then surfaces as a catastrophic "catch-up" charge. Conservative reserving over time is a credibility signal, not just an accounting preference.
+- **The fourth test is where most fail.** Most insurers can evaluate exposures, assess probability, and price for profit. The failure point is refusing to write business that competitors eagerly price inadequately. "The other guy is doing it, so we must as well" is not a defense — it is the mechanism of failure.
+- **Assess culture, not just stated intent.** Institutions that leave the employee self-preservation incentive intact will rationalize bad pricing in soft markets. The structural test: has the insurer removed the layoff threat that makes rationalization individually rational?
+- Float's value depends entirely on its cost; underwriting discipline is what keeps that cost at or below zero. See [float](float.md).
+
 ## Definition
 
-Underwriting discipline is the commitment to price each insurance policy for expected losses plus overhead—and to refuse business when that pricing is unavailable—regardless of competitive pressure, market-share goals, or float-volume objectives. Buffett's operational test: a dollar of float that costs more than a dollar to service is a liability dressed as an asset. The principle applies across soft and hard markets alike, with no exceptions for strategic volume or relationship preservation.
+The non-proprietary nature of insurance creates a structural vulnerability: "Insurers sell a non-proprietary piece of paper containing a non-proprietary promise. Anyone can copy anyone else's product. No installed base, key patents, critical real estate or natural resource position protects an insurer's competitive position." ([berkshire-2003-letter](../sources/berkshire-2003-letter.md)) Given this, pricing discipline maintained consistently across market cycles is the only durable edge. The operational test: a dollar of float that costs more than a dollar to service is a liability dressed as an asset. The principle applies across soft and hard markets, with no exceptions for strategic volume or relationship preservation.
 
 ## Why it matters
 
-An insurer's competitive position offers no natural moat: "Insurers sell a non-proprietary piece of paper containing a non-proprietary promise. Anyone can copy anyone else's product. No installed base, key patents, critical real estate or natural resource position protects an insurer's competitive position." ([berkshire-2003-letter](../sources/berkshire-2003-letter.md)) Given this structural vulnerability, underwriting discipline—maintained consistently across market cycles—is the only durable edge. The business that looks like it can substitute volume for pricing always ends the same way.
+Undisciplined underwriting compounds across four layers: inadequate pricing → under-reserving for future claims → overstated profits driving excess compensation and premature taxes → a corrupted feedback loop that delays correction. "Insurance accounting is a self-graded exam, in that the insurer gives some figures to its auditing firm and generally doesn't get an argument." ([berkshire-2001-letter](../sources/berkshire-2001-letter.md)) The consequence is that mispricing can persist for years before surfacing as a catastrophic reserve catch-up. "Just as is the case in investing, insurers produce outstanding long-term results primarily by avoiding dumb decisions, rather than by making brilliant ones."
 
-Undisciplined underwriting also compounds across layers: (1) inadequate pricing for current risk, (2) under-reserving for future claims that cannot yet be measured, (3) over-stated profits driving excess incentive compensation and premature taxes, and (4) a corrupted feedback loop in which the business cannot diagnose or correct itself without a painful catch-up charge. General Re required $800M (2001) and then $1.31B (2002) in reserve catch-ups after years of that loop running silently.
+## The three operational principles
 
-## The three principles
+Buffett articulated the definitive framework in [berkshire-2001-letter](../sources/berkshire-2001-letter.md):
 
-Buffett articulated the definitive operational framework in [berkshire-2001-letter](../sources/berkshire-2001-letter.md):
-
-1. **Accept only properly evaluable risks.** Stay within the circle of competence; after evaluating all factors including remote loss scenarios, accept only business carrying the expectancy of profit. "These insurers ignore market-share considerations and are sanguine about losing business to competitors that are offering foolish prices or policy conditions."
-
-2. **Limit aggregation.** Constrain business so no single event or correlated cluster can threaten solvency. "Ceaselessly search for possible correlation among seemingly-unrelated risks."
-
+1. **Accept only properly evaluable risks.** Evaluate all factors including remote loss scenarios; be willing to lose business to competitors offering inadequate prices.
+2. **Limit aggregation.** Constrain exposure so no single event or correlated cluster threatens solvency. "Ceaselessly search for possible correlation among seemingly-unrelated risks."
 3. **Avoid moral risk.** "No matter what the rate, trying to write good contracts with bad people doesn't work."
 
-The 2002 letter restates this as three disciplines: "(a) underwrite with unwavering discipline; (b) reserve conservatively; and (c) avoid an aggregation of exposures that would allow a supposedly 'impossible' incident to threaten their solvency." ([berkshire-2002-letter](../sources/berkshire-2002-letter.md))
+These function as necessary conditions, not tradeoffs. General Re's failure before 1998 violated all three simultaneously — under-pricing for market share, accumulating nuclear/chemical/biological aggregation that could have threatened the company's existence, and reserving inadequately. Each failure compounded the others: under-pricing produced under-reserving, which produced fictitious profits, which removed the incentive to correct the pricing. The $800M (2001) and $1.31B (2002) reserve catch-ups were years of deferred honesty compressed into two balance-sheet shocks.
 
-## The NICO model: how discipline is sustained culturally
+## Four sequential tests: evaluate, price, walk away
 
-[berkshire-2004-letter](../sources/berkshire-2004-letter.md) provides the most complete account of *why* National Indemnity's underwriting discipline persists across management generations while most insurers' discipline erodes in soft markets.
+[berkshire-2011-letter](../sources/berkshire-2011-letter.md) offers the per-policy decision process: (1) understand all exposures that might cause a loss; (2) conservatively evaluate both the likelihood and probable cost of each exposure; (3) set a premium that will yield a profit after prospective losses and operating expenses; (4) walk away if the appropriate premium cannot be obtained.
 
-**Root cause: fear drives rationalization.** When insurance prices are soft and volume is declining, employees face a self-preservation trap: inadequate pricing will cause problems, but declining volume leads to layoffs. Self-interest resolves predictably — rationalize the bad pricing, argue the market will recover, preserve the distribution network intact. The [institutional-imperative](institutional-imperative.md) runs through individual fear.
+The fourth test is the point of failure for most insurers. "They simply can't turn their back on business that their competitors are eagerly writing. That old line — 'The other guy is doing it, so we must as well' — spells trouble in any business, but nowhere more so than insurance." ([berkshire-2013-letter](../sources/berkshire-2013-letter.md)) The problem is not analytical — it is competitive and cultural.
 
-**The no-layoff policy removes the trap.** NICO has always promised its workforce that no one will be fired because of declining volume, however severe the contraction. Employees need not rationalize inadequate pricing to protect themselves; they can evaluate each policy on its own merits. NICO can live with excess overhead. It cannot live with underpriced business and the breakdown in underwriting discipline that accompanies it.
+[Ajit Jain](../people/ajit-jain.md) is the human proof of all four: "the intelligence to properly rate most risks; the realism to forget about those he can't evaluate; the courage to write huge policies when the premium is appropriate; and the discipline to reject even the smallest risk when the premium is inadequate. It is rare to find a person possessing any one of these talents. For one person to have them all is remarkable." ([berkshire-1999-letter](../sources/berkshire-1999-letter.md))
 
-**The overstaffing discipline is the price.** A no-layoff policy requires exceptional care to avoid overstaffing when times are good. Tom Murphy (Capital Cities CEO) made this case to Buffett: hiring an assistant at $20,000/year is really a $3M decision once raises, benefits, and the likelihood of lifetime employment are factored in. One unnecessary hire is a long-duration commitment, not a marginal cost.
+## Structural immunity: removing the self-preservation trap
 
-**Cultural fortitude as the output.** NICO has had four CEOs since 1940; none bent on pricing discipline. "It takes real fortitude—embedded deep within a company's culture—to operate as NICO does. Anyone examining the table can scan the years from 1986 to 1999 quickly. But living day after day with dwindling volume—while competitors are boasting of growth and reaping Wall Street's applause—is an experience few managers can tolerate."
+The deeper question is how an institution sustains discipline across management generations and market cycles. [National Indemnity](../entities/national-indemnity.md)'s answer, documented in [berkshire-2004-letter](../sources/berkshire-2004-letter.md): remove the individual self-preservation incentive that makes rationalization personally rational.
 
-This is the positive-side complement to the General Re failure case: the same institutional-imperative forces that eroded General Re's discipline are present at NICO too. The no-layoff policy is NICO's structural countermeasure. See [national-indemnity](../entities/national-indemnity.md).
+When prices are soft and volume declines, employees face a conflict: refusing inadequate business will cause future problems, but declining volume causes present layoffs. Most institutions leave this incentive intact. NICO's countermeasure is a standing promise that no one will be fired because of declining volume, however severe. With the layoff threat removed, employees can evaluate each risk on its merits rather than their career survival. The price of this promise is staffing discipline — every hire is a long-duration commitment, not a marginal cost.
 
-## The positive illustration: Ajit Jain
+NICO has had four CEOs since 1940; none bent on pricing discipline. "It takes real fortitude — embedded deep within a company's culture — to operate as NICO does." The same [institutional-imperative](institutional-imperative.md) forces that eroded General Re's discipline are present at NICO too; the no-layoff policy is the structural countermeasure.
 
-[ajit-jain](../people/ajit-jain.md) embodies all four traits that sustained discipline requires:
+## Temperament, not checklist: pessimism as a job requirement
 
-> In Ajit, we have an underwriter equipped with the intelligence to properly rate most risks; the realism to forget about those he can't evaluate; the courage to write huge policies when the premium is appropriate; and the discipline to reject even the smallest risk when the premium is inadequate. It is rare to find a person possessing any one of these talents. For one person to have them all is remarkable. ([berkshire-1999-letter](../sources/berkshire-1999-letter.md))
+"Properly pricing P/C insurance is part art, part science and is definitely not a business for optimists." The operating standard: underwriters should "daily come to work nervous, but not paralyzed." ([berkshire-2024-letter](../sources/berkshire-2024-letter.md)) In long-tail lines, an optimistic — or dishonest — CEO can report large fictitious profits for years before the truth arrives. Calibrated pessimism is not timidity; it is a structural requirement for honest reserving.
 
-Ajit has never violated any of the three principles across decades of operation—and built a $13.4 billion float base from a standing start with a 20-person workforce ([berkshire-2002-letter](../sources/berkshire-2002-letter.md)), later growing to $13.9B while running the world's largest reinsurance operation with a staff of 23 ([berkshire-2003-letter](../sources/berkshire-2003-letter.md)). The discipline is not incidental to this result: the refusal to write business at inadequate prices is what made the float worth having.
+The walk-away rule is a survival imperative: "We must never write inadequately-priced policies in order to stay in the game. That policy is corporate suicide." Structural advantages matter here — an insurer that can absorb extreme losses without financial or psychological distress, and that is not dependent on reinsurers, can hold the pricing line where competitors must accept inadequate rates or exit.
 
-## The negative illustration: General Re
+## Experience vs. exposure: when historical data misleads
 
-Before Berkshire's 1998 acquisition, General Re had quietly violated all three principles over several years. The diagnosis, delivered in stages across the following letters:
+Pricing from historical loss experience is reliable only when the underlying exposures have not shifted. When they have, historical data provides false precision calibrated to a world that no longer exists. The industry-wide failure before September 11 was exactly this: "All of us in the industry made a fundamental underwriting mistake by focusing on experience, rather than exposure, thereby assuming a huge terrorism risk for which we received no premium." ([berkshire-2001-letter](../sources/berkshire-2001-letter.md))
 
-- **1999**: First full year under Berkshire ownership produced a $1.4 billion underwriting loss. General Re was "extremely underpriced, both domestically and internationally." ([berkshire-1999-letter](../sources/berkshire-1999-letter.md))
-- **2001**: Three concurrent failures identified—writing inadequately priced business for market share, accumulating nuclear/chemical/biological (NCB) aggregation that would have threatened the company's existence, and reserving inadequately. An $800M prior-year loss catch-up was required. ([berkshire-2001-letter](../sources/berkshire-2001-letter.md))
-- **2002**: Buffett admitted: "I was dead wrong. Gen Re's culture and practices had substantially changed and unbeknownst to management—and to me—the company was grossly mispricing its current business." A further $1.31B reserve catch-up was required. ([berkshire-2002-letter](../sources/berkshire-2002-letter.md))
-
-The root cause was not malice but the [institutional-imperative](institutional-imperative.md) at work: "difficult for able, hard-driving professionals to curb their urge to prevail over competitors." Equating winning with volume rather than profit is a failure mode available to any organization that measures itself against peers.
-
-The consequence of under-reserving is compound: it hides real costs, produces fictitious profits, drives excessive bonuses and premature taxes, and makes corrective repricing feel like a competitive retreat rather than a financial necessity. "Surprises in the insurance world have been far from symmetrical in their effect on earnings." ([berkshire-2001-letter](../sources/berkshire-2001-letter.md))
-
-## Float quality: the cost-of-float test
-
-Underwriting profit is not a bonus—it is what makes float valuable at all:
-
-> Float is wonderful—if it doesn't come at a high price. ([berkshire-2003-letter](../sources/berkshire-2003-letter.md))
-
-> An insurance business has value if its cost of float over time is less than the cost the company would otherwise incur to obtain funds. But the business is a lemon if its cost of float is higher than market rates for money. ([berkshire-1998-letter](../sources/berkshire-1998-letter.md))
-
-When interest rates are higher, an insurer can absorb some underwriting loss and still produce net value. But after 2001, with short-term funds yielding under 2%, "every insurance operation save retroactive reinsurance must now produce an underwriting profit to be a good business. The 4%-tolerable-cost era is over." ([berkshire-2001-letter](../sources/berkshire-2001-letter.md))
-
-General Re's positive-cost float during 1999-2001 (5.8%, 6%, 12.8%) is the counterpoint to Ajit's historically negative-cost float—the same instrument, opposite economics, entirely because of pricing and reserving practices. Berkshire's float at $44.2B with $1.7B of underwriting profit by 2003 represents the repair of the General Re damage and the sustained strength of Ajit's operation. See [float](float.md).
-
-## Experience vs. exposure: the deep error
-
-The 2001 letter identifies a specific failure mode that is both an underwriting-discipline failure and a diagnostic mistake: pricing by extrapolating historical loss experience rather than reasoning about current exposure. "All of us in the industry made a fundamental underwriting mistake by focusing on experience, rather than exposure, thereby assuming a huge terrorism risk for which we received no premium." ([berkshire-2001-letter](../sources/berkshire-2001-letter.md))
-
-This applies beyond terrorism. Late-bull-market D&O insurance is Buffett's example: loss experience looks excellent precisely when exposure is expanding—boards are less challenged, executives are bolder, securities litigation risk is higher—but the historical record shows no losses yet. Pricing by experience when exposure has shifted is the same error in a different domain.
-
-## The four disciplines, enumerated (2011)
-
-The 2011 letter offers the most explicit and compact statement of what sound insurance underwriting requires — four sequential tests, each a necessary condition:
-
-1. **Understand all exposures** that might cause a policy to incur losses.
-2. **Conservatively evaluate** the likelihood of any exposure actually causing a loss, and the probable cost if it does.
-3. **Set a premium** that will deliver a profit, on average, after both prospective loss costs and operating expenses are covered.
-4. **Be willing to walk away** if the appropriate premium can't be obtained.
-
-The fourth discipline is where most insurers fail. The letter's analogy: "Many insurers pass the first three tests and flunk the fourth. They simply can't turn their back on business that their competitors are eagerly writing." The old line — "The other guy is doing it so we must as well" — spells trouble in any business, but nowhere more so than insurance.
-
-The accompanying anecdote sharpens the fourth test: a man driving the wrong way down the Interstate, who, when his wife calls to warn him, replies: "Mabel, they don't know the half of it — it's not just one car, there are hundreds of them." An underwriter writing at inadequate prices in a competitive market is the insurance analogue: the crowd going the same direction offers no comfort about whether the direction is right. ([berkshire-2011-letter](../sources/berkshire-2011-letter.md))
-
-## Disciplined pessimism: "nervous, but not paralyzed" (2024)
-
-The 2024 letter distills underwriting discipline into a temperament rather than a checklist, and states the walk-away rule in its sharpest moral terms. Mike Goldberg — the Berkshire executive who recruited [ajit-jain](../people/ajit-jain.md) — supplies the standard: "We want our underwriters to daily come to work nervous, but not paralyzed." Buffett generalizes it: "Properly pricing P/C insurance is part art, part science and is definitely not a business for optimists." Pessimism is a job qualification here precisely because of the long-tail lag — the cost of the product is unknown for years or decades, so an optimistic (or dishonest) underwriter can report "large but fictitious profits … even decades" before the truth arrives.
-
-The fourth discipline — willingness to walk away — is restated as a survival rule: "we also need to shrink when prices are inadequate. We must never write inadequately-priced policies in order to stay in the game. **That policy is corporate suicide.**" The duty runs in both directions: "It's our job to price to absorb these [losses] and unemotionally take our lumps when surprises develop. It's also our job to contest 'runaway' verdicts, spurious litigation and outright fraudulent behavior."
-
-The letter also names the structural advantages that let Berkshire hold the line where others can't: it "can financially and psychologically handle extreme losses without blinking," is "not dependent on reinsurers" (a "material and enduring cost advantage"), employs "outstanding managers (no optimists)," and can offer capacity "no private insurer has the willingness to take on." Crucially, the discipline is paired with owner-aligned incentives — "if you lose money, so do we" — which "encourages caution but does not ensure foresight." See [incentive-compensation](incentive-compensation.md). ([berkshire-2024-letter](../sources/berkshire-2024-letter.md))
-
-## What counts
-
-> Just as is the case in investing, insurers produce outstanding long-term results primarily by avoiding dumb decisions, rather than by making brilliant ones. ([berkshire-2001-letter](../sources/berkshire-2001-letter.md))
-
-> What counts in this business is underwriting discipline. ([berkshire-2001-letter](../sources/berkshire-2001-letter.md))
+The same error recurs in D&O and financial lines during late bull markets: loss experience looks pristine precisely when exposure is expanding through dubious offerings and earnings manipulation. The diagnostic question before trusting any loss dataset: have the structural forces that generated it remained unchanged?
 
 ## How it's discussed in sources
 
-- [berkshire-1998-letter](../sources/berkshire-1998-letter.md) — canonical three-determinants essay (amount, cost, long-term outlook of float); float-outranks-net-worth only while underwriting profit is sustained; "the business is a lemon if its cost of float is higher than market rates"
-- [berkshire-1999-letter](../sources/berkshire-1999-letter.md) — Ajit Jain four-trait tribute as the positive model; General Re's first full year revealed extreme under-pricing domestically and internationally
-- [berkshire-2000-letter](../sources/berkshire-2000-letter.md) — retroactive reinsurance as a legitimate structural exception to underwriting-profit requirement; 6% cost of float year; "insurers have enormous latitude in figuring their underwriting results"; caution on estimation errors
-- [berkshire-2001-letter](../sources/berkshire-2001-letter.md) — three principles canonically articulated; General Re's three-rule failure dissected; experience vs. exposure as the deep error; "What counts in this business is underwriting discipline"
-- [berkshire-2002-letter](../sources/berkshire-2002-letter.md) — Gen Re cleanup essay; $1.31B additional reserve catch-up; three disciplines restated; "I was dead wrong"; by yearend Gen Re and National Indemnity are the only AAA-rated reinsurers among world majors
-- [berkshire-2003-letter](../sources/berkshire-2003-letter.md) — $44.2B float with $1.7B underwriting profit after years of repair; "Float is wonderful—if it doesn't come at a high price"; discipline as the only moat when the product itself is non-proprietary
-- [berkshire-2004-letter](../sources/berkshire-2004-letter.md) — NICO cultural model: no-layoff policy as the structural countermeasure to fear-driven rationalization; overstaffing discipline; Tom Murphy hiring lesson; four CEOs in 64 years, none bent; Don Wurster as "superstar"; $1.551B underwriting profit with all four Berkshire insurance segments positive
-- [berkshire-2011-letter](../sources/berkshire-2011-letter.md) — four disciplines explicitly enumerated; the "Albert and Mabel" anecdote as illustration of why the fourth discipline (walk away) is the one most insurers flunk; General Re cited as the positive-turnaround example, now a "treasure" under Tad Montross
-- [berkshire-2012-letter](../sources/berkshire-2012-letter.md) — 10th consecutive underwriting-profit year ($1.625B; $18.6B cumulative); General Re under Tad Montross explicitly confirmed as a second positive model: "float has been better than cost-free under his leadership"; four disciplines restated as the conditions for "a sound insurance operation"
-- [berkshire-2013-letter](../sources/berkshire-2013-letter.md) — 11th consecutive underwriting-profit year ($3.089B); the four disciplines restated as Tad Montross's operating code; General Re named "a gem" after years of repair. The fourth-discipline failure mode stated most precisely: "Many insurers pass the first three tests and flunk the fourth. They simply can't turn their back on business that is being eagerly written by their competitors. That old line, 'The other guy is doing it, so we must as well,' spells trouble in any business, but in none more so than insurance."
-- [berkshire-2024-letter](../sources/berkshire-2024-letter.md) — discipline framed as temperament: "not a business for optimists"; Mike Goldberg's "nervous, but not paralyzed"; the walk-away rule as survival ("shrink when prices are inadequate … never write inadequately-priced policies … corporate suicide"); long-tail accounting danger "if the CEO is an optimist or a crook"; structural advantages (extreme-loss capacity, no reinsurer dependence, owner-aligned "if you lose money, so do we")
-- [berkshire-2016-letter](../sources/berkshire-2016-letter.md) — 14th consecutive underwriting-profit year ($2.131B across four segments; $28B cumulative since 2003). The sharpest characterization of Berkshire's underwriting culture anywhere in the letter series: "At Berkshire it is a religion, Old Testament style." That discipline is also the lesson of succession: Kara Raiguel replaces Tad Montross at General Re, and Buffett's assurance is cultural, not personal — "Tad never listened to that nonsensical excuse for sloppy underwriting, and neither will Kara." The implication: the test for an insurance successor is not credentials but demonstrated refusal to rationalize inadequate pricing.
+- [berkshire-1998-letter](../sources/berkshire-1998-letter.md) — cost-of-float frame: "the business is a lemon if its cost of float is higher than market rates"; three determinants of insurance value (amount, cost, long-term outlook) stated
+- [berkshire-1999-letter](../sources/berkshire-1999-letter.md) — Ajit's four-trait portrait as the positive model; General Re's first full year reveals extreme under-pricing domestically and internationally
+- [berkshire-2000-letter](../sources/berkshire-2000-letter.md) — retroactive reinsurance identified as a legitimate structural exception to the underwriting-profit requirement; reserving-estimation latitude noted
+- [berkshire-2001-letter](../sources/berkshire-2001-letter.md) — three principles canonically articulated; General Re's three-rule failure dissected; experience vs. exposure named as the deep underwriting error
+- [berkshire-2002-letter](../sources/berkshire-2002-letter.md) — Gen Re cleanup: additional $1.31B catch-up; "I was dead wrong"; discipline restated as precondition for AAA reinsurance credibility
+- [berkshire-2003-letter](../sources/berkshire-2003-letter.md) — "Float is wonderful—if it doesn't come at a high price"; discipline framed as the only moat when the product is non-proprietary
+- [berkshire-2004-letter](../sources/berkshire-2004-letter.md) — NICO cultural model: no-layoff policy as the structural countermeasure to the self-preservation trap; the mechanism behind sustained discipline across generations
+- [berkshire-2011-letter](../sources/berkshire-2011-letter.md) — four sequential tests explicitly enumerated; walk-away identified as the one test most insurers flunk
+- [berkshire-2012-letter](../sources/berkshire-2012-letter.md) — 10th consecutive underwriting-profit year; four disciplines restated as conditions for "a sound insurance operation"; General Re confirmed as a second positive model
+- [berkshire-2013-letter](../sources/berkshire-2013-letter.md) — General Re named "a gem" after repair; fourth-discipline failure stated most precisely: competitors' eagerness is not justification
+- [berkshire-2016-letter](../sources/berkshire-2016-letter.md) — "At Berkshire it is a religion, Old Testament style"; succession test framed as cultural — the test for an insurance successor is demonstrated refusal to rationalize inadequate pricing
+- [berkshire-2024-letter](../sources/berkshire-2024-letter.md) — discipline as temperament: "not a business for optimists"; walk-away rule as corporate survival; structural advantages identified (extreme-loss capacity, no reinsurer dependence)
 
 ## Related
 
 - [float](float.md) — float's value depends entirely on its cost; underwriting discipline determines that cost
 - [institutional-imperative](institutional-imperative.md) — the invisible force that erodes discipline; General Re is the canonical insurance case
-- [super-cat-insurance](super-cat-insurance.md) — the Ajit Jain operation as the positive illustration of the three principles sustained across decades
-- [ajit-jain](../people/ajit-jain.md) — the individual who embodies all four traits of disciplined underwriting
-- [general-re](../entities/general-re.md) — the negative illustration; cultural collapse under volume-over-discipline and the 1998–2003 repair arc
+- [national-indemnity](../entities/national-indemnity.md) — NICO's no-layoff policy as the structural model for sustained discipline across generations
+- [general-re](../entities/general-re.md) — the negative illustration; all three principles violated simultaneously and the 1998–2003 repair arc
+- [ajit-jain](../people/ajit-jain.md) — embodies all four traits of disciplined underwriting; has never violated any of the three principles
+- [super-cat-insurance](super-cat-insurance.md) — the Ajit Jain reinsurance operation as the extended positive case
+- [incentive-compensation](incentive-compensation.md) — owner-aligned "if you lose money, so do we" as the structural incentive complement to the walk-away discipline

@@ -11,7 +11,7 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [acquisition-criteria](concepts/acquisition-criteria.md) — the four-point principle plus the published six-point operational ad; the kissing-toads failure modes; refined by 2000 acquisition spree
 - [american-tailwind](concepts/american-tailwind.md) — Buffett's name for the long-run national prosperity tailwind; 77-year S&P compounding case ($114.75 → $606,811); gold vs. American business; 1%-fee drag halving returns; bipartisan prosperity
 - [direct-distribution-moat](concepts/direct-distribution-moat.md) — structural moat from eliminating intermediaries; why incumbents can't respond without dismantling their own businesses; GEICO's three-stage insurance disruption as the canonical case
-- [berkshire-conglomerate-model](concepts/berkshire-conglomerate-model.md) — why the Berkshire structure is the ideal capital allocation vehicle; Munger's 15-point Berkshire System; the ABCs of business decay; succession architecture
+- [berkshire-conglomerate-model](concepts/berkshire-conglomerate-model.md) — structural tests for a real permanent-capital conglomerate vs. the 1960s failure chain; dual controlling/non-controlling ownership as the escape; five safeguards; preferred-home reputation flywheel
 - [arbitrage](concepts/arbitrage.md) — Buffett's four-question risk-arbitrage framework; 63-year track record as the empirical EMT refutation
 - [inversion](concepts/inversion.md) — Jacobi/Munger "invert, always invert"; approach problems by defining what to avoid; the "What We Don't Do" four-pointer as worked example
 - [liquidity-fortress](concepts/liquidity-fortress.md) — $20B+ cash permanently held as a strategic weapon; supplier not supplicant during crises; "never depend on the kindness of strangers"
@@ -22,8 +22,8 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [circle-of-competence](concepts/circle-of-competence.md) — knowing the limits of what you understand; the rationale for not investing in technology during the dot-com era
 - [commodity-business-economics](concepts/commodity-business-economics.md) — over-capacity + undifferentiated product = poor profitability unless rescued by a wide and sustainable cost advantage
 - [concentration-vs-diversification](concepts/concentration-vs-diversification.md) — know-nothing investor → index fund; know-something investor → concentrate; eight-position concentration sustained through dot-com peak
-- [corporate-governance](concepts/corporate-governance.md) — Buffett's critique of board independence failures; collegiality-over-oversight; the stock-options expensing fight; post-Enron restatement
-- [derivatives](concepts/derivatives.md)  — "financial weapons of mass destruction"; systemic counterparty risk in long chains; the Gen Re Securities runoff as the cautionary case
+- [corporate-governance](concepts/corporate-governance.md) — test director independence by treasure, not title; the three questions that actually matter (right CEO, comp overreach, value-creating M&A); purchased ownership over committee rules
+- [derivatives](concepts/derivatives.md) — five structural mechanisms make dealer books dangerous at scale regardless of contract merit; opacity as a hard "uninvestable" filter; easy to enter, near-impossible to exit; why Black-Scholes misprices long-dated options
 - [dividend-policy](concepts/dividend-policy.md) — restricted vs. unrestricted earnings; the $1-of-market-value per $1-retained retention test; sell-off vs. dividend mathematical comparison (2012)
 - [earnings-quality](concepts/earnings-quality.md) — why "adjusted earnings" excluding restructuring costs and SBC mislead shareholders; the number-manufacturing culture risk; insurer reserve underestimation as the downstream failure mode
 - [economic-goodwill](concepts/economic-goodwill.md) — durable competitive advantage producing high returns on tangible capital; Buffett's escape from Graham's tangible-asset bias
@@ -32,14 +32,14 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [franchise-vs-business](concepts/franchise-vs-business.md) — the 1991 three-condition test; franchises tolerate mismanagement, businesses do not; the media reclassification
 - [gaap-distortion](concepts/gaap-distortion.md) — which specific GAAP rules create rule-mandated gaps between reported figures and economic reality; unrealized investment gains/losses as the primary example; Buffett's operating earnings and normalized per-share earning power as the remedy
 - [great-good-gruesome](concepts/great-good-gruesome.md) — three-tier business-quality taxonomy (2007); great = capital-light compounder (See's); good = capital-intensive but good returns (FlightSafety); gruesome = capital-hungry with poor returns (airlines)
-- [incentive-compensation](concepts/incentive-compensation.md) — the option-critique and the savings-account analogy; Berkshire's unit-specific, uncapped, seniority-blind, symmetric alternative; stock-options expensing fight 1998–2003
+- [incentive-compensation](concepts/incentive-compensation.md) — a pay plan is sound only if it charges managers for capital used and pays only for value created; capital-charge + bailiwick-scope as the two tests; purchased equity over granted options; options are a real expense
 - [institutional-imperative](concepts/institutional-imperative.md) — corporate herd behavior; the structural force a disciplined allocator must resist; canonically named 1989; Gen Re as the real-world failure case
 - [intrinsic-value-vs-book-value](concepts/intrinsic-value-vs-book-value.md) — book is financial input, intrinsic is future cash output; the gauge for capital-allocation decisions
 - [investment-categories](concepts/investment-categories.md) — three-tier taxonomy: currency-based (destroys purchasing power), sterile assets like gold (never productive), productive assets (businesses/farms/real estate); the gold vs. "pile B" thought experiment from the 2011 letter
-- [investment-friction](concepts/investment-friction.md) — Gotrocks allegory; four layers of Helpers erode aggregate investor returns; Newton's Fourth Law: returns decrease as motion increases; ~20% of business earnings going to intermediaries by 2005
+- [investment-friction](concepts/investment-friction.md) — every dollar to an intermediary is a dollar that stops compounding; the Gotrocks / Group A-B identity makes the lowest-cost owner win by construction; "returns decrease as motion increases"; default to the lowest-fee vehicle and sit still
 - [investor-misery-index](concepts/investor-misery-index.md) — real return = nominal − inflation − tax on the nominal; the lens that distinguishes apparent from actual wealth creation
 - [lending-discipline](concepts/lending-discipline.md) — three non-negotiables for sound consumer lending; Clayton Homes proved the thesis under 2008 stress
-- [leverage-discipline](concepts/leverage-discipline.md) — debt sized for adversity; EBITDA fallacy; "dagger on the steering wheel"; the gatekeeping failure
+- [leverage-discipline](concepts/leverage-discipline.md) — size debt for adversity, not benign assumptions; the EBITDA-to-cash-interest-only ratchet as accounting concealment; the zero multiplier as the core asymmetry
 - [look-through-earnings](concepts/look-through-earnings.md) — pro-rata earnings attributable to a partial stake vs. cash dividends actually received; explicit tabular calculation method 1990
 - [margin-of-safety](concepts/margin-of-safety.md) — Graham's three-word distillation; the gap between estimated intrinsic value and price paid; cornerstone of investment success
 - [media-economics](concepts/media-economics.md) — distribution-based franchise economics; why newspaper monopoly moats collapsed structurally
@@ -55,14 +55,14 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [passive-return-crossbar](concepts/passive-return-crossbar.md) — after-tax passive returns set the bar equity capital must clear; inflation as corporate tapeworm
 - [return-on-equity-yardstick](concepts/return-on-equity-yardstick.md) — ROE on beginning equity, not EPS, as the right managerial scorecard; the "stopped clock" corollary
 - [risk-vs-volatility](concepts/risk-vs-volatility.md) — the 1993 rejection of beta-as-risk; the five-factor framework; permanent loss of purchasing power as the true risk
-- [share-repurchases](concepts/share-repurchases.md) — sub-intrinsic-value buybacks as canonical capital allocation; arithmetic plus pro-shareholder signaling; post-bubble intrinsic-value threshold analysis
+- [share-repurchases](concepts/share-repurchases.md) — buy back stock only when excess capital and a material discount to intrinsic value coexist; a program with no price ceiling is a red flag; the exact arithmetic that creates or destroys value for continuing owners
 - [size-as-anchor-on-returns](concepts/size-as-anchor-on-returns.md) — why a large capital base lowers achievable returns; "huge sums forge their own anchor" (1989→2023); the only open question is how slowly the anchor can be dragged
 - [stock-as-acquisition-currency](concepts/stock-as-acquisition-currency.md) — issuing undervalued stock is a partial sale at a discount; the linguistic reframe "Part of A sold to acquire B"; Dexter Shoe and Gen Re as cautionary cases
 - [super-cat-insurance](concepts/super-cat-insurance.md) — catastrophe reinsurance written by Berkshire from 1989; "lumpy 15% vs. smooth 12%"; 9/11 as the stress test; Gen Re failure as the contrast
 - [tailwinds-vs-headwinds](concepts/tailwinds-vs-headwinds.md) — industry structure dominates managerial effort; TV station vs. textile mill as the extreme cases
 - [tax-deferral](concepts/tax-deferral.md) — structural compounding advantage of long-hold strategies; Rip-Van-Winkle and Li'l Abner arithmetic
 - [turnarounds-seldom-turn](concepts/turnarounds-seldom-turn.md) — statistically cheap bad businesses stay bad; good business at fair price dominates poor business at bargain price
-- [underwriting-discipline](concepts/underwriting-discipline.md) — writing insurance for profit not market share; multi-year cycle thinking; the Gen Re culture failure as the cautionary case
+- [underwriting-discipline](concepts/underwriting-discipline.md) — price every policy for profit and walk away when you can't; volume growth in a soft market as the warning sign; the fourth test (refusal) is where most fail; no-layoff culture as the structural countermeasure
 - [valuation-framework](concepts/valuation-framework.md) — Aesop's three-question DCF framework; universally applicable; dissolves the growth/value dichotomy
 - [volatility-as-opportunity](concepts/volatility-as-opportunity.md) — the constructive corollary of Mr. Market; the 1990 food-prices analogy; fear-is-friend-of-fundamentalist; dot-com as the ultimate test
 
@@ -180,4 +180,5 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 
 ## Synthesis
 
+- [buffett-best-investments-moat-taxonomy](synthesis/buffett-best-investments-moat-taxonomy.md) — five structural moat types across Buffett's best investments (See's, GEICO, Coke, AmEx, Apple, BNSF, WashPost); cross-cutting tests and failure modes
 - [buffett-management-criteria](synthesis/buffett-management-criteria.md) — six criteria Buffett requires of managers: integrity, capital allocation, owner orientation, institutional-imperative resistance, cost discipline, candor
