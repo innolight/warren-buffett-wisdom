@@ -2,117 +2,80 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-14
+updated: 2026-06-23
 sources: [berkshire-1986-letter, berkshire-2012-letter, berkshire-2013-letter, berkshire-2014-letter, berkshire-2015-letter]
 tags: [accounting, valuation, cash-flow, capital-allocation]
-related: [intrinsic-value-vs-book-value, look-through-earnings, economic-goodwill]
+related: [earnings-quality, gaap-distortion, intrinsic-value-vs-book-value, look-through-earnings, economic-goodwill, scott-fetzer]
 ---
 
 # Owner Earnings
 
+**The cash a business genuinely produces for its owners — reported earnings adjusted to add back non-economic accounting charges and subtract the maintenance capital the business must reinvest to hold its competitive position.**
+
+## Actionable takeaway
+
+- Apply the formula explicitly: (a) reported net earnings + (b) depreciation, depletion, amortization, and other non-cash charges − (c) average annual maintenance capex required to hold competitive position and unit volume. Never stop at (a) + (b); (c) is the essential subtraction.
+- Classify each amortization charge as either *real* (software, depleting assets that genuinely lose economic value — keep as expense) or *accounting artifact* (purchase-price intangibles: customer relationships, non-competes, trade names — assets that retain economic value despite GAAP expense — add back). GAAP draws no such distinction; you must.
+- For capital-intensive businesses (railroads, utilities, extractive industries), verify whether accounting depreciation understates true maintenance capex. When it does, GAAP earnings overstate owner earnings — the reverse of the typical acquisition-accounting case.
+- Reject EBITDA and unadjusted "cash flow" as valuation inputs whenever (c) is material. Both add back all of (b) without subtracting (c), which is precisely the wrong adjustment for any business with real replacement costs.
+- Stock-based compensation is not a non-cash charge to add back. It dilutes owners as surely as writing a check and is a genuine economic expense.
+
 ## Definition
 
-Buffett's formal formula for the economic earnings of a business, introduced in the Appendix to the 1986 letter ("Purchase-Price Accounting Adjustments and the 'Cash Flow' Fallacy"):
+Buffett introduced the formula in the Appendix to the 1986 annual letter ("Purchase-Price Accounting Adjustments and the 'Cash Flow' Fallacy"):
 
 > **Owner earnings** = (a) reported earnings, plus (b) depreciation, depletion, amortization, and certain other non-cash charges, less (c) the average annual amount of capitalized expenditures for plant and equipment, etc. that the business requires to fully maintain its long-term competitive position and its unit volume.
 
-The crucial term is (c). It is the maintenance capex required to keep the business competitive in real terms — not the depreciation accountants have allowed, and not the optional growth capex that funds expansion.
+The critical term is (c) — maintenance capex required to hold competitive position in real terms. Not the depreciation accountants have recorded; not the optional growth capex that funds expansion. The value of the formula is entirely in that subtraction.
 
-## Why it matters
+## Why it matters: GAAP can mislead in either direction
 
-Owner earnings is the number that should drive valuation — both for investors buying stocks and for managers buying entire businesses. It tries to answer the only question that matters economically: *how much cash can be extracted from this business over its remaining life, without impairing its earning power?*
+Owner earnings answers the only economically meaningful question: *how much cash can be extracted from this business over its life without impairing its earning power?* GAAP earnings can be wrong in either direction:
 
-GAAP earnings can be wrong in either direction:
+- **Overstated** when (c) > (b) — the common case. Most businesses must reinvest more than accounting depreciation to hold unit volume and competitive position in real terms.
+- **Understated** when (c) < (b) — typically because purchase-price accounting from an acquisition has inflated (b) beyond what real maintenance requires.
 
-- **Overstated** when (c) > (b) — the typical case. Most businesses need to invest more than depreciation to hold their ground in unit volume and competitive position. Oil majors are Buffett's canonical example: if they spent only depreciation, they would shrink in real terms.
-- **Understated** when (c) < (b) — typically because purchase-price accounting has inflated (b) above what real maintenance requires. Scott Fetzer ([berkshire-1986-letter](../sources/berkshire-1986-letter.md) Appendix) is the case study.
+Scott Fetzer illustrates the second case directly: the same business reported $40.2M in GAAP earnings before Berkshire's acquisition and $28.6M after — an $11.6M gap explained entirely by non-cash purchase-price adjustments with no economic content. The business's earning power was unchanged; only the accounting changed. Owner earnings — what the business actually produced for its owners — substantially exceeded post-acquisition GAAP earnings. ([berkshire-1986-letter](../sources/berkshire-1986-letter.md))
 
-## The Scott Fetzer illustration
+## EBITDA and "cash flow": the subtraction Wall Street omits
 
-The 1986 Appendix poses identical economics — same sales, same wages, same taxes, same cash for owners — under two accounting presentations. "Company O" (old) shows Scott Fetzer's pre-acquisition GAAP earnings of $40.2M; "Company N" (new) shows post-acquisition GAAP earnings of $28.6M. The difference is entirely purchase-price accounting:
+Conventional "cash flow" is (a) + (b) — it adds back depreciation and stops. EBITDA goes further, adding back interest and taxes too. Neither subtracts (c).
 
-- $5.0M non-cash inventory charge from LIFO write-up
-- $5.1M extra depreciation from fixed-asset write-up
-- $0.6M Goodwill amortization
-- $1.0M deferred-tax accounting
+> "Cash flow" is meaningless in such businesses as manufacturing, retailing, extractive companies, and utilities because, for them, (c) is always significant. … businesses of this kind may in a given year be able to defer capital spending. But over a five- or ten-year period, they must make the investment — or the business decays. ([berkshire-1986-letter](../sources/berkshire-1986-letter.md))
 
-None of these reflects an economic cost. Buffett's verdict: the "old" earnings of $40.2M are the better representation of owner earnings, because in Scott Fetzer's case maintenance capex (c) is close to old depreciation (b) of $8.3M, not the inflated new (b) of $19.9M.
+The practical harm is in how EBITDA is used: junk bonds and leveraged transactions are sold using EBITDA-based coverage ratios because EBITDA is the largest number available above net income. Adding back real depreciation makes any deal look safer than it is. Every dollar of genuine economic wear on physical assets must eventually be funded. "When Wall Streeters tout EBITDA as a valuation guide, button your wallet." ([berkshire-2013-letter](../sources/berkshire-2013-letter.md))
 
-The conclusion: owner earnings *exceed* reported GAAP earnings at Scott Fetzer, and the difference compounds over the holding period as accounting Goodwill amortizes away. See [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md) for the broader case study returning in the 1994 letter.
+## Not all amortization in (b) is equal
 
-## The "cash flow" fallacy
+The 2012 letter refines the formula: within (b) itself, not all amortization represents real economic cost. Purchase-price accounting requires amortizing acquired intangibles — customer relationships, non-compete agreements, brand — over estimated useful lives. Where the underlying asset retains its economic value, no depletion is actually occurring; the amortization charge has no economic content and should be added back. Software amortization, by contrast, is real: the code genuinely becomes obsolete.
 
-Wall Street commonly quotes "cash flow" as (a) + (b) — reported earnings plus depreciation — and stops there. This number is meaningful for genuine perpetuity-like assets (a bridge, a long-lived gas field) where (c) is near zero. For manufacturing, retailing, extractive industries, utilities — anywhere (c) is meaningful — quoting (a) + (b) systematically overstates the cash available to owners.
+GAAP draws no distinction between the two. The investor must classify each charge. The exception that proves the rule: stock-based compensation. Unlike acquisition amortization, it is a genuine economic cost — dilution is real — and should never be added back. See [earnings-quality](earnings-quality.md) for the full analytical framework and [gaap-distortion](gaap-distortion.md) for the rule-mandated context.
 
-The 1986 Appendix is unsparing:
+## The GAAP bias runs in opposite directions by asset type
 
-> "Cash flow" is meaningless in such businesses as manufacturing, retailing, extractive companies, and utilities because, for them, (c) is always significant. To be sure, businesses of this kind may in a given year be able to defer capital spending. But over a five- or ten-year period, they must make the investment — or the business decays.
+For acquisition-heavy companies, GAAP typically *understates* owner earnings — purchase-price accounting inflates (b) above real maintenance cost. For asset-intensive infrastructure businesses, the reverse is true: accounting depreciation based on historical cost understates real maintenance capex, so GAAP earnings *overstate* owner earnings.
 
-And on the popularity of the deficient number:
+The 2015 letter makes this explicit for BNSF: rail infrastructure requires more ongoing spending to maintain than straight-line depreciation captures. For BNSF, (c) structurally exceeds (b), so true owner earnings run below reported GAAP earnings — the mirror image of the Scott Fetzer case. ([berkshire-2015-letter](../sources/berkshire-2015-letter.md)). See [bnsf](../entities/bnsf.md) for the operating context.
 
-> We believe these numbers are frequently used by marketers of businesses and securities in attempts to justify the unjustifiable (and thereby to sell what should be the unsalable). When (a) — that is, GAAP earnings — looks by itself inadequate to service debt of a junk bond or justify a foolish stock price, how convenient it becomes for salesmen to focus on (a) + (b). But you shouldn't add (b) without subtracting (c): though dentists correctly claim that if you ignore your teeth they'll go away, the same is not true for (c).
+## (c) requires judgment, not calculation
 
-The EBITDA critique (more pointed in the 1989 zero-coupon-bond essay) is a direct descendant. See [berkshire-1989-letter](../sources/berkshire-1989-letter.md).
+The honest difficulty: (c) cannot be read from any single year's accounts. It is the long-run capex required to hold competitive position — which depends on industry dynamics, asset maturity, the rate of technological change, and pricing power. Different observers will estimate it differently for the same business.
 
-## Non-real vs. real amortization (2012–2013)
-
-The 1986 formula treats (b) — depreciation and amortization — as a category to be partially added back. The 2012 letter refines this: within (b) itself, not all amortization is equal. Some represents genuine economic depletion; some is a pure accounting artifact.
-
-**Real amortization:** Software amortization is real. Code has a finite economic life; it genuinely becomes obsolete. Amortizing it matches economic consumption.
-
-**Non-real amortization:** Purchase-price accounting generates amortization of customer relationships, non-compete agreements, and similar "identified intangibles" when an acquisition closes. GAAP requires amortization into expense over estimated useful lives — but where the underlying asset retains its economic value (a loyal customer base, an established brand relationship), no depletion is actually occurring. "GAAP accounting draws no distinction between the two types of charges. Both, that is, are recorded as expenses when calculating earnings — even though from an investor's viewpoint they could not be more different." ([berkshire-2012-letter](../sources/berkshire-2012-letter.md))
-
-The Wells Fargo "amortization of core deposits" is the most extreme case. Wells Fargo's GAAP earnings are reduced each year by this charge — implying that core deposits are disappearing at a rapid clip. Yet core deposits regularly increase. In 2012, the charge was approximately $1.5 billion. In no sense except GAAP accounting is this an expense. It is not highlighted by the company and had not, at the time of the 2012 letter, been noted in any analyst report Buffett was aware of. An investor who reads Wells Fargo's GAAP earnings without adding back this charge is understating owner earnings by $1.5 billion annually.
-
-IBM provides a parallel at smaller scale: many small acquisitions generate recurring purchase-accounting adjustments, so IBM reports "adjusted operating earnings" that exclude them. Analysts correctly focus on the adjusted figure.
-
-**The practical investor framework:** when evaluating an acquisition-heavy company, classify amortization charges as (1) charges on assets that are genuinely depleting — add back per the standard owner-earnings adjustment — and (2) charges on assets that retain economic value despite the accounting — add back entirely. GAAP provides no guidance on the distinction; the investor must apply judgment.
-
-The 2013 letter quantifies the split across Berkshire's Manufacturing, Service and Retailing segment: of $648 million in GAAP amortization charges, Buffett characterized approximately 20% as real and the remaining ~80% as not. "This difference has become significant because of the many acquisitions we have made. It will almost certainly rise further as we acquire more companies." The non-real charges disappear as fully amortized assets age out, but the timeline is long — typically 15 years. ([berkshire-2013-letter](../sources/berkshire-2013-letter.md))
-
-## The EBITDA critique
-
-The sharpest formulation of the "cash flow" fallacy critique appears in the 2013 letter:
-
-> Every dime of depreciation expense we report, however, is a real cost. And that's true at almost all other companies as well. When Wall Streeters tout EBITDA as a valuation guide, button your wallet. ([berkshire-2013-letter](../sources/berkshire-2013-letter.md))
-
-The 2015 letter sharpens it further, in the context of railroad depreciation:
-
-> When CEOs or investment bankers tout pre-depreciation figures such as EBITDA as a valuation guide, watch their noses lengthen while they speak. ([berkshire-2015-letter](../sources/berkshire-2015-letter.md))
-
-EBITDA adds back both depreciation and amortization before interest and taxes. This conflates two different adjustments: (a) excluding amortization of intangibles that carry no economic cost — which is correct — with (b) excluding depreciation of fixed assets that carry a very real replacement cost — which is wrong. The owner-earnings formula handles this correctly: (b) non-cash charges are added back; (c) real maintenance capex is subtracted. EBITDA collapses (b) and (c) into a single addition, effectively pretending that fixed assets need not be replaced.
-
-The practical harm: junk bonds and leveraged transactions are often sold with EBITDA coverage ratios because EBITDA is the largest number available before reaching net income. Adding back real depreciation makes any deal look safer than it is.
-
-## The railroad depreciation exception: when (c) > (b) at scale
-
-The 2015 letter introduces a specific, named case where GAAP earnings overstate true owner earnings: **railroad depreciation**. For most businesses, Buffett advises investors to add back most amortization charges. For BNSF specifically, a subtraction is needed instead:
-
-> "The depreciation charge we record in our railroad business falls far short of the capital outlays needed to merely keep the railroad running properly, a mismatch that leads to GAAP earnings that are higher than true economic earnings. (This overstatement of earnings exists at all railroads.) ... To embrace reality, however, you should remember to add back most of the amortization charges we report. You should also subtract something to reflect BNSF's inadequate depreciation charge." ([berkshire-2015-letter](../sources/berkshire-2015-letter.md))
-
-This is the owner-earnings formula applied with precision. For BNSF: (c) maintenance capex significantly exceeds (b) depreciation, so true owner earnings are *below* reported GAAP earnings — even though Berkshire's purchase-price accounting has not inflated (b) as happened with Scott Fetzer. The reason is the nature of the asset: rail infrastructure requires more ongoing spending to maintain than the accountants' straight-line depreciation schedules capture.
-
-The implication for investors in capital-intensive infrastructure: the direction of the GAAP bias can go either way depending on the asset's maintenance profile. Accounting depreciation is an estimate of economic wear; at railroads, the estimate runs low.
-
-See [bnsf](../entities/bnsf.md) for the operating context; see [leverage-discipline](leverage-discipline.md) for why EBITDA/interest coverage ratios are "seriously flawed" in Buffett's preferred measure (pre-tax earnings / interest is the correct denominator).
-
-## (c) is a guess
-
-The honest difficulty: (c) cannot be calculated from any single year's accounting. It is the long-run capex required to hold competitive position — which depends on industry dynamics, the maturity of the asset base, the rate of technological change, the elasticity of pricing power. Different observers will estimate (c) differently for the same business.
-
-Buffett's stance: "I would rather be vaguely right than precisely wrong." Owner earnings does not yield the deceptively precise figures that GAAP does, but it answers the right question. The GAAP figures answer a question of recording, not evaluation.
+Buffett's stance: "I would rather be vaguely right than precisely wrong." Owner earnings does not yield the deceptively precise figures GAAP produces, but it answers the right question. GAAP figures answer a question of recording; owner earnings answers a question of evaluation.
 
 ## How it's discussed in sources
 
-- [berkshire-1986-letter](../sources/berkshire-1986-letter.md) — debut; the canonical formula in the Appendix; the Scott Fetzer worked example; the cash-flow-fallacy critique
-- [berkshire-1987-letter](../sources/berkshire-1987-letter.md) — referenced repeatedly in the discussion of why Berkshire separately reports the earnings of operating businesses before purchase-price adjustments
-- [berkshire-2012-letter](../sources/berkshire-2012-letter.md) — non-real vs. real amortization distinction; Wells Fargo's $1.5B "amortization of core deposits" as the canonical example of a GAAP charge with no economic content; IBM adjusted earnings as parallel; the practical investor framework for classifying amortization
-- [berkshire-2013-letter](../sources/berkshire-2013-letter.md) — quantification of the real/non-real split: of $648M amortization in Berkshire's manufacturing/service/retail segment, ~20% real and ~80% not; the EBITDA critique at its sharpest: "When Wall Streeters tout EBITDA as a valuation guide, button your wallet"; every depreciation dollar is a real cost
-- [berkshire-2014-letter](../sources/berkshire-2014-letter.md) — updated figures: $1.15B in total amortization charges in Manufacturing/Service/Retail, ~20% real (~$230M), ~80% non-real (~$920M); $7.4B total intangible assets remaining to amortize at yearend, $4.1B to be charged over the next five years; EBITDA critique restated: "When CEOs tout EBITDA as a valuation guide, wire them up for a polygraph test"; note that as non-real charges amortize off, reported GAAP earnings will increase even if true economic earnings are flat — the investor must add back non-real amortization to see through the noise
-- [berkshire-2015-letter](../sources/berkshire-2015-letter.md) — railroad depreciation exception: BNSF's GAAP depreciation understates true maintenance capex, so GAAP earnings overstate true owner earnings (the reverse of the Scott Fetzer case); applies to all Class I railroads; $1.1B total Berkshire amortization charges in 2015, ~20% real; $6.8B intangible assets remaining to amortize, $4.1B over next five years; stock-based compensation warning: unlike most adjustments urged on investors, compensation is genuinely an expense and cannot be added back without deceiving oneself; "watch their noses lengthen" as the sharpest EBITDA-critique formulation yet
+- [berkshire-1986-letter](../sources/berkshire-1986-letter.md) — debut; the canonical formula in the Appendix; the Scott Fetzer worked example (same economics, two GAAP presentations); the cash-flow fallacy critique
+- [berkshire-2012-letter](../sources/berkshire-2012-letter.md) — the real/non-real amortization distinction: acquisition-generated charges on assets that retain economic value have no economic content and should be added back; introduces the practical investor framework for classifying each charge
+- [berkshire-2013-letter](../sources/berkshire-2013-letter.md) — sharpest EBITDA formulation ("button your wallet"); confirms that every depreciation dollar on physical assets is a real cost; quantifies the real/non-real split across Berkshire's manufacturing segment
+- [berkshire-2014-letter](../sources/berkshire-2014-letter.md) — the mechanical-improvement trap: as non-real amortization ages off over time, GAAP earnings automatically rise even if true owner earnings are flat; investors must add back non-real amortization to see through the noise
+- [berkshire-2015-letter](../sources/berkshire-2015-letter.md) — BNSF railroad exception: (c) exceeds (b), so GAAP earnings overstate owner earnings (the reverse of the acquisition-accounting case, for the opposite reason); stock-based compensation warning: SBC is a genuine cost and cannot be added back
 
 ## Related
 
+- [earnings-quality](earnings-quality.md) — the broader landscape of when reported earnings mislead; the amortization/depreciation analytical distinction and EBITDA manipulation live there
+- [gaap-distortion](gaap-distortion.md) — rule-mandated gaps between GAAP and economic reality, including acquisition-amortization and depreciation-shortfall distortions
 - [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md) — owner earnings is the operating-period version of the book/intrinsic gap
 - [look-through-earnings](look-through-earnings.md) — extends owner-earnings logic from wholly-owned subsidiaries to partial-equity stakes
-- [economic-goodwill](economic-goodwill.md) — businesses with high economic Goodwill typically have (c) modestly above (b), giving owner earnings well above accounting earnings
+- [economic-goodwill](economic-goodwill.md) — franchise businesses with high economic goodwill typically have (c) modest relative to (b); owner earnings exceeds accounting earnings in proportion to franchise strength
+- [scott-fetzer](../entities/scott-fetzer.md) — the canonical 1986 worked illustration of same economics under two GAAP presentations
