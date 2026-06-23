@@ -23,7 +23,6 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [commodity-business-economics](concepts/commodity-business-economics.md) — over-capacity + undifferentiated product = poor profitability unless rescued by a wide and sustainable cost advantage
 - [concentration-vs-diversification](concepts/concentration-vs-diversification.md) — know-nothing investor → index fund; know-something investor → concentrate; eight-position concentration sustained through dot-com peak
 - [corporate-governance](concepts/corporate-governance.md) — Buffett's critique of board independence failures; collegiality-over-oversight; the stock-options expensing fight; post-Enron restatement
-- [cost-of-float](concepts/cost-of-float.md) — underwriting loss ÷ average float; the financing-cost equivalent that benchmarks insurance value
 - [derivatives](concepts/derivatives.md)  — "financial weapons of mass destruction"; systemic counterparty risk in long chains; the Gen Re Securities runoff as the cautionary case
 - [dividend-policy](concepts/dividend-policy.md) — restricted vs. unrestricted earnings; the $1-of-market-value per $1-retained retention test; sell-off vs. dividend mathematical comparison (2012)
 - [earnings-quality](concepts/earnings-quality.md) — why "adjusted earnings" excluding restructuring costs and SBC mislead shareholders; the number-manufacturing culture risk; insurer reserve underestimation as the downstream failure mode
@@ -33,7 +32,6 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 - [franchise-vs-business](concepts/franchise-vs-business.md) — the 1991 three-condition test; franchises tolerate mismanagement, businesses do not; the media reclassification
 - [gaap-distortion](concepts/gaap-distortion.md) — which specific GAAP rules create rule-mandated gaps between reported figures and economic reality; unrealized investment gains/losses as the primary example; Buffett's operating earnings and normalized per-share earning power as the remedy
 - [great-good-gruesome](concepts/great-good-gruesome.md) — three-tier business-quality taxonomy (2007); great = capital-light compounder (See's); good = capital-intensive but good returns (FlightSafety); gruesome = capital-hungry with poor returns (airlines)
-- [growth-and-value](concepts/growth-and-value.md) — growth is a DCF variable, not a contrasting investment style; the false dichotomy demolished
 - [incentive-compensation](concepts/incentive-compensation.md) — the option-critique and the savings-account analogy; Berkshire's unit-specific, uncapped, seniority-blind, symmetric alternative; stock-options expensing fight 1998–2003
 - [institutional-imperative](concepts/institutional-imperative.md) — corporate herd behavior; the structural force a disciplined allocator must resist; canonically named 1989; Gen Re as the real-world failure case
 - [intrinsic-value-vs-book-value](concepts/intrinsic-value-vs-book-value.md) — book is financial input, intrinsic is future cash output; the gauge for capital-allocation decisions

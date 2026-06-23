@@ -8,6 +8,16 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-23] refactor | concept-refinement Wave 0 — consolidation decisions
+
+Resolved the four consolidation-gated pairs from `.plan/refine-concept-pages.md` before the refine waves. Two merges executed, two pairs kept distinct.
+
+- **`cost-of-float` → `float` (MERGED, redirect stub).** `cost-of-float` was a 215-word page that already deferred to `float`, which carries the full framework. Folded the explicit formula (`cost of float = underwriting loss ÷ average float`) and the negative-cost/bank-spread logic into `float`'s "fundamental test" section. Replaced `cost-of-float.md` with a 2-line redirect pointer so the ~16 inbound links (mostly source pages discussing the cost of float) keep resolving without repointing. Removed its `index.md` catalog line.
+- **`growth-and-value` → `valuation-framework` (MERGED, deleted).** ~70% duplicate (same Williams DCF, Aesop three-questions, growth-as-variable argument, speculation distinction). `valuation-framework` is the survivor (per the `capital-allocation` refine's flag that Aesop lands there). Absorbed the distinct growth-helps-vs-hurts arithmetic as a new "When growth helps — and when it hurts" anatomy section; repointed `valuation-framework`'s related to `great-good-gruesome`; merged the redundant bullet in `berkshire-2000-letter` and repointed its frontmatter; deleted `growth-and-value.md`; removed its `index.md` line.
+- **`bonds-and-inflation` + `bonds-as-a-business` — KEPT DISTINCT.** Two different ideas: inflation/duration asymmetry vs. applying business-valuation discipline to fixed income (WPPSS). They cross-link but don't duplicate. Both go to a refine wave unchanged.
+- **`passive-ownership-advantage` + `passive-return-crossbar` — KEPT DISTINCT.** Naming coincidence only: minority-stake strategy vs. the bond-yield hurdle equities must clear. Unrelated content. Both refined separately.
+- Survivor list for refine waves: all ~54 remaining concept pages minus `growth-and-value` (deleted) and `cost-of-float` (redirect stub, not refined).
+
 ## [2026-06-23] query | buffett management criteria
 
 - Filed `wiki/synthesis/buffett-management-criteria.md` — synthesizes acquisition-criteria, capital-allocation, institutional-imperative, owner-orientation, incentive-compensation, franchise-vs-business, tom-murphy, carl-reichardt into six ordered criteria

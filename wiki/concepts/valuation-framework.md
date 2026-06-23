@@ -5,7 +5,7 @@ created: 2026-06-14
 updated: 2026-06-16
 sources: [berkshire-1992-letter, berkshire-2000-letter, berkshire-2021-letter]
 tags: [valuation, dcf, aesop, intrinsic-value]
-related: [intrinsic-value-vs-book-value, capital-allocation, mr-market, growth-and-value, margin-of-safety]
+related: [intrinsic-value-vs-book-value, capital-allocation, mr-market, great-good-gruesome, margin-of-safety]
 ---
 
 # Valuation Framework
@@ -31,6 +31,15 @@ The three questions map directly onto the components of any discounted-cash-flow
 **Growth and value are not opposing philosophies.** Growth is simply one variable in the equation — a higher expected number of future birds. It can be a large positive (high-return business with substantial reinvestment opportunities) or a negative (low-return business that must consume capital to grow). The "growth vs. value" framing commonly used by investment managers reflects ignorance of this relationship, not sophistication about it. Both camps are answering the same three questions; the disagreement, when real, is about the inputs, not the method.
 
 **Speculation is a different game, not a competing method.** Speculation — where the focus is on what the next buyer will pay rather than what the asset will produce — is neither illegal nor immoral. But it is a different activity. The valuation framework governs investing; it has nothing to say about what the next fellow will bid.
+
+## When growth helps — and when it hurts
+
+Growth enters the equation as the *number and timing of future birds* — but it is value-creating only when the business can deploy incremental capital at returns above the cost of that capital. The arithmetic is mechanical, not rhetorical:
+
+- **High return + growth = compounding.** A business earning 20% on equity that retains and redeploys at 20% is worth more each year than its book grows, because the market capitalizes those returns at a multiple. Growth accelerates compounding.
+- **Low return + growth = destruction.** A business earning 6% on equity that retains earnings traps each dollar in a 6% activity the owner could have deployed better elsewhere. More growth means more capital trapped at poor returns. "Growth can destroy value if it requires cash inputs in the early years that exceed the discounted value of the cash that those assets will generate in later years." ([berkshire-2000-letter](../sources/berkshire-2000-letter.md))
+
+The decisive quantity is not the growth rate but the **return on incremental invested capital relative to the cost of capital**. A slow-growing business with high incremental returns (See's Candies) creates more value than a fast-growing one earning near its cost of capital. This is why "growth investing" and "value investing" are not opposing styles: both are answering the same three questions, and growth is one input to question two. See [great-good-gruesome](great-good-gruesome.md), the later taxonomy that operationalizes the same logic.
 
 ## How it's discussed in sources
 
@@ -58,5 +67,5 @@ The three questions map directly onto the components of any discounted-cash-flow
 - [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md) — the framework's output: intrinsic value is the discounted present value of future cash; book value is an accounting input that may bear little relation to it
 - [capital-allocation](capital-allocation.md) — every capital-allocation decision (acquisitions, repurchases, dividends, reinvestment) is an application of the same three questions; the Aesop framework governs how Berkshire evaluates each choice
 - [mr-market](mr-market.md) — the behavioral complement: Mr. Market supplies prices; the valuation framework supplies the measure against which those prices are evaluated
-- [growth-and-value](growth-and-value.md) — the false dichotomy this framework dissolves; growth is a variable in the equation, not a separate philosophy
+- [great-good-gruesome](great-good-gruesome.md) — operationalizes the growth-helps-vs-hurts logic: great businesses earn high returns on incremental capital, gruesome ones consume capital at low returns
 - [margin-of-safety](margin-of-safety.md) — the operating principle for acting under uncertainty about the answers to questions 1 and 2; the gap between price and estimated value that compensates for estimation error

@@ -8,7 +8,7 @@ author: warren-buffett
 year: 2000
 raw_path: raw/berkshire-letters/2000.md
 tags: [berkshire, annual-letter, valuation-framework, dot-com-bubble, float]
-related: [warren-buffett, charlie-munger, berkshire-hathaway, geico, ajit-jain, float, acquisition-criteria, growth-and-value]
+related: [warren-buffett, charlie-munger, berkshire-hathaway, geico, ajit-jain, float, acquisition-criteria, valuation-framework]
 ---
 
 # Berkshire Hathaway 2000 Annual Letter
@@ -82,8 +82,7 @@ Of the 200 highest-earning companies of 1970 or 1980, only a handful sustained 1
 
 ## Concepts introduced or discussed
 
-- [valuation-framework](../concepts/valuation-framework.md) — the canonical Aesop three-question form stated in its clearest version across any letter: certainty, timing, risk-free rate; explicitly disposes of growth vs. value as a false dichotomy
-- [growth-and-value](../concepts/growth-and-value.md) — growth reframed as one variable (positive or negative) in the same DCF equation; the growth-vs-value "styles" framework named and refuted
+- [valuation-framework](../concepts/valuation-framework.md) — the canonical Aesop three-question form stated in its clearest version across any letter: certainty, timing, risk-free rate; explicitly disposes of growth vs. value as a false dichotomy, reframing growth as one variable (positive or negative) in the same DCF equation
 - [float](../concepts/float.md) — extended by two new structures: pain-today gain-tomorrow policies (first-year loss traded for multi-year float) and retroactive reinsurance amortization (a permanent structural floor on cost); 2000 float $27.9B at 6% cost
 - [moat](../concepts/moat.md) — GEICO's low-cost-operator moat stress-tested by the 2000 stumble and reaffirmed; State Farm counter-evidence used to sharpen the lesson about commodity-like products
 - [acquisition-criteria](../concepts/acquisition-criteria.md) — "owners who care" extended as a quality signal and competitive advantage; permanent-home promise as the mechanism; seller disposition as a leading indicator of business quality
