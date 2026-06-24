@@ -1,6 +1,6 @@
 # Warren Buffett Wisdom
 
-A curated wiki that distills **timeless investment lessons** from 48 Berkshire Hathaway [shareholder letters](https://berkshirehathaway.com/letters/letters.html) (1977–2024) authored by Warrant Buffet.
+A curated wiki that distills **timeless investment lessons** from 48 Berkshire Hathaway [shareholder letters](https://berkshirehathaway.com/letters/letters.html) (1977–2024) authored by Warren Buffett.
 
 The wiki is written for **retail investors learning to invest like Warren Buffett**: someone with a brokerage account who wants the durable principles, not the insurance-conglomerate machinery they can't directly use.
 
@@ -20,9 +20,9 @@ The wiki is written for **retail investors learning to invest like Warren Buffet
 
 ## How to read this wiki
 
-There are ~60 concept pages. Reading them front to back is the wrong move — they don't carry equal weight, and some build on others. Below are three ways to prioritize. **Start with Approach 1**; the other two are alternate lenses for when you want them.
+Nearly 60 concept pages, but they don't carry equal weight and some build on others — reading them front to back is the wrong move. Use the **curriculum** below as your spine; the collapsed **question index** underneath is for when you'd rather jump straight to whatever decision you're facing.
 
-### Approach 1 — The curriculum (start here)
+### The curriculum
 
 A reading *path* in four tiers, from "the worldview" to "advanced machinery." Read roughly top to bottom. Don't reach for Tier 3 before Tier 0 has truly landed.
 
@@ -36,19 +36,21 @@ A reading *path* in four tiers, from "the worldview" to "advanced machinery." Re
 
 **Tier 1 — How to value and pick a business:**
 
-- [Valuation Framework](wiki/concepts/valuation-framework.md) — Aesop's "a bird in the hand" recast as a universal DCF.
+- [Valuation Framework](wiki/concepts/valuation-framework.md) — Aesop's "a bird in the hand" recast as a universal DCF; growth is an input to value, not a rival style.
 - [Owner Earnings](wiki/concepts/owner-earnings.md) — the true cash a business throws off, and why reported earnings mislead.
+- [Earnings Quality](wiki/concepts/earnings-quality.md) — how to tell what a business actually earns from what its "adjusted" labels claim it earns.
+- [Return on Equity as the Yardstick](wiki/concepts/return-on-equity-yardstick.md) — judge a business and its management on return on equity, not the EPS growth that retained earnings produce on autopilot.
 - [Economic Goodwill](wiki/concepts/economic-goodwill.md) — why a durable franchise is worth far more than its tangible assets.
 - [Cigar Butts vs. Wonderful Businesses](wiki/concepts/cigar-butts-vs-wonderful-businesses.md) — the pivot from cheap-and-mediocre to quality-at-a-fair-price.
 - [Great, Good, Gruesome](wiki/concepts/great-good-gruesome.md) — a three-tier taxonomy of business quality by capital appetite.
-- [Growth and Value](wiki/concepts/growth-and-value.md) — growth is an input to value, not a rival style.
 
 **Tier 2 — How to behave as an owner:**
 
 - [Volatility as Opportunity](wiki/concepts/volatility-as-opportunity.md) — falling prices are a friend if you're a net buyer.
 - [Concentration vs. Diversification](wiki/concepts/concentration-vs-diversification.md) — index if you know nothing; concentrate if you know something.
 - [Risk vs. Volatility](wiki/concepts/risk-vs-volatility.md) — real risk is permanent loss of purchasing power, not price wiggle.
-- [Circle of Competence](wiki/concepts/circle-of-competence.md) — revisited as a behavioral discipline.
+- [Inversion](wiki/concepts/inversion.md) — define what would guarantee failure first and avoid it; the upside case comes second.
+- [Leverage Discipline](wiki/concepts/leverage-discipline.md) — never borrow so much that a stumble becomes a catastrophe.
 - [Mistakes of Omission](wiki/concepts/mistakes-of-omission.md) — the costly deals you *didn't* do.
 
 **Tier 3 — Advanced & Berkshire machinery (fascinating, not day-one):**
@@ -59,14 +61,14 @@ A reading *path* in four tiers, from "the worldview" to "advanced machinery." Re
 - [The Institutional Imperative](wiki/concepts/institutional-imperative.md) — the herd behavior a disciplined allocator must resist.
 - [Passive Investing](wiki/concepts/passive-investing.md) — for most people, a low-cost index fund wins.
 
-### More ways to navigate
+### Jump by question
 
 <details>
-<summary><strong>Approach 2 — By the question you're trying to answer</strong></summary>
+<summary><strong>Index by the decision you're facing</strong></summary>
 
 <br>
 
-Skip the difficulty ordering and jump to whatever question you're facing right now. Each group answers one real decision:
+When you'd rather skip the difficulty ordering and go straight to a live question. Each group answers one real decision:
 
 **"Why should I own businesses at all?"**
 
@@ -90,6 +92,7 @@ Skip the difficulty ordering and jump to whatever question you're facing right n
 - [Owner Earnings](wiki/concepts/owner-earnings.md) — the right cash-flow measure.
 - [Intrinsic Value vs. Book Value](wiki/concepts/intrinsic-value-vs-book-value.md) — the gauge for capital decisions.
 - [Margin of Safety](wiki/concepts/margin-of-safety.md) — the discount you demand.
+- [Earnings Quality](wiki/concepts/earnings-quality.md) — strip the accounting labels back to real cash.
 - [Look-Through Earnings](wiki/concepts/look-through-earnings.md) — your real share of a partial stake's profits.
 
 **"How do I behave once I own it?"**
@@ -98,53 +101,16 @@ Skip the difficulty ordering and jump to whatever question you're facing right n
 - [Volatility as Opportunity](wiki/concepts/volatility-as-opportunity.md) — fear is the fundamentalist's friend.
 - [Risk vs. Volatility](wiki/concepts/risk-vs-volatility.md) — measure the right thing.
 - [Concentration vs. Diversification](wiki/concepts/concentration-vs-diversification.md) — how many bets to make.
+- [Inversion](wiki/concepts/inversion.md) — rule out the ways you lose before chasing the ways you win.
+- [Leverage Discipline](wiki/concepts/leverage-discipline.md) — keep enough margin that a bad year can't end the game.
 
 **"How do I judge the people running it?"**
 
+- [Return on Equity as the Yardstick](wiki/concepts/return-on-equity-yardstick.md) — the scorecard that EPS growth disguises.
 - [Capital Allocation](wiki/concepts/capital-allocation.md) — the skill that compounds (or destroys) value.
 - [Incentive Compensation](wiki/concepts/incentive-compensation.md) — pay that aligns with owners.
 - [Corporate Governance](wiki/concepts/corporate-governance.md) — when boards actually protect you.
 - [Owner Orientation](wiki/concepts/owner-orientation.md) — managers who think like partners.
-
-</details>
-
-<details>
-<summary><strong>Approach 3 — By how directly *you* can act on it</strong></summary>
-
-<br>
-
-Many of Buffett's ideas are central to his philosophy but only indirectly usable by someone with a brokerage account and no insurance company. This lens sorts pages by **how directly a retail investor can act on them**, so you don't drown in float-and-underwriting material that explains Berkshire but not your Monday morning.
-
-**Master these (core *and* directly actionable):**
-
-- [Margin of Safety](wiki/concepts/margin-of-safety.md)
-- [Circle of Competence](wiki/concepts/circle-of-competence.md)
-- [Mr. Market](wiki/concepts/mr-market.md)
-- [Moat](wiki/concepts/moat.md)
-- [Passive Investing](wiki/concepts/passive-investing.md)
-- [Concentration vs. Diversification](wiki/concepts/concentration-vs-diversification.md)
-
-**Understand, but you can't directly use (explains how Berkshire works):**
-
-- [Float](wiki/concepts/float.md)
-- [Cost of Float](wiki/concepts/cost-of-float.md)
-- [Super-Cat Insurance](wiki/concepts/super-cat-insurance.md)
-- [Underwriting Discipline](wiki/concepts/underwriting-discipline.md)
-- [Capital Allocation](wiki/concepts/capital-allocation.md) — at the CEO level.
-
-**Practical habits (lower-profile, high payoff):**
-
-- [Tax Deferral](wiki/concepts/tax-deferral.md) — let compounding run untaxed.
-- [Investment Friction](wiki/concepts/investment-friction.md) — the Helpers who erode your returns.
-- [Investor Misery Index](wiki/concepts/investor-misery-index.md) — real return after inflation and tax.
-- [Dividend Policy](wiki/concepts/dividend-policy.md) — the retention test.
-
-**Specialist / situational:**
-
-- [Arbitrage](wiki/concepts/arbitrage.md)
-- [Derivatives](wiki/concepts/derivatives.md)
-- [Model Risk](wiki/concepts/model-risk.md)
-- [Bonds as a Business](wiki/concepts/bonds-as-a-business.md)
 
 </details>
 
