@@ -116,7 +116,7 @@ When you'd rather skip the difficulty ordering and go straight to a live questio
 
 | Path | Contents |
 | --- | --- |
-| `wiki/` | The wiki itself — [`index.md`](wiki/index.md) (full catalog), `log.md` (journal), and one folder per page type: [`concepts/`](wiki/concepts/), `entities/`, `people/`, `sources/`, `synthesis/`. |
+| `wiki/` | The wiki itself — [`index.md`](wiki/index.md) (full catalog), [`log.md`](wiki/log.md) (journal), and one folder per page type: [`concepts/`](wiki/concepts/), [`entities/`](wiki/entities/), [`people/`](wiki/people/), [`sources/`](wiki/sources/), [`synthesis/`](wiki/synthesis/). |
 | `raw/` | Immutable primary sources (the letters). Read-only. |
 | `CLAUDE.md` | The editorial playbook the wiki is maintained by. |
 
