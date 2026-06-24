@@ -8,6 +8,331 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-24] refactor | bonds-and-inflation
+
+- Scores: before A3/B1/C5/D3/E4 (avg 3.2) → after A5/B5/C5/D4/E5 (avg 4.8)
+- Added bold one-liner and Actionable takeaway block (avoid long fixed-rate bonds when inflation is uncertain; test every fixed-price contract for escalators; spot the duration mismatch; never deploy float into long bonds)
+- Retitled sections to idea-facets ("The mechanism: fixed price, eroding currency"; "How the asymmetry blinds institutional managers"; "Partial remedies: duration compression and embedded equity optionality")
+- Cut unverified "half awake" quote and the 15-year-bond self-admission (not in berkshire-1979-letter source page); added reverse cross-link to bonds-as-a-business
+- Body: ~446 → ~600 words (below-band page won structurally; no padding). Confirmed DISTINCT from bonds-as-a-business — no merge. Status remains draft
+
+## [2026-06-24] refactor | bonds-as-a-business
+
+- Scores: before A3/B1/C5/D3/E3 (avg 3.0) → after A5/B5/C5/D5/E4 (avg 4.8)
+- Added one-line definition and Actionable takeaway block (translate every bond into return-on-cost vs. operating-business economics; set a high bar — buy only when decidedly superior; hunt guilt-by-association discounts; price in the face-value ceiling)
+- Dissolved orphaned "The Graham foundation" into Definition; dissolved "When bond purchases clear the hurdle" into the takeaway + ceiling section; renamed "Why it matters" → "The two-direction error"; "The hard ceiling" → "The fixed ceiling — why bonds require a higher bar"
+- Cut unverified figures ($250–300M equivalent-business valuation; $10M→$300M zero-coupon illustration); aligned frontmatter related (added passive-return-crossbar); swapped vague `business-mindset` tag for hurdle-rate + capital-allocation
+- Body: ~704 → ~695 words. Confirmed DISTINCT from bonds-and-inflation — no merge. Status remains draft
+
+## [2026-06-24] refactor | passive-ownership-advantage
+
+- Scores: before A2/B1/C3/D2/E4 (avg 2.4) → after A5/B5/C5/D4/E4 (avg 4.6)
+- Added Actionable takeaway block (don't pay a control premium for the right to do what you'd do as a minority holder; use public markets as the primary sourcing channel; concentrate where conviction is highest; hold without trading) and a Why-it-matters section (the 2020 conglomerate-failure cascade)
+- Retitled three year-anchored sections ("The SAFECO argument (1978)", "flowers-and-weeds … (2022)", "Ambidextrous ownership … (2024)") to idea-facet claims; tightened verbose multi-point source-thread entries to one line each
+- related 3 → 5 (added cigar-butts-vs-wonderful-businesses, berkshire-conglomerate-model); tags 4 → 5
+- Body: ~1,471 → 1,211 words. Confirmed DISTINCT from passive-return-crossbar (name collision only) — no merge. Status remains draft
+
+## [2026-06-24] refactor | passive-return-crossbar
+
+- Scores: before A3/B1/C4/D3/E3 (avg 2.8) → after A5/B5/C5/D4/E5 (avg 4.8)
+- Added bold one-liner and Actionable takeaway block (compute the crossbar = bond yield × (1 − tax rate); in high-rate environments most equities fail; weight toward economic-goodwill businesses; treat disguised distributions as a failure signal)
+- Retitled year-anchored "The 1981 numbers" → "When the crossbar dominates: the high-rate case"; renamed "The principle" → "Definition"; dissolved the non-template "Implications" section into the takeaway
+- Added economic-goodwill to frontmatter related; tags 4 → 5; reconciled historical ROE figure to the raw ("as little as 10%")
+- Body: ~807 → ~790 words. Confirmed DISTINCT from passive-ownership-advantage — no merge. Status remains draft
+
+## [2026-06-24] refactor | valuation-framework
+
+- Scores: before A3/B1/C3/D3/E4 (avg 2.8) → after A4/B5/C4/D5/E4 (avg 4.4)
+- Added bold one-liner and Actionable takeaway block (answer Aesop's three questions explicitly before buying; reject the growth-vs-value frame; track the risk-free rate as the universal denominator; price above what the three questions support is speculation)
+- Removed the non-template "Notable quotes" section (~240 words, all duplicated in prose/source thread); retitled the growth section to a claim; added a "bubble failure mode" anatomy section; compressed verbose source-thread entries
+- Verified the growth-and-value merge absorption is clean (no dangling references; Aesop now lives here as the capital-allocation page expects) — no re-merge
+- Body: ~1,383 → ~913 words. No merge. Status remains draft
+
+## [2026-06-24] refactor | direct-distribution-moat
+
+- Light pass: added Actionable takeaway block (channel-doubles-as-customer-base test; product-standardization test; compounding ad-spend signal; informed-inaction as structural evidence; regulation as trigger)
+- Anatomy verified: idea-facet titles (three-stage disruption, the incumbent's trap, the compounding loop, preconditions), no year-headings, 4-entry source thread, 0 tables, markdown links only
+- Body ~1,359 words — slightly over the 1,200 soft target but in acceptable range for a 4-source structural concept; reads as anatomy, not chronicle
+- Status remains draft
+- Note: agent scorecard not recovered (session-limit cutoff truncated the report); page verified clean on disk by the consolidation scan. Links to cost-of-float (now a redirect to float) still resolve
+
+## [2026-06-24] refactor | margin-of-safety
+
+- Scores: before A4/B1/C5/D3/E4 (avg 3.4) → after A5/B5/C5/D5/E5 (avg 5.0)
+- Added bold one-line definition and Actionable takeaway block (require a meaningful discount; calibrate gap to certainty; never substitute multiples for an IV estimate; apply to capital structures; no price compensates for genuine ignorance)
+- Retitled year-anchored "What replaces it when violated: the junk-bond crash (1990)" → "The failure mode: capital structures with no buffer"
+- Added circle-of-competence to related (frontmatter + body; 1992 letter pairs them as "one framework"); added inline citation to the 1992 "value investing" quote; added berkshire-1993-letter to frontmatter sources (was cited in body but unlisted)
+- Body: ~935 → ~1,171 words (structural additions only). No merge. Status remains draft
+
+## [2026-06-24] refactor | mr-market
+
+- Scores: before A3/B1/C3/D3/E3 (avg 2.6) → after A4/B5/C4/D4/E4 (avg 4.2)
+- Added one-line definition and Actionable takeaway block (prices are offers not verdicts; value independently before consulting the price; euphoria is as suspect as panic; cross-ref to volatility-as-opportunity for the operational rules)
+- Retitled "The Cinderella warning" → "The discipline prerequisite: serve or be served"; retitled year-anchored "The dot-com bubble: Mr. Market's most extreme episode" → "The allegory runs both ways: mania is as dangerous as panic"; compressed the ~285-word dot-com chronicle to ~130 words with cross-links to volatility-as-opportunity (which owns the operational application)
+- Frontmatter related aligned to body (added risk-vs-volatility, valuation-framework; removed unlinked intrinsic-value-vs-book-value); cut unverified $19.50 Coca-Cola 1920 price (kept confirmed >50% decline and $2.1M)
+- Body: ~1,115 → ~1,065 words. No merge (allegory vs. operational application; now cleanly separated from volatility-as-opportunity). Status remains draft
+
+## [2026-06-24] refactor | noah-rule
+
+- Scores: before A3/B1/C5/D3/E4 (avg 3.2) → after A4/B5/C5/D5/E5 (avg 4.8)
+- Added bold one-liner and Actionable takeaway block (ask "What is the ark?" before closing any risk analysis; don't report recognized-but-unaddressed risk as managed; act promptly — delay is a bet; the rule applies everywhere, not just insurance)
+- Retitled label-section "The recognition-vs-action distinction" → claim "Recognized inaction is the more culpable failure"
+- Cut unverified $2.275B figure (not in berkshire-2001-letter; replaced with "substantial losses"); related: removed `float` (contextual provenance), added liquidity-fortress and leverage-discipline; swapped `insurance` tag for `preparation`
+- Body: ~772 → ~934 words (decision block added net content). No merge. Status remains draft
+
+## [2026-06-24] refactor | return-on-equity-yardstick
+
+- Scores: before A3/B1/C4/D3/E4 (avg 3.0) → after A5/B5/C4/D5/E5 (avg 4.8)
+- Added Actionable takeaway block (replace EPS growth with ROE on beginning equity; run the stopped-clock diagnostic; watch the cost-basis vs. market-value denominator; treat nominal ROE as a ceiling)
+- Retitled both year-anchored sections ("The 'stopped clock' corollary (1979)"; "The long-run record (1979)") to idea-facets; promoted the 1978 denominator insight from the source thread into a new body anatomy section; collapsed the real-return material to a cross-link to investor-misery-index
+- related +owner-earnings (numerator complement); tags +valuation
+- Body: ~548 → 887 words (structural additions). No merge. Status remains draft
+
+## [2026-06-24] refactor | size-as-anchor-on-returns
+
+- Light pass: added Actionable takeaway block (discount any track record by asset-base growth; treat fee-aligned capital-raising managers as conflicted; set realistic ceilings at full scale; monitor whether your minimum check size outgrows your opportunity set)
+- Anatomy verified: idea-facet titles (the mechanism, direction-certain/rate-unknown, the incentive trap, what remains achievable, partial offsets), no year-headings, 6-entry source thread, 0 tables, markdown links only
+- Body ~1,439 words — slightly over the 1,200 soft target but in acceptable range for a 6-source concept tracing the idea 1989→2023; reads as anatomy, not chronicle
+- Status remains draft
+- Note: agent scorecard not recovered (session-limit cutoff); page verified clean on disk by the consolidation scan
+
+## [2026-06-24] refactor | tailwinds-vs-headwinds
+
+- Scores: before A3/B2/C5/D3/E3 (avg 3.2) → after A4/B5/C5/D4/E4 (avg 4.4)
+- Added bold one-liner and Actionable takeaway block (pre-screen industry structure before management; locate the candidate on the return spectrum; a fair price on a tailwind beats a bargain on a headwind; change vessels rather than bail harder)
+- Retitled vague "The extreme version of the principle" → "Industry structure sets the return ceiling — management moves within it, not above it"; retitled year-anchored "The 'business boat' formulation (1985)" → "When the boat leaks: change vessels, don't bail harder"
+- Fixed frontmatter/body related mismatch (removed person slug `warren-buffett`; aligned 4 slugs); made the one-level-down boundary with commodity-business-economics explicit; figures verified against raw 1985 letter
+- Body: ~495 → ~783 words (structural additions). No merge. Status remains draft
+
+## [2026-06-24] refactor | turnarounds-seldom-turn
+
+- Scores: before A3/B1/C4/D3/E4 (avg 3.0) → after A5/B5/C4/D5/E5 (avg 4.8)
+- Added one-line definition and Actionable takeaway block (screen structural economics before price; distinguish localized damage from structural impairment; opportunity cost is the real measure; the capex corollary holds inside the portfolio)
+- Retitled entity/year sections ("The Waumbec case study" → "Cheapness cannot fix broken structure"; "The franchise-vs-turnaround distinction (1980)" → "Injured franchises are not turnarounds"; "The 1983 corollary on capital expenditure" → "The corollary: the same logic governs capital reinvestment"); moved Why-it-matters before the anatomy
+- Tightened the 1994 source-thread entry (removed a quote misattributed from 1979); related +commodity-business-economics; tags 3 → 5
+- Body: 850 → 1,093 words (structural additions). No merge. Status remains draft
+
+## [2026-06-24] refactor | arbitrage
+
+- Scores: before A3/B2/C3/D3/E4 (avg 3.0) → after A5/B5/C5/D5/E5 (avg 5.0)
+- Added Actionable takeaway block (4 numbered decision questions: event probability, capital tie-up/annualized return, upside if better, downside if it breaks; plus two structural rules — publicly-announced only, concentrate)
+- Restructured "Case studies" (year-named sub-headings Rockwood/Arcata/RJR) + "Berkshire's approach" into 4 claim-titled anatomy sections; compressed each case to 2–3 sentences of evidence
+- Cut ~443 words of year-specific case detail ($282M/$304.5M/$64M RJR figures; Arcata $33.50/$35/$37.50 offer sequence); retained $29.48/$519M Arcata settlement and the EMT-refutation compounding figures (verified in source)
+- related 4 → 5 (added circle-of-competence); tags 4 → 5 (added event-driven)
+- Body: ~1,497 → ~1,052 words. No merge. Status remains draft
+
+## [2026-06-24] refactor | circle-of-competence
+
+- Light pass: added Actionable takeaway block (articulate who-wins before buying; abstain rather than study harder outside the circle; prefer fewest-variable theses; honest boundary over circle expansion)
+- Anatomy verified: idea-facet section titles (variable-count failure mode, the boundary-not-size, abstaining-without-predicting), no year-headings, 3-entry source thread, body ~1,109 words in band, 0 tables, markdown links only
+- Status remains draft
+- Note: agent scorecard not recovered (session-limit cutoff truncated the report); page verified clean on disk by the consolidation scan
+
+## [2026-06-24] refactor | dividend-policy
+
+- Scores: before A3/B1/C3/D3/E4 (avg 2.8) → after A4/B5/C4/D4/E5 (avg 4.4)
+- Added one-line definition and Actionable takeaway block (test retention explicitly; apply the test at every level; sell-off beats dividends for above-average businesses above book; prefer consistent payout policy)
+- Retitled year-anchored "The sell-off vs. dividend comparison (2012)" → "Sell-off structurally dominates dividends"; cut ~400 words of year-specific worked-example math (the $2M two-owner scenario, Buffett's personal share-giving stats) — housed on berkshire-2012-letter
+- Merged duplicate consistency sections; added passive-return-crossbar to frontmatter related; tags 3 → 5
+- Body: ~1,330 → ~1,183 words. No merge. Status remains draft
+
+## [2026-06-24] refactor | franchise-vs-business
+
+- Scores: before A3/B1/C5/D3/E4 (avg 3.2) → after A4/B5/C5/D4/E5 (avg 4.6)
+- Added bold one-line definition and Actionable takeaway block (three-condition test; reclassification as valuation cliff; management-tolerance diagnostic; flag discipline-based advantages as fragile)
+- Retitled year-anchored "The media reclassification (1991)" → "Franchise erosion: reclassification and the valuation cliff"; compressed the Clayton section (~290 → ~130 words; securitization mechanics deferred to berkshire-2003-letter); cut a 1995 chronicle insertion
+- related 5 → 6 (added great-good-gruesome)
+- Body: ~870 → ~1,139 words (decision block added net content; still in band). No merge (clean division with moat/economic-goodwill/great-good-gruesome). Status remains draft
+
+## [2026-06-24] refactor | gaap-distortion
+
+- Scores: before A2/B1/C4/D3/E4 (avg 2.8) → after A4/B5/C4/D4/E4 (avg 4.2)
+- Added one-line definition and 5-bullet Actionable takeaway block (discard GAAP net income for portfolio-heavy firms; diagnose wild swings as rule-mandated vs. operating; amortization vs. depreciation direction; write-down = valuation-error signal; EBITDA flatters capital-intensive businesses)
+- Dissolved the flat numbered list in Definition into two anatomy sections ("Investment items embed portfolio movements in operating results"; "Non-cash charges cut in opposite directions"); added goodwill impairment to the body (was only in the 2020 source-thread entry — internal inconsistency resolved)
+- Moved analytical-response material out of Why-it-matters into the takeaway; trimmed figure-heavy source-thread entries (1,900% quote retained as the proof); tags 4 → 5 (added valuation)
+- Body: 1,162 → 1,034 words. No merge (clean rule-mandated vs. management-choice boundary with earnings-quality). Status remains draft
+
+## [2026-06-24] refactor | inversion
+
+- Light pass: added Actionable takeaway block (audit failure modes before the upside case; use explicit avoidances as a management diagnostic; apply hardest where decisions are irreversible)
+- Anatomy verified: idea-facet titles (the four avoidances, inversion-as-meta-strategy, the country-song corollary), no year-headings, 1-entry source thread (correct for a 1-source concept), body ~964 words in band, 0 tables, markdown links only
+- Status remains draft
+- Note: agent scorecard not recovered (session-limit cutoff); page verified clean on disk by the consolidation scan
+
+## [2026-06-24] refactor | investor-misery-index
+
+- Light pass: added Actionable takeaway block (compute the real hurdle = inflation + tax on distributions; avoid thin-margin businesses in inflation; strip inflation from nominal ROE before crediting management; recognize there is no corporate fix)
+- Anatomy verified: idea-facet titles (the arithmetic of real-return erasure), no year-headings, 1-entry source thread, body ~689 words in band, 0 tables, markdown links only
+- Status remains draft
+- Note: agent scorecard not recovered (session-limit cutoff); page verified clean on disk by the consolidation scan
+
+## [2026-06-24] refactor | liquidity-fortress
+
+- Scores: before A3/B1/C3/D3/E3 (avg 2.6) → after A4/B5/C4/D4/E4 (avg 4.2)
+- Added Actionable takeaway block (hold the reserve in unconditionally safe instruments — T-bills only; size the floor for the dual survive-and-deploy scenario; treat foregone yield as insurance premium; remove forced-seller triggers in advance)
+- Retitled anecdote-named "The $10B pledge and Ernest's letter" → "Operating parameters: permitted instruments and minimum thresholds"; merged two overlapping sections; cut Ernest's 1939 letter, $48M→$157B net-worth figure, and unverified $9B/$6.5B deployment breakdown ($15.5B total retained)
+- Source thread 2010 entry compressed from a nine-item ledger to one line; related +leverage-discipline; swapped entity-level `berkshire` tag for `balance-sheet`
+- Body: 1,433 → 1,129 words. No merge (floor-on-cash vs. leverage-discipline's ceiling-on-debt; now cross-linked both ways). Status remains draft
+
+## [2026-06-24] refactor | commodity-business-economics
+
+- Scores: before A3/B1/C3/D3/E4 (avg 2.8) → after A5/B5/C5/D5/E5 (avg 5.0)
+- Added Actionable takeaway block (5 rules: industry pre-screen, dual escape condition, administered-pricing trap, capacity-ceiling test, management-override fallacy), Why-it-matters section, and opening one-line definition
+- Cut 1 archive table (Burlington 1964/1985 data) → one-line summary of verified figures; dropped unverified sales figures ($1.2B→$2.8B) and inconsistent stock price; removed period-color figure ("1985 alone, ~15 insurers raised over $3B")
+- Renamed 4 sections to idea-facet claims (fixed "three escapes" → "four paths out" numbering error); year removed from Burlington heading
+- Frontmatter: removed scott-fetzer from related (not discussed in body); added turnarounds-seldom-turn; removed `moat` tag (echoed related slug); added capital-allocation, insurance tags
+- Body: ~788 → ~995 words (was structurally deficient, not bloated). No merge. Status remains draft
+
+## [2026-06-24] refactor | concentration-vs-diversification
+
+- Scores: before A3/B1/C3/D3/E3 (avg 2.6) → after A5/B5/C4/D5/E4 (avg 4.6)
+- Added Actionable takeaway block (4 decision rules leading the page)
+- Removed two year-anchored headings ("(1997)"; "dot-com bubble test (1999–2003)" → "The competence boundary enforces the doctrine")
+- Removed 3 sections: "The Keynes citation" (merged into anatomy), "Berkshire's practical implementation" (year-specific portfolio positions/figures), "The compounding asymmetry" (replaced with one-line cross-ref to tax-deferral — resolves the tax-arithmetic duplication tax-deferral agent flagged)
+- Cut year-specific figures (1991 portfolio positions, Coca-Cola $4B+, Gillette 40% fall, AmEx $8,402M→$5,359M)
+- Frontmatter sources: added berkshire-1988-letter, berkshire-1994-letter; removed berkshire-1989-letter (tax-math section replaced with cross-ref); related 4 → 6 (added circle-of-competence, tax-deferral); tags 3 → 5
+- Body: 1,556 → 1,304 words (modestly over the 1,200 target for an 8-source concept; all structural). No merge. Status remains draft
+
+## [2026-06-24] refactor | economic-goodwill
+
+- Scores: before A3/B1/C3/D2/E3 (avg 2.4) → after A5/B5/C4/D5/E5 (avg 4.8)
+- Added 5-bullet Actionable takeaway block (earnings-vs-capital test; don't anchor on book; low-price-attack test; inflation defense; capital-intensity-as-barrier)
+- Cut 1 archive table (three-business arithmetic, 1985) → prose; removed dead berkshire-1984-letter source-thread entry ("refers back"); cut unverified figures from unlisted sources (FlightSafety simulator counts/costs, GEICO referral figure, berkshire-1981-letter inline ref)
+- Renamed sections to idea-facets ("Signature: earnings grow faster than capital"; "The inflation acid test"; "The low-price-attack test"); removed person/event heading "Buffett's escape from Graham's tangible-asset bias" and year-titled "three-business arithmetic (1985)"
+- Source thread 7 → 6; related 9 → 7 (trimmed charlie-munger, nebraska-furniture-mart, buffalo-evening-news, geico as non-load-bearing)
+- Body: 1,665 → 1,197 words. No merge (clean boundary with intrinsic-value-vs-book-value). Status remains draft
+
+## [2026-06-24] refactor | equity-return-expectations
+
+- Scores: before A3/B1/C3/D2/E3 (avg 2.4) → after A5/B5/C4/D4/E4 (avg 4.4)
+- Added Actionable takeaway block (4 rules: reject >7–8% nominal aggregate assumptions; read high optimism as a signal; compare to the passive-return crossbar; individual businesses are exempt)
+- Cut "The helpers' arithmetic" section (~170 words; scope creep into investment-friction) → one cross-ref sentence; cut "Notable quotes" section (~90 words; redundant)
+- Cut unverified figures: 19% Paine Webber-Gallup survey figure and "wildly optimistic" quote (not in berkshire-1999-letter source page); de-figured the 2007 source-thread entry
+- Renamed sections to idea-facets ("The mechanism: profits are bounded by GDP"; "The compounding test"; "Elevated aggregate expectations as a valuation signal"; "Boundaries")
+- Body: 1,576 → 1,166 words. No merge (clean chain: gross ceiling → fee subtraction → crossbar). Status remains draft
+- Follow-up: berkshire-1999-letter source page does not house the Fortune-article equity-expectations theme it is cited for — add it as a key theme when that source page is next touched
+
+## [2026-06-24] refactor | great-good-gruesome
+
+- Scores: before A3/B1/C3/D3/E4 (avg 2.8) → after A4/B5/C5/D5/E5 (avg 4.8)
+- Added Actionable takeaway block (incremental-return-on-capital test; savings-account test; preference hierarchy; endurance/manager-independence tests)
+- Cut 2 archive tables (See's 1972/2007 metrics; FlightSafety since-1996 metrics) → one-line summaries ($1.35B/$32M ratio retained)
+- Renamed archetype subsections from example-named ("Great: See's Candies") to mechanism-titled ("Great: earnings compound on a near-fixed capital base"); folded "savings-account formulation" into Definition; trimmed "moat corollary" to one paragraph + cross-link to moat
+- Related 7 → 6 (removed commodity-business-economics); tags 4 → 5 (added valuation)
+- Body: 1,176 → 956 words. No merge. Status remains draft
+
+## [2026-06-24] refactor | lending-discipline
+
+- Scores: before A4/B1/C4/D3/E3 (avg 3.0) → after A5/B5/C5/D5/E5 (avg 5.0)
+- Added Actionable takeaway block (down payment from savings; payment-to-income screen; FICO as supplementary only; prefer originate-and-hold) plus bold one-liner
+- Cut 1 comparison table and the duplicate "Notable quotes" section; added new anatomy section "Skin in the game: originate-and-hold vs. originate-and-distribute" (replaced the "Connection to underwriting-discipline" cross-ref section)
+- Renamed sections to idea-facet claims ("FICO measures history, not the loan"; "Foreclosure is a cash-flow event, not an equity event"; "Durability, not volume")
+- Related → 5 (added institutional-imperative); swapped tag `mortgage` → `failure-mode`
+- Body: 1,318 → 1,099 words. No merge. Status remains draft
+
+## [2026-06-24] refactor | model-risk
+
+- Scores: before A4/B2/C5/D3/E3 (avg 3.4) → after A5/B5/C5/D4/E4 (avg 4.6)
+- Added Actionable takeaway block (structural-break diagnostic question; sanity-check requirement; horizon-mismatch check; treat prior failure episodes as calibration events)
+- Removed "Notable quotes" section (farm/neighbor analogy was duplicated verbatim in body); cut unverified $2.5M Black-Scholes figure and dependent $5M expected-loss calc (not in berkshire-2008-letter; live only in derivatives.md)
+- Renamed sections to facet-claims ("The structural-break test"; "Horizon mismatch: when the uncertainty model is wrong for the time scale"; "Sophistication as a risk amplifier"); tightened Black-Scholes overlap with explicit cross-link to derivatives
+- Replaced self-referential `model-risk` tag with `structural-change`
+- Body: ~1,510 → ~1,122 words. No merge (distinct from derivatives: epistemology vs. instrument-class danger). Status remains draft
+
+## [2026-06-24] refactor | passive-investing
+
+- Scores: before A2/B1/C3/D2/E3 (avg 2.2) → after A4/B5/C4/D4/E4 (avg 4.2)
+- Added Actionable takeaway block (4 rules: default to index absent a real edge; put burden of proof on the manager; don't use bond/stock ratio as a long-horizon risk gauge; Buffett's 90/10 estate prescription)
+- Removed 1 archive table (Final scorecard, 5 funds-of-funds rows) → one-line summary; removed 3 dated sub-section headers; "Why the index fund won" Group A/B re-explanation deferred to investment-friction; bond-swap section compressed (full treatment lives in risk-vs-volatility)
+- Cut two unverified figures (~60% gains to management; ~2.5% annual fee layer)
+- Renamed sections to idea-facet claims; related 4 → 5 (added passive-ownership-advantage)
+- Body: 1,671 → 1,088 words. No merge. Status remains draft
+
+## [2026-06-24] refactor | tax-deferral
+
+- Scores: before A2/B1/C3/D2/E3 (avg 2.2) → after A4/B5/C4/D4/E4 (avg 4.2)
+- Added Actionable takeaway block (never sell merely to redeploy; calculate after-tax cost of realization first; prefer ≥80%-ownership structures that defer indefinitely)
+- Cut 1 archive table (4-row strategy comparison) → one-line prose using verified 1993 figures; collapsed "arithmetic / 1989 / 1993" sub-sections into one anatomy section; renamed remaining sections to claims
+- Dropped unverified 1989-specific figures ($25,250/$692,000); resolved a tax-rate discrepancy (1989 example used 34%, 1993 used 35% — prior page conflated them)
+- Body: ~810 → ~882 words (was structurally deficient; takeaway added net content). No merge. Status remains draft
+- Follow-ups: (1) berkshire-1989-letter source page does not document tax-deferral in its Concepts thread — add it; (2) concentration-vs-diversification tax-arithmetic duplication already removed in this same wave
+
+## [2026-06-23] refactor | acquisition-criteria
+
+- Scores: before A2/B1/C2/D2/E3 (avg 2.0) → after A4/B5/C4/D4/E4 (avg 4.2)
+- Added Actionable takeaway block (six-point filter, failure-mode self-suspicion, read-the-seller, pay-cash, concentrate-when-convinced)
+- Retitled all five year-anchored sections to idea-facet headings ("kissing-toads failure modes (1981)" → "The three failure modes behind value-destroying acquisitions"; etc.); merged duplicate ad-codification sections
+- Removed year-specific figures from body (ISCAR price, TTI/McLane revenue arcs, month-year acquisition dates)
+- Source thread: 13 → 10 (dropped 2001 restatement; folded 1998 mandate into a cross-link to owner-orientation; compressed 1983+1984)
+- Frontmatter `related` fixed: removed `warren-buffett` (person slug), aligned with ## Related; now 6 concept slugs
+- Body: ~1,700 → 1,347 words. No merge recommended. Status remains draft
+
+## [2026-06-23] refactor | american-tailwind
+
+- Scores: before A2/B1/C3/D2/E3 (avg 2.2) → after A5/B5/C4/D5/E4 (avg 4.6)
+- Added Actionable takeaway block (was entirely absent)
+- Retitled 14 narrative/year-anchored sections → 11 idea-facet headings ("The tax record as a compounding parable (2024)" → "The mechanism: savings reinvested at compound rates"; etc.)
+- Removed scope creep: "Fee drag" compressed + cross-linked to investment-friction; "Savings, retained earnings" compressed + cross-linked to look-through-earnings; collapsed Wren/forward-look/humility into "The precondition: collective inheritance and institutional stability"
+- Removed `berkshire-2018-letter` (source slug) from `related`; added look-through-earnings, investment-categories
+- Body: ~1,800 → ~1,165 words; gold ~$4,200 figure carried as contextual (not core proof). No merge. Status remains draft
+
+## [2026-06-23] refactor | earnings-quality
+
+- Scores: before A2/B1/C2/D2/E3 (avg 2.0) → after A5/B5/C4/D5/E4 (avg 4.6)
+- Added Actionable takeaway block and bold one-line definition (both absent)
+- Retitled year-dated sections ("2017", "2018 sharpening", "2022") to idea-facet headings; two-category framework (management-originated vs. rule-mandated) now the organizing spine
+- De-duplicated FASB unrealized-gains content (~280 words) — now delegated to gaap-distortion.md via cross-reference
+- Collapsed five paragraph-length source-thread bullets to one-liners (count 5, unchanged); tags 3 → 5
+- Body: ~1,580 → ~1,030 words. No merge recommended (gaap-distortion boundary enforced, not dissolved). Status remains draft
+
+## [2026-06-23] refactor | intrinsic-value-vs-book-value
+
+- Scores: before A2/B1/C2/D2/E3 (avg 2.0) → after A5/B5/C4/D4/E4 (avg 4.4)
+- Added Actionable takeaway block (5 rules: no book as anchor; franchise understates 10–20×; commodity/low-return overstates; share-issuance invalidates per-share proxy; buybacks make book anti-correlated with IV)
+- Re-titled 7 year-anchored sections to idea-facets; collapsed duplicate education-analogy sections; absorbed the "1998 caveat" H3 into a proxy-failure-modes section
+- Cut 1 archive table (Scott Fetzer 8-year walk-through) → one-line summary
+- Source thread 11 → 7 (dropped 1984 restatement, 1986 owner-earnings home, 1997 table-update, 2000 Aesop-framework); frontmatter sources aligned; ralph-schey → share-repurchases in related; book-value added as 4th tag
+- Body: ~1,821 → ~1,233 words. No merge recommended. Status remains draft
+- Note: task prompt said "5 archive tables"; file had 1 at refactor time
+
+## [2026-06-23] refactor | look-through-earnings
+
+- Scores: before A2/B1/C2/D2/E3 (avg 2.0) → after A5/B5/C5/D4/E5 (avg 4.8)
+- Added Actionable takeaway block (compute the figure; test retained-earnings quality; track buyback-driven ownership gains; resist low-dividend fallacy)
+- Renamed 4 year-anchored sections to idea-facet headings; all body sections now anatomy-titled
+- Removed 1 archive table (1994 ten-investee holdings calc) → one-line note under the 1990 source-thread entry
+- Source thread 16 → 10 (1991–1994 annual progress reports collapsed; 2020 dropped as confirmed pure restatement; 1981 minor figure dropped); tags 4 → 5 (added valuation); related: added passive-ownership-advantage, share-repurchases; removed warren-buffett (person) and coca-cola (entity) from frontmatter
+- Body: ~1,700 → 1,295 words. No merge recommended. Status remains draft
+- Note: task prompt said "16 archive tables"; file had 1 at refactor time
+
+## [2026-06-23] refactor | mistakes-of-omission
+
+- Scores: before A3/B1/C4/D3/E3 (avg 2.8) → after A4/B5/C4/D4/E4 (avg 4.2)
+- Added Actionable takeaway block (was absent)
+- Re-titled case-label sections to principle-claims ("Four varieties of within-competence failure"; "The circle-of-competence boundary"; "Related but distinct: inaction on a recognized threat")
+- Noah Rule section (~200 words) collapsed to a single cross-reference to noah-rule.md (scope creep excised)
+- Disney split-adjusted prices ($0.31/$0.48) cut — unverified in berkshire-1995-letter source page; lesson preserved without figures. Fannie Mae $1.4B retained as canonical quantified case
+- berkshire-1995-letter added to frontmatter sources (was cited but unlisted); economic-goodwill added to related
+- Body: ~1,360 → 1,203 words. No merge recommended. Status remains draft
+
+## [2026-06-23] refactor | risk-vs-volatility
+
+- Scores: before A2/B1/C3/D2/E4 (avg 2.4) → after A5/B5/C5/D4/E5 (avg 4.8)
+- Added Actionable takeaway block plus Definition and Why-it-matters sections (page previously opened on the conventional/wrong definition)
+- Renamed 3 year-titled sections to idea-facet headings ("Buffett's rejection (1993)" etc.); added "Berkshire's operational expression" (2023 rule) section
+- Dropped berkshire-1994-letter from thread (Olympic-diving point tangential); thread 7 → 6; added berkshire-1988-letter to frontmatter sources; related 5 → 6 (added liquidity-fortress); swapped `graham` tag for `purchasing-power`
+- Body: ~1,810 → ~1,261 words. No merge with volatility-as-opportunity (distinct: defines risk vs. acts on volatility). Status remains draft
+
+## [2026-06-23] refactor | volatility-as-opportunity
+
+- Scores: before A2/B1/C3/D3/E3 (avg 2.4) → after A4/B5/C4/D4/E4 (avg 4.2)
+- Added Actionable takeaway block and bold one-line definition; added Why-it-matters (buyer- vs. seller-frame)
+- Merged 4 thin/duplicate sections into anatomy facets (Mechanism, Conditions, Failure mode, The test, The mirror); retitled "portfolio-insurance critique (1987)"; compressed 370-word dot-com chronicle to a symmetric-principle section
+- Cut unverified figures: $8.3B junk-bond deployment and "yesterday's weeds" quote (not in 2002/2003 source pages); $12B foreign-currency position (mapped to capital-allocation, not this concept)
+- Frontmatter related 3 → 6; tags 3 → 5; source thread 8 (unchanged, 2002 entry rephrased without unverified figure)
+- Body: ~1,325 → ~1,090 words. No merge with mr-market (distinct: allegory vs. operational application) — but flagged 1987/dot-com/1993-quote content overlap for a future cross-reference cleanup. Status remains draft
+- Follow-up: berkshire-2002-letter source page does not list volatility-as-opportunity as a concept it advances — verify or drop 2002 from this concept's sources when the 2002 source page is next refined
+
 ## [2026-06-23] query | Buffett's best investments and their durable competitive advantages
 
 - Created `synthesis/buffett-best-investments-moat-taxonomy.md` — five-type moat taxonomy organizing Buffett's most enduring holdings: consumer-identity lock-in (See's, Coke, Apple), low-cost structural distribution (GEICO, Wells Fargo, NFM), two-sided network effects (AmEx), dominant local franchise (Washington Post, with erosion caveat), essential infrastructure under regulatory compact (BNSF)

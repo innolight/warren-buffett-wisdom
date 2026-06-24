@@ -2,104 +2,69 @@
 type: concept
 status: draft
 created: 2026-06-15
-updated: 2026-06-15
+updated: 2026-06-24
 sources: [berkshire-2007-letter, berkshire-2016-letter, berkshire-2017-letter]
-tags: [investing, passive-investing, index-funds, fees, active-management]
-related: [investment-friction, risk-vs-volatility, concentration-vs-diversification, leverage-discipline]
+tags: [investing, fees, index-funds, active-management, passive-investing]
+related: [investment-friction, risk-vs-volatility, concentration-vs-diversification, passive-ownership-advantage, leverage-discipline]
 ---
 
 # Passive Investing
 
+Passive investing is the strategy of holding a low-cost, broadly diversified market index fund rather than employing active managers to select securities — and winning by default because fees are the only durable variable.
+
+## Actionable takeaway
+
+- **Default to the index fund** if you cannot reliably identify a manager who will outperform net of all fees over a full decade. The index advantage is arithmetic, not forecast: the lower-cost side wins by construction.
+- **Put the burden of proof on the manager.** Calculate the guaranteed fee drag at a realistic gross return and ask whether the probability and magnitude of outperformance justify it. Absent a real answer, the index is the rational choice — not a fallback but an arithmetic conclusion.
+- **Do not use bonds-to-stocks ratio as your risk gauge** for a long-horizon portfolio. Low-yield bonds guarantee purchasing-power loss; equities at sensible valuations are the lower long-term risk.
+- **Practical prescription (Buffett's own estate): 90% S&P 500 index / 10% short-term bonds** — committed to the trustee in writing, and stated as superior to what most institutional investors with expensive managers achieve.
+
 ## Definition
 
-Passive investing is the strategy of holding a low-cost, broadly diversified market index fund rather than employing active managers to select securities. Its core claim is empirical: after fees, the average active investor must underperform the average passive investor by exactly the amount of management fees charged — because both groups collectively own the same market. The passive investor wins by not paying for the subtraction.
+Passive investing captures the aggregate return of the market at near-zero cost, rather than paying helpers who collectively cannot improve on that return before fees and must fall short of it after. The theoretical foundation — why active investors as a group cannot beat the passive side before costs, and why the lower-cost side wins by construction — is the Group A/B identity developed in [investment-friction](investment-friction.md). This page covers the empirical proof: Buffett's ten-year Bet with Protégé Partners (2008–2017).
 
-This page covers the strategy and its empirical proof — Buffett's ten-year Bet with Protégé Partners. The underlying theoretical mechanism (the Gotrocks allegory, the Group A/B identity, Newton's Fourth Law) is developed in [investment-friction](investment-friction.md). For the distinct question of passive ownership structure — why minority stakes in excellent businesses can outperform active control of mediocre ones — see [passive-ownership-advantage](passive-ownership-advantage.md).
+For the distinct argument that passive minority stakes in excellent businesses can outperform active control of mediocre ones, see [passive-ownership-advantage](passive-ownership-advantage.md).
 
 ## Why it matters
 
-The case for passive investing is not an argument about stock-picking skill. It is an arithmetic argument: active investors in aggregate cannot outperform the market they constitute. Every fee extracted at every layer — brokerage, management, performance, consulting — is deducted from the aggregate return. The passive investor captures the market's full return; the active investor as a group captures that return minus fees.
+The case for indexing is not an argument about stock-picking skill. It is an arithmetic argument: every fee extracted at every layer — management, performance, consulting — is deducted from the aggregate market return. For the investor who cannot reliably identify superior managers in advance (which is most investors), passive indexing is not a concession; it is the rational choice, and the gap it creates is larger than most investors expect.
 
-This has enormous practical consequence for investors who cannot reliably identify superior managers in advance — which is most investors. For them, passive indexing is not a concession; it is the rational choice. The 10-year Bet is the cleanest single demonstration: one decision (buy an S&P 500 index fund) outperformed five professional investment teams, each deploying hundreds of manager-years of effort and thousands of individual decisions, over a full decade in a period where the market delivered approximately its historical average return.
+## Fee drag structurally defeats active management, regardless of market conditions
 
-## The Bet
+The S&P 500 delivered approximately its long-run average return over 2008–2017 — a decade not unfavorable for active management to show its value. Protégé Partners selected five professional funds-of-funds collectively owning interests in more than 200 underlying hedge funds. Fixed management fees at the two combined layers drained returns regardless of whether either layer added value in excess of those fees.
 
-### Setup (December 19, 2007)
+The outcome: the S&P 500 index fund returned 125.8% cumulative (8.5% annualized); the five funds-of-funds ranged from 2.8% to 87.7% cumulative (0.3%–6.5% annualized). The best single fund-of-funds trailed the index by nearly two percentage points annually — a gap that compounds decisively over a full decade. The funds-of-funds beat the index only in 2008; in every one of the nine years that followed, they trailed it as a group. Buffett's verdict: *"Performance comes, performance goes. Fees never falter."*
 
-Buffett offered $500,000 that no investment professional could select five or more hedge funds that would, net of all fees and expenses, outperform an unmanaged S&P 500 index fund over ten years beginning January 1, 2008. One challenger accepted: Protégé Partners, who selected five funds-of-funds.
+"Making money in that environment should have been easy. Indeed, Wall Street 'helpers' earned staggering sums. While this group prospered, however, many of their investors experienced a lost decade."
 
-The prize was structured via zero-coupon U.S. Treasuries: Buffett and Protégé each invested $318,250 (approximately 64 cents on the dollar) in bonds with a $500,000 face value maturing in 2017, intending to distribute the $1 million combined payout to the winning charity.
+Full results at [berkshire-2017-letter](../sources/berkshire-2017-letter.md).
 
-Protégé's five funds-of-funds collectively owned interests in more than 200 underlying hedge funds. Every manager in the chain was highly incentivized: fund-of-funds managers and underlying hedge fund managers both participated in gains. Fixed management fees at the combined layers averaged approximately 2.5% of assets annually, regardless of performance. Beyond those fixed fees, performance bonuses layered on top when any gains were achieved.
+## One passive decision outperformed 200 active managers over a full decade
 
-Buffett's pick: one S&P 500 index fund at essentially zero cost.
+Protégé's 200+ underlying managers almost certainly made tens of thousands of individual buy and sell decisions over the ten years of the Bet. Buffett and Protégé-as-bet-participants made exactly one mid-course decision — not a research call on any security, but basic arithmetic: in 2012, when the zero-coupon Treasuries holding the prize money had rallied to yield only 0.88% to maturity (priced at roughly 100× earnings), they sold and bought Berkshire B shares. A bond at 100× earnings against a diversified equity index compounding at 8%+ was the riskier long-term asset, not the equities. Girls Inc. of Omaha ultimately received more than double the originally intended prize.
 
-The setup is in [berkshire-2007-letter](../sources/berkshire-2007-letter.md).
+"Seizing the opportunities then offered does not require great intelligence, a degree in economics or a familiarity with Wall Street jargon such as alpha and beta. What investors then need instead is an ability to both disregard mob fears or enthusiasms and to focus on a few simple fundamentals."
 
-### Nine-year update (2016)
+## A 'safe' low-yield bond can be the higher-risk long-term asset
 
-Through December 31, 2016, the S&P 500 index fund had returned +85.4% cumulative (~7.1% annualized). The five funds-of-funds averaged roughly +22% cumulative (~2.2% annualized). Approximately 60% of all gains achieved by the active side were diverted to the two layers of management rather than compounding for investors. See [berkshire-2016-letter](../sources/berkshire-2016-letter.md).
+The 2012 swap is a concrete illustration of the purchasing-power risk argument developed in full in [risk-vs-volatility](risk-vs-volatility.md): for long-horizon investors, the bonds-to-stocks ratio is precisely the wrong risk gauge. A near-zero-yield bond guarantees purchasing-power loss against realistic inflation. Equities in diversified productive businesses offer price volatility and the prospect of real compounding. Volatility is not risk; permanent purchasing-power erosion is.
 
-### Final scorecard (2017)
+## The index is the rational default for the investor without a genuine edge
 
-Ten-year results, January 1, 2008 through December 31, 2017:
+Buffett's estate prescription — committed to the trustee in writing — is 90% S&P 500 index fund and 10% short-term bonds. "I believe the trust's long-term results from this policy will be superior to those attained by most investors — whether pension funds, institutions or individuals — who employ high-fee managers." This is not a reluctant fallback; it is a considered conclusion that the one-decision approach outperforms sophisticated institutions paying for active management.
 
-| | Cumulative | Annualized |
-|---|---|---|
-| S&P 500 index fund | 125.8% | 8.5% |
-| Fund-of-funds A | 21.7% | 2.0% |
-| Fund-of-funds B | 42.3% | 3.6% |
-| Fund-of-funds C | 87.7% | 6.5% |
-| Fund-of-funds D | 2.8% | 0.3% |
-| Fund-of-funds E | 27.0% | 2.4% |
-
-The five funds-of-funds beat the index only in 2008 — the first year of the ten. In every one of the nine years that followed, the funds-of-funds as a whole trailed the index.
-
-Buffett's verdict: *"Performance comes, performance goes. Fees never falter."*
-
-The ten-year environment was not aberrational. The S&P 500 delivered approximately 8.5% annualized — close to the long-run average analysts would have forecast in late 2007. "Making money in that environment should have been easy. Indeed, Wall Street 'helpers' earned staggering sums. While this group prospered, however, many of their investors experienced a lost decade."
-
-Even the best single fund-of-funds (C, at 6.5% annualized) trailed the index by nearly two percentage points annually — a gap that, compounded over a decade, is decisive regardless of the specific year-by-year path.
-
-See [berkshire-2017-letter](../sources/berkshire-2017-letter.md).
-
-## Why the index fund won: the fee arithmetic
-
-In 100% of the 43 ten-year periods since Berkshire's 1965 takeover, the S&P 500 had more gain years than loss years. The active managers were not tasked with navigating an unusually hostile market; they faced a generally rising one. The structural problem was cost: fixed management fees averaging ~2.5% of assets annually drained returns at two layers — fund-of-funds management and underlying hedge fund management — regardless of whether either layer added value in excess of those fees.
-
-The Group A/B identity (developed in [investment-friction](investment-friction.md)) is the arithmetic foundation: before fees, active investors in aggregate earn exactly the market return — they hold whatever the passive side does not, and together both sides hold the full market. After fees, the active side must earn less. The passive investor, bearing near-zero cost, wins by default.
-
-## The embedded sub-lesson: the 2012 bond swap
-
-The Bet's most instructive footnote is what Buffett and Protégé did with the prize money midway through.
-
-By November 2012 — five years remaining — the zero-coupon Treasuries had rallied to 95.7 cents on the dollar, yielding only 0.88% to maturity. At that price, the bonds were trading at roughly 100 times earnings. The S&P 500, by contrast, was paying ~2.5% in dividends annually (nearly triple the bond yield), and those dividends were nearly certain to grow as the underlying companies compounded retained earnings.
-
-The analysis was straightforward: a bond yielding 0.88% and unable to grow that yield over five years was the *riskier* asset for a long-horizon investor — not equities. Purchasing power was guaranteed to erode; even 1% annual inflation would leave the bondholder worse off in real terms. Buffett and Protégé agreed, sold the Treasuries, and bought 11,200 Berkshire B shares. Girls Inc. of Omaha received $2,222,279, more than double the $1 million originally intended.
-
-The sub-lesson Buffett drew: *"purportedly 'risk-free' long-term bonds in 2012 were a far riskier investment than a long-term investment in common stocks."* The conventional bond-to-stock ratio as a risk gauge is wrong for long-horizon investors. Stocks are riskier short-term; bonds are riskier over horizons where inflation erodes fixed payouts. This is the empirical case for the purchasing-power risk argument developed in [risk-vs-volatility](risk-vs-volatility.md).
-
-## What this means for most investors
-
-The Bet's outcome is not a fringe case. Protégé knew its way around Wall Street, could evaluate hedge funds, and actively rebalanced its portfolio over ten years. It still lost by more than five to one in total return. The failure was not incompetence; it was arithmetic.
-
-Buffett's prescription for his own estate — committed to the trustee in writing — is 90% S&P 500 index fund and 10% short-term bonds. "I believe the trust's long-term results from this policy will be superior to those attained by most investors — whether pension funds, institutions or individuals — who employ high-fee managers." The framing matters: this is not a reluctant fallback. It is a conscious conclusion that the instructions given for ordinary savers also outperform sophisticated institutional investors paying for active management.
-
-The one-decision contrast carries its own lesson. During the ten years, 200-plus hedge fund managers almost certainly made tens of thousands of buy and sell decisions. Buffett and Protégé made exactly one — and it was made not from research or insight into any individual security, but from basic arithmetic about relative valuations: bonds at 100× earnings vs. equities compounding at 8%+. "Seizing the opportunities then offered does not require great intelligence, a degree in economics or a familiarity with Wall Street jargon such as alpha and beta. What investors then need instead is an ability to both disregard mob fears or enthusiasms and to focus on a few simple fundamentals." See also [leverage-discipline](leverage-discipline.md) for the Kipling corollary from the same letter.
-
-The right framing: "Stick with big, 'easy' decisions and eschew activity." Protégé and its managers made decisions because decision-making was what they were paid for. Buffett and Protégé-as-bet-participants acted only when the facts were overwhelmingly in one direction — and sat still otherwise.
-
-For the investor who genuinely knows specific businesses at a deep level, [concentration-vs-diversification](concentration-vs-diversification.md) describes a different and potentially superior strategy. Buffett's own 53-year record rests on concentrated positions in understood businesses, not index funds. But that requires a real informational or analytical edge. For the investor without that edge, the index fund is the intelligent default — not a concession but a clear-eyed arithmetic conclusion.
+The exception: the investor who genuinely knows five to ten sensibly-priced businesses with durable competitive advantages can potentially do better through concentration. Buffett's own record rests on that strategy — but the edge must be real. See [concentration-vs-diversification](concentration-vs-diversification.md).
 
 ## How it's discussed in sources
 
-- [berkshire-2007-letter](../sources/berkshire-2007-letter.md) — the Bet's setup and original framing; the arithmetic reasons the active side faces a structural disadvantage; Dow 5.3% century math extended (2,000,000 needed by 2099 to repeat 20th-century rate); helpers as a class must underperform net of fees
-- [berkshire-2016-letter](../sources/berkshire-2016-letter.md) — nine-year results (S&P +85.4% vs. FoF average ~2.2%); Group A/B mathematical identity; ~60% of active gains captured by two manager layers; Jack Bogle tribute; wealthy-investor paradox ($100B+ cost to elite investors over the prior decade)
-- [berkshire-2017-letter](../sources/berkshire-2017-letter.md) — final ten-year Bet tally; "Performance comes, performance goes. Fees never falter."; the one-decision vs. tens-of-thousands-of-decisions contrast; the 2012 bond-to-Berkshire-B swap; purchasing-power risk as the right risk frame for long-horizon investors; estate prescription (90% S&P / 10% short-term bonds)
+- [berkshire-2007-letter](../sources/berkshire-2007-letter.md) — the Bet setup; structural arithmetic for why helpers as a class must underperform net of fees
+- [berkshire-2016-letter](../sources/berkshire-2016-letter.md) — nine-year results; Group A/B mathematical identity stated most explicitly; Jack Bogle tribute; the wealthy-investor paradox
+- [berkshire-2017-letter](../sources/berkshire-2017-letter.md) — final ten-year tally; the 2012 bond-to-Berkshire B swap as the one active decision; "Performance comes, performance goes. Fees never falter."; estate prescription (90%/10%)
 
 ## Related
 
 - [investment-friction](investment-friction.md) — the theoretical mechanism: Gotrocks allegory, Group A/B identity, Newton's Fourth Law; this page provides the empirical proof that fee drag determines long-run outcomes
 - [risk-vs-volatility](risk-vs-volatility.md) — purchasing-power risk as the right risk frame for long-horizon investors; the 2012 bond swap is the concrete illustration
-- [concentration-vs-diversification](concentration-vs-diversification.md) — for the know-something investor, concentration beats indexing; passive indexing is the rational choice for the know-nothing investor
-- [leverage-discipline](leverage-discipline.md) — borrowing to own index funds eliminates the advantage; Berkshire's four 37–59% drawdowns make the case for why even sensible equity strategies cannot safely be leveraged
+- [concentration-vs-diversification](concentration-vs-diversification.md) — for the know-something investor, concentration can beat indexing; passive indexing is the rational default for the know-nothing investor
+- [passive-ownership-advantage](passive-ownership-advantage.md) — the distinct argument that passive minority stakes in excellent businesses can outperform active control of mediocre ones
+- [leverage-discipline](leverage-discipline.md) — borrowing to own index funds eliminates the advantage; Berkshire's four 37–59% drawdowns make the case against it

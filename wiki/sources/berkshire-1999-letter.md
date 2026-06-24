@@ -2,7 +2,7 @@
 type: source
 status: draft
 created: 2026-05-31
-updated: 2026-06-18
+updated: 2026-06-24
 source_type: annual-letter
 author: warren-buffett
 year: 1999
@@ -55,6 +55,7 @@ Dated March 1, 2000. Per-share book value rose just 0.5% — Buffett's worst abs
 - [acquisition-criteria](../concepts/acquisition-criteria.md) — "our carefully-crafted acquisition strategy is simply to wait for the phone to ring"; cash preference demonstrated; Jordan's as fourth furniture acquisition via referral chain (NFM 1983 → R.C. Willey 1995 → Star 1997 → Jordan's 1999)
 - [intrinsic-value-vs-book-value](../concepts/intrinsic-value-vs-book-value.md) — two-column table: per-share investments $47,339 (1999) vs. $45 (1969), compounding 25.4% annually; per-share pre-tax operating earnings $(458.55), structurally depressed by ~$500M goodwill-amortization charge
 - [incentive-compensation](../concepts/incentive-compensation.md) — GEICO's two-variable system (policyholders growth + seasoned-business earnings) deliberately excludes new-business cost to avoid penalizing associates for acquiring long-term-valuable customers
+- [equity-return-expectations](../concepts/equity-return-expectations.md) — introduced the GDP-tethered ceiling via the *Fortune* article framework; established elevated aggregate investor expectations as a contrary valuation indicator whose correction will be severe
 
 ## Notable quotes
 

@@ -2,13 +2,21 @@
 type: concept
 status: draft
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-06-24
 sources: [berkshire-2009-letter]
-tags: [mental-model, decision-making, munger, avoidance]
+tags: [mental-model, decision-making, first-principles, avoidance]
 related: [charlie-munger, circle-of-competence, liquidity-fortress, owner-orientation, institutional-imperative, acquisition-criteria]
 ---
 
 # Inversion
+
+**A decision method that begins by defining what would guarantee failure, then excludes those conditions — the positive strategy emerges from what remains.**
+
+## Actionable takeaway
+
+- **Audit failure modes before building the upside case.** For every capital commitment, ask: what two or three conditions would guarantee this fails? If you cannot answer that as precisely as the promoter can articulate the opportunity, you have not done enough work — and the gap is a reason to pass.
+- **Use explicit avoidances as a management diagnostic.** A team that can state — and demonstrably holds to — what it will *not* do has done the inversion work. Test it under pressure: does it decline business in a soft cycle? Hold cash when peers are deploying? The avoidances reveal character more reliably than the aspirations do.
+- **Apply the tool hardest where decisions are irreversible.** Inversion is most powerful precisely where the cost of being wrong is permanent — acquisitions, capital structure choices, long-term partnership commitments. Define the path to disaster first; if the structure eliminates that path, proceed.
 
 ## Definition
 
@@ -28,7 +36,7 @@ Most decision-making frameworks focus on optimizing: selecting the best option f
 
 The positive strategy — "invest in predictable businesses, maintain financial strength, trust your managers, attract long-term partners" — emerges automatically once the failure modes are excluded. The avoidances do the work; the aspiration follows.
 
-## The "What We Don't Do" framework (2009)
+## The four avoidances
 
 The 2009 letter is the canonical application of inversion to Berkshire's operating principles. Four avoidances, each the inverse of a specific failure mode:
 
@@ -74,6 +82,7 @@ Buffett's illustration of inversion at its most literal: "Sing a country song in
 
 ## Related
 
+- [charlie-munger](../people/charlie-munger.md) — credited with systematic application of inversion at Berkshire
 - [circle-of-competence](circle-of-competence.md) — the inversion of "commit only to what you can evaluate" is Rule 1
 - [liquidity-fortress](liquidity-fortress.md) — the inversion of "never become a supplicant" is Rule 2
 - [owner-orientation](owner-orientation.md) — the inversion of "bureaucracy kills culture" is Rule 3

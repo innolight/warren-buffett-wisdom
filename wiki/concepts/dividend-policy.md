@@ -2,17 +2,24 @@
 type: concept
 status: draft
 created: 2026-05-25
-updated: 2026-06-14
+updated: 2026-06-24
 sources: [berkshire-1984-letter, berkshire-2012-letter]
-tags: [capital-allocation, dividends, retention]
-related: [share-repurchases, intrinsic-value-vs-book-value, owner-orientation, tax-deferral]
+tags: [capital-allocation, dividends, retention, hurdle-rate, payout-policy]
+related: [share-repurchases, intrinsic-value-vs-book-value, owner-orientation, passive-return-crossbar, tax-deferral]
 ---
 
 # Dividend Policy
 
-## The principle
+**Dividend policy is a capital-allocation decision, not a tradition: retain unrestricted earnings only when each dollar retained creates at least one dollar of market value; otherwise distribute.**
 
-Dividend policy is a capital-allocation decision, not a tradition. Earnings retained on behalf of owners must clear an explicit test: **for every dollar retained, at least one dollar of market value should be created for owners.** Earnings that cannot pass that test should be distributed.
+## Actionable takeaway
+
+- **Test retention explicitly.** Retain unrestricted earnings only when there is a reasonable prospect — backed by historical evidence or careful analysis — that each dollar retained creates at least one dollar of market value. Earnings that cannot clear that bar should be distributed.
+- **Apply the test at every level.** The same incremental-ROC-vs.-passive-rate discipline that governs subsidiary-to-parent retention decisions must also govern parent-to-shareholder decisions. Most managers apply it rigorously below the parent level and abandon it above.
+- **For above-average businesses whose shares trade above book, sell-off beats dividends.** Shareholders wanting periodic cash are better served by selling small fractions of their holdings: they control the payout rate, and only the gain portion of sale proceeds is taxed (at capital-gains rates) rather than the full distribution at ordinary-income rates.
+- **Prefer companies with clear, consistent payout policies.** Capricious dividend policies confuse owners and drive away compatible investors. The shareholder base should match the policy the company intends to maintain.
+
+## The principle
 
 Buffett's 1984 articulation: "Unrestricted earnings should be retained only when there is a reasonable prospect — backed preferably by historical evidence or, when appropriate, by a thoughtful analysis of the future — that for every dollar retained by the corporation, at least one dollar of market value will be created for owners. This will happen only if the capital retained produces incremental earnings equal to, or above, those generally available to investors."
 
@@ -46,9 +53,21 @@ Companies with one exceptional core business can hide repeated capital-allocatio
 
 The remedy: retain earnings only to expand the high-return business; pay out (or repurchase shares with) the rest.
 
-## Consistency in practice
+## Sell-off structurally dominates dividends
+
+For companies earning above-average returns on equity whose shares trade above book, forgoing dividends while shareholders sell small fractions of their positions is the structurally superior form of cash distribution. Two permanent advantages:
+
+1. **Individual choice.** Dividends impose a uniform payout on all shareholders regardless of their cash needs. The sell-off policy lets each owner determine their own payout rate. A shareholder who reinvests dividends to buy more stock incurs both taxes and the market premium — a double cost.
+
+2. **Tax advantage.** Dividends are fully taxable as ordinary income in the year received. Under a sell-off policy, only the *gain portion* of sale proceeds is taxed, and at capital-gains rates.
+
+The arithmetic is strongest — and the argument most compelling — when the company earns returns on equity above the tax-adjusted passive return available to investors: the same [passive-return-crossbar](passive-return-crossbar.md) the retention test requires to clear. ([berkshire-2012-letter](../sources/berkshire-2012-letter.md))
+
+## Consistency as policy
 
 Buffett's caution: "Nothing in this discussion is intended to argue for dividends that bounce around from quarter to quarter with each wiggle in earnings or in investment opportunities. Shareholders of public corporations understandably prefer that dividends be consistent and predictable. Payments, therefore, should reflect long-term expectations for both earnings and returns on incremental capital."
+
+The 2012 letter sharpens this: "Dividend policy should always be clear, consistent and rational. A capricious policy will confuse owners and drive away would-be investors." Phil Fisher's formulation: you can run a successful hamburger restaurant or a successful Chinese food restaurant, but not both simultaneously; the shareholders you attract should be compatible with the policy you maintain. ([berkshire-2012-letter](../sources/berkshire-2012-letter.md))
 
 ## The audit clause
 
@@ -58,36 +77,15 @@ Buffett's caution: "Nothing in this discussion is intended to argue for dividend
 
 Buffett applies the test to Berkshire itself in 1984: historically Berkshire has earned well above market rates on retained earnings, creating >$1 of market value per $1 retained. The five-year rolling test is the historical record; if prospective returns fall below the bar, unrestricted earnings will be distributed.
 
-## The sell-off vs. dividend comparison (2012)
-
-The 2012 letter provides the most mathematically complete treatment of the dividend question in the entire series — and the conclusion is that for companies earning good returns on equity whose shares trade above book, paying dividends is the *inferior* form of capital return. Buffett's worked example:
-
-Assume two equal owners of a business with $2M net worth earning 12% on equity ($240K annually), where outsiders always wish to buy at 125% of net worth. Each owner's stake is worth $1.25M.
-
-**Dividend policy** (one-third payout): Each shareholder receives $40K annually, growing at 8%/year (12% earned minus 4% of net worth paid out). After 10 years: company net worth $4.318M; each shareholder's shares worth $2.699M; annual dividend $86K.
-
-**Sell-off policy** (no dividends; each shareholder sells 3.2% of shares annually at 125% of book): Same initial $40K of cash. After 10 years: company net worth $6.212M (compounding at the full 12%); ownership falls to 36.12% each; but share of net worth is $2.244M, which at 125% of book is worth $2.804M — about **4% more** than the dividend approach — and annual cash receipts are also 4% higher.
-
-Two structural advantages of the sell-off policy:
-
-1. **Individual choice.** Dividends impose a uniform payout on all shareholders regardless of their cash needs. The sell-off policy lets each shareholder determine their own "payout rate" by selling more or fewer shares annually. A shareholder who reinvests dividends to buy more stock in a dividend-paying company incurs both taxes and the market premium — a double cost.
-
-2. **Tax advantage.** Dividends are fully taxable as ordinary income in the year received. Under the sell-off policy, only the *gain portion* of sales proceeds is taxed, and at capital-gains rates.
-
-The arithmetic assumes the company earns average returns on equity above the tax-adjusted passive return available to investors — which the S&P has historically met. The argument becomes stronger, not weaker, as this assumption is exceeded.
-
-**Buffett's own case.** Over the seven years preceding the 2012 letter, Buffett gave away approximately 4.25% of his Berkshire shares annually. His position fell from 712,497,000 B-equivalent shares to 528,525,623. Yet the book value attributable to his current holdings ($40.2B at yearend 2012) substantially exceeds the book value attributable to his original position seven years earlier ($28.2B at yearend 2005) — because Berkshire's per-share book value grew faster than the 4.25% he gave away each year. Ownership percentage fell; economic stake in the business grew.
-
-**The consistency constraint.** The 2012 letter adds a behavioral principle alongside the mathematics: "Dividend policy should always be clear, consistent and rational. A capricious policy will confuse owners and drive away would-be investors." Phil Fisher's formulation (citing *Common Stocks and Uncommon Profits*): you can run a successful hamburger restaurant or a successful Chinese food restaurant, but not both simultaneously. The shareholders you attract should be compatible with the policy you maintain. ([berkshire-2012-letter](../sources/berkshire-2012-letter.md))
-
 ## How it's discussed in sources
 
 - [berkshire-1984-letter](../sources/berkshire-1984-letter.md) — debut; the restricted/unrestricted distinction, the bond analogy, the schizoid manager, the camouflage problem, Berkshire's own application
-- [berkshire-2012-letter](../sources/berkshire-2012-letter.md) — complete mathematical sell-off vs. dividend comparison; two structural advantages (individual choice + tax); Buffett's own giving-vs-growing case; consistency principle
+- [berkshire-2012-letter](../sources/berkshire-2012-letter.md) — the most complete treatment: two structural advantages of sell-off over dividends (individual choice + tax); consistency principle via Phil Fisher
 
 ## Related
 
 - [share-repurchases](share-repurchases.md) — the alternative form of capital return; preferred over dividends when intrinsic value > market price
 - [intrinsic-value-vs-book-value](intrinsic-value-vs-book-value.md) — the gauge that determines whether retention is creating value
-- [passive-return-crossbar](passive-return-crossbar.md) — what "passive returns available to investors" actually means in the test
+- [passive-return-crossbar](passive-return-crossbar.md) — what "passive returns available to investors" means in the retention test; the 1984 test cashes the crossbar into a concrete decision rule
 - [owner-orientation](owner-orientation.md) — the 1983 owner's-manual principle that retention is tested by a 5-year-rolling $1-of-market-value per $1-retained standard
+- [tax-deferral](tax-deferral.md) — the tax-timing advantage that makes sell-off policy dominate dividends for long-term holders

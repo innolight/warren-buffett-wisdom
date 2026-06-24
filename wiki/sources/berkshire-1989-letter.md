@@ -2,7 +2,7 @@
 type: source
 status: draft
 created: 2026-05-25
-updated: 2026-06-18
+updated: 2026-06-24
 source_type: annual-letter
 author: warren-buffett
 year: 1989
@@ -74,6 +74,7 @@ The generalizable principle: an investor's true economic return from a long-held
 - [mistakes-of-omission](../concepts/mistakes-of-omission.md) — named as a category distinct from commission errors; "the cost of this thumb-sucking has been huge"; fuller treatment of a specific case in [berkshire-1991-letter](berkshire-1991-letter.md)
 - [super-cat-insurance](../concepts/super-cat-insurance.md) — operational debut; mechanics introduced (72-hour event definition, automatic reinstatement, geographic specificity); structural competitive advantage of Berkshire's scale and earnings-timeline indifference
 - [look-through-earnings](../concepts/look-through-earnings.md) — **definitional source**; the framework for computing true economic earning power from a portfolio of equity stakes; benchmark set at 15% annual growth to match the intrinsic-value target
+- [tax-deferral](../concepts/tax-deferral.md) — **canonical origin**; introduced the "Tax-and-Rip-Van-Winkle" comparison — identical gross returns, annual realization versus a single exit tax
 
 ## Notable quotes
 

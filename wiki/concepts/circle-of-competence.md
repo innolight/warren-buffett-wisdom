@@ -2,13 +2,22 @@
 type: concept
 status: draft
 created: 2026-06-12
-updated: 2026-06-13
+updated: 2026-06-24
 sources: [berkshire-1999-letter, berkshire-2001-letter, berkshire-2004-letter]
 tags: [psychology, decision-making, behavioral, competence]
 related: [mistakes-of-omission, mr-market, moat, margin-of-safety]
 ---
 
 # Circle of Competence
+
+**The domain within which you can form a reliable, durable view of a business's competitive advantage and long-run economics — the boundary matters more than the size.**
+
+## Actionable takeaway
+
+- Before committing to any investment, ask: can you explain — more precisely than the company's advocates — which competitor wins in this industry and why, across a full business cycle? If not, the price is irrelevant: stay out.
+- When apparent returns in a domain you cannot evaluate look extraordinary, abstain — do not study harder. The inability to reliably identify who wins is sufficient reason to stay out.
+- Prefer theses that rest on the fewest independent variables. Ten judgments each at 90% confidence compound to only a 35% success probability. Seek "mono-linked chains" — theses that depend on one evaluable judgment.
+- Honest boundary-setting, not circle expansion: a small, clearly-edged circle outperforms a large, fuzzy one.
 
 ## Definition
 
@@ -26,33 +35,31 @@ The circle-of-competence principle does three things:
 
 **2. It reframes "missing" a mania as correct behavior.** When market participants appear to be generating extraordinary returns in an area outside your circle, the discipline says: their apparent skill may simply be unverified. Studying harder cannot cure the gap. Buffett in 1999 on technology: "Our problem — which we can't solve by studying up — is that we have no insights into which participants in the tech field possess a truly durable competitive advantage." The inability to reliably identify the winner is itself the answer — stay out.
 
-**3. It applies beyond equity investing.** The same principle governs insurance underwriting. The first of the three underwriting principles stated in the 2001 letter: accept only risks you can properly evaluate, "staying within their circle of competence." [ajit-jain](../people/ajit-jain.md) has applied this discipline without exception; [general-re](../entities/general-re.md) violated it by assuming unpriced terrorism risk it could not evaluate.
+**3. It applies beyond equity selection.** The same principle governs insurance underwriting: accept only risks you can properly evaluate, and remain sanguine about ceding business you cannot price. [Ajit Jain](../people/ajit-jain.md) has applied this without exception; [General Re](../entities/general-re.md) violated it by assuming terrorism risk calibrated to historical loss data rather than current exposure. ([berkshire-2001-letter](../sources/berkshire-2001-letter.md))
 
-## Proposition simplicity: the variable-count risk
+## The variable-count failure mode
 
-The 2004 letter extends the circle-of-competence principle into operations, with direct investment application. Reflecting on MidAmerican Energy's failed zinc recovery project, Buffett draws a broader lesson: "Our failure here illustrates the importance of a guideline — stay with simple propositions — that we usually apply in investments as well as operations."
+The 2004 letter extends the principle into a quantitative dimension, reflecting on MidAmerican Energy's failed zinc recovery project: the discipline of staying with simple propositions applies to investments as well as operations.
 
-The math is precise: "If only one variable is key to a decision, and the variable has a 90% chance of going your way, the chance for a successful outcome is obviously 90%. But if ten independent variables need to break favorably for a successful result, and each has a 90% probability of success, the likelihood of having a winner is only 35%." The prescription: "look for — if you'll excuse an oxymoron — mono-linked chains." ([berkshire-2004-letter](../sources/berkshire-2004-letter.md))
+The math is precise: "If only one variable is key to a decision, and the variable has a 90% chance of going your way, the chance for a successful outcome is obviously 90%. But if ten independent variables need to break favorably for a successful result, and each has a 90% probability of success, the likelihood of having a winner is only 35%." ([berkshire-2004-letter](../sources/berkshire-2004-letter.md))
 
-This is a quantitative argument for staying within the circle. A business whose economics rest on a single evaluable variable (GEICO's cost advantage, See's pricing power) is structurally more investable than one requiring ten simultaneous correct judgments — even when each individual judgment seems high-probability. The complexity of what must go right is itself a risk factor, independent of how well you understand each piece. Operating inside the circle means minimizing the number of variables your thesis requires to work.
+This is a quantitative argument for staying within the circle. A business whose economics rest on a single evaluable variable (GEICO's cost advantage, See's pricing power) is structurally more investable than one requiring ten simultaneous correct judgments — even when each individual judgment seems high-probability. The complexity of what must go right is itself a risk factor, independent of how well you understand each piece.
 
 ## The boundary, not the size
 
-The value of the concept is honest boundary-setting, not expanding the circle to include anything interesting. A larger circle with fuzzy edges is worse than a smaller one with a clear boundary. The corollary: "If the choice is between a questionable business at a comfortable price or a comfortable business at a questionable price, we much prefer the latter. What really gets our attention, however, is a comfortable business at a comfortable price." ([berkshire-1999-letter](../sources/berkshire-1999-letter.md)) Both dimensions require that you are operating inside the circle.
+The value of the concept is honest boundary-setting, not expanding the circle to include anything interesting. A larger circle with fuzzy edges is worse than a smaller one with a clear boundary. The corollary: "If the choice is between a questionable business at a comfortable price or a comfortable business at a questionable price, we much prefer the latter. What really gets our attention, however, is a comfortable business at a comfortable price." ([berkshire-1999-letter](../sources/berkshire-1999-letter.md)) Both dimensions require operating inside the circle.
 
-## The dot-com era: sharpest illustration
+## Abstaining without predicting: the discipline's signature
 
-The 1999–2001 period is the most visible stress test of the principle in Buffett's career. Berkshire trailed the S&P badly in 1999 because it held no technology businesses — explicitly by choice. Buffett awarded himself a "D" in capital allocation for 1999, but the discipline itself was not the error; the relative underperformance was the expected price of staying within the circle during a mania.
+The 1999–2001 period is the sharpest illustration of the principle in practice. Berkshire held no technology businesses while the Nasdaq tripled in 1999 — explicitly by choice. Buffett awarded himself a "D" in capital allocation for 1999, but the discipline itself was not the error; the relative underperformance was the expected price of staying within the circle during a mania.
 
-The vindication came swiftly. The NASDAQ peaked at 5,132 on March 10, 2000 and then collapsed. Companies Berkshire "missed" went to zero or near it. Berkshire significantly outperformed the market throughout the period on a relative basis. Berkshire's worst relative year (1999) was followed by its strongest relative years as the bubble deflated.
-
-The lesson is not that Buffett was correct about the direction of technology prices. He was not predicting rain; he was declining to evaluate what he could not evaluate. The distinction matters: the principle is not contrarianism but intellectual honesty about the boundary of one's competence.
+The distinction that makes the principle transferable: Buffett was not predicting rain. He was not calling a tech crash or timing a reversal. He was declining to evaluate what he could not evaluate. When the bubble deflated, companies Berkshire "missed" went to zero or near it. The principle is not contrarianism but intellectual honesty about the boundary of one's competence — and the two look identical until the market settles the question.
 
 ## How it's discussed in sources
 
-- [berkshire-1999-letter](../sources/berkshire-1999-letter.md) — canonical articulation; Berkshire holds no tech because Buffett and Munger cannot identify which participants have durable competitive advantages; "neither envy nor emulate"; the frame is competence, not market timing
-- [berkshire-2001-letter](../sources/berkshire-2001-letter.md) — applied to insurance underwriting as the first of three principles; General Re violated it by pricing terrorism risk from historical experience rather than current exposure; Ajit Jain has never violated it
-- [berkshire-2004-letter](../sources/berkshire-2004-letter.md) — proposition-simplicity extension: the variable-count risk; 90% × 90% × … = 35% (ten variables); "stay with simple propositions"; "mono-linked chains" as the investment prescription; principle stated as applying to investments as well as operations
+- [berkshire-1999-letter](../sources/berkshire-1999-letter.md) — canonical articulation; tech abstention framed as disciplined honesty about what can be evaluated, not market timing; "neither envy nor emulate"
+- [berkshire-2001-letter](../sources/berkshire-2001-letter.md) — applied to insurance underwriting: accepting only evaluable risks is the first of three underwriting principles; General Re's terrorism mispricing as the negative example
+- [berkshire-2004-letter](../sources/berkshire-2004-letter.md) — proposition-simplicity extension: the variable-count math as a quantitative argument for minimal-variable theses; principle stated as applying to investments and operations alike
 
 ## Related
 

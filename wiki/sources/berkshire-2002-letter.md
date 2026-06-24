@@ -2,7 +2,7 @@
 type: source
 status: draft
 created: 2026-05-31
-updated: 2026-06-18
+updated: 2026-06-24
 source_type: annual-letter
 author: warren-buffett
 year: 2002
@@ -72,6 +72,7 @@ The FASB/options history is the political economy backdrop: Arthur Andersen's Pr
 - [incentive-compensation](../concepts/incentive-compensation.md) — FASB/options/Senate/SEC history as political economy; compensation-hungry CEOs as the driving force behind accounting capture
 - [corporate-governance](../concepts/corporate-governance.md) — boardroom atmosphere as the mechanism of director failure; the 62-year mutual fund case study; purchased ownership as the only reliable alignment tool; the four auditor questions
 - [earnings-quality](../concepts/earnings-quality.md) — pro-forma earnings, EBITDA abuse, and "make the numbers" corruption; three investor diagnostic tests
+- [volatility-as-opportunity](../concepts/volatility-as-opportunity.md) — credit-market fear after the dot-com bust drove spreads to extremes; the conditions for the 2003 junk-bond recovery were set by indiscriminate post-bubble panic
 
 ## Notable quotes
 

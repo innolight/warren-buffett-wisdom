@@ -2,13 +2,22 @@
 type: concept
 status: draft
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-24
 sources: [berkshire-2001-letter, berkshire-2003-letter]
-tags: [risk, planning, behavior, insurance]
-related: [circle-of-competence, margin-of-safety, mistakes-of-omission, float]
+tags: [risk, preparation, behavior, decision-making]
+related: [circle-of-competence, margin-of-safety, mistakes-of-omission, liquidity-fortress, leverage-discipline]
 ---
 
 # Noah Rule
+
+**Identifying a risk is not the same as protecting against it — only the latter counts.**
+
+## Actionable takeaway
+
+- **Ask "What is the ark?" before closing any risk analysis.** The analysis is complete only when you have named a concrete operational response — exit, hedge, reprice, restructure — and either executed it or scheduled it. Recognition alone is not a deliverable.
+- **Do not report recognized-but-unaddressed risk as "managed."** Intellectual acknowledgment masquerades as protection. Keep an honest tally of the gap between what you have identified and what you have acted on.
+- **Act promptly on known problems.** Dithering shifts the cost to the worst possible moment. The Gen Re Securities wind-down cost $272M in an orderly market; a crisis environment would have been far more expensive. Delay is never neutral — it is a bet that the flood stays small.
+- **The rule applies everywhere, not just in insurance.** A holding you have identified as overvalued but continue to hold, a competitive threat named in a strategy memo but not addressed — both are Noah Rule violations.
 
 ## Definition
 
@@ -22,7 +31,7 @@ Predicting rain is a cognitive act — forecasting, analyzing, recognizing a thr
 
 The gap between prediction and preparation is one of the most persistent failure modes in risk management, and ordinary human cognition makes it worse. Identifying a risk creates a psychological sense of having done something useful. The mind registers the identification as preparation, even when no protective action has followed. This is the cognitive trap the Noah Rule names.
 
-Buffett's application was self-critical: he had recognized, before September 11th, that General Re carried terrorism exposure that was not priced into its reinsurance premiums. The knowledge was genuine; the action was absent. The result was a roughly $2.275B loss from the attacks that could have been substantially reduced by exiting or repricing that exposure earlier.
+Buffett's application was self-critical: he had recognized, before September 11th, that General Re carried terrorism exposure not priced into its reinsurance premiums. The knowledge was genuine; the action was absent. The result was substantial losses that could have been reduced by exiting or repricing that exposure earlier.
 
 The principle applies well beyond insurance:
 
@@ -30,9 +39,7 @@ The principle applies well beyond insurance:
 - **Business operations:** Recognizing competitive erosion in a strategy review but taking no structural action is the same failure.
 - **Risk aggregation:** The second principle of insurance underwriting — "ceaselessly search for possible correlation among seemingly-unrelated risks" — is the prospective identification step. The Noah Rule is whether you then act on what you find.
 
-The discipline the Noah Rule enforces is closing the loop between analysis and action. At minimum, it demands honest acknowledgment when the loop is not closed, so that incomplete preparation does not masquerade as genuine risk management.
-
-## The recognition-vs-action distinction
+## Recognized inaction is the more culpable failure
 
 The Noah Rule draws a sharp line between two types of risk-related failure:
 
@@ -41,11 +48,11 @@ The Noah Rule draws a sharp line between two types of risk-related failure:
 
 The second is often more costly than the first, because the person who saw the risk may persuade themselves and others that they "handled it" through the act of naming it. The 2001 General Re episode is the worked example: the rain was forecast; no ark was built.
 
-In the [berkshire-2003-letter](../sources/berkshire-2003-letter.md), the same pattern reappears with the Gen Re Securities derivatives book. Buffett and Munger knew at the time of the 1998 General Re merger that it was "dangerous" and "unattractive." Munger "would have moved swiftly to close down Gen Re Securities — no question about that. I, however, dithered." The dithering cost approximately $272M in losses during what proved to be a benign, orderly wind-down — the flood was smaller than it might have been, but it came anyway, and precisely because the ark was never built promptly.
+In [berkshire-2003-letter](../sources/berkshire-2003-letter.md), the same pattern reappears with the Gen Re Securities derivatives book. Buffett and Munger knew at the time of the 1998 General Re merger that it was "dangerous" and "unattractive." Munger "would have moved swiftly to close down Gen Re Securities — no question about that. I, however, dithered." The dithering cost approximately $272M in losses during what proved to be a benign, orderly wind-down — the flood was smaller than it might have been, but it came anyway, and precisely because the ark was never built promptly.
 
 ## How it's discussed in sources
 
-- [berkshire-2001-letter](../sources/berkshire-2001-letter.md) — canonical introduction; Buffett's mea culpa on General Re's unpriced terrorism exposure; September 11th as the flood that arrived after the forecast; the three underwriting principles are the complement — what proper ark-building looks like
+- [berkshire-2001-letter](../sources/berkshire-2001-letter.md) — canonical introduction; Buffett's mea culpa on General Re's unpriced terrorism exposure; September 11th as the flood that arrived after the forecast; the three underwriting principles as the complement — what proper ark-building looks like
 - [berkshire-2003-letter](../sources/berkshire-2003-letter.md) — the same pattern reappears in the Gen Re Securities dithering confession; knowing a problem is dangerous and acting are separated by five years of inaction; Munger as the contrasting ark-builder
 
 ## Related
@@ -53,4 +60,5 @@ In the [berkshire-2003-letter](../sources/berkshire-2003-letter.md), the same pa
 - [circle-of-competence](circle-of-competence.md) — the three underwriting principles begin with staying within one's circle; recognizing what you don't know is the first step, but the Noah Rule demands you also act on that recognition
 - [margin-of-safety](margin-of-safety.md) — building arks is the behavioral analogue of maintaining a margin of safety; both require acting on uncertainty in advance, not simply acknowledging it
 - [mistakes-of-omission](mistakes-of-omission.md) — the Noah Rule names a specific variety of omission: not failure to see an opportunity, but failure to act on a recognized threat; the two are distinct failure modes
-- [float](float.md) — the insurance context in which Buffett first articulated the rule; accumulation of unpriced correlated exposure is the structural risk that Noah Rule violations enable
+- [liquidity-fortress](liquidity-fortress.md) — holding permanent excess cash is prospective ark-building at the balance-sheet level; preparation over forecasting expressed as capital structure
+- [leverage-discipline](leverage-discipline.md) — the adversity test ("can this business service its debt through a two-year recession?") is the ark-building exercise for debt capacity; both disciplines insist preparation precedes the flood
