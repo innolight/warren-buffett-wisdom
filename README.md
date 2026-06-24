@@ -1,8 +1,6 @@
 # Warren Buffett Wisdom
 
-A curated wiki that distills **timeless investment lessons** from 48 Berkshire Hathaway [shareholder letters](https://berkshirehathaway.com/letters/letters.html) (1977–2024) authored by Warren Buffett.
-
-The wiki is written for **retail investors learning to invest like Warren Buffett**: someone with a brokerage account who wants the durable principles, not the insurance-conglomerate machinery they can't directly use.
+A curated wiki that distills **timeless investment lessons** from 48 Berkshire Hathaway [shareholder letters](https://berkshirehathaway.com/letters/letters.html) (1977–2024) authored by Warren Buffett. The wiki is written for **retail investors** learning to invest like Warren Buffett.
 
 ## Highlights by era
 
@@ -118,7 +116,7 @@ When you'd rather skip the difficulty ordering and go straight to a live questio
 
 | Path | Contents |
 | --- | --- |
-| `wiki/` | The wiki itself — `index.md` (full catalog), `log.md` (journal), and one folder per page type: `concepts/`, `entities/`, `people/`, `sources/`, `synthesis/`. |
+| `wiki/` | The wiki itself — [`index.md`](wiki/index.md) (full catalog), `log.md` (journal), and one folder per page type: [`concepts/`](wiki/concepts/), `entities/`, `people/`, `sources/`, `synthesis/`. |
 | `raw/` | Immutable primary sources (the letters). Read-only. |
 | `CLAUDE.md` | The editorial playbook the wiki is maintained by. |
 
