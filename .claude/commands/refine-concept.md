@@ -13,7 +13,7 @@ Work in three phases, in order. **Do not start the rewrite (Phase 3) until you h
 
 1. Accept a concept slug (`float`, `moat`, `capital-allocation`). Resolve it to `wiki/concepts/<slug>.md`.
 2. Read `wiki/concepts/<slug>.md` in full.
-3. **Adaptation for concepts — do NOT read every raw letter.** A concept page may cite 30+ sources. Instead, read the **source pages** it links (`wiki/sources/<slug>.md`) to confirm what each source actually added to the idea, and to confirm the figures you keep are already housed there. Drill into `raw/` **only** to verify a specific quote or figure you intend to *keep*. Figures you are *cutting* need no verification.
+3. **Adaptation for concepts — do NOT read every raw letter.** A concept page may cite 30+ sources. Instead, read the **source pages** it links (`wiki/sources/<slug>.md`) to confirm what each source actually added to the idea, and to confirm the figures you keep are already housed there. Drill into `raw/` **only** to verify a specific quote or figure you intend to *keep*. Figures you are *cutting* need no verification. Treat the body's `../sources/` links as the ground-truth source list, not just the frontmatter `sources:` field (which can be stale) — reconcile the two and fix any drift.
 4. Skim the sibling concept pages this page links or overlaps (to catch scope creep / merge candidates).
 5. Read `.claude/rules/templates/concept.md` (the structural target, with its before/after calibrations) and the **Editorial scope** + **Conventions** sections of `CLAUDE.md`.
 
@@ -40,6 +40,7 @@ Be candid and specific — this is a critique, not a courtesy. Every finding cit
 - **Chronicle masquerading as anatomy** — body sections titled by year ("Float at $83.9B … (2014)") instead of by idea-facet; passages that recap a letter rather than extract a transferable principle.
 - **Ledger source list** — "How it's discussed in sources" grown into a dated, figure-laden bullet per letter (the chronicle magnet) instead of a thin thread of what-each-added.
 - **Archive tables** — multi-year tables (float by year, cost-of-float scorecard, holdings) embedded in the concept page, duplicating data that lives on source pages.
+- **Ghost sections** — a section the template doesn't have (most often a standalone *Notable quotes* block) re-listing quotes already used in the body; fold each into the anatomy section it proves and delete the section.
 - **Missing or buried decision rule** — no Actionable-takeaway block, or the rule a reader would act on is hidden in prose.
 - **Scope creep / duplication** — overlapping heavily with a sibling concept; the same quote or sub-section appearing on multiple pages (flag a merge — do **not** merge here).
 - **Link rot** — residual `[[wiki-link]]` or `[[slug|alias]]` syntax; broken or orphaned links.
@@ -64,9 +65,11 @@ Rewrite the page from the critique toward the gold standard, in template order (
 
 **Length:** the rewrite should end up **materially shorter** for bloated pages. Count only the **body** (everything below the closing frontmatter `---`; ignore the frontmatter, where `wc -w` over-counts hyphenated slugs). The band is ~500–1,200 words; the ceiling rises to ~1,500 only for a genuinely deep, multi-source concept (rule of thumb: **15+ sources** materially advanced the idea). Cutting tables but letting prose balloon means you're still transcribing. Exception: if the original is already short and clean, the win is structural (add the decision block, re-title sections, kill any table) rather than raw word reduction — don't pad, and don't force a deep cut that wasn't there.
 
-**Frontmatter:** update `updated` to today; trim `related` to ~6–8 load-bearing slugs and `tags` to ~5 (drop tags that merely echo a `related` slug); if `status` was `reviewed`, demote to `draft`.
+**Frontmatter:** update `updated` to today; trim `related` to ~6–8 load-bearing slugs (fewer is fine — never pad to reach 6) and `tags` to ~5 (drop tags that merely echo a `related` slug); if `status` was `reviewed`, demote to `draft`.
 
 ## Finish
+
+If the caller asks for the `index.md`/`log.md` changes as text — e.g. a parallel batch run that applies them centrally to avoid write races — return them as text instead of editing the files, and skip the two file-edit steps below.
 
 1. Update the page's one-line entry in `wiki/index.md` if its angle changed — and correct it if you find it states something the sources don't actually support.
 2. Append a log entry to `wiki/log.md` (`## [YYYY-MM-DD] refactor | <slug>`): the before/after scores, what was cut, any merge recommendation, and — if it was demoted from `reviewed` — that re-review is needed.

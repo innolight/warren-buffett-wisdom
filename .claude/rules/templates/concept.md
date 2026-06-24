@@ -13,11 +13,11 @@ To bring an existing concept page up to this standard, use the **`/refine-concep
 
 - **Organized by the anatomy of the idea, not by chronology.** Section titles are facets of the concept — mechanism, signatures, variations, failure modes, tests, "what it is *not*" — **never years**. A reader should be able to lift any section and apply it to a new situation. Genuine evolution of a view goes in a `## Historical (superseded)` note, not a year-walk through the body.
 - **Leads with a decision block.** After the one-line definition comes an **Actionable takeaway** — the reusable rule(s) the reader acts on. The page tells you what to *do*, not just what the idea *means*.
-- **Definition → Why it matters → anatomy → tests.** Each body section is a reusable mental model carrying the *minimum* evidence (one figure or one quote) needed to make it land. Evidence is subordinate to the principle.
+- **Definition → Why it matters → anatomy → tests.** Each body section is a reusable mental model carrying the *minimum* evidence (one figure or one quote) needed to make it land. Evidence is subordinate to the principle. On a short, single-source page, Definition and Why it matters may merge — don't split them just to fill the template.
 - **No archive tables, no year-by-year ledgers.** Replace any multi-year table with a one-line summary of what it shows. A concept page is not the home for the float table or the cost-of-float scorecard — those belong on source pages.
 - **"How it's discussed in sources" is a thin thread, not a ledger.** Keep only the sources that *materially advanced* the idea, each in **one line saying what it added** — never the year's figures. Sources that merely restate get dropped or compressed ("restated annually 2008–2024"). **6–12 is a ceiling, not a floor:** list exactly the sources that advanced the idea and no more — for a tightly-sourced concept that only 3–5 sources shaped, a 3–5-entry thread is complete and correct; never pad to reach 6. This section is the chronicle magnet — cap it hard.
-- **Scope is disciplined.** One idea per page. Don't overlap into a sibling concept; if two pages circle the same idea, flag the merge rather than duplicating content. Quotes are verbatim against the raw source and earn their place by carrying a principle.
-- **Hygiene:** internal links are standard markdown `[display](../dir/slug.md)` — **never** `[[wiki-links]]`. `related` ≈ 6–8 load-bearing slugs; `tags` ≈ 5 (don't merely echo `related`); every page links ≥1 other. Frontmatter `status` starts at `draft`.
+- **Scope is disciplined.** One idea per page. Don't overlap into a sibling concept; if two pages circle the same idea, flag the merge rather than duplicating content. Quotes are verbatim against the raw source and earn their place by carrying a principle — embedded in the anatomy section they prove, never collected in a standalone "Notable quotes" section.
+- **Hygiene:** internal links are standard markdown `[display](../dir/slug.md)` — **never** `[[wiki-links]]`. `related` ≈ 6–8 load-bearing slugs (fewer is fine — never pad); `tags` ≈ 5 (don't merely echo `related`); every page links ≥1 other. Frontmatter `status` starts at `draft`.
 - **Length:** body (everything below the frontmatter) roughly **500–1,200 words**; the ceiling rises to ~1,500 only for a genuinely deep concept where **15+ sources** materially advanced the idea. If it reads like a transcript of every letter that mentioned the idea, it's chronicle, not distillation.
 - **Tags vs. related:** a `tag` names the concept's *class* (`insurance`, `valuation`, `capital-allocation`); a `related` slug names a *specific other page*. Don't add a tag that merely echoes a `related` slug (if `geico` is in `related`, don't also tag `geico` — but `insurance` is fine).
 
@@ -49,7 +49,7 @@ created: YYYY-MM-DD
 updated: YYYY-MM-DD
 sources: [<source-slug>, ...]
 tags: [<~5 durable tags>]
-related: [<~6–8 load-bearing slugs>]
+related: [<6–8 load-bearing slugs; fewer is fine>]
 ---
 
 # <Concept Display Name>

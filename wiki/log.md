@@ -8,6 +8,13 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-24] note | tightened concept template + /refine-concept skill
+
+- Folded recurring friction from the Tier-2/Tier-3 refine waves into the standard, after critically filtering (dropped redundant suggestions — e.g. "show the one-liner in the skeleton," which was already there).
+- `concept.md` template (3 terse touches): Definition + Why-it-matters may merge on a short single-source page; quotes live embedded in the anatomy section they prove, never in a standalone "Notable quotes" section; `related` "fewer is fine — never pad" (prose + skeleton).
+- `refine-concept` skill (4 touches): Phase 0 — treat the body's `../sources/` links as ground truth, not just frontmatter `sources:`; Phase 2 roast — added "Ghost sections" failure mode; Phase 3 frontmatter — `related` fewer-is-fine; Finish — return index/log changes as text when the caller runs a parallel batch (resolves the contradiction the batch dispatch hit repeatedly).
+- Goal served: concision (no ritual sections), anti-duplication, load-bearing-over-padding, faithful sourcing.
+
 ## [2026-06-24] refactor | bonds-and-inflation
 
 - Scores: before A3/B1/C5/D3/E4 (avg 3.2) → after A5/B5/C5/D4/E5 (avg 4.8)
