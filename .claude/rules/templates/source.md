@@ -82,6 +82,7 @@ Extend this list as new source kinds arrive:
 - `book` — book or excerpt
 - `talk` — speech, lecture, fireside chat
 - `transcript` — earnings call or interview transcript
+- `meeting-transcript` — annual shareholder-meeting Q&A transcript (Berkshire, etc.)
 - `presentation` — slide deck
 - `paper` — academic or working paper
 - `note` — short note or essay (no formal source type)

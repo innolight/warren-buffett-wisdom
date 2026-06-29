@@ -8,6 +8,26 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-29] ingest | berkshire-1995-meeting
+
+- Created `sources/berkshire-1995-meeting.md` (draft, ~7,200 words, meeting-transcript spec) from raw/berkshire-annual-meetings/1995.md. Second meeting ingest; pipeline per `.plan/ingest-annual-meetings.md` (ingest → review → improve → consolidate).
+- Two-layer build: 7 thematic mini-essays (moat-and-castle; capital allocation via capital charges + opportunity cost; circle of competence; valuation as future cash with margin of safety; pay for owner results; honest accounting/honest people; don't make it back the way you lost it) + 66-entry ★-marked Q&A digest (26 morning, 40 afternoon), ~29 starred, separate Buffett/Munger attribution, M#/A# anchors.
+- Skipped logistics/banter/no-comment exchanges (M1–2, M6, M18–19, M24, M26, A2, A15, A18–19, A23, A40–41); folded A5→A4, A17→A1, A20→A14.
+- Supersession flags: AmEx moat narrowing (M16/A38), newspaper franchise downgrade (A7), Title Insurance & Trust moat destroyed by tech (A9), USAir hardening M11→A48.
+- Review (sub-agent) found 1 blocker + 3 nits; main-agent triage accepted 3 (Coke earnings figure corrected in the valuation theme from "nearly half" to ~a fifth of cost; "monopoly and nepotism" reattributed to the newspaper publisher; added A49 Bazerman reading-list entry for 1994 parity), rejected 2 (optional Salomon supersession note; no-action skip-list confirmation).
+- Recorded 10 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md` (moat, capital-allocation, incentive-compensation, valuation-framework, circle-of-competence, earnings-quality, acquisition-criteria, mr-market, size-as-anchor-on-returns).
+- Status draft (user sets reviewed).
+
+## [2026-06-29] ingest | berkshire-1994-meeting (first annual-meeting transcript)
+
+- First ingest of a Berkshire **annual-meeting transcript** (raw/berkshire-annual-meetings/1994.md, ~2,860 lines / ~60 Q&A exchanges). Letters 1977–2024 were already ingested; meetings are a new, structurally different genre.
+- **Convention decided with user (applies to all 32 meetings):** Approach C — a source page with a short distilled *thematic top* (lesson-first, feeds concepts) plus a **comprehensive Q&A digest** as the home for detail. Capture scope = **broad** (every value-bearing exchange, skip only logistics/banter), with a **★** marker on timeless/load-bearing exchanges and **separate Buffett/Munger attribution** (Munger line only when he adds a distinct lesson). New `source_type: meeting-transcript`. Page intentionally exceeds the 1,200–2,200-word letter band — sanctioned for this genre.
+- Created `sources/berkshire-1994-meeting.md` (status draft): 6 thematic mini-essays + ~40 morning / ~20 afternoon digest entries, ~20 starred.
+- **Deliberately skipped** as no enduring lesson: venue/jet/Miss-Congeniality banter (M1–10, 16–17, 22–23), Hillary-Clinton cattle joke, Greenspan/Fed period commentary (M26), consumption-tax policy (M51), structured-settlements/retroactive-insurance/primary-premium operating detail (M43, 54, 62-part1), Gottesman praise (M63), Coke-succession and key-man trivia folded or dropped.
+- Noted a **supersession/teaching contrast** inline: M32 Dexter Shoe praise ("great managers in a tough industry") vs. the USAir lesson stated two items earlier (M40) — the industry later won; flagged against dexter-shoe + commodity-business-economics.
+- Updated `index.md` (Sources, after berkshire-1994-letter).
+- **Follow-ups not done (await user):** did not enrich concept pages this pass (most ideas already mature from the letters); candidate additive quotes for later — risk-vs-volatility (Fermat/Pascal), capital-allocation (piano/violin), volatility-as-opportunity (cash = "index of failure"), concentration-vs-diversification (trust-officer estate). Also: add `meeting-transcript` to the source template's `source_type` list.
+
 ## [2026-06-24] note | tightened concept template + /refine-concept skill
 
 - Folded recurring friction from the Tier-2/Tier-3 refine waves into the standard, after critically filtering (dropped redundant suggestions — e.g. "show the one-liner in the skeleton," which was already there).
