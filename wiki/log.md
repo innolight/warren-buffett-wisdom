@@ -8,6 +8,38 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-30] ingest | berkshire-2001-meeting
+
+- Created `sources/berkshire-2001-meeting.md` (draft, ~7,500 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2001.md. Wave 2 (1999–2001 processed concurrently on the ingest→review→improve pipeline). Meeting held early May 2001, before 9/11 — verified absent from live Q&A; 9/11 appears only in supersession/Connections.
+- Two-layer build: 7 thematic mini-essays (post-bubble promotion-vs-performance; risk-as-permanent-loss/anti-CAPM; mistakes of omission inside the circle; growth-as-value-term; moat contested by retail power; float at low cost; financial-institution opacity + derivatives) + ~55-entry ★-marked Q&A digest (Morning, Afternoon), ~25★ (~45%), separate Buffett/Munger attribution, M#/A# anchors.
+- Distinguishing moments: first on-record Buffett/Munger disagreement on moat durability (A13); GRS 17,000-ticket derivatives disclosure (A14); Freddie/Fannie exit before the crisis (A12); Munger's Belridge Oil $200M omission story (M7).
+- Supersession flags: A5 Gen Re "true synergy" optimism vs. post-9/11 Noah-rule reckoning (berkshire-2001-letter); A14 GRS derivatives → 2002 letter "WMDs" + eventual wind-down; A12 Freddie/Fannie exit validated by 2008 GSE conservatorship.
+- This page's ingest receipt was lost to a session limit; reconstructed by the review agent (skip list, supersession flags, enrichment candidates, index/log lines all re-derived from the completed page + raw).
+- Review found no blockers; main-agent triage accepted 5 — fixed the float-theme mis-citation (M6,M10 not M6,A1), added the noah-rule link in A5, added a folded M25/M27 service-moat-vs-commodity-culture entry, added `float` to related, added a financial-institutions tag. Rejected starring A5 and an optional cross-ref.
+- Recorded 8 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
+## [2026-06-30] ingest | berkshire-2000-meeting
+
+- Created `sources/berkshire-2000-meeting.md` (draft, ~7,200 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2000.md. Held at the dot-com peak (NASDAQ rolling over by the late-April/early-May meeting).
+- Two-layer build: 8 thematic mini-essays (bubble-as-wealth-transfer; circle = forecastable economics not product knowledge; Aesop bird-in-bush with live $500B bubble math; "widen the moat every year even without higher profit"; float as engine — cost-vs-growth tradeoff and fungible-with-equity via fortress capital; options-as-lottery-tickets / CEO-pay ratchet; knowable-and-important filter; won't buy to fix a culture) + 49-entry ★-marked Q&A digest, 28★ / ~57% (dense bubble-year, sanctioned above the ~50% midpoint).
+- Supersession flags: A4 inline (capital-intensity/rails "horrible" verdict reversed by MidAmerican here + BNSF 2010); M6/M10 "Inevitables" Coke/Gillette confidence partly contradicted next decade (Gillette→P&G 2005; Coke dead money for years).
+- Ingest receipt lost to a session limit; reconstructed by the review agent.
+- Review found no blockers; main-agent triage accepted 7 — fixed M22 misattribution ("we declare ourselves for sin" is Buffett, not Munger), ★-upgraded M22 + A22 (both cited as Key-Theme evidence), demoted secondary stars M5/M8/A6, converted the wrong M20 "Folds A13" note to a cross-reference (A13 kept), added a Notable-Quote ellipsis, dropped an empty M7 Munger affirmation, swapped the year-specific `dot-com-bubble` tag for `market-psychology`. Rejected an AmEx supersession note (AmEx remained a crown jewel — would mislead).
+- Recorded 8 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
+## [2026-06-30] ingest | berkshire-1999-meeting
+
+- Created `sources/berkshire-1999-meeting.md` (draft, ~8,300 words, meeting-transcript spec) from raw/berkshire-annual-meetings/1999.md. Dot-com peak.
+- Two-layer build: 7 thematic mini-essays (change-as-threat; expectations arithmetic / profits can't outgrow GDP; leverage & derivatives via LTCM; moat-as-certainty-of-cash; investing-as-journalism; structural non-interference edge; accounting candor) + ~55-entry ★-marked Q&A digest, 25★ / ~46%, separate Buffett/Munger attribution, M#/A# anchors.
+- 1999 framing: captured tech/valuation skepticism (A2, A3, A8, M39) and emerging General Re troubles (flat float, A17 Unicover, A34 $400M derivative book).
+- Supersession flags: M39 Coke 35x P/E (franchise right, stock stagnated a decade); A17 Unicover "rare lapse" understated what came; A34 Gen Re derivatives → later "financial weapons of mass destruction."
+- Review found no blockers; main-agent triage accepted 4 — added a missing A6 cable/TCA/Lou-Simpson entry (resolving a dangling Entities/People citation), fixed the A34 Munger quote to restore "not in the derivative department" (the elision had inverted his meaning), restored "You know," fillers in two Notable Quotes (A3, A28) and the "it is a — it's" stammer (A31). Rejected optional star demotions (50% in band).
+- Skipped logistics/banter (M1–M5, M20, M22–23, M32, M40–41) and off-domain tangents (M28 rich-vs-wealthy, A7 inherited-wealth, drug-pricing/philanthropy fragments) — noted as editorial calls.
+- Recorded 7 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
 ## [2026-06-30] ingest | berkshire-1998-meeting
 
 - Created `sources/berkshire-1998-meeting.md` (draft, ~8,500 words, meeting-transcript spec) from raw/berkshire-annual-meetings/1998.md. Wave-of-3 pipeline (1996–98 ingested concurrently; ingest → review → improve → consolidate, main agent owns shared files).
