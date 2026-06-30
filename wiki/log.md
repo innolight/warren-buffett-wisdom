@@ -8,6 +8,38 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-06-30] ingest | berkshire-1998-meeting
+
+- Created `sources/berkshire-1998-meeting.md` (draft, ~8,500 words, meeting-transcript spec) from raw/berkshire-annual-meetings/1998.md. Wave-of-3 pipeline (1996–98 ingested concurrently; ingest → review → improve → consolidate, main agent owns shared files).
+- Two-layer build: 7 thematic mini-essays (time/quality; important-&-knowable; cash-eventually-returns/Frozen Corporation; volatility-not-risk; cost-of-capital-as-dollar-test; pay-for-performance; decentralize-ops-centralize-capital) + ~87-entry ★-marked Q&A digest (Morning M7–M56, Afternoon A1–A58), ~38 starred, separate Buffett/Munger attribution, M#/A# anchors.
+- Meeting held May 2 1998, BEFORE the General Re (June) and NetJets/Executive Jet (July) announcements — neither discussed; flagged forward to berkshire-1998-letter rather than invented.
+- Supersession flags: M27 float negative-cost optimism vs. Gen Re's later positive-cost float; M46 buyback "missed the boat" vs. 2011 repurchase program; M48 silver thesis right-but-early.
+- Skipped politics/banter/period-trivia (M15, M18, M34, M42, M47, A36, A41, A53, Y2K); folded near-duplicates.
+- Review (sub-agent) found no blockers; main-agent triage accepted 6 — added missing A37 "wait indefinitely" entry (its quote was already in Notable Quotes), added A26 (price-tracks-intrinsic-value), ★-upgraded M33 (annual-report candor test) and A47 (no-spinoffs frictional cost), folded A12 share-class mechanics into A28, fixed M32 attribution (questioner's "dumbest competitor" line Buffett endorsed) and two intro date/count nits.
+- Recorded 8 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
+## [2026-06-30] ingest | berkshire-1997-meeting
+
+- Created `sources/berkshire-1997-meeting.md` (draft, ~8,100 words, meeting-transcript spec) from raw/berkshire-annual-meetings/1997.md.
+- Two-layer build: 7 thematic mini-essays (price discipline on "The Inevitables"; business-risk-not-volatility; opportunity cost as master filter; share-of-mind moat; mistakes of omission; macro humility / 20%+ ROE mean-reversion; surpassing Graham) + 58-entry ★-marked Q&A digest (M5–M34, A2–A41), 29 starred, separate Buffett/Munger attribution, M#/A# anchors.
+- Signature theme: a wonderful business bought too dear still loses, set against the building 1997 bull market.
+- Supersession: USAir (M22) inverse-flag — the feared loss (1994/1995 meetings) "nullified" toward near-par redemption, forward rule preserved; "Inevitables/fully valued" forward marker to 1999–2000.
+- Skipped logistics/tax-mechanics (M7, M19, M31), banter and political/philosophical asides (M25, M30, A19, A34); kept the ovarian-lottery construct as a reusable thinking tool.
+- Review (sub-agent, re-run after a session-limit interruption) found no blockers; main-agent triage accepted 4 — fixed a real misattribution (the "15% per annum … faster than aggregate profits" arithmetic is Munger's, not Buffett's), demoted A6 + A33 stars (31→29, secondary to A15/M5), fixed M5 "nobody/unlikely" double-negative, de-duped a frontmatter tag. Rejected 2 nits (M6b synthetic anchor; Notable-Quote filler-cleaning) as acceptable as-is.
+- Recorded 7 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
+## [2026-06-30] ingest | berkshire-1996-meeting
+
+- Created `sources/berkshire-1996-meeting.md` (draft, ~7,300 words, meeting-transcript spec) from raw/berkshire-annual-meetings/1996.md. First wave of the concurrent 3-at-a-time run.
+- Two-layer build: 7 thematic mini-essays (Class B owner-orientation; diversification as protection against ignorance; change as the enemy; float must above all be cheap; capital charge / "become an owner"; never reach for an eighth of a percent; a great business needs no great management) + ~51-entry ★-marked Q&A digest (Morning M3–M45, Afternoon A1–A41; M3–M24 Class B logistics folded to one entry, M16 broken out), 31 starred, separate Buffett/Munger attribution, M#/A# anchors.
+- Supersession flags: USAir (A9, later redeemed at a profit by events not airline economics); Disney/Eisner (A18/A28, Berkshire exited + Eisner ousted 2005); corporate-ROE macro call (A39); succession structure (M44, later Jain/Abel).
+- Skipped Class B mechanics, A31 (capitalism/inequality — substantive but off the timeless-investment domain), banter/logistics.
+- Review (sub-agent) found no blockers; main-agent triage accepted 4 — added A12 Freddie Mac convexity/model-risk entry, fixed the M16 intro-note contradiction, softened the "lowest underwriting spread" misquote to the verbatim "about as low as any I've ever seen," ★-upgraded A30 (structured-settlements competitive advantage). Rejected A31 (off-domain) and an optional Freddie-Mac note.
+- Recorded 9 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
 ## [2026-06-29] ingest | berkshire-1995-meeting
 
 - Created `sources/berkshire-1995-meeting.md` (draft, ~7,200 words, meeting-transcript spec) from raw/berkshire-annual-meetings/1995.md. Second meeting ingest; pipeline per `.plan/ingest-annual-meetings.md` (ingest → review → improve → consolidate).
