@@ -8,6 +8,26 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-07-01] ingest | berkshire-2008-meeting
+
+- Created `sources/berkshire-2008-meeting.md` (draft, ~8,400 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2008.md. Ingest sub-agent (Sonnet). Held early May 2008 — six weeks after the Bear Stearns rescue, five months before Lehman; the mid-crisis meeting.
+- Two-layer build: 7 thematic mini-essays (Bear Stearns derivative-cascade anatomy; risk management is a culture not a committee; crises create the fish — throw the spear fast; the business that "drowns in cash"; concentration for the professional / diversification for the know-nothing; "financially fat" valuation discipline; Ajit's zero-to-market-leader muni-bond-insurance sprint) + 44-entry ★-marked Q&A digest (24 morning / 20 afternoon), 21★/47.7% (in band).
+- Supersession flags (⚑): M20 (monolines impaired by late 2008 → Berkshire's second-to-default wrap validated); A2 (Lehman NOT saved in Sept → the Bear cascade occurred at larger scale; "too big to manage" confirmed, "Fed always catches it" inference not); A12 (bank-DNA thesis validated by crisis outcomes); A23 (CDS chaos via Lehman → Munger's greater alarm the better-calibrated read).
+- Review: main agent did the review directly (review sub-agents had been stalling on raw reads). Grep-verified load-bearing quotes (drowns in cash, back-ass-ward, spear the fish, five-minutes/five-months, good-until-reached-for, moral-duty-to-be-underpaid, genetically-programmed, $14.5T Bear book, financially-fat) all verbatim; note both PetroChina figures ("97/103" and "95/105") are separately verbatim from the same passage — not a conflict. Fixed one link: display "iscar" → "berkshire-hathaway" (no iscar page exists). No blockers.
+- Skipped off-domain: Klamath dam ×3, charity, health/lifestyle, life advice, politics (M8/M13–16/M22/M27-part/M30/M33/M36; A4/A9-10/A13/A20-22/A25/A27); logistics/banter M1–M2, A1.
+- Recorded 8 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
+## [2026-07-01] ingest | berkshire-2007-meeting
+
+- Created `sources/berkshire-2007-meeting.md` (draft, ~8,100 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2007.md. Ingest sub-agent (Sonnet). Held 5 May 2007 — three months before the August 2007 credit seizure; the most historically charged transcript in the corpus.
+- Two-layer build: 7 thematic mini-essays (derivatives — invisible leverage / the crowded trade / mark-to-model; volatility≠risk via farmland; subprime — securitization removes discipline; extreme long-run results — concentrated power + ferocious learner; opportunity cost over hurdle rate; capital-light businesses as the only path to high returns; governance — CEO is the lever) + 33-entry ★-marked Q&A digest (15 morning / 18 afternoon), now 17★/51.5%.
+- Supersession flags: M18 derivatives (crowded-trade/mark-to-model → validated within 18 months by AIG/CDOs/repo); M28 subprime (structural diagnosis exactly right, but "no huge anchor to the economy" containment call overturned within 3 months — the corpus's central historical irony); M11 inline (record corporate profits + consumer-credit stress broke 2008–09).
+- Review: review sub-agent kept stalling on raw reads; main agent did the review directly — grep-verified load-bearing quotes (crowded trade, Tooth Fairy, little green apples, farmland $600, capital-intensity law, Dexter "dumbest deals", areas/brains, electronic herd, subprime anchor, dead-hand selling) all verbatim; all concept/entity/people slugs resolve. No blockers. Demoted M4 (float, well-covered elsewhere) from ★ to bring rate from 54.5%→51.5%, mid-band.
+- Skipped off-domain: M13 gambling/social-policy, M22 climate-policy debate, M26 philanthropy, A5 Planned Parenthood, A18/A24 personal life advice, A20 ethanol politics; the long PetroChina/Darfur debate (A34, ~35% of afternoon raw) dropped to a one-paragraph investment-logic note (subsidiary-cannot-control-parent). Logistics/banter: M1–M3, M10, A19, A31–A35.
+- Recorded 7 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
 ## [2026-07-01] ingest | berkshire-2006-meeting
 
 - Created `sources/berkshire-2006-meeting.md` (draft, ~8,700 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2006.md. Ingest sub-agent (Sonnet). First meeting after the ISCAR deal (signed the night before — first non-US acquisition); Buffett's Gates Foundation pledge came June 2006, just after, not in transcript.
