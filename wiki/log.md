@@ -8,6 +8,57 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-07-01] ingest | berkshire-2006-meeting
+
+- Created `sources/berkshire-2006-meeting.md` (draft, ~8,700 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2006.md. Ingest sub-agent (Sonnet). First meeting after the ISCAR deal (signed the night before — first non-US acquisition); Buffett's Gates Foundation pledge came June 2006, just after, not in transcript.
+- Two-layer build: 6 thematic mini-essays (the "filter" that selects great partners / no-auction ISCAR principle; speculative dynamics — "no clocks on the wall"; media-franchise decay — "three highways"; underwriting under genuine uncertainty — models are "silly"; market serves not instructs; investment friction — the self-neutralizing profession) + 39-entry ★-marked Q&A digest (20 morning / 19 afternoon), 20★/51%.
+- Supersession flags: M17 (Munger stick-built-credit warning → 2008–09 crisis, the earliest on-record forecast in the corpus); M19 (real-estate speculative-tell → 2007–11 decline); M22 (Coke 50× "silly price" not sold); M24 (NetJets profitability forecast → later confirmed).
+- Review: review sub-agent stalled twice on infra (both while reading raw); main agent did the review directly — grep-verified the load-bearing quotes (strategic-buyer, piece-of-meat, no-clocks, modelers, callee/caller, croupier, carbide, Nick Brady, $140B, cemetery) verbatim; all concept/entity/people slugs resolve. No blockers. Fixed one verbatim slip: croupier Notable Quote + A23 ("many private partnerships" → "the partnerships"). ★ rate 51% judged defensible for a genuinely dense year (kept just at band ceiling).
+- Skipped off-domain: M7 Social Security, M13 tax/inequality, M14 ethanol policy, M27 nuclear terrorism, A1 immigration, A4 charity; logistics/banter: M1–M3, M20, M30, A5, A25–A27. Folded A11→A6, A22→A7.
+- Recorded 6 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
+## [2026-07-01] ingest | berkshire-2005-meeting
+
+- Created `sources/berkshire-2005-meeting.md` (draft, meeting-transcript spec) from raw/berkshire-annual-meetings/2005.md. Ingest + review ran in the prior (session-limited) run; this session did the main-agent triage and consolidation.
+- Two-layer build: 7 thematic mini-essays (pricing-power "agony" test as moat diagnostic; "everything correlates" catastrophe framework; patient-capital advantage in the hedge-fund/PE era; "wonderful lack of oversight"; earnings expectations as the "blood brother of evil"; productive-assets-vs-gold earning-power test; the finite-reinsurance investigation constraint) + ★-marked Q&A digest across morning/afternoon.
+- Meeting sits under the Gen Re/AIG finite-reinsurance investigation shadow (Buffett constrained from specifics).
+- Supersession flags: M26/M27 Fannie/Freddie/AIG → 2008 conservatorship & CDS collapse (Buffett's "soft curtailment" prediction proved wrong — it was a forced seizure); M13 PetroChina (sold 2007 ~5x cost); A6 "three successors" → Combs/Weschler (2010–11), Abel named 2021; A28 finite reinsurance → Gen Re 2010 settlement ($92M).
+- Main-agent triage on read: both pages judged gold-standard on inspection; no blockers found; consolidated as-is (review-agent output was lost to the session limit).
+- Recorded concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
+## [2026-07-01] ingest | berkshire-2004-meeting
+
+- Created `sources/berkshire-2004-meeting.md` (draft, meeting-transcript spec) from raw/berkshire-annual-meetings/2004.md. First meeting at the Qwest Center (19,500 attendees). Ingest + review ran in the prior (session-limited) run; this session did the main-agent triage and consolidation.
+- Two-layer build: 7 thematic mini-essays (checklists vs. thinking / Coke-board controversy; the named 10-year derivatives prediction; cash as an index of failure / elephant problem; National Indemnity never-layoff underwriting doctrine; compensation simple-unit-specific-never-delegated; leverage as the one thing that forces you off a winning hand; low-cost producer wins) + ★-marked Q&A digest across morning/afternoon.
+- Supersession flags: M15/A24 derivatives → AIG/Lehman/Fannie/Freddie 2007–09 (inside the 10-year window); A13 PetroChina (sold 2007 ~5x cost, >$3B profit).
+- Main-agent triage on read: no blockers; page judged gold-standard on inspection; consolidated as-is (review-agent output was lost to the session limit).
+- Recorded concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
+## [2026-07-01] ingest | berkshire-2003-meeting
+
+- Created `sources/berkshire-2003-meeting.md` (draft, ~5,500 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2003.md. Wave 3 (2002–2003; sub-agents on Sonnet, 2-at-a-time after the Opus session limit + a stretch of transient infra stalls/drops — both ingests were relaunched once after dying before any write).
+- Two-layer build: 7 thematic mini-essays (derivatives as a systemic time bomb — the fully-developed statement; cost-free float over size; EBITDA as "bullshit earnings"; See's/Ira Marshall origin story; opportunity cost replacing CAPM; the capital-light paradox; conservative accounting) + 48-entry ★-marked Q&A digest, 22★/46%.
+- Acquisitions: McLane (from Walmart), Clayton Homes.
+- Supersession flags: M38/A6 derivatives → 2008 crisis; A6 Fannie/Freddie → 2008 conservatorship; A13 Value Capital wind-down; A14 Clayton proxy lawsuit; A21 PetroChina (sold 2007 at ~5x cost).
+- Review found no blockers; main-agent triage accepted 7 — M32 "an enemy" misquote fixed, demoted M22/A22 stars (50%→46%; A22 womb-lottery kept as a construct but unstarred), fixed A16 "it's like heroin" attribution (Buffett, not Munger), added the berkshire-2002-meeting predecessor link, reordered A17 to lead with Buffett's "reverse float" then Munger's EBITDA line, restored two Notable-Quote elisions (M15 "a", M38 atomic-plants example).
+- Skipped off-domain: dividend-tax-cut (A35), Social Security (A26), tort reform (A31), health care (M26), Iowa Values Fund (A29); logistics/banter: M1–M10, M17, M27–M28, A18, A24–A25, A28.
+- Recorded 5 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
+## [2026-07-01] ingest | berkshire-2002-meeting
+
+- Created `sources/berkshire-2002-meeting.md` (draft, ~8,700 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2002.md.
+- Two-layer build: 7 thematic mini-essays (GRS derivatives wind-down; post-9/11 hard insurance market; investment vs. speculation; EBITDA/creative accounting; acquisition discipline / no-brainer over due-diligence theater; stock options; circle of competence) + 46-entry ★-marked Q&A digest, 19★/41%.
+- Acquisitions: Fruit of the Loom, Garan, Larson-Juhl/Albecca, CTB.
+- Supersession flags: M21 Larson-Juhl (later sold — a rare Berkshire exit); M30 derivatives (the oral source of the 2002 letter's "financial weapons of mass destruction"); A28 Dexter Shoe post-mortem closes the 1994-meeting M32 praise loop.
+- Review found 1 blocker + 3 improvements + 2 nits; all accepted — fixed the A18 verbatim ("into" not "in", the canonical circle-of-competence one-liner), relabeled the mis-anchored A8/A9 (raw A7 was "hearse" banter), restored two dropped clauses in the Munger "corporate hell" quote ("And we're getting close." + the owner qualifier), removed an investment-banking paragraph misattributed to A14 (it belongs to A27), restored the A12 investment-vs-speculation quote verbatim, dropped a dangling "See skip list" phrase.
+- Skipped off-domain: population/abortion policy (M5/A19), the redistribution debate within A27 (kept Munger's investment-banking-culture point); logistics/banter: M1–M11, M22 cryonics, A2, A29, A34, A35.
+- Recorded 7 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
 ## [2026-06-30] ingest | berkshire-2001-meeting
 
 - Created `sources/berkshire-2001-meeting.md` (draft, ~7,500 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2001.md. Wave 2 (1999–2001 processed concurrently on the ingest→review→improve pipeline). Meeting held early May 2001, before 9/11 — verified absent from live Q&A; 9/11 appears only in supersession/Connections.
