@@ -8,6 +8,26 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-07-02] ingest | berkshire-2014-meeting
+
+- Created `sources/berkshire-2014-meeting.md` (draft, ~7,500 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2014.md (271 KB, read in full). Ingest sub-agent (Sonnet). The 50th-anniversary meeting, held May 3, 2014 — the year's live controversy was the Coca-Cola equity-comp plan (activist David Winters); Buffett criticized its size publicly but abstained rather than voting against.
+- Final: 38 digest entries (22 morning / 16 afternoon), 16 starred (42%). 6 thematic mini-essays: governance by abstention / pick-your-spots (Coke); the $20B cash floor as oxygen; See's→Coca-Cola "ignorance removal"; tax-free cross-entity capital reallocation vs. failed conglomerates; identifying the circle-of-competence perimeter in practice; the institutional forces that produce dumb acquisitions.
+- Review sub-agent (Sonnet) flagged under-capture (ingest returned only 32 entries vs. the 44–53 norm) + 2 blockers. Applied: fixed the roberto-goizueta link (pointed to entities/coca-cola → people/); ADDED 6 dropped value-bearing entries — M28★ (BofA→non-cumulative preferred; Graham's "terribly weak form of security," 1934 Security Analysis, five-basis-point-money trade-off), M15 (NFM "not a bargain purchase… a great business," ~11–12× earnings), M32 (climate not a near-term investment factor; "we just stumbled into it"), M33 (Combs/Weschler at ~$7B each, no extra comp), A23★ (activism/Ackman; Munger's Oscar Wilde "pursuit of the uneatable by the unspeakable"), A32 (tech disruption / "stick with businesses where we know the winners"); removed GEICO from the Concepts list (it's an entity); 5 verbatim quote restorations (M23 oxygen, M27 "And if…", A12 Costco/GEICO, A30 partner, M13 belching "social organization").
+- 1 hard supersession flag (⚑): A12 GEICO market-share trajectory (2022–23 underwriting losses/share decline interrupted the linear "gain month after month" claim before resuming by 2024). Soft flag: A5 self-driving cars as a live GEICO risk (Munger's "slower than you think" baseline holds; question still open).
+- Skipped: logistics/ceremony (50th-anniversary items, Paul Anka, director intros, formal proceedings A35–A41); off-domain policy (corporate-tax/inversions M9, education China A27, financial literacy A33); lifestyle/character banter and personnel gossip.
+- Recorded 6 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
+## [2026-07-02] ingest | berkshire-2013-meeting
+
+- Created `sources/berkshire-2013-meeting.md` (draft, ~8,500 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2013.md (245 KB, read in full). Ingest sub-agent (Sonnet) — stalled on infra right after writing the page (receipt lost); reconstructed via the review sub-agent + main-agent read. Held May 4, 2013 — first meeting with a short-seller (Doug Kass) on the analyst panel; Heinz/3G just announced; record cash pile amid the no-dividend question.
+- 44 digest entries (27 morning / 17 afternoon), 22 starred (50% after demoting M11, M22, M29, A8 from an initial 59%). 7 thematic mini-essays: 3G partnership (capital vs. operating expertise separable); Berkshire as the "800 number" institutional franchise that outlasts any individual; cumulative knowledge (intensity concentrates, never dims); rational underwriting needs structural independence from quarterly pressure; build-at-book vs. buy-at-premium; conviction as a spectrum (IBM vs. BNSF); interest rates as gravity.
+- 4 supersession flags (⚑): M21/A21 rates-as-gravity (Fed 0→5.25–5.50% in 2022–23; asset prices fell as gravity reasserted); M33 newspapers (sold to Lee Enterprises Jan 2020); A7 airlines (built ~$9B stakes 2016, sold all Q2 2020 at a loss); A22 IBM conviction (sold ~all shares 2017 on reassessed competitive position).
+- Review sub-agent (Sonnet): no blockers; 8 findings. Applied: 4 star demotions (→50%); restored the A12 "gag" quote's omitted clause ("the management, our associates, so compelling"); added "(Doug Kass)" questioner attribution to M25/A2/A20. Rejected the M40/M41 "casualty" nit (obvious raw transcription typo — silent correction cleaner than [sic] clutter). All 8 requested load-bearing quotes verified verbatim.
+- Skipped (~30 exchanges, reconstructed): logistics/ceremony (directors, table-tennis, Lipsey/ISCAR tributes); off-domain policy (dollar reserve status, corporate-profits/tax, healthcare/Obamacare, climate/carbon taxes, Europe/Greece, GWB "10 words"); lifestyle/character banter; personnel gossip (is-Ajit-the-successor); minor/period-specific operational items.
+- Recorded 6 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
 ## [2026-07-02] ingest | berkshire-2012-meeting
 
 - Created `sources/berkshire-2012-meeting.md` (draft, ~9,000 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2012.md (259 KB, read in full). Ingest sub-agent (Sonnet). Held early May 2012 — days after Buffett's prostate-cancer disclosure; succession live; IBM stake newly disclosed; eurozone crisis and depressed housing as backdrop.
