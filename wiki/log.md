@@ -8,6 +8,27 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-07-02] ingest | berkshire-2010-meeting
+
+- Created `sources/berkshire-2010-meeting.md` (draft, ~6,500 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2010.md (read in full). Ingest sub-agent (general-purpose). Held May 2010 — sputtering recovery; BNSF just closed; the SEC Abacus suit fresh (long Goldman/Blankfein defense); Kraft-Cadbury and derivatives reform live.
+- 54 digest entries (25 morning / 29 afternoon), 25 starred (~46% after promoting M9). 7 thematic mini-essays: judge the transaction not the counterparty; volatility-tolerance as moat; size-as-anchor ("good, not brilliant"); circle-of-competence perimeter; own the temperament; cultivate owners/managers by honesty; "everyone else is doing it."
+- 5 supersession flags (⚑): M6/M10 Goldman/Abacus (dismissal vs. July 2010 $550M settlement + Gupta insider-trading conviction); M18 Ajit float "peaked… fight to stay even" (float later doubled past $100B); M24/M25 Sokol praise (vs. March 2011 Lubrizol resignation); M31 hedge-fund bet "behind" (won decisively 2017); A10 newspapers "no affirmative decision" (reversed within ~2 years — Media General, Omaha World-Herald, BH Media).
+- Review sub-agent (Sonnet): 1 improvement + 4 nits, no blockers. Applied 4 — promoted M9 (Greece/own-currency) to ★; dropped M20 Munger "again, I agree" filler; fixed A12 "premiums are wrong" (re-attributed to M6, A12 said "appropriate"/"fair"); clarified A11 "high road" as Buffett's line delivered by Munger. Rejected the A30 [inversion]-link nit (kept as nearest existing concept). Each touched quote verbatim-verified.
+- Skipped: logistics/banter (M1–M2/M4–M5/A9 Roth/A22 TV/A34–A36); off-domain (M11 driver-tech, M22 tax policy, A7 China color); A19 solar folded into A15.
+- Recorded 9 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
+## [2026-07-02] ingest | berkshire-2009-meeting
+
+- Created `sources/berkshire-2009-meeting.md` (draft, ~7,400 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2009.md (~257 KB, read in full). Ingest sub-agent (general-purpose). Held early May 2009 — weeks after the March market bottom; the crisis-bottom meeting.
+- 53 digest entries (30 morning / 23 afternoon), 24 starred (~45%). 7 thematic mini-essays: leverage-not-volatility, price-not-time, false-precision danger, moats-decay, culture-as-moat, comp/board "honor system", inflation defense.
+- 4 supersession flags (⚑): M20/M37 Wells Fargo ("best big bank" → 2016 fake-accounts scandal / 2022 exit); M32 Buffalo News/newspapers ("keep forever" → 2020 Lee sale); A6 Moody's triple-A (predicted upgrade never came, S&P downgrade 2010); A13–14 Joe Brandon "hero" (praised a year after his 2008 finite-reinsurance departure). Noted M6 equity-put confidence later vindicated (2010 letter), not superseded.
+- Review sub-agent (Sonnet): 6 findings, no blockers. Applied all — GEICO policyholder figure corrected ×3 (transcript supports "665k in 2008 / 505k first four months 2009," not "last four months of 2008"); M15 Planck quote re-attributed Munger→Buffett; M23 promoted to ★; A9 downgrade timing softened to "within a day or two"; M6 put wording ("on one cutting the strike"); A21 solar fold anchor added. Each verbatim-verified against raw.
+- Skipped: logistics/banter (M1–M2/M4–M5/M29/A1/A31); off-domain policy (health care M13, stimulus M21, US–China A11/A12, Honduras labor-rights shareholder motion); folds (A19→A18, A13→A14, A21→A4).
+- Did NOT link BYD, ISCAR, Swiss Re, Goldman Sachs (no pages exist) — BYD flagged as a future entity-page candidate.
+- Recorded 9 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
 ## [2026-07-01] ingest | berkshire-2008-meeting
 
 - Created `sources/berkshire-2008-meeting.md` (draft, ~8,400 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2008.md. Ingest sub-agent (Sonnet). Held early May 2008 — six weeks after the Bear Stearns rescue, five months before Lehman; the mid-crisis meeting.
