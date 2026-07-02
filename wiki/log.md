@@ -8,6 +8,26 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-07-02] ingest | berkshire-2012-meeting
+
+- Created `sources/berkshire-2012-meeting.md` (draft, ~9,000 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2012.md (259 KB, read in full). Ingest sub-agent (Sonnet). Held early May 2012 — days after Buffett's prostate-cancer disclosure; succession live; IBM stake newly disclosed; eurozone crisis and depressed housing as backdrop.
+- 53 digest entries (31 morning / 22 afternoon), ~23 starred (~43%, in band). 7 thematic mini-essays: risk is non-delegable CEO judgment (not sigma); Mr. Market as "psychotic drunk"; macro is mostly noise; declining businesses (newspapers) — buy the last local moat; succession/culture; buyback discipline at 1.1× book; the local-primacy newspaper thesis.
+- 4 supersession flags (⚑): M33 newspapers (sold to Lee Enterprises 2020); A4 float ($70B "roughly stable" forecast → $147B by 2023); M29 gold (brief Barrick Gold holding 2020–21 departed the anti-gold stance); 1.1× book repurchase threshold (later loosened 2018–19).
+- Review sub-agent (Sonnet): 2 accuracy fixes + 1 traceability relabel + improvements. Applied: "his"→"he's" (Mr. Market quote verbatim); relabeled the risk/Northern-Pacific entry A13→A15 and merged the duplicate A15 fold (Salomon "roll our eyes" re-attributed to Munger); qualified intro "stage-1" as press-reported (not in transcript); re-attributed the VaR "dumbest ideas ever" line to Munger in the thematic top and moved "a lot smarter than we were" to its true A15 source; retitled M12 to the resource-stewardship framing; added a brief unstarred A16 ("more cheerful about losing volume") underwriting-discipline entry. M21 cancer entry kept as unstarred context per reviewer verdict.
+- Skipped: logistics/banter; off-domain policy (Buffett Rule/minimum-tax M15, political-views M18, super PACs A23, wealth inequality A32, health-cost/tax A34, energy independence A31); operational/period-bound (commercial insurance M37, forest products A14, GEICO Florida PIP A19, BYD electric-cars A29); formal-meeting items A35–A38.
+- Recorded 8 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
+## [2026-07-02] ingest | berkshire-2011-meeting
+
+- Created `sources/berkshire-2011-meeting.md` (draft, meeting-transcript spec) from raw/berkshire-annual-meetings/2011.md (read in full). Held April 30, 2011 — opened under the David Sokol / Lubrizol insider-trading affair; also the Japan/NZ/Australia catastrophe-wave year (Berkshire's first likely underwriting loss in nine years).
+- 53 digest entries (19 morning / 34 afternoon), ~26 starred (~49%, in band). 7 thematic mini-essays: don't decide in anger (but calm ≠ weakness); trust-culture beats a big compliance department; the three-asset-category map (productive beats gold); "forget goodwill" judging a business vs. counting it judging yourself; an undervalued stock is a currency you refuse to spend; the best inflation asset earns high returns on little tangible capital; every deal stands alone / Buffett as Chief Risk Officer.
+- 3 supersession flags (⚑): M15 Wells Fargo confidence (predates 2016 fake-accounts scandal; WFC exited 2020–2022); A7 Washington Post "won't sell any Post shares" pledge (overtaken by the 2014 Graham Holdings swap); A31 NetJets/Sokol praise (reads awkwardly given the same-meeting scandal). Noted the SEC closed the Sokol investigation without charges in 2013.
+- Ingest + improve completed in the prior session (sub-agent receipts lost to session limit). Main-agent consolidation on read: page meets spec, quotes spot-checked, links resolve; no blockers found.
+- Skipped: logistics/banter; off-domain (the substantive climate-policy debate around A43 dropped, regulated-utility economics kept; social-issue tangents around A25 folded to the reputation-management lesson).
+- Recorded concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
 ## [2026-07-02] ingest | berkshire-2010-meeting
 
 - Created `sources/berkshire-2010-meeting.md` (draft, ~6,500 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2010.md (read in full). Ingest sub-agent (general-purpose). Held May 2010 — sputtering recovery; BNSF just closed; the SEC Abacus suit fresh (long Goldman/Blankfein defense); Kraft-Cadbury and derivatives reform live.
