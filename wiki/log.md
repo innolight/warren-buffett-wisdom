@@ -8,6 +8,16 @@ Prepend-only (after this section) chronological journal of wiki operations.
 
 Under each header, a short bulleted list of what changed: pages created, pages updated, decisions made, follow-ups noted.
 
+## [2026-07-03] ingest | berkshire-2015-meeting
+
+- Created `sources/berkshire-2015-meeting.md` (draft, ~9,100 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2015.md (261 KB, read in full). Ingest sub-agent (Sonnet) with a broad-capture reminder (after 2014 under-captured). The Golden Anniversary meeting, held May 2, 2015 (50 years since Buffett took control). Three live controversies framed the day: the Seattle Times/BuzzFeed Clayton Homes predatory-lending allegations; anger at the 3G partnership; and the loss of the Amex/Costco co-brand.
+- 49 digest entries (28 morning / 21 afternoon), 20 starred (40.8% after promoting A4). 7 thematic mini-essays: the aligned-interest mortgage model (originator = holder, bears 100% of loss); the three lucky insurance breaks + the openness meta-lesson; hidden ego-driven incentives (Teledyne DoD scandals / Ringwalt's claims drawer); brand as a one-time-outlay inflation hedge; market valuation needs interest-rate context; the hedge-fund bet at year 7 (S&P 63.5% vs. funds ~19%); Munger on rationality as a moral duty.
+- 3 supersession flags (⚑): M13 IBM (sold ~all 2017 on reassessed competitive position); M9 Clayton Homes (softened to a qualitative context note — subsequent regulatory scrutiny/reporting lent partial support to the pricing-disparity concerns; the earlier "$23M CFPB 2021" figure was removed as unverifiable); A24 Amex/Costco (Citi replaced the co-brand; earnings recovered, validating the thesis).
+- Review sub-agent (Sonnet): no blockers; 3 improvements. Applied all — promoted A4 to ★ (reputation/Agnelli) → 40.8%; softened the M9 supersession note (dropped the unverifiable dollar figure); fixed the A15 mislink (fruit-of-the-loom → gillette; Duracell came to P&G via Gillette). Verified the M28 Dexter Shoe quote verbatim (no change). The improve sub-agent hit a session limit before acting; main agent applied all four edits directly. A29 EITC-vs-minimum-wage skip judged defensible (not distinctively Buffett/Munger).
+- Skipped: intro/procedural (M1–M8, formal meeting A38–A41); banter (M22, M34, A13, A28, A35); off-domain policy (M38 national-security, A7 corporate-tax, A20 euro/Greece, A29 EITC); thin/operational (A10, A17, A22 silver, A31 China, A33 biographical).
+- Recorded 5 concept-enrichment candidates in `.plan/concept-page-enrichment-proposals.md`.
+- Status draft (user sets reviewed).
+
 ## [2026-07-02] ingest | berkshire-2014-meeting
 
 - Created `sources/berkshire-2014-meeting.md` (draft, ~7,500 words, meeting-transcript spec) from raw/berkshire-annual-meetings/2014.md (271 KB, read in full). Ingest sub-agent (Sonnet). The 50th-anniversary meeting, held May 3, 2014 — the year's live controversy was the Coca-Cola equity-comp plan (activist David Winters); Buffett criticized its size publicly but abstained rather than voting against.
