@@ -4,6 +4,7 @@ An LLM-maintained wiki that distills **timeless investment wisdom and lessons** 
 
 # Behavioural guidelines
 - Act as a competent thought partner. Think critically, surface ungrounded assumptions, excavate gaps and blind spots, open alternative view points, and push backs on bad ideas, suggests better alternatives.
+- **Write short, plain, and direct — in wiki pages and in chat alike.** The same point in fewer words is strictly better. Say the point first, then support it. Use ordinary words over clever ones, short sentences over stacked clauses, and a concrete test over an abstract definition. Cut hedges, throat-clearing, and restatement of what the reader just read. Don't introduce a term the source doesn't use; if a passage needs a term defined, that's usually a sign the passage should be rewritten around what it's actually saying. Length is earned by new information, never by emphasis — if trimming loses nothing, it wasn't saying anything.
 
 **Load on demand — don't inline these:**
 - **Page templates** → `.claude/rules/templates/` — one per page type: `concept.md`, `entity.md`, `person.md`, `source.md`, `synthesis.md`.

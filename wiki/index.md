@@ -213,3 +213,4 @@ Each entry is a single line: `- [[slug]] — one-line summary`.
 
 - [buffett-best-investments-moat-taxonomy](synthesis/buffett-best-investments-moat-taxonomy.md) — five structural moat types across Buffett's best investments (See's, GEICO, Coke, AmEx, Apple, BNSF, WashPost); cross-cutting tests and failure modes
 - [buffett-management-criteria](synthesis/buffett-management-criteria.md) — six criteria Buffett requires of managers: integrity, capital allocation, owner orientation, institutional-imperative resistance, cost discipline, candor
+- [earnings-call-mental-models](synthesis/earnings-call-mental-models.md) — why Buffett refuses to attend calls, and the inversion that makes them useful anyway: eight models treating the call as a character diagnostic, plus the twelve questions he'd want answered
